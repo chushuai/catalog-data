@@ -1,0 +1,5912 @@
+[
+    {
+        "id": "nsf_accelerator_convergence_expo",
+        "name": "NSF Accelerator Convergence Expo",
+        "description": "",
+        "dates": {
+            "date": "2020.7",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "acm_sigmetrics",
+        "name": "ACM SIGMETRICS",
+        "description": "",
+        "dates": {
+            "date": "2020.6",
+            "url": "https://www.sigmetrics.org/sigmetrics2020/"
+        },
+        "tags": []
+    },
+    {
+        "id": "dhs_impact_pi_meeting",
+        "name": "DHS IMPACT PI Meeting",
+        "description": "",
+        "dates": {
+            "date": "2020.3",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "passive_and_active_measurement_conference_pam",
+        "name": "Passive and Active Measurement Conference PAM",
+        "description": "",
+        "dates": {
+            "date": "2020.3",
+            "url": "https://pam2020.cs.uoregon.edu/"
+        },
+        "tags": []
+    },
+    {
+        "id": "passive_and_active_measurement_conference_pam",
+        "name": "Passive and Active Measurement Conference PAM",
+        "description": "",
+        "dates": {
+            "date": "2020.3",
+            "url": "https://pam2020.cs.uoregon.edu/"
+        },
+        "tags": []
+    },
+    {
+        "id": "passive_and_active_measurement_conference_pam",
+        "name": "Passive and Active Measurement Conference PAM",
+        "description": "",
+        "dates": {
+            "date": "2020.3",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "passive_and_active_measurement_conference_pam",
+        "name": "Passive and Active Measurement Conference PAM",
+        "description": "",
+        "dates": {
+            "date": "2020.3",
+            "url": "https://pam2020.cs.uoregon.edu/"
+        },
+        "tags": []
+    },
+    {
+        "id": "passive_and_active_measurement_conference_pam",
+        "name": "Passive and Active Measurement Conference PAM",
+        "description": "",
+        "dates": {
+            "date": "2020.3",
+            "url": "https://pam2020.cs.uoregon.edu/"
+        },
+        "tags": []
+    },
+    {
+        "id": "workshop_on_active_internet_measurements_knowledge_of_internet_structure_measurement_epistemology_and_technology_aimskismet",
+        "name": "Workshop on Active Internet Measurements Knowledge of Internet Structure Measurement Epistemology and Technology AIMSKISMET",
+        "description": "",
+        "dates": {
+            "date": "2020.3",
+            "url": "https://www.caida.org/workshops/kismet/2002/"
+        },
+        "tags": []
+    },
+    {
+        "id": "workshop_on_active_internet_measurements_knowledge_of_internet_structure_measurement_epistemology_and_technology_aimskismet",
+        "name": "Workshop on Active Internet Measurements Knowledge of Internet Structure Measurement Epistemology and Technology AIMSKISMET",
+        "description": "",
+        "dates": {
+            "date": "2020.3",
+            "url": "https://www.caida.org/workshops/kismet/2002/"
+        },
+        "tags": []
+    },
+    {
+        "id": "workshop_on_active_internet_measurements_knowledge_of_internet_structure_measurement_epistemology_and_technology_aimskismet",
+        "name": "Workshop on Active Internet Measurements Knowledge of Internet Structure Measurement Epistemology and Technology AIMSKISMET",
+        "description": "",
+        "dates": {
+            "date": "2020.2",
+            "url": "https://www.caida.org/workshops/kismet/2002/"
+        },
+        "tags": []
+    },
+    {
+        "id": "workshop_on_active_internet_measurements_knowledge_of_internet_structure_measurement_epistemology_and_technology_aimskismet",
+        "name": "Workshop on Active Internet Measurements Knowledge of Internet Structure Measurement Epistemology and Technology AIMSKISMET",
+        "description": "",
+        "dates": {
+            "date": "2020.2",
+            "url": "https://www.caida.org/workshops/kismet/2002/"
+        },
+        "tags": []
+    },
+    {
+        "id": "national_institute_of_standards_and_technology_nist",
+        "name": "National Institute of Standards and Technology NIST",
+        "description": "",
+        "dates": {
+            "date": "2020.1",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "internet_initiative_japan_iij",
+        "name": "Internet Initiative Japan IIJ",
+        "description": "",
+        "dates": {
+            "date": "2020.1",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "acm_sigcomm_conference_on_emerging_networking_experiments_and_technologies_conext",
+        "name": "ACM SIGCOMM Conference on emerging Networking EXperiments and Technologies CoNEXT",
+        "description": "",
+        "dates": {
+            "date": "2019.12",
+            "url": "https://conferences2.sigcomm.org/co-next/2019/#!/program"
+        },
+        "tags": []
+    },
+    {
+        "id": "dhs_st_paridine_final_meeting",
+        "name": "DHS ST PARIDINE Final Meeting",
+        "description": "",
+        "dates": {
+            "date": "2019.11",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "acm_computer_and_communications_security_ccs",
+        "name": "ACM Computer and Communications Security CCS",
+        "description": "",
+        "dates": {
+            "date": "2019.11",
+            "url": "https://sigsac.org/ccs/CCS2019/"
+        },
+        "tags": []
+    },
+    {
+        "id": "acm_internet_measurement_conference_imc",
+        "name": "ACM Internet Measurement Conference IMC",
+        "description": "",
+        "dates": {
+            "date": "2019.10",
+            "url": "http://conferences.sigcomm.org/imc/2019/"
+        },
+        "tags": []
+    },
+    {
+        "id": "ripe_meeting",
+        "name": "RIPE Meeting",
+        "description": "",
+        "dates": {
+            "date": "2019.10",
+            "url": "https://ripe79.ripe.net/"
+        },
+        "tags": []
+    },
+    {
+        "id": "acm_internet_measurement_conference_imc",
+        "name": "ACM Internet Measurement Conference IMC",
+        "description": "",
+        "dates": {
+            "date": "2019.10",
+            "url": "http://conferences.sigcomm.org/imc/2019/"
+        },
+        "tags": []
+    },
+    {
+        "id": "dhs_impact_pi_meeting",
+        "name": "DHS IMPACT PI Meeting",
+        "description": "",
+        "dates": {
+            "date": "2019.3",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "international_workshop_on_darkspace_and_unsolicited_traffic_analysis_dust",
+        "name": "International Workshop on Darkspace and UnSolicited Traffic Analysis DUST",
+        "description": "",
+        "dates": {
+            "date": "2019.9",
+            "url": "https://www.caida.org/workshops/dust/1909/"
+        },
+        "tags": []
+    },
+    {
+        "id": "telecommunications_policy_research_conference_tprc",
+        "name": "Telecommunications Policy Research Conference TPRC",
+        "description": "",
+        "dates": {
+            "date": "2019.9",
+            "url": "http://www.tprcweb.com/"
+        },
+        "tags": []
+    },
+    {
+        "id": "workshop_on_darkspace_and_unsolicited_traffic_analysis_dust",
+        "name": "Workshop on Darkspace and UnSolicited Traffic Analysis DUST",
+        "description": "",
+        "dates": {
+            "date": "2019.9",
+            "url": "http://www.caida.org/workshops/dust/1909/"
+        },
+        "tags": []
+    },
+    {
+        "id": "acm_sigcomm",
+        "name": "ACM SIGCOMM",
+        "description": "",
+        "dates": {
+            "date": "2019.8",
+            "url": "https://conferences.sigcomm.org/sigcomm/2019/"
+        },
+        "tags": []
+    },
+    {
+        "id": "dhs_impact_pi_meeting",
+        "name": "DHS IMPACT PI Meeting",
+        "description": "",
+        "dates": {
+            "date": "2019.8",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "dhs_impact_pi_meeting",
+        "name": "DHS IMPACT PI Meeting",
+        "description": "",
+        "dates": {
+            "date": "2019.8",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "ieeeacm_international_symposium_on_quality_of_service_iwqos",
+        "name": "IEEEACM International Symposium on Quality of Service IWQoS",
+        "description": "",
+        "dates": {
+            "date": "2019.6",
+            "url": "https://iwqos2019.ieee-iwqos.org/"
+        },
+        "tags": []
+    },
+    {
+        "id": "network_traffic_measurement_and_analysis_conference_tma",
+        "name": "Network Traffic Measurement and Analysis Conference TMA",
+        "description": "",
+        "dates": {
+            "date": "2019.6",
+            "url": "https://tma.ifip.org/2019/"
+        },
+        "tags": []
+    },
+    {
+        "id": "workshop_on_active_internet_measurements_aims",
+        "name": "Workshop on Active Internet Measurements AIMS",
+        "description": "",
+        "dates": {
+            "date": "2019.4",
+            "url": "http://www.caida.org/workshops/aims/1904"
+        },
+        "tags": []
+    },
+    {
+        "id": "workshop_on_active_internet_measurements_aims",
+        "name": "Workshop on Active Internet Measurements AIMS",
+        "description": "",
+        "dates": {
+            "date": "2019.4",
+            "url": "http://www.caida.org/workshops/aims/1904/"
+        },
+        "tags": []
+    },
+    {
+        "id": "workshop_on_active_internet_measurements_aims",
+        "name": "Workshop on Active Internet Measurements AIMS",
+        "description": "",
+        "dates": {
+            "date": "2019.4",
+            "url": "http://www.caida.org/workshops/aims/1904/"
+        },
+        "tags": []
+    },
+    {
+        "id": "workshop_on_active_internet_measurements_aims",
+        "name": "Workshop on Active Internet Measurements AIMS",
+        "description": "",
+        "dates": {
+            "date": "2019.4",
+            "url": "http://www.caida.org/workshops/aims/1904/"
+        },
+        "tags": []
+    },
+    {
+        "id": "workshop_on_active_internet_measurements_aims",
+        "name": "Workshop on Active Internet Measurements AIMS",
+        "description": "",
+        "dates": {
+            "date": "2019.4",
+            "url": "http://www.caida.org/workshops/aims/1904/"
+        },
+        "tags": []
+    },
+    {
+        "id": "workshop_on_active_internet_measurements_aims",
+        "name": "Workshop on Active Internet Measurements AIMS",
+        "description": "",
+        "dates": {
+            "date": "2019.4",
+            "url": "http://www.caida.org/workshops/aims/1904"
+        },
+        "tags": []
+    },
+    {
+        "id": "dhs_st_cyrie_internet_infrastructure_risk_economics_stakeholder_exchange_meeting",
+        "name": "DHS ST Cyrie Internet Infrastructure Risk Economics Stakeholder Exchange Meeting",
+        "description": "",
+        "dates": {
+            "date": "2019.4",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "workshop_on_active_internet_measurements_aims",
+        "name": "Workshop on Active Internet Measurements AIMS",
+        "description": "",
+        "dates": {
+            "date": "2019.4",
+            "url": "http://www.caida.org/workshops/aims/1904/"
+        },
+        "tags": []
+    },
+    {
+        "id": "workshop_on_active_internet_measurements_aims",
+        "name": "Workshop on Active Internet Measurements AIMS",
+        "description": "",
+        "dates": {
+            "date": "2019.4",
+            "url": "http://www.caida.org/workshops/aims/1904/"
+        },
+        "tags": []
+    },
+    {
+        "id": "passive_and_active_measurement_conference_pam",
+        "name": "Passive and Active Measurement Conference PAM",
+        "description": "",
+        "dates": {
+            "date": "2019.3",
+            "url": "http://pam2019.niclabs.cl/"
+        },
+        "tags": []
+    },
+    {
+        "id": "dhs_st_cybersecurity_and_innovation_showcase",
+        "name": "DHS ST Cybersecurity and Innovation Showcase",
+        "description": "",
+        "dates": {
+            "date": "2019.3",
+            "url": "http://www.cvent.com/events/2019-s-t-cybersecurity-and-innovation-showcase/custom-35-e03b29b86f354a1d8838786794cabee9.aspx"
+        },
+        "tags": []
+    },
+    {
+        "id": "dhs_st_cybersecurity_and_innovation_showcase",
+        "name": "DHS ST Cybersecurity and Innovation Showcase",
+        "description": "",
+        "dates": {
+            "date": "2019.3",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "canvas_workshop",
+        "name": "CANVAS Workshop",
+        "description": "",
+        "dates": {
+            "date": "2019.3",
+            "url": "https://bamberg.canvas-project.eu/"
+        },
+        "tags": []
+    },
+    {
+        "id": "dhs_st_cybersecurity_and_innovation_showcase",
+        "name": "DHS ST Cybersecurity and Innovation Showcase",
+        "description": "",
+        "dates": {
+            "date": "2019.3",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "dhs_st_cybersecurity_and_innovation_showcase",
+        "name": "DHS ST Cybersecurity and Innovation Showcase",
+        "description": "",
+        "dates": {
+            "date": "2019.3",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "ftc_hearing",
+        "name": "FTC Hearing",
+        "description": "",
+        "dates": {
+            "date": "2019.3",
+            "url": "https://www.ftc.gov/news-events/events-calendar/ftc-hearing-10-competition-consumer-protection-21st-century"
+        },
+        "tags": []
+    },
+    {
+        "id": "the_quilt",
+        "name": "The Quilt",
+        "description": "",
+        "dates": {
+            "date": "2019.2",
+            "url": "https://www.thequilt.net/public-event/2019-winter-member-meeting/"
+        },
+        "tags": []
+    },
+    {
+        "id": "usenix_symposium_on_networked_systems_design_and_implementation_nsdi",
+        "name": "USENIX Symposium on Networked Systems Design and Implementation NSDI",
+        "description": "",
+        "dates": {
+            "date": "2019.2",
+            "url": "https://www.usenix.org/conference/nsdi19"
+        },
+        "tags": []
+    },
+    {
+        "id": "usenix_symposium_on_networked_systems_design_and_implementation_nsdi",
+        "name": "USENIX Symposium on Networked Systems Design and Implementation NSDI",
+        "description": "",
+        "dates": {
+            "date": "2019.2",
+            "url": "https://www.usenix.org/conference/nsdi19/"
+        },
+        "tags": []
+    },
+    {
+        "id": "internet_initiative_japan_iij",
+        "name": "Internet Initiative Japan IIJ",
+        "description": "",
+        "dates": {
+            "date": "2018.12",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "acm_internet_measurement_conference_imc",
+        "name": "ACM Internet Measurement Conference IMC",
+        "description": "",
+        "dates": {
+            "date": "2018.11",
+            "url": "https://conferences.sigcomm.org/imc/2018/"
+        },
+        "tags": []
+    },
+    {
+        "id": "acm_internet_measurement_conference_imc",
+        "name": "ACM Internet Measurement Conference IMC",
+        "description": "",
+        "dates": {
+            "date": "2018.11",
+            "url": "https://conferences.sigcomm.org/imc/2018/"
+        },
+        "tags": []
+    },
+    {
+        "id": "internet_measurements_workshop_afrinic",
+        "name": "Internet Measurements Workshop AFRINIC",
+        "description": "",
+        "dates": {
+            "date": "2018.11",
+            "url": "https://meeting.afrinic.net/afrinic-29/"
+        },
+        "tags": []
+    },
+    {
+        "id": "workshop_on_active_internet_measurements_aims",
+        "name": "Workshop on Active Internet Measurements AIMS",
+        "description": "",
+        "dates": {
+            "date": "2018.3",
+            "url": "http://www.caida.org/workshops/aims/1803/"
+        },
+        "tags": []
+    },
+    {
+        "id": "dagstuhl_seminar",
+        "name": "Dagstuhl Seminar",
+        "description": "",
+        "dates": {
+            "date": "2018.10",
+            "url": "https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=18412"
+        },
+        "tags": []
+    },
+    {
+        "id": "network_traffic_measurement_and_analysis_conference_tma",
+        "name": "Network Traffic Measurement and Analysis Conference TMA",
+        "description": "",
+        "dates": {
+            "date": "2018.6",
+            "url": "http://tma.ifip.org/2018/"
+        },
+        "tags": []
+    },
+    {
+        "id": "network_operators_group_of_latin_america_and_the_carribean_lacnog",
+        "name": "Network Operators Group of Latin America and the Carribean LACNOG",
+        "description": "",
+        "dates": {
+            "date": "2018.9",
+            "url": "http://www.lacnog.org/en/events/lacnog2018/"
+        },
+        "tags": []
+    },
+    {
+        "id": "internet_measurement_and_political_science_workshop_imaps",
+        "name": "Internet Measurement And Political Science Workshop IMAPS",
+        "description": "",
+        "dates": {
+            "date": "2018.9",
+            "url": "https://www.caida.org/workshops/imaps/1809/"
+        },
+        "tags": []
+    },
+    {
+        "id": "workshop_on_active_internet_measurements_aims",
+        "name": "Workshop on Active Internet Measurements AIMS",
+        "description": "",
+        "dates": {
+            "date": "2018.3",
+            "url": "http://www.caida.org/workshops/aims/1803/"
+        },
+        "tags": []
+    },
+    {
+        "id": "uc_san_diego",
+        "name": "UC San Diego",
+        "description": "",
+        "dates": {
+            "date": "2018.3",
+            "url": "http://ucsd.edu"
+        },
+        "tags": []
+    },
+    {
+        "id": "internet_measurement_and_political_science_workshop_imaps",
+        "name": "Internet Measurement And Political Science Workshop IMAPS",
+        "description": "",
+        "dates": {
+            "date": "2018.9",
+            "url": "http://www.caida.org/workshops/imaps/1809/"
+        },
+        "tags": []
+    },
+    {
+        "id": "acm_sigcomm",
+        "name": "ACM SIGCOMM",
+        "description": "",
+        "dates": {
+            "date": "2018.8",
+            "url": "https://conferences2.sigcomm.org/sigcomm/2018/"
+        },
+        "tags": []
+    },
+    {
+        "id": "dhs_st_paridine_kickoff_meeting",
+        "name": "DHS ST PARIDINE Kickoff Meeting",
+        "description": "",
+        "dates": {
+            "date": "2018.8",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "applied_networking_research_workshop",
+        "name": "Applied Networking Research Workshop",
+        "description": "",
+        "dates": {
+            "date": "2018.7",
+            "url": "https://irtf.org/anrw/2018/"
+        },
+        "tags": []
+    },
+    {
+        "id": "applied_networking_research_workshop",
+        "name": "Applied Networking Research Workshop",
+        "description": "",
+        "dates": {
+            "date": "2018.7",
+            "url": "https://irtf.org/anrw/2018/"
+        },
+        "tags": []
+    },
+    {
+        "id": "broadband_performance_and_qoe_sympodium_line",
+        "name": "Broadband Performance and QoE sympodium LINE",
+        "description": "",
+        "dates": {
+            "date": "2018.6",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "ripe_meeting",
+        "name": "RIPE Meeting",
+        "description": "",
+        "dates": {
+            "date": "2018.5",
+            "url": "https://ripe76.ripe.net/"
+        },
+        "tags": []
+    },
+    {
+        "id": "dhs_impact_pi_meeting",
+        "name": "DHS IMPACT PI Meeting",
+        "description": "",
+        "dates": {
+            "date": "2018.5",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "dhs_impact_pi_meeting",
+        "name": "DHS IMPACT PI Meeting",
+        "description": "",
+        "dates": {
+            "date": "2018.5",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "dhs_ddosd_pi_meeting",
+        "name": "DHS DDoSD PI Meeting",
+        "description": "",
+        "dates": {
+            "date": "2018.4",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "applied_network_measurement_science_pi_meeting",
+        "name": "Applied Network Measurement Science PI meeting",
+        "description": "",
+        "dates": {
+            "date": "2018.4",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "workshop_on_active_internet_measurements_aims",
+        "name": "Workshop on Active Internet Measurements AIMS",
+        "description": "",
+        "dates": {
+            "date": "2018.3",
+            "url": "http://www.caida.org/workshops/aims/1803/"
+        },
+        "tags": []
+    },
+    {
+        "id": "workshop_on_active_internet_measurements_aims",
+        "name": "Workshop on Active Internet Measurements AIMS",
+        "description": "",
+        "dates": {
+            "date": "2018.3",
+            "url": "http://www.caida.org/workshops/aims/1803/"
+        },
+        "tags": []
+    },
+    {
+        "id": "workshop_on_active_internet_measurements_aims",
+        "name": "Workshop on Active Internet Measurements AIMS",
+        "description": "",
+        "dates": {
+            "date": "2018.3",
+            "url": "http://www.caida.org/workshops/aims/1803/"
+        },
+        "tags": []
+    },
+    {
+        "id": "workshop_on_active_internet_measurements_aims",
+        "name": "Workshop on Active Internet Measurements AIMS",
+        "description": "",
+        "dates": {
+            "date": "2018.3",
+            "url": "http://www.caida.org/workshops/aims/1803/"
+        },
+        "tags": []
+    },
+    {
+        "id": "workshop_on_active_internet_measurements_aims",
+        "name": "Workshop on Active Internet Measurements AIMS",
+        "description": "",
+        "dates": {
+            "date": "2018.3",
+            "url": "http://www.caida.org/workshops/aims/1803/"
+        },
+        "tags": []
+    },
+    {
+        "id": "workshop_on_active_internet_measurements_aims",
+        "name": "Workshop on Active Internet Measurements AIMS",
+        "description": "",
+        "dates": {
+            "date": "2018.3",
+            "url": "http://www.caida.org/workshops/aims/1803/"
+        },
+        "tags": []
+    },
+    {
+        "id": "workshop_on_internet_economics_wie",
+        "name": "Workshop on Internet Economics WIE",
+        "description": "",
+        "dates": {
+            "date": "2017.12",
+            "url": "http://www.caida.org/workshops/wie/1712/"
+        },
+        "tags": []
+    },
+    {
+        "id": "workshop_on_active_internet_measurements_aims",
+        "name": "Workshop on Active Internet Measurements AIMS",
+        "description": "",
+        "dates": {
+            "date": "2018.3",
+            "url": "http://www.caida.org/workshops/aims/1803/"
+        },
+        "tags": []
+    },
+    {
+        "id": "workshop_on_active_internet_measurements_aims",
+        "name": "Workshop on Active Internet Measurements AIMS",
+        "description": "",
+        "dates": {
+            "date": "2018.3",
+            "url": "http://www.caida.org/workshops/aims/1803/"
+        },
+        "tags": []
+    },
+    {
+        "id": "telecommunications_policy_research_conference_tprc",
+        "name": "Telecommunications Policy Research Conference TPRC",
+        "description": "",
+        "dates": {
+            "date": "2018.3",
+            "url": "http://www.tprcweb.com/"
+        },
+        "tags": []
+    },
+    {
+        "id": "cisco",
+        "name": "Cisco",
+        "description": "",
+        "dates": {
+            "date": "2017.12",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "dhs_impact_pi_meeting",
+        "name": "DHS IMPACT PI Meeting",
+        "description": "",
+        "dates": {
+            "date": "2017.12",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "acm_sigcomm",
+        "name": "ACM SIGCOMM",
+        "description": "",
+        "dates": {
+            "date": "2017.12",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "dhs_impact_pi_meeting",
+        "name": "DHS IMPACT PI Meeting",
+        "description": "",
+        "dates": {
+            "date": "2017.12",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "acm_internet_measurement_conference_imc",
+        "name": "ACM Internet Measurement Conference IMC",
+        "description": "",
+        "dates": {
+            "date": "2017.11",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "acm_internet_measurement_conference_imc",
+        "name": "ACM Internet Measurement Conference IMC",
+        "description": "",
+        "dates": {
+            "date": "2017.11",
+            "url": "https://conferences.sigcomm.org/imc/2017/"
+        },
+        "tags": []
+    },
+    {
+        "id": "acm_internet_measurement_conference_imc",
+        "name": "ACM Internet Measurement Conference IMC",
+        "description": "",
+        "dates": {
+            "date": "2017.11",
+            "url": "https://conferences.sigcomm.org/imc/2017/"
+        },
+        "tags": []
+    },
+    {
+        "id": "caidawide",
+        "name": "CAIDAWIDE",
+        "description": "",
+        "dates": {
+            "date": "2017.11",
+            "url": "http://www.caida.org/workshops/wide/1711/"
+        },
+        "tags": []
+    },
+    {
+        "id": "acm_internet_measurement_conference_imc",
+        "name": "ACM Internet Measurement Conference IMC",
+        "description": "",
+        "dates": {
+            "date": "2017.11",
+            "url": "https://conferences.sigcomm.org/imc/2017/"
+        },
+        "tags": []
+    },
+    {
+        "id": "acm_internet_measurement_conference_imc",
+        "name": "ACM Internet Measurement Conference IMC",
+        "description": "",
+        "dates": {
+            "date": "2017.11",
+            "url": "https://conferences.sigcomm.org/imc/2017/"
+        },
+        "tags": []
+    },
+    {
+        "id": "internet_initiative_japan_iij",
+        "name": "Internet Initiative Japan IIJ",
+        "description": "",
+        "dates": {
+            "date": "2017.11",
+            "url": "http://www.iij-ii.co.jp/en/lab/seminars/index.html"
+        },
+        "tags": []
+    },
+    {
+        "id": "caidawide",
+        "name": "CAIDAWIDE",
+        "description": "",
+        "dates": {
+            "date": "2017.11",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "internet_initiative_japan_iij",
+        "name": "Internet Initiative Japan IIJ",
+        "description": "",
+        "dates": {
+            "date": "2017.11",
+            "url": "http://www.iij-ii.co.jp/en/lab/seminars/index.html"
+        },
+        "tags": []
+    },
+    {
+        "id": "internet_initiative_japan_iij",
+        "name": "Internet Initiative Japan IIJ",
+        "description": "",
+        "dates": {
+            "date": "2017.11",
+            "url": "http://www.iij-ii.co.jp/en/lab/seminars/index.html"
+        },
+        "tags": []
+    },
+    {
+        "id": "acm_internet_measurement_conference_imc",
+        "name": "ACM Internet Measurement Conference IMC",
+        "description": "",
+        "dates": {
+            "date": "2017.11",
+            "url": "https://conferences.sigcomm.org/imc/2017/"
+        },
+        "tags": []
+    },
+    {
+        "id": "center_for_network_systems_cns_research_review",
+        "name": "Center for Network Systems CNS Research Review",
+        "description": "",
+        "dates": {
+            "date": "2017.10",
+            "url": "https://cns.ucsd.edu/"
+        },
+        "tags": []
+    },
+    {
+        "id": "internet2_technology_exchange",
+        "name": "Internet2 Technology Exchange",
+        "description": "",
+        "dates": {
+            "date": "2017.10",
+            "url": "https://meetings.internet2.edu/2017-technology-exchange/"
+        },
+        "tags": []
+    },
+    {
+        "id": "acm_sigcomm",
+        "name": "ACM SIGCOMM",
+        "description": "",
+        "dates": {
+            "date": "2017.8",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "dhs_rd_showcase_and_technical_workshop",
+        "name": "DHS RD Showcase and Technical Workshop",
+        "description": "",
+        "dates": {
+            "date": "2017.7",
+            "url": "http://www.cvent.com/events/2017-cyber-security-r-d-showcase-and-technical-workshop/custom-35-9acde78a545049728c03bf3874f47532.aspx"
+        },
+        "tags": []
+    },
+    {
+        "id": "dhs_rd_showcase_and_technical_workshop",
+        "name": "DHS RD Showcase and Technical Workshop",
+        "description": "",
+        "dates": {
+            "date": "2017.7",
+            "url": "http://www.cvent.com/events/2017-cyber-security-r-d-showcase-and-technical-workshop/custom-35-9acde78a545049728c03bf3874f47532.aspx"
+        },
+        "tags": []
+    },
+    {
+        "id": "dhs_rd_showcase_and_technical_workshop",
+        "name": "DHS RD Showcase and Technical Workshop",
+        "description": "",
+        "dates": {
+            "date": "2017.7",
+            "url": "http://www.cvent.com/events/2017-cyber-security-r-d-showcase-and-technical-workshop/custom-35-9acde78a545049728c03bf3874f47532.aspx"
+        },
+        "tags": []
+    },
+    {
+        "id": "phd_school_on_network_traffic_measurement_and_analysis_conference_tma",
+        "name": "PhD school on Network Traffic Measurement and Analysis Conference TMA",
+        "description": "",
+        "dates": {
+            "date": "2017.6",
+            "url": "http://tma.ifip.org/2017/phd-school/"
+        },
+        "tags": []
+    },
+    {
+        "id": "one_conference",
+        "name": "One Conference",
+        "description": "",
+        "dates": {
+            "date": "2017.5",
+            "url": "https://www.dhpa.nl/agenda/ncsc-one-conference-2017/"
+        },
+        "tags": []
+    },
+    {
+        "id": "workshop_on_active_internet_measurements_aims",
+        "name": "Workshop on Active Internet Measurements AIMS",
+        "description": "",
+        "dates": {
+            "date": "2017.3",
+            "url": "http://www.caida.org/workshops/aims/1703/"
+        },
+        "tags": []
+    },
+    {
+        "id": "workshop_on_active_internet_measurements_aims",
+        "name": "Workshop on Active Internet Measurements AIMS",
+        "description": "",
+        "dates": {
+            "date": "2017.3",
+            "url": "http://www.caida.org/workshops/aims/1703/"
+        },
+        "tags": []
+    },
+    {
+        "id": "workshop_on_active_internet_measurements_aims",
+        "name": "Workshop on Active Internet Measurements AIMS",
+        "description": "",
+        "dates": {
+            "date": "2017.3",
+            "url": "http://www.caida.org/workshops/aims/1703/"
+        },
+        "tags": []
+    },
+    {
+        "id": "internet_engineering_task_force_ietf",
+        "name": "Internet Engineering Task Force IETF",
+        "description": "",
+        "dates": {
+            "date": "2017.3",
+            "url": "https://datatracker.ietf.org/meeting/98/materials/agenda-98-irtfopen/"
+        },
+        "tags": []
+    },
+    {
+        "id": "dhs_ddosd_pi_meeting",
+        "name": "DHS DDoSD PI Meeting",
+        "description": "",
+        "dates": {
+            "date": "2017.3",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "dhs_impact_pi_meeting",
+        "name": "DHS IMPACT PI Meeting",
+        "description": "",
+        "dates": {
+            "date": "2017.2",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "san_diego_supercomputer_center",
+        "name": "San Diego Supercomputer Center",
+        "description": "",
+        "dates": {
+            "date": "2017.2",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "dhs_imam_mid_term_meeting",
+        "name": "DHS IMAM Mid Term Meeting",
+        "description": "",
+        "dates": {
+            "date": "2017.1",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "new_zealand_network_operators_group_nznog",
+        "name": "New Zealand Network Operators Group NZNOG",
+        "description": "",
+        "dates": {
+            "date": "2017.1",
+            "url": "http://www.nznog.org/nznog17/"
+        },
+        "tags": []
+    },
+    {
+        "id": "ripe_meeting",
+        "name": "RIPE Meeting",
+        "description": "",
+        "dates": {
+            "date": "2016.10",
+            "url": "https://ripe73.ripe.net/"
+        },
+        "tags": []
+    },
+    {
+        "id": "workshop_on_internet_economics_wie",
+        "name": "Workshop on Internet Economics WIE",
+        "description": "",
+        "dates": {
+            "date": "2016.12",
+            "url": "http://www.caida.org/workshops/wie/1612/"
+        },
+        "tags": []
+    },
+    {
+        "id": "gateways_conference",
+        "name": "Gateways Conference",
+        "description": "",
+        "dates": {
+            "date": "2016.11",
+            "url": "http://sciencegateways.org/gateways2016/"
+        },
+        "tags": []
+    },
+    {
+        "id": "acm_internet_measurement_conference_imc",
+        "name": "ACM Internet Measurement Conference IMC",
+        "description": "",
+        "dates": {
+            "date": "2016.11",
+            "url": "http://conferences.sigcomm.org/imc/2016/index.html"
+        },
+        "tags": []
+    },
+    {
+        "id": "acm_internet_measurement_conference_imc",
+        "name": "ACM Internet Measurement Conference IMC",
+        "description": "",
+        "dates": {
+            "date": "2016.11",
+            "url": "http://conferences.sigcomm.org/imc/2016/index.html"
+        },
+        "tags": []
+    },
+    {
+        "id": "dhs_reverse_site_visit_caida",
+        "name": "DHS Reverse Site Visit CAIDA",
+        "description": "",
+        "dates": {
+            "date": "2016.11",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "ripe_meeting",
+        "name": "RIPE Meeting",
+        "description": "",
+        "dates": {
+            "date": "2016.10",
+            "url": "https://ripe73.ripe.net/"
+        },
+        "tags": []
+    },
+    {
+        "id": "north_american_network_operators_group_nanog",
+        "name": "North American Network Operators Group NANOG",
+        "description": "",
+        "dates": {
+            "date": "2016.10",
+            "url": "https://nanog.org/meetings/nanog68/home"
+        },
+        "tags": []
+    },
+    {
+        "id": "north_american_network_operators_group_nanog",
+        "name": "North American Network Operators Group NANOG",
+        "description": "",
+        "dates": {
+            "date": "2016.10",
+            "url": "https://nanog.org/meetings/nanog68/home"
+        },
+        "tags": []
+    },
+    {
+        "id": "telecommunications_policy_research_conference_tprc",
+        "name": "Telecommunications Policy Research Conference TPRC",
+        "description": "",
+        "dates": {
+            "date": "2016.9",
+            "url": "http://www.tprcweb.com/"
+        },
+        "tags": []
+    },
+    {
+        "id": "australian_network_operators_group_ausnog",
+        "name": "Australian Network Operators Group AusNOG",
+        "description": "",
+        "dates": {
+            "date": "2016.9",
+            "url": "http://www.ausnog.net/events/ausnog-2016"
+        },
+        "tags": []
+    },
+    {
+        "id": "icann_security_and_stability_advisory_committee_ssac",
+        "name": "ICANN Security and Stability Advisory Committee SSAC",
+        "description": "",
+        "dates": {
+            "date": "2016.9",
+            "url": "https://community.icann.org/display/atlarge/September+2016+SSAC+Liaison+Report"
+        },
+        "tags": []
+    },
+    {
+        "id": "dhs_impact_pi_meeting",
+        "name": "DHS IMPACT PI Meeting",
+        "description": "",
+        "dates": {
+            "date": "2016.9",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "dhs_ddosd_pi_meeting",
+        "name": "DHS DDoSD PI Meeting",
+        "description": "",
+        "dates": {
+            "date": "2016.8",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "nsf_washington_area_trustworthy_computing_hour_watch",
+        "name": "NSF Washington Area Trustworthy Computing Hour WATCH",
+        "description": "",
+        "dates": {
+            "date": "2016.8",
+            "url": "http://www.nsf.gov/cise/cns/watch/talks/claffy.jsp"
+        },
+        "tags": []
+    },
+    {
+        "id": "roma_tre_university",
+        "name": "Roma Tre University",
+        "description": "",
+        "dates": {
+            "date": "2016.6",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "dhs_impact_pi_meeting",
+        "name": "DHS IMPACT PI Meeting",
+        "description": "",
+        "dates": {
+            "date": "2016.6",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "uc_san_diego_thesis_defense",
+        "name": "UC San Diego Thesis Defense",
+        "description": "",
+        "dates": {
+            "date": "2016.6",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "ieee_conference_on_computer_communications_infocom",
+        "name": "IEEE Conference on Computer Communications INFOCOM",
+        "description": "",
+        "dates": {
+            "date": "2016.4",
+            "url": "http://infocom2016.ieee-infocom.org/"
+        },
+        "tags": []
+    },
+    {
+        "id": "workshop_on_incomplete_networked_data_wind",
+        "name": "Workshop on Incomplete Networked Data WIND",
+        "description": "",
+        "dates": {
+            "date": "2016.3",
+            "url": "http://eliassi.org/WIND16.html"
+        },
+        "tags": []
+    },
+    {
+        "id": "passive_and_active_measurement_conference_pam",
+        "name": "Passive and Active Measurement Conference PAM",
+        "description": "",
+        "dates": {
+            "date": "2016.3",
+            "url": "http://www.ics.forth.gr/pam2016/"
+        },
+        "tags": []
+    },
+    {
+        "id": "passive_and_active_measurement_conference_pam",
+        "name": "Passive and Active Measurement Conference PAM",
+        "description": "",
+        "dates": {
+            "date": "2016.3",
+            "url": "http://www.ics.forth.gr/pam2016/"
+        },
+        "tags": []
+    },
+    {
+        "id": "workshop_on_active_internet_measurements_aims",
+        "name": "Workshop on Active Internet Measurements AIMS",
+        "description": "",
+        "dates": {
+            "date": "2016.2",
+            "url": "http://www.caida.org/workshops/aims/1602/"
+        },
+        "tags": []
+    },
+    {
+        "id": "north_american_network_operators_group_nanog",
+        "name": "North American Network Operators Group NANOG",
+        "description": "",
+        "dates": {
+            "date": "2016.2",
+            "url": "https://www.nanog.org/meetings/nanog66/home"
+        },
+        "tags": []
+    },
+    {
+        "id": "workshop_on_active_internet_measurements_aims",
+        "name": "Workshop on Active Internet Measurements AIMS",
+        "description": "",
+        "dates": {
+            "date": "2016.2",
+            "url": "http://www.caida.org/workshops/aims/1602/"
+        },
+        "tags": []
+    },
+    {
+        "id": "north_american_network_operators_group_nanog",
+        "name": "North American Network Operators Group NANOG",
+        "description": "",
+        "dates": {
+            "date": "2016.2",
+            "url": "https://www.nanog.org/meetings/nanog66/home"
+        },
+        "tags": []
+    },
+    {
+        "id": "workshop_on_active_internet_measurements_aims",
+        "name": "Workshop on Active Internet Measurements AIMS",
+        "description": "",
+        "dates": {
+            "date": "2016.2",
+            "url": "http://www.caida.org/workshops/aims/1602/"
+        },
+        "tags": []
+    },
+    {
+        "id": "north_american_network_operators_group_nanog",
+        "name": "North American Network Operators Group NANOG",
+        "description": "",
+        "dates": {
+            "date": "2016.2",
+            "url": "https://www.nanog.org/meetings/nanog66/home"
+        },
+        "tags": []
+    },
+    {
+        "id": "workshop_on_active_internet_measurements_aims",
+        "name": "Workshop on Active Internet Measurements AIMS",
+        "description": "",
+        "dates": {
+            "date": "2016.2",
+            "url": "http://www.caida.org/workshops/aims/1602/"
+        },
+        "tags": []
+    },
+    {
+        "id": "dhs_impact_pi_meeting",
+        "name": "DHS IMPACT PI Meeting",
+        "description": "",
+        "dates": {
+            "date": "2016.2",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "dhs_rd_showcase_and_technical_workshop",
+        "name": "DHS RD Showcase and Technical Workshop",
+        "description": "",
+        "dates": {
+            "date": "2016.2",
+            "url": "http://www.cvent.com/events/cyber-security-division-2016-r-d-showcase-and-technical-workshop-february-17-19-2016-the-mayflower-r/custom-35-74921946b25f4e6e81b9add8aa7f24fb.aspx"
+        },
+        "tags": []
+    },
+    {
+        "id": "workshop_on_active_internet_measurements_aims",
+        "name": "Workshop on Active Internet Measurements AIMS",
+        "description": "",
+        "dates": {
+            "date": "2016.2",
+            "url": "http://www.caida.org/workshops/aims/1602/"
+        },
+        "tags": []
+    },
+    {
+        "id": "dhs_rd_showcase_and_technical_workshop",
+        "name": "DHS RD Showcase and Technical Workshop",
+        "description": "",
+        "dates": {
+            "date": "2016.2",
+            "url": "http://www.cvent.com/events/cyber-security-division-2016-r-d-showcase-and-technical-workshop-february-17-19-2016-the-mayflower-r/custom-35-74921946b25f4e6e81b9add8aa7f24fb.aspx"
+        },
+        "tags": []
+    },
+    {
+        "id": "uc_san_diego",
+        "name": "UC San Diego",
+        "description": "",
+        "dates": {
+            "date": "2016.1",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "acm_sigcomm_conference_on_emerging_networking_experiments_and_technologies_conext",
+        "name": "ACM SIGCOMM Conference on emerging Networking EXperiments and Technologies CoNEXT",
+        "description": "",
+        "dates": {
+            "date": "2015.12",
+            "url": "http://conferences2.sigcomm.org/co-next/2015/"
+        },
+        "tags": []
+    },
+    {
+        "id": "workshop_on_internet_economics_wie",
+        "name": "Workshop on Internet Economics WIE",
+        "description": "",
+        "dates": {
+            "date": "2015.12",
+            "url": "http://www.caida.org/workshops/wie/1512/"
+        },
+        "tags": []
+    },
+    {
+        "id": "workshop_on_internet_economics_wie",
+        "name": "Workshop on Internet Economics WIE",
+        "description": "",
+        "dates": {
+            "date": "2015.12",
+            "url": "http://www.caida.org/workshops/wie/1512/"
+        },
+        "tags": []
+    },
+    {
+        "id": "usenix_large_installation_system_administration_lisa",
+        "name": "USENIX Large Installation System Administration LISA",
+        "description": "",
+        "dates": {
+            "date": "2015.11",
+            "url": "https://www.usenix.org/conference/lisa15"
+        },
+        "tags": []
+    },
+    {
+        "id": "dhs_reverse_site_visit_caida",
+        "name": "DHS Reverse Site Visit CAIDA",
+        "description": "",
+        "dates": {
+            "date": "2015.11",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "mplane_workshop",
+        "name": "mPlane Workshop",
+        "description": "",
+        "dates": {
+            "date": "2015.11",
+            "url": "http://www.ict-mplane.eu/public/mplane-workshop-platform-measuring-internet"
+        },
+        "tags": []
+    },
+    {
+        "id": "internet_engineering_task_force_ietf",
+        "name": "Internet Engineering Task Force IETF",
+        "description": "",
+        "dates": {
+            "date": "2015.11",
+            "url": "https://datatracker.ietf.org/meeting/94/agenda.html"
+        },
+        "tags": []
+    },
+    {
+        "id": "acm_internet_measurement_conference_imc",
+        "name": "ACM Internet Measurement Conference IMC",
+        "description": "",
+        "dates": {
+            "date": "2015.10",
+            "url": "http://conferences2.sigcomm.org/imc/2015/program.html"
+        },
+        "tags": []
+    },
+    {
+        "id": "acm_internet_measurement_conference_imc",
+        "name": "ACM Internet Measurement Conference IMC",
+        "description": "",
+        "dates": {
+            "date": "2015.10",
+            "url": "http://conferences2.sigcomm.org/imc/2015/"
+        },
+        "tags": []
+    },
+    {
+        "id": "acm_internet_measurement_conference_imc",
+        "name": "ACM Internet Measurement Conference IMC",
+        "description": "",
+        "dates": {
+            "date": "2015.10",
+            "url": "http://conferences2.sigcomm.org/imc/2015/program.html"
+        },
+        "tags": []
+    },
+    {
+        "id": "acm_internet_measurement_conference_imc",
+        "name": "ACM Internet Measurement Conference IMC",
+        "description": "",
+        "dates": {
+            "date": "2015.10",
+            "url": "http://conferences2.sigcomm.org/imc/2015/program.html"
+        },
+        "tags": []
+    },
+    {
+        "id": "irtf_workshop_on_research_and_applications_of_internet_measurements_raim",
+        "name": "IRTF Workshop on Research and Applications of Internet Measurements RAIM",
+        "description": "",
+        "dates": {
+            "date": "2015.10",
+            "url": "https://irtf.org/raim-2015"
+        },
+        "tags": []
+    },
+    {
+        "id": "telecommunications_policy_research_conference_tprc",
+        "name": "Telecommunications Policy Research Conference TPRC",
+        "description": "",
+        "dates": {
+            "date": "2015.9",
+            "url": "http://www.tprcweb.com/"
+        },
+        "tags": []
+    },
+    {
+        "id": "acm_sigcomm_workshop_on_ethics_in_networked_systems_research",
+        "name": "ACM SIGCOMM Workshop on Ethics in Networked Systems Research",
+        "description": "",
+        "dates": {
+            "date": "2015.8",
+            "url": "http://conferences.sigcomm.org/sigcomm/2015/netethics.php"
+        },
+        "tags": []
+    },
+    {
+        "id": "telecommunications_policy_research_conference_tprc",
+        "name": "Telecommunications Policy Research Conference TPRC",
+        "description": "",
+        "dates": {
+            "date": "2015.9",
+            "url": "http://www.tprcweb.com/"
+        },
+        "tags": []
+    },
+    {
+        "id": "dhs_ddosd_pi_meeting",
+        "name": "DHS DDoSD PI Meeting",
+        "description": "",
+        "dates": {
+            "date": "2015.8",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "acm_sigcomm_workshop_on_crowdsourcing_and_crowdsharing_of_big_internet_data_c2bid",
+        "name": "ACM SIGCOMM Workshop on Crowdsourcing and crowdsharing of Big Internet Data C2BID",
+        "description": "",
+        "dates": {
+            "date": "2015.8",
+            "url": "http://conferences.sigcomm.org/sigcomm/2015/c2bid.php"
+        },
+        "tags": []
+    },
+    {
+        "id": "citizen_lab_summer_institute",
+        "name": "Citizen Lab Summer Institute",
+        "description": "",
+        "dates": {
+            "date": "2015.6",
+            "url": "http://citizenlab.org/summerinstitute/2015.html"
+        },
+        "tags": []
+    },
+    {
+        "id": "ripe_meeting",
+        "name": "RIPE Meeting",
+        "description": "",
+        "dates": {
+            "date": "2015.5",
+            "url": "https://ripe70.ripe.net/"
+        },
+        "tags": []
+    },
+    {
+        "id": "federal_communications_commission_fcc",
+        "name": "Federal Communications Commission FCC",
+        "description": "",
+        "dates": {
+            "date": "2015.3",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "dhs_national_cybersecurity_and_communications_integration_center_ncicc",
+        "name": "DHS National Cybersecurity and Communications Integration Center NCICC",
+        "description": "",
+        "dates": {
+            "date": "2015.4",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "dhs_site_visit_caida",
+        "name": "DHS Site Visit CAIDA",
+        "description": "",
+        "dates": {
+            "date": "2015.4",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "workshop_on_active_internet_measurements_aims",
+        "name": "Workshop on Active Internet Measurements AIMS",
+        "description": "",
+        "dates": {
+            "date": "2015.3",
+            "url": "http://www.caida.org/workshops/aims/1503/"
+        },
+        "tags": []
+    },
+    {
+        "id": "workshop_on_active_internet_measurements_aims",
+        "name": "Workshop on Active Internet Measurements AIMS",
+        "description": "",
+        "dates": {
+            "date": "2015.3",
+            "url": "http://www.caida.org/workshops/aims/1503/"
+        },
+        "tags": []
+    },
+    {
+        "id": "workshop_on_active_internet_measurements_aims",
+        "name": "Workshop on Active Internet Measurements AIMS",
+        "description": "",
+        "dates": {
+            "date": "2015.3",
+            "url": "http://www.caida.org/workshops/aims/1503/"
+        },
+        "tags": []
+    },
+    {
+        "id": "workshop_on_active_internet_measurements_aims",
+        "name": "Workshop on Active Internet Measurements AIMS",
+        "description": "",
+        "dates": {
+            "date": "2015.3",
+            "url": "https://www.caida.org/workshops/aims/"
+        },
+        "tags": []
+    },
+    {
+        "id": "workshop_on_active_internet_measurements_aims",
+        "name": "Workshop on Active Internet Measurements AIMS",
+        "description": "",
+        "dates": {
+            "date": "2015.3",
+            "url": "http://www.caida.org/workshops/aims/1503/"
+        },
+        "tags": []
+    },
+    {
+        "id": "passive_and_active_measurement_conference_pam",
+        "name": "Passive and Active Measurement Conference PAM",
+        "description": "",
+        "dates": {
+            "date": "2015.3",
+            "url": "http://wan.poly.edu/pam2015/"
+        },
+        "tags": []
+    },
+    {
+        "id": "passive_and_active_measurement_conference_pam",
+        "name": "Passive and Active Measurement Conference PAM",
+        "description": "",
+        "dates": {
+            "date": "2015.3",
+            "url": "http://wan.poly.edu/pam2015/"
+        },
+        "tags": []
+    },
+    {
+        "id": "workshop_on_active_internet_measurements_aims",
+        "name": "Workshop on Active Internet Measurements AIMS",
+        "description": "",
+        "dates": {
+            "date": "2015.3",
+            "url": "http://www.caida.org/workshops/aims/1503/"
+        },
+        "tags": []
+    },
+    {
+        "id": "workshop_on_active_internet_measurements_aims",
+        "name": "Workshop on Active Internet Measurements AIMS",
+        "description": "",
+        "dates": {
+            "date": "2015.3",
+            "url": "http://www.caida.org/workshops/aims/1503/"
+        },
+        "tags": []
+    },
+    {
+        "id": "silicon_flatirons_center",
+        "name": "Silicon Flatirons Center",
+        "description": "",
+        "dates": {
+            "date": "2015.2",
+            "url": "http://www.siliconflatirons.com/events.php?id=1495"
+        },
+        "tags": []
+    },
+    {
+        "id": "dhs_predict_pi_meeting",
+        "name": "DHS PREDICT PI Meeting",
+        "description": "",
+        "dates": {
+            "date": "2015.1",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "dhs_predict_pi_meeting",
+        "name": "DHS PREDICT PI Meeting",
+        "description": "",
+        "dates": {
+            "date": "2015.1",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "workshop_on_internet_economics_wie",
+        "name": "Workshop on Internet Economics WIE",
+        "description": "",
+        "dates": {
+            "date": "2014.12",
+            "url": "http://www.caida.org/workshops/wie/1412/"
+        },
+        "tags": []
+    },
+    {
+        "id": "acm_internet_measurement_conference_imc",
+        "name": "ACM Internet Measurement Conference IMC",
+        "description": "",
+        "dates": {
+            "date": "2014.11",
+            "url": "http://conferences2.sigcomm.org/imc/2014/"
+        },
+        "tags": []
+    },
+    {
+        "id": "acm_internet_measurement_conference_imc",
+        "name": "ACM Internet Measurement Conference IMC",
+        "description": "",
+        "dates": {
+            "date": "2014.11",
+            "url": "http://conferences2.sigcomm.org/imc/2014/"
+        },
+        "tags": []
+    },
+    {
+        "id": "duke_laws_center_for_innovation_policy_internet_regulation_in_2020_conference",
+        "name": "Duke Laws Center for Innovation Policy Internet Regulation in 2020 Conference",
+        "description": "",
+        "dates": {
+            "date": "2014.10",
+            "url": "http://law.duke.edu/innovationpolicy/internetregulation/"
+        },
+        "tags": []
+    },
+    {
+        "id": "acm_international_joint_conference_on_pervasive_and_ubiquitous_computing_ubicomp",
+        "name": "ACM International Joint Conference on Pervasive and Ubiquitous Computing UbiComp",
+        "description": "",
+        "dates": {
+            "date": "2014.9",
+            "url": "http://ubicomp.org/ubicomp2014/"
+        },
+        "tags": []
+    },
+    {
+        "id": "dhs_predict_pi_meeting",
+        "name": "DHS PREDICT PI Meeting",
+        "description": "",
+        "dates": {
+            "date": "2014.6",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "broadband_internet_technical_advisory_group_bitag_technical_working_group_twg",
+        "name": "Broadband Internet Technical Advisory Group BITAG Technical Working Group TWG",
+        "description": "",
+        "dates": {
+            "date": "2014.6",
+            "url": "http://www.bitag.org/"
+        },
+        "tags": []
+    },
+    {
+        "id": "dhs_site_visit_caida",
+        "name": "DHS Site Visit CAIDA",
+        "description": "",
+        "dates": {
+            "date": "2014.6",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "human_aspects_of_security_privacy_trust",
+        "name": "Human Aspects of Security Privacy  Trust",
+        "description": "",
+        "dates": {
+            "date": "2014.6",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "dhs_site_visit_caida",
+        "name": "DHS Site Visit CAIDA",
+        "description": "",
+        "dates": {
+            "date": "2014.6",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "dhs_predict_pi_meeting",
+        "name": "DHS PREDICT PI Meeting",
+        "description": "",
+        "dates": {
+            "date": "2014.6",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "ieee_security_privacy_symposium",
+        "name": "IEEE Security  Privacy Symposium",
+        "description": "",
+        "dates": {
+            "date": "2014.4",
+            "url": "http://www.ieee-security.org/TC/SP2014/"
+        },
+        "tags": []
+    },
+    {
+        "id": "dhs_predict_pi_meeting",
+        "name": "DHS PREDICT PI Meeting",
+        "description": "",
+        "dates": {
+            "date": "2014.5",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "passive_and_active_measurement_conference_pam",
+        "name": "Passive and Active Measurement Conference PAM",
+        "description": "",
+        "dates": {
+            "date": "2014.3",
+            "url": "http://pam2014.cs.unm.edu/"
+        },
+        "tags": []
+    },
+    {
+        "id": "workshop_on_network_data_storage_access_and_analysis_ndsaa",
+        "name": "Workshop on Network Data Storage Access and Analysis NDSAA",
+        "description": "",
+        "dates": {
+            "date": "2014.3",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "cyber_security_division_pi_meeting",
+        "name": "Cyber Security Division PI Meeting",
+        "description": "",
+        "dates": {
+            "date": "2014.3",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "yahoo_performance_summit",
+        "name": "Yahoo Performance Summit",
+        "description": "",
+        "dates": {
+            "date": "2014.2",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "north_american_network_operators_group_nanog",
+        "name": "North American Network Operators Group NANOG",
+        "description": "",
+        "dates": {
+            "date": "2014.2",
+            "url": "https://www.nanog.org/meetings/nanog60/home"
+        },
+        "tags": []
+    },
+    {
+        "id": "dhs_predict_pi_meeting",
+        "name": "DHS PREDICT PI Meeting",
+        "description": "",
+        "dates": {
+            "date": "2014.1",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "acm_sigcomm_conference_on_emerging_networking_experiments_and_technologies_conext",
+        "name": "ACM SIGCOMM Conference on emerging Networking EXperiments and Technologies CoNEXT",
+        "description": "",
+        "dates": {
+            "date": "2013.12",
+            "url": "http://conferences.sigcomm.org/co-next/2013/"
+        },
+        "tags": []
+    },
+    {
+        "id": "acm_sigcomm_conference_on_emerging_networking_experiments_and_technologies_conext",
+        "name": "ACM SIGCOMM Conference on emerging Networking EXperiments and Technologies CoNEXT",
+        "description": "",
+        "dates": {
+            "date": "2013.12",
+            "url": "http://conferences.sigcomm.org/co-next/2013/"
+        },
+        "tags": []
+    },
+    {
+        "id": "acm_internet_measurement_conference_imc",
+        "name": "ACM Internet Measurement Conference IMC",
+        "description": "",
+        "dates": {
+            "date": "2013.10",
+            "url": "http://conferences.sigcomm.org/imc/2013/"
+        },
+        "tags": []
+    },
+    {
+        "id": "acm_internet_measurement_conference_imc",
+        "name": "ACM Internet Measurement Conference IMC",
+        "description": "",
+        "dates": {
+            "date": "2013.10",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "acm_internet_measurement_conference_imc",
+        "name": "ACM Internet Measurement Conference IMC",
+        "description": "",
+        "dates": {
+            "date": "2013.10",
+            "url": "http://conferences.sigcomm.org/imc/2013/"
+        },
+        "tags": []
+    },
+    {
+        "id": "nistbell_labs_workshop_on_largescale_complex_networks",
+        "name": "NISTBell Labs Workshop on LargeScale Complex Networks",
+        "description": "",
+        "dates": {
+            "date": "2013.10",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "cyber_security_division_pi_meeting",
+        "name": "Cyber Security Division PI Meeting",
+        "description": "",
+        "dates": {
+            "date": "2013.9",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "dhs_predict_pi_meeting",
+        "name": "DHS PREDICT PI Meeting",
+        "description": "",
+        "dates": {
+            "date": "2013.8",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "naval_postgraduate_school_nps",
+        "name": "Naval Postgraduate School NPS",
+        "description": "",
+        "dates": {
+            "date": "2013.6",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "federal_communications_commission_fcc",
+        "name": "Federal Communications Commission FCC",
+        "description": "",
+        "dates": {
+            "date": "2013.6",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "network_mapping_and_measurement_conference_nmmc",
+        "name": "Network Mapping and Measurement Conference NMMC",
+        "description": "",
+        "dates": {
+            "date": "2013.5",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "cisco_nerd_lunch",
+        "name": "Cisco Nerd Lunch",
+        "description": "",
+        "dates": {
+            "date": "2013.4",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "institute_of_quantum_computing_iqc",
+        "name": "Institute of Quantum Computing IQC",
+        "description": "",
+        "dates": {
+            "date": "2013.5",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "santa_fe_institute_structure_statistical_inference_and_dynamics_in_networks_from_graphs_to_rich_data_workshop",
+        "name": "Santa Fe Institute Structure Statistical Inference and Dynamics in Networks From Graphs to Rich Data workshop",
+        "description": "",
+        "dates": {
+            "date": "2013.5",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "traffic_monitoring_and_analysis_workshop_tma",
+        "name": "Traffic Monitoring and Analysis Workshop TMA",
+        "description": "",
+        "dates": {
+            "date": "2013.4",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "siam_conference_on_computational_science_engineering_cse",
+        "name": "SIAM Conference on Computational Science  Engineering CSE",
+        "description": "",
+        "dates": {
+            "date": "2013.3",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "dhs_predict_pi_meeting",
+        "name": "DHS PREDICT PI Meeting",
+        "description": "",
+        "dates": {
+            "date": "2013.3",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "passive_and_active_measurement_conference_pam",
+        "name": "Passive and Active Measurement Conference PAM",
+        "description": "",
+        "dates": {
+            "date": "2013.3",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "isma_workshop_on_active_internet_measurements_aims",
+        "name": "ISMA Workshop on Active Internet Measurements AIMS",
+        "description": "",
+        "dates": {
+            "date": "2013.2",
+            "url": "http://www.caida.org/workshops/isma/1302/"
+        },
+        "tags": []
+    },
+    {
+        "id": "isma_workshop_on_active_internet_measurements_aims",
+        "name": "ISMA Workshop on Active Internet Measurements AIMS",
+        "description": "",
+        "dates": {
+            "date": "2013.2",
+            "url": "http://www.caida.org/workshops/isma/1302/"
+        },
+        "tags": []
+    },
+    {
+        "id": "isma_workshop_on_active_internet_measurements_aims",
+        "name": "ISMA Workshop on Active Internet Measurements AIMS",
+        "description": "",
+        "dates": {
+            "date": "2013.2",
+            "url": "http://www.caida.org/workshops/isma/1302/"
+        },
+        "tags": []
+    },
+    {
+        "id": "isma_workshop_on_active_internet_measurements_aims",
+        "name": "ISMA Workshop on Active Internet Measurements AIMS",
+        "description": "",
+        "dates": {
+            "date": "2013.2",
+            "url": "http://www.caida.org/workshops/isma/1302/"
+        },
+        "tags": []
+    },
+    {
+        "id": "northeastern_university",
+        "name": "Northeastern University",
+        "description": "",
+        "dates": {
+            "date": "2013.2",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "fcc_workshop_on_network_resiliency",
+        "name": "FCC Workshop on Network Resiliency",
+        "description": "",
+        "dates": {
+            "date": "2013.2",
+            "url": "http://edas.info/web/fcc-nr2013/program.html"
+        },
+        "tags": []
+    },
+    {
+        "id": "isma_workshop_on_active_internet_measurements_aims",
+        "name": "ISMA Workshop on Active Internet Measurements AIMS",
+        "description": "",
+        "dates": {
+            "date": "2013.2",
+            "url": "http://www.caida.org/workshops/isma/1302/"
+        },
+        "tags": []
+    },
+    {
+        "id": "darpa_graphtheoretic_research_in_algorithms_and_the_phenomenology_of_social_networks_graphs",
+        "name": "DARPA Graphtheoretic Research in Algorithms and the Phenomenology of Social networks GRAPHS",
+        "description": "",
+        "dates": {
+            "date": "2013.1",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "tip",
+        "name": "TIP",
+        "description": "",
+        "dates": {
+            "date": "2013.1",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "nsf_international_research_network_connections_irnc_pi_meeting",
+        "name": "NSF International Research Network Connections IRNC PI Meeting",
+        "description": "",
+        "dates": {
+            "date": "2013.1",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "naval_postgraduate_school_nps",
+        "name": "Naval Postgraduate School NPS",
+        "description": "",
+        "dates": {
+            "date": "2013.1",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "workshop_on_internet_economics_wie",
+        "name": "Workshop on Internet Economics WIE",
+        "description": "",
+        "dates": {
+            "date": "2012.12",
+            "url": "http://www.caida.org/workshops/wie/1212/"
+        },
+        "tags": []
+    },
+    {
+        "id": "usenix_large_installation_system_administration_lisa",
+        "name": "USENIX Large Installation System Administration LISA",
+        "description": "",
+        "dates": {
+            "date": "2012.12",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "workshop_on_internet_economics_wie",
+        "name": "Workshop on Internet Economics WIE",
+        "description": "",
+        "dates": {
+            "date": "2012.12",
+            "url": "http://www.caida.org/workshops/wie/1212/"
+        },
+        "tags": []
+    },
+    {
+        "id": "dhs_predict_pi_meeting",
+        "name": "DHS PREDICT PI Meeting",
+        "description": "",
+        "dates": {
+            "date": "2012.11",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "workshop_on_internet_topology_and_economics",
+        "name": "Workshop on Internet Topology and Economics",
+        "description": "",
+        "dates": {
+            "date": "2012.11",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "acm_internet_measurement_conference_imc",
+        "name": "ACM Internet Measurement Conference IMC",
+        "description": "",
+        "dates": {
+            "date": "2012.11",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "usc_information_sciences_institute_isi",
+        "name": "USC Information Sciences Institute ISI",
+        "description": "",
+        "dates": {
+            "date": "2012.11",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "workshop_on_internet_visualization_wiv",
+        "name": "Workshop on Internet Visualization WIV",
+        "description": "",
+        "dates": {
+            "date": "2012.11",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "university_of_houston",
+        "name": "University of Houston",
+        "description": "",
+        "dates": {
+            "date": "2012.11",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "acm_internet_measurement_conference_imc",
+        "name": "ACM Internet Measurement Conference IMC",
+        "description": "",
+        "dates": {
+            "date": "2012.11",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "darpa_graphtheoretic_research_in_algorithms_and_the_phenomenology_of_social_networks_graphs",
+        "name": "DARPA Graphtheoretic Research in Algorithms and the Phenomenology of Social networks GRAPHS",
+        "description": "",
+        "dates": {
+            "date": "2012.10",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "north_american_network_operators_group_nanog",
+        "name": "North American Network Operators Group NANOG",
+        "description": "",
+        "dates": {
+            "date": "2012.10",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "cyber_security_division_pi_meeting",
+        "name": "Cyber Security Division PI Meeting",
+        "description": "",
+        "dates": {
+            "date": "2012.10",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "cyber_security_division_pi_meeting",
+        "name": "Cyber Security Division PI Meeting",
+        "description": "",
+        "dates": {
+            "date": "2012.10",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "named_data_network_ndn_retreat",
+        "name": "Named Data Network NDN Retreat",
+        "description": "",
+        "dates": {
+            "date": "2012.10",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "badgers",
+        "name": "BADGERS",
+        "description": "",
+        "dates": {
+            "date": "2012.10",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "chinese_american_networking_symposium_cans",
+        "name": "Chinese American Networking Symposium CANS",
+        "description": "",
+        "dates": {
+            "date": "2012.10",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "caidawidecasfi_joint_measurement_workshop",
+        "name": "CAIDAWIDECASFI Joint Measurement Workshop",
+        "description": "",
+        "dates": {
+            "date": "2012.8",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "acm_sigcomm",
+        "name": "ACM SIGCOMM",
+        "description": "",
+        "dates": {
+            "date": "2012.8",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "caidawidecasfi_joint_measurement_workshop",
+        "name": "CAIDAWIDECASFI Joint Measurement Workshop",
+        "description": "",
+        "dates": {
+            "date": "2012.8",
+            "url": "http://www.caida.org/publications/presentations/2012/corsaro_widecasfi/"
+        },
+        "tags": []
+    },
+    {
+        "id": "darpa_graphtheoretic_research_in_algorithms_and_the_phenomenology_of_social_networks_graphs",
+        "name": "DARPA Graphtheoretic Research in Algorithms and the Phenomenology of Social networks GRAPHS",
+        "description": "",
+        "dates": {
+            "date": "2012.7",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "santa_fe_institute_business_network_topical_meeting_on_measurement_of_complex_networks",
+        "name": "Santa Fe Institute Business Network Topical Meeting on Measurement of Complex Networks",
+        "description": "",
+        "dates": {
+            "date": "2012.7",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "internet_engineering_task_force_ietf",
+        "name": "Internet Engineering Task Force IETF",
+        "description": "",
+        "dates": {
+            "date": "2012.7",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "micdhs_meeting_for_cyber_security_cooperation",
+        "name": "MICDHS Meeting for Cyber Security Cooperation",
+        "description": "",
+        "dates": {
+            "date": "2012.6",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "workshop_on_pricing_and_incentives_in_networks_wpin",
+        "name": "Workshop on Pricing and Incentives in Networks WPIN",
+        "description": "",
+        "dates": {
+            "date": "2012.6",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "international_workshop_on_darkspace_and_unsolicited_traffic_analysis_dust",
+        "name": "International Workshop on Darkspace and UnSolicited Traffic Analysis DUST",
+        "description": "",
+        "dates": {
+            "date": "2012.5",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "international_workshop_on_darkspace_and_unsolicited_traffic_analysis_dust",
+        "name": "International Workshop on Darkspace and UnSolicited Traffic Analysis DUST",
+        "description": "",
+        "dates": {
+            "date": "2012.5",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "dhs_predict_pi_meeting",
+        "name": "DHS PREDICT PI Meeting",
+        "description": "",
+        "dates": {
+            "date": "2012.5",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "international_conferences_on_networking",
+        "name": "International Conferences on Networking",
+        "description": "",
+        "dates": {
+            "date": "2012.5",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "simula_research",
+        "name": "Simula Research",
+        "description": "",
+        "dates": {
+            "date": "2012.5",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "international_workshop_on_darkspace_and_unsolicited_traffic_analysis_dust",
+        "name": "International Workshop on Darkspace and UnSolicited Traffic Analysis DUST",
+        "description": "",
+        "dates": {
+            "date": "2012.5",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "international_workshop_on_darkspace_and_unsolicited_traffic_analysis_dust",
+        "name": "International Workshop on Darkspace and UnSolicited Traffic Analysis DUST",
+        "description": "",
+        "dates": {
+            "date": "2012.5",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "international_workshop_on_darkspace_and_unsolicited_traffic_analysis_dust",
+        "name": "International Workshop on Darkspace and UnSolicited Traffic Analysis DUST",
+        "description": "",
+        "dates": {
+            "date": "2012.5",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "ucsd_complex_networks_seminar_dances",
+        "name": "UCSD Complex Networks Seminar DANCES",
+        "description": "",
+        "dates": {
+            "date": "2012.4",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "american_physical_society_aps",
+        "name": "American Physical Society APS",
+        "description": "",
+        "dates": {
+            "date": "2012.3",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "pacific_coast_gravity_meeting_pcgm",
+        "name": "Pacific Coast Gravity Meeting PCGM",
+        "description": "",
+        "dates": {
+            "date": "2012.3",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "dhs_cybersecurity_science_and_technology",
+        "name": "DHS Cybersecurity Science and Technology",
+        "description": "",
+        "dates": {
+            "date": "2012.3",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "darpa_mathematics_summit",
+        "name": "DARPA Mathematics Summit",
+        "description": "",
+        "dates": {
+            "date": "2012.2",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "asia_pacific_regional_internet_conference_on_operational_technologies_apricot",
+        "name": "Asia Pacific Regional Internet Conference on Operational Technologies APRICOT",
+        "description": "",
+        "dates": {
+            "date": "2012.2",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "new_zealand_network_operators_group_nznog",
+        "name": "New Zealand Network Operators Group NZNOG",
+        "description": "",
+        "dates": {
+            "date": "2012.1",
+            "url": "http://www.r2.co.nz/20120126/"
+        },
+        "tags": []
+    },
+    {
+        "id": "isma_workshop_on_active_internet_measurements_aims",
+        "name": "ISMA Workshop on Active Internet Measurements AIMS",
+        "description": "",
+        "dates": {
+            "date": "2012.2",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "caltech_social_science_seminars",
+        "name": "Caltech Social Science Seminars",
+        "description": "",
+        "dates": {
+            "date": "2012.2",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "isma_workshop_on_active_internet_measurements_aims",
+        "name": "ISMA Workshop on Active Internet Measurements AIMS",
+        "description": "",
+        "dates": {
+            "date": "2012.2",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "security_at_the_cyber_border_exploring_cybersecurity_for_international_research_network_connections",
+        "name": "Security at the Cyber Border Exploring Cybersecurity for International Research Network Connections",
+        "description": "",
+        "dates": {
+            "date": "2012.2",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "ucsd_cse_perspectives_in_computer_science",
+        "name": "UCSD CSE Perspectives in Computer Science",
+        "description": "",
+        "dates": {
+            "date": "2012.2",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "security_at_the_cyber_border_exploring_cybersecurity_for_international_research_network_connections",
+        "name": "Security at the Cyber Border Exploring Cybersecurity for International Research Network Connections",
+        "description": "",
+        "dates": {
+            "date": "2012.2",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "dhs_predict_pi_meeting",
+        "name": "DHS PREDICT PI Meeting",
+        "description": "",
+        "dates": {
+            "date": "2012.1",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "flocon",
+        "name": "FloCon",
+        "description": "",
+        "dates": {
+            "date": "2012.1",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "different_angles_on_network_complexity_engineering_and_science_dances",
+        "name": "Different Angles on Network Complexity Engineering and Science DANCES",
+        "description": "",
+        "dates": {
+            "date": "2011.11",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "caidawidecasfi_joint_measurement_workshop",
+        "name": "CAIDAWIDECASFI Joint Measurement Workshop",
+        "description": "",
+        "dates": {
+            "date": "2011.12",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "workshop_on_internet_economics_wie",
+        "name": "Workshop on Internet Economics WIE",
+        "description": "",
+        "dates": {
+            "date": "2011.12",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "widecasfi",
+        "name": "WIDECASFI",
+        "description": "",
+        "dates": {
+            "date": "2011.12",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "acm_internet_measurement_conference_imc",
+        "name": "ACM Internet Measurement Conference IMC",
+        "description": "",
+        "dates": {
+            "date": "2011.11",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "university_of_maryland",
+        "name": "University of Maryland",
+        "description": "",
+        "dates": {
+            "date": "2011.11",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "american_institute_of_mathematics_aim",
+        "name": "American Institute of Mathematics AIM",
+        "description": "",
+        "dates": {
+            "date": "2011.10",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "nsf_international_research_network_connections_irnc_workshop",
+        "name": "NSF International Research Network Connections IRNC Workshop",
+        "description": "",
+        "dates": {
+            "date": "2011.10",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "nsf_international_research_network_connections_irnc_pi_meeting",
+        "name": "NSF International Research Network Connections IRNC PI Meeting",
+        "description": "",
+        "dates": {
+            "date": "2011.10",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "institute_for_mathematics_and_its_applications_ima",
+        "name": "Institute for Mathematics and its Applications IMA",
+        "description": "",
+        "dates": {
+            "date": "2011.10",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "chinese_american_networking_symposium_cans",
+        "name": "Chinese American Networking Symposium CANS",
+        "description": "",
+        "dates": {
+            "date": "2011.8",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "dhs_predict_pi_meeting",
+        "name": "DHS PREDICT PI Meeting",
+        "description": "",
+        "dates": {
+            "date": "2011.7",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "international_school_and_conference_on_network_science_netsci",
+        "name": "International School and Conference on Network Science NetSci",
+        "description": "",
+        "dates": {
+            "date": "2011.6",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "named_data_network_ndn_pi_meeting",
+        "name": "Named Data Network NDN PI Meeting",
+        "description": "",
+        "dates": {
+            "date": "2011.5",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "network_mapping_and_measurement_conference_nmmc",
+        "name": "Network Mapping and Measurement Conference NMMC",
+        "description": "",
+        "dates": {
+            "date": "2011.5",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "different_angles_on_network_complexity_engineering_and_science_dances",
+        "name": "Different Angles on Network Complexity Engineering and Science DANCES",
+        "description": "",
+        "dates": {
+            "date": "2011.5",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "different_angles_on_network_complexity_engineering_and_science_dances",
+        "name": "Different Angles on Network Complexity Engineering and Science DANCES",
+        "description": "",
+        "dates": {
+            "date": "2011.4",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "ucsd_cse_perspectives_in_computer_science",
+        "name": "UCSD CSE Perspectives in Computer Science",
+        "description": "",
+        "dates": {
+            "date": "2011.3",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "bell_labsnist_workshop_on_largescale_geometry_of_networks",
+        "name": "Bell LabsNIST Workshop on LargeScale Geometry of Networks",
+        "description": "",
+        "dates": {
+            "date": "2011.4",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "antiphishing_working_group_ecrime_apwg_ecr_syncup",
+        "name": "AntiPhishing Working Group ECrime APWG eCR SyncUp",
+        "description": "",
+        "dates": {
+            "date": "2011.3",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "decision_making_bridging_psychophysics_and_neurophysiology",
+        "name": "Decision Making Bridging Psychophysics and Neurophysiology",
+        "description": "",
+        "dates": {
+            "date": "2011.3",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "decision_making_bridging_psychophysics_and_neurophysiology",
+        "name": "Decision Making Bridging Psychophysics and Neurophysiology",
+        "description": "",
+        "dates": {
+            "date": "2011.3",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "dhs_predict_pi_meeting",
+        "name": "DHS PREDICT PI Meeting",
+        "description": "",
+        "dates": {
+            "date": "2011.3",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "different_angles_on_network_complexity_engineering_and_science_dances",
+        "name": "Different Angles on Network Complexity Engineering and Science DANCES",
+        "description": "",
+        "dates": {
+            "date": "2011.2",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "isma_workshop_on_active_internet_measurements_aims",
+        "name": "ISMA Workshop on Active Internet Measurements AIMS",
+        "description": "",
+        "dates": {
+            "date": "2011.2",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "isma_workshop_on_active_internet_measurements_aims",
+        "name": "ISMA Workshop on Active Internet Measurements AIMS",
+        "description": "",
+        "dates": {
+            "date": "2011.2",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "isma_workshop_on_active_internet_measurements_aims",
+        "name": "ISMA Workshop on Active Internet Measurements AIMS",
+        "description": "",
+        "dates": {
+            "date": "2011.2",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "isma_workshop_on_active_internet_measurements_aims",
+        "name": "ISMA Workshop on Active Internet Measurements AIMS",
+        "description": "",
+        "dates": {
+            "date": "2011.2",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "university_of_nevada_reno",
+        "name": "University of Nevada Reno",
+        "description": "",
+        "dates": {
+            "date": "2010.12",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "dhs_predict_pi_meeting",
+        "name": "DHS PREDICT PI Meeting",
+        "description": "",
+        "dates": {
+            "date": "2010.12",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "acm_sigcomm_conference_on_emerging_networking_experiments_and_technologies_conext",
+        "name": "ACM SIGCOMM Conference on emerging Networking EXperiments and Technologies CoNEXT",
+        "description": "",
+        "dates": {
+            "date": "2010.12",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "different_angles_on_network_complexity_engineering_and_science_dances",
+        "name": "Different Angles on Network Complexity Engineering and Science DANCES",
+        "description": "",
+        "dates": {
+            "date": "2010.12",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "robustness_of_complex_networks",
+        "name": "Robustness of Complex Networks",
+        "description": "",
+        "dates": {
+            "date": "2010.11",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "university_of_new_south_wales",
+        "name": "University of New South Wales",
+        "description": "",
+        "dates": {
+            "date": "2010.11",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "nicta",
+        "name": "NICTA",
+        "description": "",
+        "dates": {
+            "date": "2010.11",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "ripe_meeting",
+        "name": "RIPE Meeting",
+        "description": "",
+        "dates": {
+            "date": "2010.11",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "future_internet_and_society_a_complex_systems_perspective",
+        "name": "Future Internet and Society A Complex Systems Perspective",
+        "description": "",
+        "dates": {
+            "date": "2010.10",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "international_school_and_conference_on_network_science_netsci",
+        "name": "International School and Conference on Network Science NetSci",
+        "description": "",
+        "dates": {
+            "date": "2010.5",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "w3c_workshop_on_privacy_and_data_usage_control",
+        "name": "W3C Workshop on Privacy and Data Usage Control",
+        "description": "",
+        "dates": {
+            "date": "2010.10",
+            "url": "http://www.w3.org/2010/policy-ws/"
+        },
+        "tags": []
+    },
+    {
+        "id": "the_quilt",
+        "name": "The Quilt",
+        "description": "",
+        "dates": {
+            "date": "2010.9",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "international_teletraffic_congress_itc",
+        "name": "International Teletraffic Congress ITC",
+        "description": "",
+        "dates": {
+            "date": "2010.9",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "dhs_cybersecurity_pi_meeting",
+        "name": "DHS Cybersecurity PI Meeting",
+        "description": "",
+        "dates": {
+            "date": "2010.9",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "nsf_international_research_network_connections_irnc_workshop",
+        "name": "NSF International Research Network Connections IRNC Workshop",
+        "description": "",
+        "dates": {
+            "date": "2010.7",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "toward_evolutive_routing_algorithms_for_scalefreeinternetlike_networks_teranet",
+        "name": "Toward Evolutive Routing Algorithms for scalefreeinternetlike NETworks TERANET",
+        "description": "",
+        "dates": {
+            "date": "2010.7",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "dhs_predict_pi_meeting",
+        "name": "DHS PREDICT PI Meeting",
+        "description": "",
+        "dates": {
+            "date": "2010.7",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "north_american_network_operators_group_nanog",
+        "name": "North American Network Operators Group NANOG",
+        "description": "",
+        "dates": {
+            "date": "2010.6",
+            "url": "https://www.nanog.org/meetings/nanog49/home"
+        },
+        "tags": []
+    },
+    {
+        "id": "international_workshop_on_traffic_analysis_and_classification_trac",
+        "name": "International Workshop on TRaffic Analysis and Classification TRAC",
+        "description": "",
+        "dates": {
+            "date": "2010.6",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "algorithms_for_modern_massive_data_sets_mmds",
+        "name": "Algorithms for Modern Massive Data Sets MMDS",
+        "description": "",
+        "dates": {
+            "date": "2010.6",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "international_school_and_conference_on_network_science_netsci",
+        "name": "International School and Conference on Network Science NetSci",
+        "description": "",
+        "dates": {
+            "date": "2010.5",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "sprint_electronic_crimes_task_force_ectf",
+        "name": "Sprint Electronic Crimes Task Force ECTF",
+        "description": "",
+        "dates": {
+            "date": "2010.5",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "nsf_workshop_on_shared_organizing_principles_in_the_computing_and_biological_sciences",
+        "name": "NSF Workshop on Shared Organizing Principles in the Computing and Biological Sciences",
+        "description": "",
+        "dates": {
+            "date": "2010.5",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "center_for_complex_network_research_ccnr",
+        "name": "Center for Complex Network Research CCNR",
+        "description": "",
+        "dates": {
+            "date": "2010.5",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "widecasfi",
+        "name": "WIDECASFI",
+        "description": "",
+        "dates": {
+            "date": "2010.4",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "traffic_monitoring_and_analysis",
+        "name": "Traffic Monitoring and Analysis",
+        "description": "",
+        "dates": {
+            "date": "2010.4",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "widecasfi",
+        "name": "WIDECASFI",
+        "description": "",
+        "dates": {
+            "date": "2010.4",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "isma_workshop_on_active_internet_measurements_aims",
+        "name": "ISMA Workshop on Active Internet Measurements AIMS",
+        "description": "",
+        "dates": {
+            "date": "2010.2",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "passive_and_active_measurement_conference_pam",
+        "name": "Passive and Active Measurement Conference PAM",
+        "description": "",
+        "dates": {
+            "date": "2010.4",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "ieee_conference_on_computer_communications_infocom",
+        "name": "IEEE Conference on Computer Communications INFOCOM",
+        "description": "",
+        "dates": {
+            "date": "2010.3",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "ucsd_cse_syslunch",
+        "name": "UCSD CSE Syslunch",
+        "description": "",
+        "dates": {
+            "date": "2010.3",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "nsf_geni_engineering_conference_gec",
+        "name": "NSF GENI Engineering Conference GEC",
+        "description": "",
+        "dates": {
+            "date": "2010.3",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "isma_workshop_on_active_internet_measurements_aims",
+        "name": "ISMA Workshop on Active Internet Measurements AIMS",
+        "description": "",
+        "dates": {
+            "date": "2010.2",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "isma_workshop_on_active_internet_measurements_aims",
+        "name": "ISMA Workshop on Active Internet Measurements AIMS",
+        "description": "",
+        "dates": {
+            "date": "2010.2",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "dhs_predict_pi_meeting",
+        "name": "DHS PREDICT PI Meeting",
+        "description": "",
+        "dates": {
+            "date": "2010.2",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "isma_workshop_on_active_internet_measurements_aims",
+        "name": "ISMA Workshop on Active Internet Measurements AIMS",
+        "description": "",
+        "dates": {
+            "date": "2010.2",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "workshop_on_ethics_in_computer_security_research",
+        "name": "Workshop on Ethics in Computer Security Research",
+        "description": "",
+        "dates": {
+            "date": "2010.1",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "decision_making_a_psychophysics_application_of_network_science",
+        "name": "Decision Making A Psychophysics Application of Network Science",
+        "description": "",
+        "dates": {
+            "date": "2010.1",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "fcc_technical_advisory_process_workshop",
+        "name": "FCC Technical Advisory Process Workshop",
+        "description": "",
+        "dates": {
+            "date": "2009.12",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "africaasia_forum_workshop",
+        "name": "AfricaAsia Forum Workshop",
+        "description": "",
+        "dates": {
+            "date": "2009.11",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "engaging_data_first_international_forum_on_the_application_and_management_of_personal_electronic_information",
+        "name": "Engaging Data First International Forum on the Application and Management of Personal Electronic Information",
+        "description": "",
+        "dates": {
+            "date": "2009.10",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "usc_center_for_applied_mathematical_sciences_colloquia",
+        "name": "USC Center for Applied Mathematical Sciences Colloquia",
+        "description": "",
+        "dates": {
+            "date": "2009.10",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "southern_california_symposium_on_network_economics_and_game_theory_socal_negt",
+        "name": "Southern California Symposium on Network Economics and Game Theory SoCal NEGT",
+        "description": "",
+        "dates": {
+            "date": "2009.10",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "dhs_cybersecurity_pi_meeting",
+        "name": "DHS Cybersecurity PI Meeting",
+        "description": "",
+        "dates": {
+            "date": "2009.9",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "dhs_predict_pi_meeting",
+        "name": "DHS PREDICT PI Meeting",
+        "description": "",
+        "dates": {
+            "date": "2009.8",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "dhs_directorate_for_science_and_technology_workshop",
+        "name": "DHS Directorate for Science and Technology Workshop",
+        "description": "",
+        "dates": {
+            "date": "2009.6",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "acm_sigmetrics_mama",
+        "name": "ACM SIGMETRICS MAMA",
+        "description": "",
+        "dates": {
+            "date": "2009.6",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "telefonica_research",
+        "name": "Telefonica Research",
+        "description": "",
+        "dates": {
+            "date": "2009.6",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "dhs_directorate_for_science_and_technology_workshop",
+        "name": "DHS Directorate for Science and Technology Workshop",
+        "description": "",
+        "dates": {
+            "date": "2009.5",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "federal_communications_commission_fcc",
+        "name": "Federal Communications Commission FCC",
+        "description": "",
+        "dates": {
+            "date": "2009.5",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "widecasfi",
+        "name": "WIDECASFI",
+        "description": "",
+        "dates": {
+            "date": "2009.4",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "widecasfi",
+        "name": "WIDECASFI",
+        "description": "",
+        "dates": {
+            "date": "2009.4",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "nets_find",
+        "name": "NeTS FIND",
+        "description": "",
+        "dates": {
+            "date": "2009.4",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "widecasfi",
+        "name": "WIDECASFI",
+        "description": "",
+        "dates": {
+            "date": "2009.4",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "widecasfi",
+        "name": "WIDECASFI",
+        "description": "",
+        "dates": {
+            "date": "2009.4",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "widecasfi",
+        "name": "WIDECASFI",
+        "description": "",
+        "dates": {
+            "date": "2009.4",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "widecasfi",
+        "name": "WIDECASFI",
+        "description": "",
+        "dates": {
+            "date": "2009.4",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "ntia_broadband_technology_opportunities_program",
+        "name": "NTIA Broadband Technology Opportunities Program",
+        "description": "",
+        "dates": {
+            "date": "2009.3",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "simulation_interoperability_workshop",
+        "name": "Simulation Interoperability Workshop",
+        "description": "",
+        "dates": {
+            "date": "2009.3",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "dns_rssac_meeting",
+        "name": "DNS RSSAC Meeting",
+        "description": "",
+        "dates": {
+            "date": "2009.3",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "isma_workshop_on_active_internet_measurements_aims",
+        "name": "ISMA Workshop on Active Internet Measurements AIMS",
+        "description": "",
+        "dates": {
+            "date": "2009.2",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "international_conference_on_complex_sciences_complex",
+        "name": "International Conference on Complex Sciences Complex",
+        "description": "",
+        "dates": {
+            "date": "2009.2",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "isma_workshop_on_active_internet_measurements_aims",
+        "name": "ISMA Workshop on Active Internet Measurements AIMS",
+        "description": "",
+        "dates": {
+            "date": "2009.2",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "isoi",
+        "name": "ISOI",
+        "description": "",
+        "dates": {
+            "date": "2009.1",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "bcnet_workshop",
+        "name": "BCNet Workshop",
+        "description": "",
+        "dates": {
+            "date": "2008.12",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "uchile_jornadas_chilenas_de_computacion_jccc",
+        "name": "UChile  Jornadas Chilenas de Computacion JCCC",
+        "description": "",
+        "dates": {
+            "date": "2008.11",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "arin",
+        "name": "ARIN",
+        "description": "",
+        "dates": {
+            "date": "2008.10",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "acm_internet_measurement_conference_imc",
+        "name": "ACM Internet Measurement Conference IMC",
+        "description": "",
+        "dates": {
+            "date": "2008.10",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "dhssri_infosec_technology_transition_council_meeting",
+        "name": "DHSSRI Infosec Technology Transition Council Meeting",
+        "description": "",
+        "dates": {
+            "date": "2008.10",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "moment",
+        "name": "MOMENT",
+        "description": "",
+        "dates": {
+            "date": "2008.9",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "caidawidecasfi_joint_measurement_workshop",
+        "name": "CAIDAWIDECASFI Joint Measurement Workshop",
+        "description": "",
+        "dates": {
+            "date": "2008.8",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "dhs_cybersecurity_pi_meeting",
+        "name": "DHS Cybersecurity PI Meeting",
+        "description": "",
+        "dates": {
+            "date": "2008.9",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "widecasfi",
+        "name": "WIDECASFI",
+        "description": "",
+        "dates": {
+            "date": "2008.8",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "moment",
+        "name": "MOMENT",
+        "description": "",
+        "dates": {
+            "date": "2008.9",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "widecasfi",
+        "name": "WIDECASFI",
+        "description": "",
+        "dates": {
+            "date": "2008.8",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "widecasfi",
+        "name": "WIDECASFI",
+        "description": "",
+        "dates": {
+            "date": "2008.8",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "caida",
+        "name": "CAIDA",
+        "description": "",
+        "dates": {
+            "date": "2003.1",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "santa_fe_institute_sfi",
+        "name": "Santa Fe Institute SFI",
+        "description": "",
+        "dates": {
+            "date": "2008.8",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "santa_fe_institute_sfi",
+        "name": "Santa Fe Institute SFI",
+        "description": "",
+        "dates": {
+            "date": "2008.8",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "widecasfi",
+        "name": "WIDECASFI",
+        "description": "",
+        "dates": {
+            "date": "2008.8",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "widecasfi",
+        "name": "WIDECASFI",
+        "description": "",
+        "dates": {
+            "date": "2008.8",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "oarc",
+        "name": "OARC",
+        "description": "",
+        "dates": {
+            "date": "2008.6",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "oarc",
+        "name": "OARC",
+        "description": "",
+        "dates": {
+            "date": "2008.6",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "various",
+        "name": "Various",
+        "description": "",
+        "dates": {
+            "date": "2008.6",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "dhs_predict_pi_meeting",
+        "name": "DHS PREDICT PI Meeting",
+        "description": "",
+        "dates": {
+            "date": "2008.5",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "university_of_aveiro",
+        "name": "University of Aveiro",
+        "description": "",
+        "dates": {
+            "date": "2008.5",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "arin",
+        "name": "ARIN",
+        "description": "",
+        "dates": {
+            "date": "2008.4",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "north_american_network_operators_group_nanog",
+        "name": "North American Network Operators Group NANOG",
+        "description": "",
+        "dates": {
+            "date": "2008.2",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "wide",
+        "name": "WIDE",
+        "description": "",
+        "dates": {
+            "date": "2008.1",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "wide",
+        "name": "WIDE",
+        "description": "",
+        "dates": {
+            "date": "2008.1",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "wide",
+        "name": "WIDE",
+        "description": "",
+        "dates": {
+            "date": "2008.1",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "wide",
+        "name": "WIDE",
+        "description": "",
+        "dates": {
+            "date": "2008.1",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "wide",
+        "name": "WIDE",
+        "description": "",
+        "dates": {
+            "date": "2008.1",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "wide",
+        "name": "WIDE",
+        "description": "",
+        "dates": {
+            "date": "2008.1",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "wide",
+        "name": "WIDE",
+        "description": "",
+        "dates": {
+            "date": "2008.1",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "wide",
+        "name": "WIDE",
+        "description": "",
+        "dates": {
+            "date": "2008.1",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "wide",
+        "name": "WIDE",
+        "description": "",
+        "dates": {
+            "date": "2008.1",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "university_of_waikato_department_of_computer_science_seminars",
+        "name": "University of Waikato Department of Computer Science Seminars",
+        "description": "",
+        "dates": {
+            "date": "2007.12",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "oarc",
+        "name": "OARC",
+        "description": "",
+        "dates": {
+            "date": "2007.11",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "oarc",
+        "name": "OARC",
+        "description": "",
+        "dates": {
+            "date": "2007.11",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "oarc",
+        "name": "OARC",
+        "description": "",
+        "dates": {
+            "date": "2007.10",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "oarc",
+        "name": "OARC",
+        "description": "",
+        "dates": {
+            "date": "2007.10",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "att_research",
+        "name": "ATT Research",
+        "description": "",
+        "dates": {
+            "date": "2007.9",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "national_institute_of_standards_and_technology_nist",
+        "name": "National Institute of Standards and Technology NIST",
+        "description": "",
+        "dates": {
+            "date": "2007.9",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "ibmcambridge",
+        "name": "IBMCambridge",
+        "description": "",
+        "dates": {
+            "date": "2007.9",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "oarc",
+        "name": "OARC",
+        "description": "",
+        "dates": {
+            "date": "2007.7",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "conference_on_detection_of_intrusions_and_malware_and_vulnerability_assessment_dimva",
+        "name": "Conference on Detection of Intrusions and Malware and Vulnerability Assessment DIMVA",
+        "description": "",
+        "dates": {
+            "date": "2007.7",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "wide",
+        "name": "WIDE",
+        "description": "",
+        "dates": {
+            "date": "2007.7",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "wide",
+        "name": "WIDE",
+        "description": "",
+        "dates": {
+            "date": "2007.7",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "wide",
+        "name": "WIDE",
+        "description": "",
+        "dates": {
+            "date": "2007.7",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "terena_networking_conference",
+        "name": "TERENA Networking Conference",
+        "description": "",
+        "dates": {
+            "date": "2007.5",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "terena_networking_conference",
+        "name": "TERENA Networking Conference",
+        "description": "",
+        "dates": {
+            "date": "2007.5",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "ucsd_cse_syslunch",
+        "name": "UCSD CSE Syslunch",
+        "description": "",
+        "dates": {
+            "date": "2007.4",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "isoi",
+        "name": "ISOI",
+        "description": "",
+        "dates": {
+            "date": "2007.1",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "caida",
+        "name": "CAIDA",
+        "description": "",
+        "dates": {
+            "date": "2006.12",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "wide",
+        "name": "WIDE",
+        "description": "",
+        "dates": {
+            "date": "2006.11",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "internet_engineering_task_force_ietf",
+        "name": "Internet Engineering Task Force IETF",
+        "description": "",
+        "dates": {
+            "date": "2006.11",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "oarc",
+        "name": "OARC",
+        "description": "",
+        "dates": {
+            "date": "2006.11",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "wide",
+        "name": "WIDE",
+        "description": "",
+        "dates": {
+            "date": "2006.11",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "dns_rssac_meeting",
+        "name": "DNS RSSAC Meeting",
+        "description": "",
+        "dates": {
+            "date": "2006.11",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "wide",
+        "name": "WIDE",
+        "description": "",
+        "dates": {
+            "date": "2006.11",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "flocon",
+        "name": "FloCon",
+        "description": "",
+        "dates": {
+            "date": "2006.10",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "the_quilt",
+        "name": "The Quilt",
+        "description": "",
+        "dates": {
+            "date": "2006.10",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "muni_wireless_conference",
+        "name": "Muni Wireless Conference",
+        "description": "",
+        "dates": {
+            "date": "2006.10",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "alternative_telecommunications_policy",
+        "name": "Alternative Telecommunications Policy",
+        "description": "",
+        "dates": {
+            "date": "2006.10",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "ripe_meeting",
+        "name": "RIPE Meeting",
+        "description": "",
+        "dates": {
+            "date": "2006.10",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "internet_engineering_and_planning_group_iepg",
+        "name": "Internet Engineering and Planning Group IEPG",
+        "description": "",
+        "dates": {
+            "date": "2006.7",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "root_server_system_advisory_committee_rssac",
+        "name": "Root Server System Advisory Committee RSSAC",
+        "description": "",
+        "dates": {
+            "date": "2006.7",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "intimate_workshop",
+        "name": "Intimate Workshop",
+        "description": "",
+        "dates": {
+            "date": "2006.7",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "laboratoire_dinformatique_algorithmique_fondements_et_applications_liafa",
+        "name": "Laboratoire dInformatique Algorithmique Fondements et Applications LIAFA",
+        "description": "",
+        "dates": {
+            "date": "2006.6",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "wide",
+        "name": "WIDE",
+        "description": "",
+        "dates": {
+            "date": "2006.6",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "lip6",
+        "name": "LIP6",
+        "description": "",
+        "dates": {
+            "date": "2006.6",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "isma_workshop_on_the_internet_topology_wit",
+        "name": "ISMA Workshop on the Internet Topology WIT",
+        "description": "",
+        "dates": {
+            "date": "2006.5",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "system_administration_and_network_engineering_conference_sane",
+        "name": "System Administration and Network Engineering Conference SANE",
+        "description": "",
+        "dates": {
+            "date": "2006.5",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "isma_workshop_on_the_internet_topology_wit",
+        "name": "ISMA Workshop on the Internet Topology WIT",
+        "description": "",
+        "dates": {
+            "date": "2006.5",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "isma_workshop_on_the_internet_topology_wit",
+        "name": "ISMA Workshop on the Internet Topology WIT",
+        "description": "",
+        "dates": {
+            "date": "2006.5",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "isma_workshop_on_the_internet_topology_wit",
+        "name": "ISMA Workshop on the Internet Topology WIT",
+        "description": "",
+        "dates": {
+            "date": "2006.5",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "uc_berkeley",
+        "name": "UC Berkeley",
+        "description": "",
+        "dates": {
+            "date": "2006.4",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "wide",
+        "name": "WIDE",
+        "description": "",
+        "dates": {
+            "date": "2006.3",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "wide",
+        "name": "WIDE",
+        "description": "",
+        "dates": {
+            "date": "2006.3",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "oecd_workshop",
+        "name": "OECD Workshop",
+        "description": "",
+        "dates": {
+            "date": "2006.3",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "wide",
+        "name": "WIDE",
+        "description": "",
+        "dates": {
+            "date": "2006.3",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "wide",
+        "name": "WIDE",
+        "description": "",
+        "dates": {
+            "date": "2006.3",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "wide",
+        "name": "WIDE",
+        "description": "",
+        "dates": {
+            "date": "2006.3",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "wide",
+        "name": "WIDE",
+        "description": "",
+        "dates": {
+            "date": "2006.3",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "dns_rssac_meeting",
+        "name": "DNS RSSAC Meeting",
+        "description": "",
+        "dates": {
+            "date": "2006.3",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "internet_engineering_and_planning_group_iepg",
+        "name": "Internet Engineering and Planning Group IEPG",
+        "description": "",
+        "dates": {
+            "date": "2006.3",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "sdsc",
+        "name": "SDSC",
+        "description": "",
+        "dates": {
+            "date": "2006.3",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "wide",
+        "name": "WIDE",
+        "description": "",
+        "dates": {
+            "date": "2006.2",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "north_american_network_operators_group_nanog",
+        "name": "North American Network Operators Group NANOG",
+        "description": "",
+        "dates": {
+            "date": "2006.2",
+            "url": "https://www.nanog.org/meetings/nanog36/home"
+        },
+        "tags": []
+    },
+    {
+        "id": "large_scale_network_lsn",
+        "name": "Large Scale Network LSN",
+        "description": "",
+        "dates": {
+            "date": "2005.11",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "arin",
+        "name": "ARIN",
+        "description": "",
+        "dates": {
+            "date": "2005.10",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "intimate_workshop",
+        "name": "Intimate Workshop",
+        "description": "",
+        "dates": {
+            "date": "2005.7",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "acm_sigmetrics",
+        "name": "ACM SIGMETRICS",
+        "description": "",
+        "dates": {
+            "date": "2005.6",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "oarc",
+        "name": "OARC",
+        "description": "",
+        "dates": {
+            "date": "2005.7",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "oarc",
+        "name": "OARC",
+        "description": "",
+        "dates": {
+            "date": "2005.7",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "oarc",
+        "name": "OARC",
+        "description": "",
+        "dates": {
+            "date": "2005.7",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "internet_initiative_japan_iij",
+        "name": "Internet Initiative Japan IIJ",
+        "description": "",
+        "dates": {
+            "date": "2005.6",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "optoelectronics_industry_development_association_oida",
+        "name": "Optoelectronics Industry Development Association OIDA",
+        "description": "",
+        "dates": {
+            "date": "2005.6",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "auscert",
+        "name": "AUSCERT",
+        "description": "",
+        "dates": {
+            "date": "2005.5",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "workshop_on_efficient_and_experimental_algorithms_wea",
+        "name": "Workshop on Efficient and Experimental Algorithms WEA",
+        "description": "",
+        "dates": {
+            "date": "2005.5",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "communityoriented_network_measurement_infrastructure_workshop_conmi",
+        "name": "CommunityOriented Network Measurement Infrastructure Workshop CONMI",
+        "description": "",
+        "dates": {
+            "date": "2005.3",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "passive_and_active_measurement_conference_pam",
+        "name": "Passive and Active Measurement Conference PAM",
+        "description": "",
+        "dates": {
+            "date": "2005.3",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "passive_and_active_measurement_conference_pam",
+        "name": "Passive and Active Measurement Conference PAM",
+        "description": "",
+        "dates": {
+            "date": "2005.3",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "passive_and_active_measurement_conference_pam",
+        "name": "Passive and Active Measurement Conference PAM",
+        "description": "",
+        "dates": {
+            "date": "2005.3",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "wide",
+        "name": "WIDE",
+        "description": "",
+        "dates": {
+            "date": "2005.3",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "wide",
+        "name": "WIDE",
+        "description": "",
+        "dates": {
+            "date": "2005.3",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "wide",
+        "name": "WIDE",
+        "description": "",
+        "dates": {
+            "date": "2005.3",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "ucsd_research_exam",
+        "name": "UCSD Research Exam",
+        "description": "",
+        "dates": {
+            "date": "2005.3",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "cenic",
+        "name": "CENIC",
+        "description": "",
+        "dates": {
+            "date": "2005.3",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "wide",
+        "name": "WIDE",
+        "description": "",
+        "dates": {
+            "date": "2005.3",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "wide",
+        "name": "WIDE",
+        "description": "",
+        "dates": {
+            "date": "2005.3",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "uc_san_diego_thesis_proposal",
+        "name": "UC San Diego Thesis Proposal",
+        "description": "",
+        "dates": {
+            "date": "2005.3",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "wide",
+        "name": "WIDE",
+        "description": "",
+        "dates": {
+            "date": "2005.3",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "wide",
+        "name": "WIDE",
+        "description": "",
+        "dates": {
+            "date": "2005.3",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "ccied_site_visit",
+        "name": "CCIED Site Visit",
+        "description": "",
+        "dates": {
+            "date": "2004.11",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "lincoln_labs",
+        "name": "Lincoln Labs",
+        "description": "",
+        "dates": {
+            "date": "2004.9",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "bbn",
+        "name": "BBN",
+        "description": "",
+        "dates": {
+            "date": "2004.9",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "equinix_gigabit_peering_forum",
+        "name": "Equinix Gigabit Peering Forum",
+        "description": "",
+        "dates": {
+            "date": "2004.9",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "acm_internet_measurement_conference_imc",
+        "name": "ACM Internet Measurement Conference IMC",
+        "description": "",
+        "dates": {
+            "date": "2004.10",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "acm_internet_measurement_conference_imc",
+        "name": "ACM Internet Measurement Conference IMC",
+        "description": "",
+        "dates": {
+            "date": "2004.10",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "acm_sigcomm",
+        "name": "ACM SIGCOMM",
+        "description": "",
+        "dates": {
+            "date": "2004.9",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "internet_engineering_task_force_ietf",
+        "name": "Internet Engineering Task Force IETF",
+        "description": "",
+        "dates": {
+            "date": "2004.9",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "lincoln_labs",
+        "name": "Lincoln Labs",
+        "description": "",
+        "dates": {
+            "date": "2004.9",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "lincoln_labs",
+        "name": "Lincoln Labs",
+        "description": "",
+        "dates": {
+            "date": "2004.9",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "dhs_predict_pi_meeting",
+        "name": "DHS PREDICT PI Meeting",
+        "description": "",
+        "dates": {
+            "date": "2004.5",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "boston_university",
+        "name": "Boston University",
+        "description": "",
+        "dates": {
+            "date": "2004.9",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "att_research",
+        "name": "ATT Research",
+        "description": "",
+        "dates": {
+            "date": "2004.9",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "internet_engineering_task_force_ietf",
+        "name": "Internet Engineering Task Force IETF",
+        "description": "",
+        "dates": {
+            "date": "2004.8",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "san_diego_regional_information_watch_sdriw",
+        "name": "San Diego Regional Information Watch SDRIW",
+        "description": "",
+        "dates": {
+            "date": "2004.6",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "usenix_large_installation_system_administration_lisa",
+        "name": "USENIX Large Installation System Administration LISA",
+        "description": "",
+        "dates": {
+            "date": "2004.7",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "intel",
+        "name": "Intel",
+        "description": "",
+        "dates": {
+            "date": "2004.6",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "internet_statistics_and_metrics_analysis_workshop_isma",
+        "name": "Internet Statistics and Metrics Analysis Workshop ISMA",
+        "description": "",
+        "dates": {
+            "date": "2004.6",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "internet_statistics_and_metrics_analysis_workshop_isma",
+        "name": "Internet Statistics and Metrics Analysis Workshop ISMA",
+        "description": "",
+        "dates": {
+            "date": "2004.6",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "passive_and_active_measurement_conference_pam",
+        "name": "Passive and Active Measurement Conference PAM",
+        "description": "",
+        "dates": {
+            "date": "2004.4",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "wide",
+        "name": "WIDE",
+        "description": "",
+        "dates": {
+            "date": "2004.4",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "wide",
+        "name": "WIDE",
+        "description": "",
+        "dates": {
+            "date": "2004.4",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "nsf",
+        "name": "NSF",
+        "description": "",
+        "dates": {
+            "date": "2004.2",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "internet_statistics_and_metrics_analysis_workshop_isma",
+        "name": "Internet Statistics and Metrics Analysis Workshop ISMA",
+        "description": "",
+        "dates": {
+            "date": "2004.2",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "north_american_network_operators_group_nanog",
+        "name": "North American Network Operators Group NANOG",
+        "description": "",
+        "dates": {
+            "date": "2004.2",
+            "url": "https://www.nanog.org/meetings/nanog30/home"
+        },
+        "tags": []
+    },
+    {
+        "id": "intel_cambridge",
+        "name": "Intel Cambridge",
+        "description": "",
+        "dates": {
+            "date": "2004.1",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "internet_statistics_and_metrics_analysis_workshop_isma",
+        "name": "Internet Statistics and Metrics Analysis Workshop ISMA",
+        "description": "",
+        "dates": {
+            "date": "2003.12",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "usenix_large_installation_system_administration_lisa",
+        "name": "USENIX Large Installation System Administration LISA",
+        "description": "",
+        "dates": {
+            "date": "2003.10",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "north_american_network_operators_group_nanog",
+        "name": "North American Network Operators Group NANOG",
+        "description": "",
+        "dates": {
+            "date": "2003.10",
+            "url": "https://www.nanog.org/meetings/nanog29/home"
+        },
+        "tags": []
+    },
+    {
+        "id": "usenix_large_installation_system_administration_lisa",
+        "name": "USENIX Large Installation System Administration LISA",
+        "description": "",
+        "dates": {
+            "date": "2003.10",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "usenix_large_installation_system_administration_lisa",
+        "name": "USENIX Large Installation System Administration LISA",
+        "description": "",
+        "dates": {
+            "date": "2003.10",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "center_for_discrete_mathematics_and_theoretical_computer_science_dimacs",
+        "name": "Center for Discrete Mathematics and Theoretical Computer Science DIMACS",
+        "description": "",
+        "dates": {
+            "date": "2003.9",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "national_collaboratory_middleware_and_network_research_project_review",
+        "name": "National Collaboratory Middleware and Network Research Project Review",
+        "description": "",
+        "dates": {
+            "date": "2003.8",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "sony_computer_science_laboratories_inc",
+        "name": "Sony Computer Science Laboratories Inc",
+        "description": "",
+        "dates": {
+            "date": "2003.7",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "cisco",
+        "name": "Cisco",
+        "description": "",
+        "dates": {
+            "date": "2003.7",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "ieee_workshop_on_internet_applications_wiapp",
+        "name": "IEEE Workshop on Internet Applications WIAPP",
+        "description": "",
+        "dates": {
+            "date": "2003.6",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "internetworking",
+        "name": "Internetworking",
+        "description": "",
+        "dates": {
+            "date": "2003.6",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "large_scale_network_lsn",
+        "name": "Large Scale Network LSN",
+        "description": "",
+        "dates": {
+            "date": "2003.6",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "internetworking",
+        "name": "Internetworking",
+        "description": "",
+        "dates": {
+            "date": "2003.6",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "nms_pi_meeting",
+        "name": "NMS PI Meeting",
+        "description": "",
+        "dates": {
+            "date": "2003.5",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "ieee_conference_on_computer_communications_infocom",
+        "name": "IEEE Conference on Computer Communications INFOCOM",
+        "description": "",
+        "dates": {
+            "date": "2003.4",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "passive_and_active_measurement_conference_pam",
+        "name": "Passive and Active Measurement Conference PAM",
+        "description": "",
+        "dates": {
+            "date": "2003.4",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "uc_regents",
+        "name": "UC Regents",
+        "description": "",
+        "dates": {
+            "date": "2003.2",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "doe_energy_sciences_network_esnet",
+        "name": "DOE Energy Sciences Network ESnet",
+        "description": "",
+        "dates": {
+            "date": "2003.2",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "nsf",
+        "name": "NSF",
+        "description": "",
+        "dates": {
+            "date": "2003.1",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "darpa_pi_meeting",
+        "name": "DARPA PI Meeting",
+        "description": "",
+        "dates": {
+            "date": "2002.11",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "north_american_network_operators_group_nanog",
+        "name": "North American Network Operators Group NANOG",
+        "description": "",
+        "dates": {
+            "date": "2002.10",
+            "url": "https://www.nanog.org/meetings/nanog26/home"
+        },
+        "tags": []
+    },
+    {
+        "id": "ieee_international_telecommunications_symposium_its",
+        "name": "IEEE International Telecommunications Symposium ITS",
+        "description": "",
+        "dates": {
+            "date": "2002.9",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "ripe_meeting",
+        "name": "RIPE Meeting",
+        "description": "",
+        "dates": {
+            "date": "2002.9",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "usenix",
+        "name": "USENIX",
+        "description": "",
+        "dates": {
+            "date": "2002.8",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "usenix_large_installation_system_administration_lisa",
+        "name": "USENIX Large Installation System Administration LISA",
+        "description": "",
+        "dates": {
+            "date": "2001.12",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "caida",
+        "name": "CAIDA",
+        "description": "",
+        "dates": {
+            "date": "2002.7",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "north_american_network_operators_group_nanog",
+        "name": "North American Network Operators Group NANOG",
+        "description": "",
+        "dates": {
+            "date": "2002.2",
+            "url": "https://www.nanog.org/meetings/nanog24/home"
+        },
+        "tags": []
+    },
+    {
+        "id": "arin",
+        "name": "ARIN",
+        "description": "",
+        "dates": {
+            "date": "2002.4",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "sdsc",
+        "name": "SDSC",
+        "description": "",
+        "dates": {
+            "date": "2002.4",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "computer_science_and_telecommunications_board_cstb",
+        "name": "Computer Science and Telecommunications Board CSTB",
+        "description": "",
+        "dates": {
+            "date": "2002.3",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "internet_engineering_and_planning_group_iepg",
+        "name": "Internet Engineering and Planning Group IEPG",
+        "description": "",
+        "dates": {
+            "date": "2002.3",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "institute_for_pure_and_applied_mathematics_ipam",
+        "name": "Institute for Pure and Applied Mathematics IPAM",
+        "description": "",
+        "dates": {
+            "date": "2002.3",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "north_american_network_operators_group_nanog",
+        "name": "North American Network Operators Group NANOG",
+        "description": "",
+        "dates": {
+            "date": "2002.2",
+            "url": "https://www.nanog.org/meetings/nanog24/home"
+        },
+        "tags": []
+    },
+    {
+        "id": "symposium_on_applications_and_the_internet_saint",
+        "name": "Symposium on Applications and the Internet SAINT",
+        "description": "",
+        "dates": {
+            "date": "2002.1",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "internet_engineering_task_force_ietf",
+        "name": "Internet Engineering Task Force IETF",
+        "description": "",
+        "dates": {
+            "date": "2001.12",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "internet_statistics_and_metrics_analysis_workshop_isma",
+        "name": "Internet Statistics and Metrics Analysis Workshop ISMA",
+        "description": "",
+        "dates": {
+            "date": "2001.12",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "internet_engineering_task_force_ietf",
+        "name": "Internet Engineering Task Force IETF",
+        "description": "",
+        "dates": {
+            "date": "2001.12",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "internet_statistics_and_metrics_analysis_workshop_isma",
+        "name": "Internet Statistics and Metrics Analysis Workshop ISMA",
+        "description": "",
+        "dates": {
+            "date": "2001.12",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "usenix",
+        "name": "USENIX",
+        "description": "",
+        "dates": {
+            "date": "2001.12",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "internet_statistics_and_metrics_analysis_workshop_isma",
+        "name": "Internet Statistics and Metrics Analysis Workshop ISMA",
+        "description": "",
+        "dates": {
+            "date": "2001.12",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "internet_engineering_task_force_ietf",
+        "name": "Internet Engineering Task Force IETF",
+        "description": "",
+        "dates": {
+            "date": "2001.12",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "tarifica_bandwidth_seminar",
+        "name": "Tarifica Bandwidth Seminar",
+        "description": "",
+        "dates": {
+            "date": "2001.11",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "north_american_network_operators_group_nanog",
+        "name": "North American Network Operators Group NANOG",
+        "description": "",
+        "dates": {
+            "date": "2001.10",
+            "url": "https://www.nanog.org/meetings/nanog23/home"
+        },
+        "tags": []
+    },
+    {
+        "id": "caida",
+        "name": "CAIDA",
+        "description": "",
+        "dates": {
+            "date": "2001.10",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "caida",
+        "name": "CAIDA",
+        "description": "",
+        "dates": {
+            "date": "2001.10",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "internet_engineering_and_planning_group_iepg",
+        "name": "Internet Engineering and Planning Group IEPG",
+        "description": "",
+        "dates": {
+            "date": "2001.8",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "usenix",
+        "name": "USENIX",
+        "description": "",
+        "dates": {
+            "date": "2001.8",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "usenix",
+        "name": "USENIX",
+        "description": "",
+        "dates": {
+            "date": "2001.8",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "caida",
+        "name": "CAIDA",
+        "description": "",
+        "dates": {
+            "date": "2001.8",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "computer_science_and_telecommunications_board_cstb",
+        "name": "Computer Science and Telecommunications Board CSTB",
+        "description": "",
+        "dates": {
+            "date": "2001.7",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "passive_and_active_measurement_conference_pam",
+        "name": "Passive and Active Measurement Conference PAM",
+        "description": "",
+        "dates": {
+            "date": "2001.4",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "tarifica_bandwidth_seminar",
+        "name": "Tarifica Bandwidth Seminar",
+        "description": "",
+        "dates": {
+            "date": "2001.4",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "international_teletraffic_congress_itc",
+        "name": "International Teletraffic Congress ITC",
+        "description": "",
+        "dates": {
+            "date": "2001.4",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "passive_and_active_measurement_conference_pam",
+        "name": "Passive and Active Measurement Conference PAM",
+        "description": "",
+        "dates": {
+            "date": "2001.4",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "extreme_networking",
+        "name": "Extreme Networking",
+        "description": "",
+        "dates": {
+            "date": "2001.1",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "internet_statistics_and_metrics_analysis_workshop_isma",
+        "name": "Internet Statistics and Metrics Analysis Workshop ISMA",
+        "description": "",
+        "dates": {
+            "date": "2000.12",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "internet_statistics_and_metrics_analysis_workshop_isma",
+        "name": "Internet Statistics and Metrics Analysis Workshop ISMA",
+        "description": "",
+        "dates": {
+            "date": "2000.12",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "internet_statistics_and_metrics_analysis_workshop_isma",
+        "name": "Internet Statistics and Metrics Analysis Workshop ISMA",
+        "description": "",
+        "dates": {
+            "date": "2000.12",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "internet_statistics_and_metrics_analysis_workshop_isma",
+        "name": "Internet Statistics and Metrics Analysis Workshop ISMA",
+        "description": "",
+        "dates": {
+            "date": "2000.12",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "darpa_pi_meeting",
+        "name": "DARPA PI Meeting",
+        "description": "",
+        "dates": {
+            "date": "2000.10",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "caida",
+        "name": "CAIDA",
+        "description": "",
+        "dates": {
+            "date": "2000.7",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "caida",
+        "name": "CAIDA",
+        "description": "",
+        "dates": {
+            "date": "2000.7",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "caida",
+        "name": "CAIDA",
+        "description": "",
+        "dates": {
+            "date": "2000.5",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "caida",
+        "name": "CAIDA",
+        "description": "",
+        "dates": {
+            "date": "2000.4",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "xiwtiperf",
+        "name": "XIWTIPERF",
+        "description": "",
+        "dates": {
+            "date": "2000.2",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "sdsc",
+        "name": "SDSC",
+        "description": "",
+        "dates": {
+            "date": "2000.1",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "nsf",
+        "name": "NSF",
+        "description": "",
+        "dates": {
+            "date": "2000.1",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "darpa_pi_meeting",
+        "name": "DARPA PI Meeting",
+        "description": "",
+        "dates": {
+            "date": "1999.12",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "crisp_cybercrime_workshop",
+        "name": "CRISP Cybercrime Workshop",
+        "description": "",
+        "dates": {
+            "date": "1999.12",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "usenix_large_installation_system_administration_lisa",
+        "name": "USENIX Large Installation System Administration LISA",
+        "description": "",
+        "dates": {
+            "date": "1999.11",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "acm_internet_measurement_conference_imc",
+        "name": "ACM Internet Measurement Conference IMC",
+        "description": "",
+        "dates": {
+            "date": "1999.10",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "caida",
+        "name": "CAIDA",
+        "description": "",
+        "dates": {
+            "date": "1999.6",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "workshop_on_future_priorities_for_research_on_advanced_networking_and_applications",
+        "name": "Workshop on Future Priorities for Research on Advanced Networking and Applications",
+        "description": "",
+        "dates": {
+            "date": "1999.5",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "caida",
+        "name": "CAIDA",
+        "description": "",
+        "dates": {
+            "date": "1999.3",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "internet_statistics_and_metrics_analysis_workshop_isma",
+        "name": "Internet Statistics and Metrics Analysis Workshop ISMA",
+        "description": "",
+        "dates": {
+            "date": "1999.1",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "internet_statistics_and_metrics_analysis_workshop_isma",
+        "name": "Internet Statistics and Metrics Analysis Workshop ISMA",
+        "description": "",
+        "dates": {
+            "date": "1999.1",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "internet_statistics_and_metrics_analysis_workshop_isma",
+        "name": "Internet Statistics and Metrics Analysis Workshop ISMA",
+        "description": "",
+        "dates": {
+            "date": "1999.1",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "internet_statistics_and_metrics_analysis_workshop_isma",
+        "name": "Internet Statistics and Metrics Analysis Workshop ISMA",
+        "description": "",
+        "dates": {
+            "date": "1999.1",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "canadian_network_for_the_advancement_of_research_industry_and_education_canarie",
+        "name": "Canadian Network for the Advancement of Research Industry and Education CANARIE",
+        "description": "",
+        "dates": {
+            "date": "1998.12",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "caida",
+        "name": "CAIDA",
+        "description": "",
+        "dates": {
+            "date": "1998.9",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "internet_engineering_and_planning_group_iepg",
+        "name": "Internet Engineering and Planning Group IEPG",
+        "description": "",
+        "dates": {
+            "date": "1998.8",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "internet_statistics_and_metrics_analysis_workshop_isma",
+        "name": "Internet Statistics and Metrics Analysis Workshop ISMA",
+        "description": "",
+        "dates": {
+            "date": "1998.8",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "north_american_network_operators_group_nanog",
+        "name": "North American Network Operators Group NANOG",
+        "description": "",
+        "dates": {
+            "date": "1998.6",
+            "url": "https://www.nanog.org/meetings/nanog13/home"
+        },
+        "tags": []
+    },
+    {
+        "id": "caida",
+        "name": "CAIDA",
+        "description": "",
+        "dates": {
+            "date": "1998.6",
+            "url": ""
+        },
+        "tags": []
+    },
+    {
+        "id": "north_american_network_operators_group_nanog",
+        "name": "North American Network Operators Group NANOG",
+        "description": "",
+        "dates": {
+            "date": "1998.2",
+            "url": "https://www.nanog.org/meetings/nanog12/home"
+        },
+        "tags": []
+    },
+    {
+        "id": "internet_engineering_task_force_ietf",
+        "name": "Internet Engineering Task Force IETF",
+        "description": "",
+        "dates": {
+            "date": "1997.12",
+            "url": ""
+        },
+        "tags": []
+    }
+]
