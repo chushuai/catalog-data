@@ -2,7 +2,7 @@
 {
     "id": "how_to_parse_complete_routed_space_dns_lookup",
     "visibility": "public",
-    "name": "How to parse dataset complete routed space dns lookup?",
+    "name": "How to parse dataset complete routed-space dns lookup?",
     "description": "",
     "links": [{
         "to": "dataset:complete_dns_lookups_dataset"
@@ -20,8 +20,8 @@ The solution parse the dataset [Complete Routed-Space DNS Lookups](https://www.c
 
 ## **<ins> Solution </ins>**
 
-The full script could be found in `parse_completed_routed_space.py` and  download dataset `complete routed-space dns lookup` [here](https://www.caida.org/data/active/dns_lookups_dataset_request.xml)\
-**Usage:** `python parse_complete_routed_sapce_dns_lookup.py -d <dataset>`
+The full script could be found in `parse_dns_lookup.py` and  download dataset `complete routed-space dns lookup` [here](https://www.caida.org/data/active/dns_lookups_dataset_request.xml)\
+**Usage:** `python parse_dns_lookup.py -d <dataset>`
 - `-d`: *(Required)* Input dataset. Note that the script only supports dataset in  `.bz2` format.  
 
 Below is the method used to parse the dataset.   
@@ -67,8 +67,6 @@ Example of return data
         'expire': '3600000',
         'ttl': '86400'
     }
-           
-
 ~~~
  
 ##  **<ins> Background </ins>**
@@ -83,15 +81,15 @@ In the 2014-08-22 dataset, we queried 2.7 billion addresses in 10.6 million /24 
 - More information and download dataset [here](https://www.caida.org/data/active/complete_dns_lookups_dataset.xml)
 
 
-#### File Format
+### File Format
 There are two kinds of file format.
 
-##### PTR files
+#### PTR files
 PTR files contain one PTR record  per line, with the following
 fields separated by tabs:
 ~~~
-    timestamp   IP_address       hostname
-    1537482068  192.172.226.123  cider.caida.org
+timestamp   IP_address       hostname
+1537482068  192.172.226.123  cider.caida.org
 ~~~
 The timestamp indicates when we obtained the DNS result.
 
@@ -108,12 +106,12 @@ since they provide useful information.  We also no longer use the special
 FAIL. .in-addr.arpa hostnames; we simply leave out any failed lookups from
 the dataset files.
 
-#### SOA files
+### SOA files
 
 SOA files contain one SOA record per line, with the following fields separated by tabs: 
 ~~~
-   timestamp   IP_address       name                      ns          mbox                   serial     refresh  retry  expire   ttl
-   1537482068  192.172.226.123  226.172.192.in-addr.arpa. caida.org.  postmaster.caida.org.  201808220  86400    300    3600000  86400
+timestamp   IP_address       name                      ns          mbox                   serial     refresh  retry  expire   ttl
+1537482068  192.172.226.123  226.172.192.in-addr.arpa. caida.org.  postmaster.caida.org.  201808220  86400    300    3600000  86400
 ~~~
 where
 | Field    | Description |
