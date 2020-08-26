@@ -16,40 +16,58 @@
 }
 ~~~
 ## **<ins> Introduction </ins>**
-The solution parse the dataset [Complete Routed-Space DNS Lookups](https://www.caida.org/data/active/complete_dns_lookups_dataset.xml) and return .
+The solution parse the dataset [Complete Routed-Space DNS Lookups](https://www.caida.org/data/active/complete_dns_lookups_dataset.xml) and return the data in dictionary format.
 
 ## **<ins> Solution </ins>**
 
-The full script could be found in `parse_completed_routed_space.py` \
+The full script could be found in `parse_completed_routed_space.py` and  download dataset `complete routed-space dns lookup` [here](https://www.caida.org/data/active/dns_lookups_dataset_request.xml)\
 **Usage:** `python parse_complete_routed_sapce_dns_lookup.py -d <dataset>`
-- `-d`: *(Required)* Input dataset. Note that the script supports dataset in `.txt` and `.bz2` format, so users do not have to unarchieve `.bz2` file.  
+- `-d`: *(Required)* Input dataset. Note that the script only supports dataset in  `.bz2` format.  
 
-
-Below are the methods used to read the data.   
+Below is the method used to parse the dataset.   
 ~~~python 
-# for .bz2 file
-def parse_bz2(file):
-    with bz2.open(file,mode='r') as f:
-        for line in f:
-            line = line.decode()
-            print(line)
+def parse_bz2(directory):
+    data = {} # return data
+    fields = [] # fields of data
 
-# for txt file
-def parse_txt(file):
-    with open(file) as f:
+    # determine the fields of the data
+    filename = directory.split('/')[-1]
+    if 'ptr' in filename:
+        fields  = ['timestamp', 'IP_address', 'hostname']
+    elif 'soa' in filename:
+        fields = ['timestamp', 'IP_address', 'name', 'ns', 'mbox', 'serial', 'refresh', 'retry', 'expire', 'ttl']
+    
+    # parse .bz2 file
+    with bz2.open(directory, mode='r') as f:
         for line in f:
-            print(line)
-
+            line = line.decode().strip().split()
+            for i, field in enumerate(fields):
+                data[field] = line[i]
+            print(data)
 ~~~
-Returning format
+Example of return data
 ~~~
 # PTR
-    timestamp   IP_address      hostname
-    1537482068  192.172.226.123 cider.caida.org
+    {
+        'timestamp': '1537482068',
+        'IP_address': '192.172.226.123',
+        'hostname': 'cider.caida.org'
+    }
 
 # SOA
-   timestamp   IP_address       name                      ns         mbox                  serial    refresh  retry  expire  ttl
-   1537482068  192.172.226.123  226.172.192.in-addr.arpa. caida.org. postmaster.caida.org. 201808220 86400    300    3600000 86400
+    {
+        'timestamp': '1537482068',
+        'IP_address': '192.172.226.123',
+        'name': '226.172.192.in-addr.arpa.',
+        'ns': 'caida.org.',
+        'mbox': 'postmaster.caida.org.',
+        'serial': '201808220',
+        'refresh': '86400',
+        'retry': '300',
+        'expire': '3600000',
+        'ttl': '86400'
+    }
+           
 
 ~~~
  
@@ -72,8 +90,8 @@ There are two kinds of file format.
 PTR files contain one PTR record  per line, with the following
 fields separated by tabs:
 ~~~
-    timestamp   IP_address      hostname
-    1537482068  192.172.226.123 cider.caida.org
+    timestamp   IP_address       hostname
+    1537482068  192.172.226.123  cider.caida.org
 ~~~
 The timestamp indicates when we obtained the DNS result.
 
@@ -92,10 +110,10 @@ the dataset files.
 
 #### SOA files
 
-SOA files contain one SOA record per line, with the following
-fields separated by tabs: 
+SOA files contain one SOA record per line, with the following fields separated by tabs: 
 ~~~
-   timestamp  IP_address  name  ns  mbox  serial  refresh  retry  expire  ttl
+   timestamp   IP_address       name                      ns          mbox                   serial     refresh  retry  expire   ttl
+   1537482068  192.172.226.123  226.172.192.in-addr.arpa. caida.org.  postmaster.caida.org.  201808220  86400    300    3600000  86400
 ~~~
 where
 | Field    | Description |
@@ -107,13 +125,6 @@ where
 |  retry     | number of seconds before a failed refresh should be retried |
 |  expire    | upper limit (seconds) before a zone is considered no longer authoritative |
 |  ttl       | negative result time to live (TTL) |
-
-
-
-For example,
-~~~
-   1537482068  192.172.226.123  226.172.192.in-addr.arpa. caida.org. postmaster.caida.org. 201808220 86400   300   3600000 86400
-~~~
 
 
 
