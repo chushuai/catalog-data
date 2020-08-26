@@ -91,17 +91,15 @@ fields separated by tabs:
 timestamp   IP_address       hostname
 1537482068  192.172.226.123  cider.caida.org
 ~~~
-The timestamp indicates when we obtained the DNS result.
+- The timestamp indicates when we obtained the DNS result.
 
-In datasets prior to 2018-08-23, we lowercase the hostnames of successful
-results, and use uppercase characters to indicate lookup errors.  Here are
-some examples of errors:
+- In datasets prior to 2018-08-23, we lowercase the hostnames of successful results, and use uppercase characters to indicate lookup errors.  Here are some examples of errors:
 
-- FAIL.NON-AUTHORITATIVE.in-addr.arpa
-- FAIL.SERVER-FAILURE.in-addr.arpa
-- FAIL.TIMEOUT.in-addr.arpa
+  - FAIL.NON-AUTHORITATIVE.in-addr.arpa
+  - FAIL.SERVER-FAILURE.in-addr.arpa
+  - FAIL.TIMEOUT.in-addr.arpa
 
-In datasets starting with 2018-08-23, we leave the case of hostnames alone,
+- In datasets starting with 2018-08-23, we leave the case of hostnames alone,
 since they provide useful information.  We also no longer use the special
 FAIL. .in-addr.arpa hostnames; we simply leave out any failed lookups from
 the dataset files.
