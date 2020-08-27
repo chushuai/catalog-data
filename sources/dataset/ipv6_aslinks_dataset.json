@@ -1,0 +1,19 @@
+{
+    "id": "ipv6_aslinks_dataset",
+    "name": "IPv6 AS Links Dataset",
+    "description": "This dataset is useful for studying the topology of the Internet at the level of Autonomous Systems (ASes), which are approximately network(s) under a single administrative control.",
+    "tags": [
+        "active",
+        "topology",
+        "as",
+        "as-link",
+        "ipv6"
+    ],
+    "status": "active",
+    "resources": [
+        {
+            "name": "webpage",
+            "url": "https://www.caida.org/data/active/ipv6_aslinks_dataset.xml"
+        }
+    ]
+}
