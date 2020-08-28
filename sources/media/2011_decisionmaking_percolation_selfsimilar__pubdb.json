@@ -1,0 +1,36 @@
+{
+    "id": "2011_decisionmaking_percolation_selfsimilar",
+    "name": "Percolation in self-similar networks",
+    "description": "",
+    "tags": [
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Decision Making: Bridging Psychophysics and Neurophysiology",
+            "date": "2011.03",
+            "url": "",
+            "person": "person:Krioukov__Dmitri"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2011_decisionmaking_percolation_selfsimilar__pubdb.json",
+    "pubdb_id": "presentation303",
+    "resources": [
+        {
+            "name": "Powerpoint",
+            "url": "https://www.caida.org/publications/presentations/2011/decisionmaking_percolation_selfsimilar/decisionmaking_percolation_selfsimilar.pptx",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2011/percolation_self_similar_networks",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2011.03"
+}

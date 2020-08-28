@@ -1,0 +1,35 @@
+{
+    "id": "2017_dibbs_ei_wide",
+    "name": "DIBBS EI: Platform for Applied Network Data Analysis (PANDA)",
+    "description": "",
+    "tags": [
+        "overview",
+        "software/tools",
+        "active data analysis",
+        "passive data analysis",
+        "security"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "CAIDA-WIDE",
+            "date": "2017.11",
+            "url": "http://www.caida.org/workshops/wide/1711/",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2017_dibbs_ei_wide__pubdb.json",
+    "pubdb_id": "presentation495",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2017/dibbs_ei_wide/dibbs_ei_wide.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2017.11"
+}

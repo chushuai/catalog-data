@@ -1,0 +1,32 @@
+{
+    "id": "2005_arin",
+    "name": "apocalypse then: ipv4 address space depletion",
+    "description": "",
+    "tags": [
+        "internet id consumption",
+        "policy"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "ARIN",
+            "date": "2005.10",
+            "url": "",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2005_arin__pubdb.json",
+    "pubdb_id": "presentation160",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2005/arin/arin200510.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2005.10"
+}

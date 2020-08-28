@@ -1,0 +1,31 @@
+{
+    "id": "2014_harmonizing_ethical_legal_issues_haspt",
+    "name": "How to Throw the Race to the Bottom: Harmonizing Ethical & Legal Issues with ICT Research Using Online Data",
+    "description": "An [updated version](http://www.caida.org/publications/presentations/2014/revisiting_signals_noise_ubicomp) of this slideset is also available.",
+    "tags": [
+        "policy"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Human Aspects of Security, Privacy & Trust",
+            "date": "2014.06",
+            "url": "",
+            "person": "person:Kenneally__Erin"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2014_harmonizing_ethical_legal_issues_haspt__pubdb.json",
+    "pubdb_id": "presentation392",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2014/harmonizing_ethical_legal_issues_haspt/harmonizing_ethical_legal_issues_haspt.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2014.06"
+}

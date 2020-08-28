@@ -1,0 +1,39 @@
+{
+    "id": "2020_towards_open_knowledge_network_nist",
+    "name": "Towards an Open Knowledge Network about Properties of the Internet Identifier Systems",
+    "description": "",
+    "tags": [
+        "topology",
+        "data",
+        "data sharing",
+        "security"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "National Institute of Standards and Technology (NIST)",
+            "date": "2020.01",
+            "url": "",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2020_towards_open_knowledge_network_nist__pubdb.json",
+    "pubdb_id": "presentation565",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2020/towards_open_knowledge_network_nist/towards_open_knowledge_network_nist.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Project",
+            "url": "https://www.caida.org/funding/okn-kismet/",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2020.01"
+}

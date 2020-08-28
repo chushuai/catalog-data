@@ -1,0 +1,31 @@
+{
+    "id": "2000_vrmulti",
+    "name": "VisualizeR 2000: Networked Collaborative Environment for VR-Multimedia Synthesis",
+    "description": "",
+    "tags": [
+        "visualization"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "SDSC",
+            "date": "2000.01",
+            "url": "",
+            "person": "person:Murray__Margaret"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2000_vrmulti__pubdb.json",
+    "pubdb_id": "presentation61",
+    "resources": [
+        {
+            "name": "HTML slides",
+            "url": "https://www.caida.org/publications/presentations/2000/vrmulti/index.html",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2000.01"
+}

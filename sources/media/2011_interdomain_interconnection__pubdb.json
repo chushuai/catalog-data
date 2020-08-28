@@ -1,0 +1,33 @@
+{
+    "id": "2011_interdomain_interconnection",
+    "name": "An Agent-based Model of Interdomain Interconnection in the Internet",
+    "description": "",
+    "tags": [
+        "topology",
+        "routing",
+        "economics"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Different Angles on Network Complexity, Engineering, and Science (DANCES)",
+            "date": "2011.02",
+            "url": "",
+            "person": "person:Dhamdhere__Amogh"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2011_interdomain_interconnection__pubdb.json",
+    "pubdb_id": "presentation313",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2011/interdomain_interconnection/interdomain_interconnection.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2011.02"
+}

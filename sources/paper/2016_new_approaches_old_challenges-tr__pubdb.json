@@ -1,0 +1,92 @@
+{
+    "id": "2016_new_approaches_old_challenges-tr",
+    "name": "New Approaches to Old Challenges with AS Traceroute",
+    "datePublished": "2016.11",
+    "description": "We review the methodological challenges in the state-of-the-art capabilities for real-time inference of paths that packets travel across the Internet, at the granularity of network service providers, i.e., autonomous system, or ASes. AS path inferences based on control-plane (BGP) data lead to inaccuracies, so researchers have attempted to use traceroute-based inferences to mitigate these inaccuracies, although without a formal framework for doing so. In this work, we improve the state-of-the-art technology for inferring AS paths traversed by traceroute probes in three ways: (i) we introduce a framework to systematically evaluate when different approaches lead to wrong inferences; (ii) we present a methodology that by combining previous and novel inference heuristics yields better accuracy; (iii) we implement in a software tool this methodology and two other methodologies for comparative evaluation. We describe the process we used to construct AS-level paths, the set of heuristics we use to evaluate them, and the tool in which we implemented these heuristics. A more comprehensive evaluation and refinement of these heuristics is future work; we report on the current state of one of the most daunting unresolved measurement challenges on the Internet.",
+    "annotation": "Contact authors or info@caida.org for a draft copy of this technical report.",
+    "tags": [
+        "active data analysis",
+        "measurement methodology",
+        "software/tools",
+        "routing",
+        "topology"
+    ],
+    "pubdb_id": "paper624",
+    "authors": [
+        {
+            "person": "person:Dainotti__Alberto",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Luckie__Matthew",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:King__Alistair",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Faggiani__Adriano",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Orsini__Chiara",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Huffaker__Bradley",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Giotsas__Vasileios",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:claffy__kc",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        }
+    ],
+    "links": [],
+    "booktitle": "",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2016_new_approaches_old_challenges-tr__pubdb.json",
+    "publisher": "Center for Applied Internet Data Analysis (CAIDA)",
+    "resources": [
+        {
+            "name": "Related Tool",
+            "url": "https://www.caida.org/tools/utilities/astraceroute/",
+            "tags": []
+        },
+        {
+            "name": "Request a copy by email",
+            "url": "mailto:info@caida.org",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "TECHREPORT",
+        "institution": "Center for Applied Internet Data Analysis (CAIDA)"
+    },
+    "date": "2016.11"
+}

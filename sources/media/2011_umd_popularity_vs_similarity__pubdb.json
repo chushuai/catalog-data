@@ -1,0 +1,38 @@
+{
+    "id": "2011_umd_popularity_vs_similarity",
+    "name": "Popularity versus Similarity in Growing Networks",
+    "description": "",
+    "tags": [
+        "routing",
+        "topology",
+        "network geometry"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "University of Maryland",
+            "date": "2011.11",
+            "url": "",
+            "person": "person:Krioukov__Dmitri"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2011_umd_popularity_vs_similarity__pubdb.json",
+    "pubdb_id": "presentation56",
+    "resources": [
+        {
+            "name": "Powerpoint",
+            "url": "https://www.caida.org/publications/presentations/2011/umd_popularity_vs_similarity/umd_popularity_vs_similarity.pptx",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2012/popularity_vs_similarity",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2011.11"
+}

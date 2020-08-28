@@ -1,0 +1,45 @@
+{
+    "id": "2018_hyperpapers_open_coauthoring_aims",
+    "name": "A Conversation on Hyperpapers & Open Co-Authoring",
+    "description": "",
+    "tags": [
+        "education",
+        "policy",
+        "software/tools",
+        "overview"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "Workshop on Active Internet Measurements (AIMS)",
+            "date": "2018.03",
+            "url": "http://www.caida.org/workshops/aims/1803/",
+            "person": "person:Dainotti__Alberto"
+        },
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "Dagstuhl Seminar",
+            "date": "2018.10",
+            "url": "https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=18412",
+            "person": "person:Dainotti__Alberto"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2018_hyperpapers_open_coauthoring_aims__pubdb.json",
+    "pubdb_id": "presentation506",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2018/hyperpapers_open_coauthoring_aims/hyperpapers_open_coauthoring_aims.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2018.10"
+}

@@ -1,0 +1,62 @@
+{
+    "id": "2006_conmi",
+    "name": "Community-Oriented Network Measurement Infrastructure (CONMI) Workshop Report",
+    "datePublished": "2006.04",
+    "description": "This report summarizes issues discussed at the first CONMI workshop held on 30 March 2005 in Boston, Massachusetts. Sponsored\r\nby the National Science Foundation\u2019s Office of Cyberinfrastructure (OCI-0532233), the workshop was intended to begin\r\na discussion regarding the viability and utility of a community-oriented network measurement infrastructure. This report was\r\npublished 20 December 2005 online at: https://www.caida.org/outreach/workshops/conmi/",
+    "annotation": "",
+    "tags": [
+        "policy",
+        "topology",
+        "workshop report"
+    ],
+    "pubdb_id": "paper47",
+    "authors": [
+        {
+            "person": "person:claffy__kc",
+            "organizations": []
+        },
+        {
+            "person": "person:Crovella__Mark",
+            "organizations": []
+        },
+        {
+            "person": "person:Friedman__Timur",
+            "organizations": []
+        },
+        {
+            "person": "person:Shannon__Colleen",
+            "organizations": []
+        },
+        {
+            "person": "person:Spring__Neil",
+            "organizations": []
+        }
+    ],
+    "links": [],
+    "booktitle": "",
+    "institution": "",
+    "number": "2",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2006_conmi__pubdb.json",
+    "publisher": "ACM SIGCOMM Computer Communication Review (CCR)",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2006/conmi/conmi-workshop2006.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Workshop",
+            "url": "https://www.caida.org/workshops/conmi/0503/",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "ARTICLE",
+        "journal": "ACM SIGCOMM Computer Communication Review (CCR)",
+        "volume": "36",
+        "pages": "41-48"
+    },
+    "date": "2006.04"
+}

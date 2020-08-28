@@ -1,0 +1,47 @@
+{
+    "id": "1996_nap",
+    "name": "Internet Exchanges: Policy-Driven Evolution",
+    "datePublished": "1996.09",
+    "description": "Internet exchanges are systems within the Internet which enable\nnetworks to meet and exchange data and control information. In order to\nenable networks to meet and exchange information, Internet exchanges\n(IXs) must do much more than merely forward packets. They must provide\na robust environment in which differences between the attached client\nnetworks, such as in technologies used by different networks or in\nadministrative and operational policies and procedures, do not become\nbarriers to interconnection. Additionally, they must have policies that\ndo not hinder competition between classes of attached networks (such as\nthe often conflicting business interests of large, nationwide networks\nversus smaller, regional networks). Two policies which have had a\ntremendous effect on the configuration of today's Internet are\ncommercialization, the use of the Internet for commercial as well as\nresearch and educational purposes, and privatization, the\nimplementation and operation of the Internet networks by the private\nsector rather than the government sector. The interaction between the\npolicies of commercialization and privatization and the evolution of\nInternet exchanges is examined here in detail.\n\n",
+    "annotation": "",
+    "tags": [
+        "policy"
+    ],
+    "pubdb_id": "paper153",
+    "authors": [
+        {
+            "person": "person:Chinoy__Bilal",
+            "organizations": [
+                "Applied Network Research, San Diego Supercomputer Center, University of California, San Diego"
+            ]
+        },
+        {
+            "person": "person:Salo__Timothy",
+            "organizations": [
+                "Applied Network Research, San Diego Supercomputer Center, University of California, San Diego"
+            ]
+        }
+    ],
+    "links": [],
+    "institution": "",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/1996_nap__pubdb.json",
+    "publisher": "Coordination and Administration of the Internet Workshop",
+    "resources": [
+        {
+            "name": "HTML",
+            "url": "nap.html",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "INPROCEEDINGS",
+        "bookTitle": "Coordination and Administration of the Internet Workshop"
+    },
+    "date": "1996.09"
+}

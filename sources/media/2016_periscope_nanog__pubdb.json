@@ -1,0 +1,37 @@
+{
+    "id": "2016_periscope_nanog",
+    "name": "Periscope: Standardizing and Orchestrating Looking Glass Querying",
+    "description": "",
+    "tags": [
+        "software/tools",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "North American Network Operators' Group (NANOG)",
+            "date": "2016.10",
+            "url": "https://nanog.org/meetings/nanog68/home",
+            "person": "person:Giotsas__Vasileios"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2016_periscope_nanog__pubdb.json",
+    "pubdb_id": "presentation458",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2016/periscope_nanog/periscope_nanog.pdf",
+            "tags": []
+        },
+        {
+            "name": "Video",
+            "url": "https://www.youtube.com/watch?v=sEa1vo7S2ac&index=14&list=PLO8DR5ZGla8hcpeEDSBNPE5OrZf70iXZg",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2016.10"
+}

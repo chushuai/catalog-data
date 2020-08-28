@@ -1,0 +1,57 @@
+{
+    "id": "2000_AIX0005",
+    "name": "Trends in wide area IP traffic patterns - A view from Ames Internet Exchange",
+    "datePublished": "2000.09",
+    "description": "We report results from a longitudinal analysis of the IP traffic\r\nworkload seen at a single measurement site inside a major Internet\r\ntraffic exchange point. Using data collected by the NLANR/MOAT Network\r\nAnalysis Infrastructure (NAI) project [NAI] and analysis software from\r\nCAIDA's CoralReef project [CoralReef], we present trends in application\r\nusage seen at the NASA Ames Internet Exchange over 10 months, from May\r\n1999 through March 2000. We show changes in the fraction of traffic\r\nfrom streaming media and online gaming, as well as an increase in\r\ntraffic from new applications such as Napster and IPSEC tunneling. We\r\nalso show that our data does not indicate any overall change in the\r\nTCP/UDP traffic ratio at the Ames Internet Exchange during this period,\r\nor significant differences from the analyses by MCI Worldcom and CAIDA\r\nin 1998.",
+    "annotation": "",
+    "tags": [
+        "passive data analysis"
+    ],
+    "pubdb_id": "paper131",
+    "authors": [
+        {
+            "person": "person:McCreary__Sean",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:claffy__kc",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        }
+    ],
+    "links": [],
+    "institution": "",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2000_AIX0005__pubdb.json",
+    "publisher": "ITC Specialist Seminar",
+    "resources": [
+        {
+            "name": "gzipped postscript",
+            "url": "AIX0005.ps.gz",
+            "tags": []
+        },
+        {
+            "name": "HTML",
+            "url": "AIX0005.html",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2000/AIX0005/AIX0005.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "INPROCEEDINGS",
+        "bookTitle": "ITC Specialist Seminar"
+    },
+    "date": "2000.09"
+}

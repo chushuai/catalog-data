@@ -1,0 +1,32 @@
+{
+    "id": "2006_wide2006-03_networkmacroeconomics",
+    "name": "toward an empirical network macro-economics",
+    "description": "",
+    "tags": [
+        "policy",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "WIDE",
+            "date": "2006.03",
+            "url": "",
+            "person": "person:Vest__Tom"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2006_wide2006-03_networkmacroeconomics__pubdb.json",
+    "pubdb_id": "presentation117",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2006/wide2006-03_networkmacroeconomics/networkmacroeconomics.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2006.03"
+}

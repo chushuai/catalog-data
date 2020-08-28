@@ -1,0 +1,38 @@
+{
+    "id": "2016_as_intro_topology_wind",
+    "name": "Autonomous Systems (AS) Introduction and Topology",
+    "description": "",
+    "tags": [
+        "visualization",
+        "topology",
+        "software/tools"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Workshop on Incomplete Networked Data (WIND)",
+            "date": "2016.03",
+            "url": "http://eliassi.org/WIND16.html",
+            "person": "person:Huffaker__Bradley"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2016_as_intro_topology_wind__pubdb.json",
+    "pubdb_id": "presentation443",
+    "resources": [
+        {
+            "name": "Data Supplement",
+            "url": "https://www.caida.org/publications/presentations/2016/as_intro_topology_wind/supplemental/",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2016/as_intro_topology_wind/as_intro_topology_wind.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2016.03"
+}

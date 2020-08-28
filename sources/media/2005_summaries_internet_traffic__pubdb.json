@@ -1,0 +1,48 @@
+{
+    "id": "2005_summaries_internet_traffic",
+    "name": "A Robust System for Accurate Real-time Summaries of Internet Traffic",
+    "description": "This slideset was presented at the ACM SIGMETRICS conference in June 2005 and the Intimate Workshop in July 2005.",
+    "tags": [
+        "software/tools",
+        "measurement methodology"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "Intimate Workshop",
+            "date": "2005.07",
+            "url": "",
+            "person": "person:Moore__David"
+        },
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "ACM SIGMETRICS",
+            "date": "2005.06",
+            "url": "",
+            "person": "person:Moore__David"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2005_summaries_internet_traffic__pubdb.json",
+    "pubdb_id": "presentation54",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2005/summaries_internet_traffic/summaries_internet_traffic.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2005/flowest",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2005.07"
+}

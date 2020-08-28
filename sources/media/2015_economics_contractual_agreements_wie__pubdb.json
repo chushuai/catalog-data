@@ -1,0 +1,33 @@
+{
+    "id": "2015_economics_contractual_agreements_wie",
+    "name": "Economics of Contractual Agreements in Internet Interconnection",
+    "description": "",
+    "tags": [
+        "economics",
+        "topology",
+        "routing"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Workshop on Internet Economics (WIE)",
+            "date": "2015.12",
+            "url": "http://www.caida.org/workshops/wie/1512/",
+            "person": "person:Dhamdhere__Amogh"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2015_economics_contractual_agreements_wie__pubdb.json",
+    "pubdb_id": "presentation426",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2015/economics_contractual_agreements_wie/economics_contractual_agreements_wie.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2015.12"
+}

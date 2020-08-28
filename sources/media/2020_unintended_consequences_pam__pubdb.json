@@ -1,0 +1,38 @@
+{
+    "id": "2020_unintended_consequences_pam",
+    "name": "Unintended consequences: Effects of submarine cable deployment on Internet routing",
+    "description": "This paper was awarded Best Paper at PAM 2020.",
+    "tags": [
+        "measurement methodology",
+        "routing",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Passive and Active Measurement Conference (PAM)",
+            "date": "2020.03",
+            "url": "",
+            "person": "person:Fanou__Rod\u00e9rick"
+        }
+    ],
+    "links": [
+        {
+            "to": "paper:2020_unintended_consequences",
+            "url": "https://www.caida.org/publications/papers/2020/unintended_consequences/"
+        }
+    ],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2020_unintended_consequences_pam__pubdb.json",
+    "pubdb_id": "presentation573",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2020/unintended_consequences_pam/unintended_consequences_pam.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2020.03"
+}

@@ -1,0 +1,33 @@
+{
+    "id": "2019_hijacks_impact_pi_aug",
+    "name": "CAIDA'S BGP (Hijacking) Observatory",
+    "description": "",
+    "tags": [
+        "active data analysis",
+        "security",
+        "data sharing"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": " DHS IMPACT PI Meeting",
+            "date": "2019.08",
+            "url": "",
+            "person": "person:Dainotti__Alberto"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2019_hijacks_impact_pi_aug__pubdb.json",
+    "pubdb_id": "presentation559",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2019/hijacks_impact_pi_aug/hijacks_impact_pi_aug.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2019.08"
+}

@@ -1,0 +1,38 @@
+{
+    "id": "2016_henya_dhs",
+    "name": "Henya Large-Scale Internet Topology Query System",
+    "description": "Supplementary slides for an introductory video lecture about Henya.",
+    "tags": [
+        "topology",
+        "software/tools",
+        "overview"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "DHS Reverse Site Visit (CAIDA)",
+            "date": "2016.11",
+            "url": "",
+            "person": "person:Hyun__Young"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2016_henya_dhs__pubdb.json",
+    "pubdb_id": "presentation466",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2016/henya_dhs/henya_dhs.pdf",
+            "tags": []
+        },
+        {
+            "name": "Video",
+            "url": "https://youtu.be/WmbskrqZeB4",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2016.11"
+}

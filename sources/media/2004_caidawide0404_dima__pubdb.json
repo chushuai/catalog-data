@@ -1,0 +1,31 @@
+{
+    "id": "2004_caidawide0404_dima",
+    "name": "Compact routing model",
+    "description": "",
+    "tags": [
+        "routing"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "WIDE",
+            "date": "2004.04",
+            "url": "",
+            "person": "person:Krioukov__Dmitri"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2004_caidawide0404_dima__pubdb.json",
+    "pubdb_id": "presentation169",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2004/caidawide0404_dima/intro-idrws.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2004.04"
+}

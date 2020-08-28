@@ -1,0 +1,47 @@
+{
+    "id": "1996_cache96",
+    "name": "Evolution of the NLANR cache hierarchy: Global configuration challenges",
+    "datePublished": "1996.11",
+    "description": "World-Wide Web caches are designed to alleviate some of the\nproblems imposed by ever-increasing Internet traffic growth.\nCaching is noticeably different from mirroring or replicating;\nIt is mostly transparent to end users, and because caches are \nclient-driven, they automatically adjust to accommodate\npopular objects based on user access patterns.\n\nThe National Science Foundation has provided funding to develop a\nprototype hierarchy of World-Wide Web caches, \nwhich have been in operation since December 1995.\nThis paper describes our initial experiences and observations\nwhile operating the caches.  In particular we focus on the\nadministrative requirements for configuring and tuning a \ncache for its best performance in the global hierarchy.\n",
+    "annotation": "",
+    "tags": [
+        "caching"
+    ],
+    "pubdb_id": "paper147",
+    "authors": [
+        {
+            "person": "person:Wessels__Duane",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:claffy__kc",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        }
+    ],
+    "links": [],
+    "booktitle": "",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/1996_cache96__pubdb.json",
+    "publisher": "National Laboratory for Applied Network Research (NLANR)",
+    "resources": [
+        {
+            "name": "HTML",
+            "url": "cache96.html",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "TECHREPORT",
+        "institution": "National Laboratory for Applied Network Research (NLANR)"
+    },
+    "date": "1996.11"
+}

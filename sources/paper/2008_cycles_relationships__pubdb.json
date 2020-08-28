@@ -1,0 +1,59 @@
+{
+    "id": "2008_cycles_relationships",
+    "name": "On Cycles in AS Relationships",
+    "datePublished": "2008.07",
+    "description": "Several users of our AS relationship inference data, released with cs/0604017, asked us why it contained AS relationship cycles, e.g., cases where AS A is a provider of AS B, B is a provider of C, and C is a provider of A, or other cycle types. Having been answering these questions in private communications, we have eventually decided to write down our answers here for future reference. \r\n",
+    "annotation": "",
+    "tags": [
+        "routing",
+        "topology"
+    ],
+    "pubdb_id": "paper28",
+    "authors": [
+        {
+            "person": "person:Dimitropoulos__Xenofontas",
+            "organizations": [
+                "IBM Research, Zurich"
+            ]
+        },
+        {
+            "person": "person:Serrano__Mirian \u00c1ngeles",
+            "organizations": [
+                "IFISC (CSIC-UIB)"
+            ]
+        },
+        {
+            "person": "person:Krioukov__Dmitri",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        }
+    ],
+    "links": [],
+    "booktitle": "",
+    "institution": "",
+    "number": "3",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2008_cycles_relationships__pubdb.json",
+    "publisher": "ACM SIGCOMM Computer Communication Review (CCR)",
+    "resources": [
+        {
+            "name": "DOI",
+            "url": "http://dx.doi.org/10.1145/1384609.1384624",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2008/cycles_relationships/cycles_relationships.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "ARTICLE",
+        "journal": "ACM SIGCOMM Computer Communication Review (CCR)",
+        "volume": "38",
+        "pages": "102-104"
+    },
+    "date": "2008.07"
+}

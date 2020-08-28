@@ -1,0 +1,93 @@
+{
+    "id": "2018_dynam-ix",
+    "name": "Dynam-IX: a Dynamic Interconnection eXchange",
+    "datePublished": "2018.12",
+    "description": "Autonomous Systems (ASes) can reach hundreds of networks via Internet eXchange Points (IXPs), allowing improvements in traffic delivery performance and competitiveness. Despite the benefits, any pair of ASes needs first to agree on exchanging traffic. By surveying 100+ network operators, we discovered that most interconnection agreements are established through ad-hoc and lengthy processes heavily influenced by personal relationships and brand image. As such, ASes prefer long-term agreements at the expense of a potential mismatch between actual delivery performance and current traffic dynamics. ASes also miss interconnection opportunities due to trust reasons. To improve wide-area traffic delivery performance, we propose Dynam-IX, a framework that allows operators to build trust cooperatively and implement traffic engineering policies to exploit the rich interconnection opportunities at IXPs quickly. Dynam-IX offers a protocol to automate the interconnection process, an intent abstraction to express interconnection policies, a legal framework to digitally handle contracts, and a distributed tamper-proof ledger to create trust among ASes. We build and evaluate a Dynam-IX prototype and show that an AS can establish tens of agreements per minute with negligible overhead for ASes and IXPs.",
+    "annotation": "A poster of the same name was published earlier in ACM SIGCOMM 2018 Conference on Posters and Demos.",
+    "tags": [
+        "routing",
+        "topology",
+        "congestion"
+    ],
+    "pubdb_id": "paper664",
+    "authors": [
+        {
+            "person": "person:Marcos__Pedro ",
+            "organizations": [
+                "Universidade Federal do Rio Grande (FURG)",
+                "Universidade Federal do Rio Grande do Sul (UFRGS)"
+            ]
+        },
+        {
+            "person": "person:Chiesa__Marco",
+            "organizations": [
+                "KTH, Royal Institute of Technology, IMIT, Sweden"
+            ]
+        },
+        {
+            "person": "person:M\u00fcller__Lucas",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego",
+                "Universidade Federal do Rio Grande do Sul (UFRGS)"
+            ]
+        },
+        {
+            "person": "person:Kathiravelu__Pradeeban ",
+            "organizations": [
+                "INESC-ID",
+                "Universit\u00e9 catholique de Louvain"
+            ]
+        },
+        {
+            "person": "person:Dietzel__Christoph",
+            "organizations": [
+                "DE-CIX",
+                "TU Berlin"
+            ]
+        },
+        {
+            "person": "person:Canini__Marco",
+            "organizations": [
+                "King Abdullah University of Science and Technology (KAUST)"
+            ]
+        },
+        {
+            "person": "person:Barcellos__Marinho",
+            "organizations": [
+                "Universidade Federal do Rio Grande do Sul (UFRGS)"
+            ]
+        }
+    ],
+    "links": [
+        {
+            "to": "paper:2018_dynamic_interconnection_exchange",
+            "url": "https://www.caida.org/publications/papers/2018/dynamic_interconnection_exchange/"
+        }
+    ],
+    "institution": "",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2018_dynam-ix__pubdb.json",
+    "publisher": "ACM SIGCOMM Conference on emerging Networking EXperiments and Technologies (CoNEXT)",
+    "resources": [
+        {
+            "name": "DOI",
+            "url": "https://doi.org/10.1145/3281411.3281419",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2018/dynam-ix/dynam-ix.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "INPROCEEDINGS",
+        "bookTitle": "ACM SIGCOMM Conference on emerging Networking EXperiments and Technologies (CoNEXT)"
+    },
+    "date": "2018.12"
+}

@@ -1,0 +1,38 @@
+{
+    "id": "2012_large_graphs_physics_houston",
+    "name": "Large graphs in physics: From statistical mechanics of networks to quantum cosmology",
+    "description": "",
+    "tags": [
+        "network geometry",
+        "routing",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "University of Houston",
+            "date": "2012.11",
+            "url": "",
+            "person": "person:Krioukov__Dmitri"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2012_large_graphs_physics_houston__pubdb.json",
+    "pubdb_id": "presentation338",
+    "resources": [
+        {
+            "name": "Powerpoint",
+            "url": "https://www.caida.org/publications/presentations/2012/large_graphs_physics_houston/large_graphs_physics_houston.pptx",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2012/network_cosmology",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2012.11"
+}

@@ -1,0 +1,41 @@
+{
+    "id": "2012_micdhs_caida_overview",
+    "name": "CAIDA Research Overview",
+    "description": "",
+    "tags": [
+        "overview",
+        "measurement methodology",
+        "data",
+        "security",
+        "network telescope",
+        "trends",
+        "routing",
+        "topology",
+        "trends",
+        "policy",
+        "visualization"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "MIC-DHS Meeting for Cyber Security Cooperation",
+            "date": "2012.06",
+            "url": "",
+            "person": "person:Huffaker__Bradley"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2012_micdhs_caida_overview__pubdb.json",
+    "pubdb_id": "presentation235",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2012/micdhs_caida_overview/micdhs_caida_overview.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2012.06"
+}

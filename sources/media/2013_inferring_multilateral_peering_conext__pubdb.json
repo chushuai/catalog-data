@@ -1,0 +1,40 @@
+{
+    "id": "2013_inferring_multilateral_peering_conext",
+    "name": "Inferring Multilateral Peering ",
+    "description": "",
+    "tags": [
+        "routing",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego",
+                "University College London"
+            ],
+            "venue": "ACM SIGCOMM Conference on emerging Networking EXperiments and Technologies (CoNEXT)",
+            "date": "2013.12",
+            "url": "http://conferences.sigcomm.org/co-next/2013/",
+            "person": "person:Giotsas__Vasileios"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2013_inferring_multilateral_peering_conext__pubdb.json",
+    "pubdb_id": "presentation371",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2013/inferring_multilateral_peering_conext/inferring_multilateral_peering_conext.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2013/inferring_multilateral_peering",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2013.12"
+}

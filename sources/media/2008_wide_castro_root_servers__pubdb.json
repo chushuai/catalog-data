@@ -1,0 +1,32 @@
+{
+    "id": "2008_wide_castro_root_servers",
+    "name": "Measurements of Root Server Traffic in DITL 2008",
+    "description": "",
+    "tags": [
+        "passive data analysis",
+        "dns"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "WIDE-CASFI",
+            "date": "2008.08",
+            "url": "",
+            "person": "person:Castro__Sebastian"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2008_wide_castro_root_servers__pubdb.json",
+    "pubdb_id": "presentation14",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2008/wide_castro_root_servers/wide_castro_root_servers.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2008.08"
+}

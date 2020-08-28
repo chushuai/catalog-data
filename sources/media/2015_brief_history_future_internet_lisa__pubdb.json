@@ -1,0 +1,42 @@
+{
+    "id": "2015_brief_history_future_internet_lisa",
+    "name": "A Brief History of a Future Internet: the Named Data Networking Architecture",
+    "description": "",
+    "tags": [
+        "overview",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "USENIX Large Installation System Administration (LISA)",
+            "date": "2015.11",
+            "url": "https://www.usenix.org/conference/lisa15",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2015_brief_history_future_internet_lisa__pubdb.json",
+    "pubdb_id": "presentation424",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2015/brief_history_future_internet_lisa/brief_history_future_internet_lisa.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Video Discussion",
+            "url": "https://www.youtube.com/watch?v=oy5zc-v1zSQ",
+            "tags": []
+        },
+        {
+            "name": "Video (.mp4)",
+            "url": "https://2459d6dc103cb5933875-c0245c5c937c5dedcca3f1764ecc9b2f.ssl.cf2.rackcdn.com/lisa15/claffy.mp4",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2015.11"
+}

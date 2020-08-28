@@ -1,0 +1,33 @@
+{
+    "id": "2015_developing_querying_platform_aims",
+    "name": "Developing a querying platform for Looking Glasses",
+    "description": "",
+    "tags": [
+        "measurement methodology",
+        "topology",
+        "routing"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Workshop on Active Internet Measurements (AIMS)",
+            "date": "2015.03",
+            "url": "https://www.caida.org/workshops/aims/",
+            "person": "person:Giotsas__Vasileios"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2015_developing_querying_platform_aims__pubdb.json",
+    "pubdb_id": "presentation411",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2015/developing_querying_platform_aims/developing_querying_platform_aims.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2015.03"
+}

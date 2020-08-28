@@ -1,0 +1,39 @@
+{
+    "id": "2012_peering_strategy_game_theoretic",
+    "name": "Peering Strategy adoption by Transit Providers in the Internet: A Game Theoretic Approach",
+    "description": "",
+    "tags": [
+        "topology",
+        "routing",
+        "measurement methodology",
+        "economics"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Workshop on Pricing and Incentives in Networks (W-PIN)",
+            "date": "2012.06",
+            "url": "",
+            "person": "person:Dhamdhere__Amogh"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2012_peering_strategy_game_theoretic__pubdb.json",
+    "pubdb_id": "presentation305",
+    "resources": [
+        {
+            "name": "Powerpoint",
+            "url": "https://www.caida.org/publications/presentations/2012/peering_strategy_game_theoretic/peering_strategy_game_theoretic.pptx",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2012/peering_strategy_adoption",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2012.06"
+}

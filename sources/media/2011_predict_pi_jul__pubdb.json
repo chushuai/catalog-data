@@ -1,0 +1,35 @@
+{
+    "id": "2011_predict_pi_jul",
+    "name": "DHS PREDICT project: CAIDA update",
+    "description": "",
+    "tags": [
+        "data",
+        "measurement methodology",
+        "overview",
+        "policy",
+        "security"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "DHS PREDICT PI Meeting",
+            "date": "2011.07",
+            "url": "",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2011_predict_pi_jul__pubdb.json",
+    "pubdb_id": "presentation227",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2011/predict_pi_jul/predict_pi_jul.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2011.07"
+}

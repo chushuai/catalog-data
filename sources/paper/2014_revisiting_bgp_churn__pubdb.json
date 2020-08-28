@@ -1,0 +1,55 @@
+{
+    "id": "2014_revisiting_bgp_churn",
+    "name": "Revisiting BGP Churn Growth",
+    "datePublished": "2014.01",
+    "description": "In the mid 2000s there was some concern in the research and operational communities over the scalability of BGP, the Internet\u201bs interdomain routing protocol. The focus was on update churn (the number of routing protocol messages that are exchanged when the network undergoes routing changes) and whether churn was growing too fast for routers to handle. Recent work somewhat allayed those fears, showing that update churn grows slowly in IPv4, but the question of routing scalability has re-emerged with IPv6. In this work, we develop a model that expresses BGP churn in terms of four measurable properties of the routing system. We show why the number of updates normalized by the size of the topology is constant, and why routing dynamics are qualitatively similar in IPv4 and IPv6. We also show that the exponential growth of IPv6 churn is entirely expected, as the underlying IPv6 topology is also growing exponentially.",
+    "annotation": "",
+    "tags": [
+        "ipv6",
+        "routing",
+        "topology",
+        "measurement methodology"
+    ],
+    "pubdb_id": "paper546",
+    "authors": [
+        {
+            "person": "person:Elmokashfi__Ahmed",
+            "organizations": [
+                "Simula Research Laboratory"
+            ]
+        },
+        {
+            "person": "person:Dhamdhere__Amogh",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        }
+    ],
+    "links": [],
+    "booktitle": "",
+    "institution": "",
+    "number": "1",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2014_revisiting_bgp_churn__pubdb.json",
+    "publisher": "ACM SIGCOMM Computer Communication Review (CCR)",
+    "resources": [
+        {
+            "name": "DOI",
+            "url": "http://dx.doi.org/10.1145/2567561.2567563",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2014/revisiting_bgp_churn/revisiting_bgp_churn.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "ARTICLE",
+        "journal": "ACM SIGCOMM Computer Communication Review (CCR)",
+        "volume": "44",
+        "pages": "5-12"
+    },
+    "date": "2014.01"
+}

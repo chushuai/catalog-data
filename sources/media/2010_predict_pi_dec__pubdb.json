@@ -1,0 +1,35 @@
+{
+    "id": "2010_predict_pi_dec",
+    "name": "DHS PREDICT project: CAIDA update",
+    "description": "",
+    "tags": [
+        "data",
+        "measurement methodology",
+        "overview",
+        "policy",
+        "security"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "DHS PREDICT PI Meeting",
+            "date": "2010.12",
+            "url": "",
+            "person": "person:Fomenkov__Marina"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2010_predict_pi_dec__pubdb.json",
+    "pubdb_id": "presentation194",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2010/predict_pi_dec/predict_pi_dec.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2010.12"
+}

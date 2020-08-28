@@ -1,0 +1,49 @@
+{
+    "id": "2016_measuring_internet_interconnection_nanog",
+    "name": "Measuring Internet\tInterconnection Performance Metrics: an exercise to inform public\tpolicy",
+    "description": "",
+    "tags": [
+        "topology",
+        "routing",
+        "economics"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "North American Network Operators' Group (NANOG)",
+            "date": "2016.02",
+            "url": "https://www.nanog.org/meetings/nanog66/home",
+            "person": "person:claffy__kc"
+        },
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "Workshop on Active Internet Measurements (AIMS)",
+            "date": "2016.02",
+            "url": "http://www.caida.org/workshops/aims/1602/",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2016_measuring_internet_interconnection_nanog__pubdb.json",
+    "pubdb_id": "presentation436",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2016/measuring_internet_interconnection_nanog/measuring_internet_interconnection_nanog.pdf",
+            "tags": []
+        },
+        {
+            "name": "Video",
+            "url": "https://www.youtube.com/watch?v=2GE8qShOoJ4",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2016.02"
+}

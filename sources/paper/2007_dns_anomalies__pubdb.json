@@ -1,0 +1,61 @@
+{
+    "id": "2007_dns_anomalies",
+    "name": "Passive Monitoring of DNS Anomalies",
+    "datePublished": "2007.07",
+    "description": "We collected DNS responses at the University of Auckland\r\nInternet gateway in an SQL database, and analyzed them to detect unusual\r\nbehaviour. Our DNS response data have included typo squatter\r\ndomains, fast flux domains and domains being (ab)used by spammers.\r\nWe observe that current attempts to reduce spam have greatly increased\r\nthe number of A records being resolved. We also observe that the data\r\nlocality of DNS requests diminishes because of domains advertised in\r\nspam.\r\n",
+    "annotation": "",
+    "tags": [
+        "passive data analysis",
+        "measurement methodology",
+        "dns"
+    ],
+    "pubdb_id": "paper36",
+    "authors": [
+        {
+            "person": "person:Zdrnja__Bojan",
+            "organizations": [
+                "University of Auckland, New Zealand"
+            ]
+        },
+        {
+            "person": "person:Brownlee__Nevil",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego",
+                "University of Auckland, New Zealand"
+            ]
+        },
+        {
+            "person": "person:Wessels__Duane",
+            "organizations": [
+                "The Measurement Factory, Inc."
+            ]
+        }
+    ],
+    "links": [
+        {
+            "to": "media:2007_brownlee_anomalies",
+            "url": "https://www.caida.org/publications/presentations/2007/brownlee_anomalies/"
+        }
+    ],
+    "journal": "",
+    "number": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2007_dns_anomalies__pubdb.json",
+    "publisher": "Conference on Detection of Intrusions & Malware, and Vulnerability Assessment (DIMVA)",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2007/dns_anomalies/dns_anomalies.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "INPROCEEDINGS",
+        "bookTitle": "Conference on Detection of Intrusions & Malware, and Vulnerability Assessment (DIMVA)",
+        "institution": "University of Auckland, New Zealand and Cooperative Association for Internet Data Analysis (CAIDA)",
+        "volume": "4579",
+        "pages": "129-139"
+    },
+    "date": "2007.07"
+}

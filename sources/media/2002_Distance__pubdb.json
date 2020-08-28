@@ -1,0 +1,47 @@
+{
+    "id": "2002_Distance",
+    "name": "Distance metrics in the Internet",
+    "description": "",
+    "tags": [
+        "topology",
+        "active data analysis"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "IEEE International Telecommunications Symposium (ITS)",
+            "date": "2002.09",
+            "url": "",
+            "person": "person:Fomenkov__Marina"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2002_Distance__pubdb.json",
+    "pubdb_id": "presentation27",
+    "resources": [
+        {
+            "name": "gzipped postscript",
+            "url": "https://www.caida.org/publications/presentations/2002/Distance/its2002.ps.gz",
+            "tags": []
+        },
+        {
+            "name": "HTML slides",
+            "url": "https://www.caida.org/publications/presentations/2002/Distance/its2002.html",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2002/Distance/its2002.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2002/Distance",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2002.09"
+}

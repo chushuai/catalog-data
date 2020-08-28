@@ -1,0 +1,52 @@
+{
+    "id": "2008_krioukov_euvarious",
+    "name": "Routing in the Internet and Navigability of Scale-Free Networks",
+    "description": "",
+    "tags": [
+        "routing",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Various",
+            "date": "2008.06",
+            "url": "",
+            "person": "person:Krioukov__Dmitri"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2008_krioukov_euvarious__pubdb.json",
+    "pubdb_id": "presentation198",
+    "resources": [
+        {
+            "name": "EPFL, ETH",
+            "url": "https://www.caida.org/publications/presentations/2008/krioukov_euvarious/krioukov_ch.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2008/scale_free_pre_asymptotic",
+            "tags": []
+        },
+        {
+            "name": "SFI",
+            "url": "https://www.caida.org/publications/presentations/2008/krioukov_euvarious/krioukov_sfi.pdf",
+            "tags": []
+        },
+        {
+            "name": "U. Barcelona",
+            "url": "https://www.caida.org/publications/presentations/2008/krioukov_euvarious/krioukov_barcelona.pdf",
+            "tags": []
+        },
+        {
+            "name": "U. Illes Balears",
+            "url": "https://www.caida.org/publications/presentations/2008/krioukov_euvarious/krioukov_mallorca.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2008.06"
+}

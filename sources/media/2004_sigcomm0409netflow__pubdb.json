@@ -1,0 +1,48 @@
+{
+    "id": "2004_sigcomm0409netflow",
+    "name": "Building a Better NetFlow",
+    "description": "This slideset was presented at the SIGCOMM 2004 conference in September.  A different version of this slideset was presented at the IPFIX workgroup at IETF-60 in August. ",
+    "tags": [
+        "software/tools",
+        "measurement methodology"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "ACM SIGCOMM",
+            "date": "2004.09",
+            "url": "",
+            "person": "person:Moore__David"
+        },
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "Internet Engineering Task Force (IETF)",
+            "date": "2004.09",
+            "url": "",
+            "person": "person:Moore__David"
+        }
+    ],
+    "links": [
+        {
+            "to": "paper:2004_betternetflow",
+            "url": "https://www.caida.org/publications/papers/2004/betternetflow/"
+        }
+    ],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2004_sigcomm0409netflow__pubdb.json",
+    "pubdb_id": "presentation314",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2004/sigcomm0409netflow/sigcomm_200409.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2004.09"
+}

@@ -1,0 +1,31 @@
+{
+    "id": "1999_att_990315.ppt",
+    "name": "Measurement, Analysis, Visualization of Internet Topology, Workload, Performance and Routing",
+    "description": "",
+    "tags": [
+        "visualization"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "CAIDA",
+            "date": "1999.03",
+            "url": "",
+            "person": "person:Monk__Tracie"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/1999_att_990315.ppt__pubdb.json",
+    "pubdb_id": "presentation116",
+    "resources": [
+        {
+            "name": "HTML slides",
+            "url": "https://www.caida.org/publications/presentations/1999/att_990315.ppt/index.html",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "1999.03"
+}

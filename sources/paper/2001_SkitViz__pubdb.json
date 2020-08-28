@@ -1,0 +1,65 @@
+{
+    "id": "2001_SkitViz",
+    "name": "Macroscopic analyses of the infrastructure: measurement and visualization of Internet connectivity and performance",
+    "datePublished": "2001.04",
+    "description": "The robustness and reliability of the Internet is highly dependent on efficient, stable connectivity and routing among networks comprising the global infrastructure.  To provide macroscopic insights into Internet topololgy and performance, the Cooperative Association for Internet Data Analysis (CAIDA) has developed and deployed the skitter tool to dynamically discover and depict global Internet topology and measure performance across specific paths.  We are developing a systematic approach to visualizing the multi-dimensional parameter space covered by skitter measurements aggregated on a daily basis.  In this paper we discuss our techniques and apply them to selected daily sitter snapshots.",
+    "annotation": "",
+    "tags": [
+        "measurement methodology",
+        "visualization"
+    ],
+    "pubdb_id": "paper121",
+    "authors": [
+        {
+            "person": "person:Huffaker__Bradley",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Fomenkov__Marina",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Moore__David",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:claffy__kc",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        }
+    ],
+    "links": [],
+    "institution": "",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2001_SkitViz__pubdb.json",
+    "publisher": "Passive and Active Network Measurement Workshop (PAM)",
+    "resources": [
+        {
+            "name": "gzipped postscript",
+            "url": "SkitViz.ps.gz",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2001/SkitViz/SkitViz.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "INPROCEEDINGS",
+        "bookTitle": "Passive and Active Network Measurement Workshop (PAM)"
+    },
+    "date": "2001.04"
+}

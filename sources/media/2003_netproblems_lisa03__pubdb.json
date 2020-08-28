@@ -1,0 +1,41 @@
+{
+    "id": "2003_netproblems_lisa03",
+    "name": "top problems of the Internet and what sysadmins and researchers can do to help",
+    "description": "",
+    "tags": [
+        "policy"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "USENIX Large Installation System Administration (LISA)",
+            "date": "2003.10",
+            "url": "",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2003_netproblems_lisa03__pubdb.json",
+    "pubdb_id": "presentation287",
+    "resources": [
+        {
+            "name": "gzipped postscript",
+            "url": "https://www.caida.org/publications/presentations/2003/netproblems_lisa03/netproblems_lisa2003.ps.gz",
+            "tags": []
+        },
+        {
+            "name": "HTML slides",
+            "url": "https://www.caida.org/publications/presentations/2003/netproblems_lisa03/html/index.html",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2003/netproblems_lisa03/netproblems_lisa2003.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2003.10"
+}

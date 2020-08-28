@@ -1,0 +1,41 @@
+{
+    "id": "2012_dust_iatmon",
+    "name": "One way Traffic Monitoring with iatmon",
+    "description": "",
+    "tags": [
+        "security",
+        "passive data analysis",
+        "measurement methodology"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego",
+                "University of Auckland, New Zealand"
+            ],
+            "venue": "International Workshop on Darkspace and UnSolicited Traffic Analysis (DUST)",
+            "date": "2012.05",
+            "url": "",
+            "person": "person:Brownlee__Nevil"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2012_dust_iatmon__pubdb.json",
+    "pubdb_id": "presentation58",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2012/dust_iatmon/dust_iatmon.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2012/one_way_traffic_iatmon",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2012.05"
+}

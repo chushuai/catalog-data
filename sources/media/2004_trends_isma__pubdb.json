@@ -1,0 +1,33 @@
+{
+    "id": "2004_trends_isma",
+    "name": "Data Catalog ISMA: CAIDA Data Collection",
+    "description": "",
+    "tags": [
+        "data"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "Internet Statistics and Metrics Analysis Workshop (ISMA)",
+            "date": "2004.06",
+            "url": "",
+            "person": "person:Shannon__Colleen"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2004_trends_isma__pubdb.json",
+    "pubdb_id": "presentation103",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2004/trends_isma/trends_isma.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2004.06"
+}

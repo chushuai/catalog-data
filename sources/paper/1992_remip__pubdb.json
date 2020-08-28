@@ -1,0 +1,42 @@
+{
+    "id": "1992_remip",
+    "name": "Redesign and extension of multi-agency interconnection point",
+    "datePublished": "1992.06",
+    "description": "\n\nIn its role to support the NREN effort, the NSF has asked the NEG\nEngineering Group (NEG) to draft a document describing the potential\nredesign and architectural extension of one of the interconnection\npoints for national US agency networking activities.  This document\naddressed in particular FIX-East, located near the University of\nMaryland, but we hope the issues and suggestions are applied to the\nlarger NREN community, in particular in the context of generic access\ninstrumentation for the Internet.\n\n",
+    "annotation": "",
+    "tags": [
+        "topology",
+        "measurement methodology"
+    ],
+    "pubdb_id": "paper186",
+    "authors": [
+        {
+            "person": "person:Braun__Hans-Werner",
+            "organizations": [
+                "San Diego Supercomputer Center,   University of California, San Diego (SDSC/UCSD)"
+            ]
+        }
+    ],
+    "links": [],
+    "booktitle": "",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/1992_remip__pubdb.json",
+    "publisher": "National Science Foundation NREN Engineering Group",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/1992/remip/nap.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "TECHREPORT",
+        "institution": "National Science Foundation NREN Engineering Group"
+    },
+    "date": "1992.06"
+}

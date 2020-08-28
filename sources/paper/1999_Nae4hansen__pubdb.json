@@ -1,0 +1,47 @@
+{
+    "id": "1999_Nae4hansen",
+    "name": "Internet measurement and data analysis: passive and active measurement",
+    "datePublished": "1999.08",
+    "description": "\n\nThe infrastructure of the Internet can be considered the cybernetic\nequivalent of an ecosystem. The last mile connections from the Internet\nto homes and businesses are supplied by thousands of capillaries, small\nand medium sized Internet Service Providers (ISPs), which are in turn\ninterconnected by `arteries' maintained by transit (backbone)\nproviders. The global infrastructure of the Internet consists of a\ncomplex array of competing telecommunications carriers and providers, a\nvery difficult infrastructure to analyze diagnostically except within\nthe borders of an individual provider's network. Nonetheless, insights\ninto the overall health and scalability of the system are critical to\nthe Internet's successful evolution.\n\n",
+    "annotation": "",
+    "tags": [
+        "overview"
+    ],
+    "pubdb_id": "paper138",
+    "authors": [
+        {
+            "person": "person:claffy__kc",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:McCreary__Sean",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        }
+    ],
+    "links": [],
+    "institution": "",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/1999_Nae4hansen__pubdb.json",
+    "publisher": "American Statistical Association",
+    "resources": [
+        {
+            "name": "HTML",
+            "url": "Nae4hansen.html",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "INPROCEEDINGS",
+        "bookTitle": "American Statistical Association"
+    },
+    "date": "1999.08"
+}

@@ -1,0 +1,31 @@
+{
+    "id": "2000_Viz0002",
+    "name": "state of the art in visualization of Internet data",
+    "description": "",
+    "tags": [
+        "visualization"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "NSF",
+            "date": "2000.01",
+            "url": "",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2000_Viz0002__pubdb.json",
+    "pubdb_id": "presentation119",
+    "resources": [
+        {
+            "name": "HTML slides",
+            "url": "https://www.caida.org/publications/presentations/2000/Viz0002/index.html",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2000.01"
+}

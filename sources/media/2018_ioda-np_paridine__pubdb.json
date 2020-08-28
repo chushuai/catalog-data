@@ -1,0 +1,34 @@
+{
+    "id": "2018_ioda-np_paridine",
+    "name": "IODA-NP: Multi-source Realtime Detection of Macroscopic Internet Connectivity Disruption",
+    "description": "",
+    "tags": [
+        "internet outages",
+        "measurement methodology",
+        "routing",
+        "overview"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "DHS S&T PARIDINE Kick-off Meeting",
+            "date": "2018.08",
+            "url": "",
+            "person": "person:Dainotti__Alberto"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2018_ioda-np_paridine__pubdb.json",
+    "pubdb_id": "presentation525",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2018/ioda-np_paridine/ioda-np_paridine.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2018.08"
+}

@@ -1,0 +1,33 @@
+{
+    "id": "2020_scamper_routeviews_kismet",
+    "name": "Scamper + RouteViews",
+    "description": "",
+    "tags": [
+        "routing",
+        "topology",
+        "software/tools"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Workshop on Active Internet Measurements: Knowledge of Internet Structure: Measurement, Epistemology, and Technology (AIMS-KISMET)",
+            "date": "2020.03",
+            "url": "https://www.caida.org/workshops/kismet/2002/",
+            "person": "person:Luckie__Matthew"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2020_scamper_routeviews_kismet__pubdb.json",
+    "pubdb_id": "presentation574",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2020/scamper_routeviews_kismet/scamper_routeviews_kismet.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2020.03"
+}

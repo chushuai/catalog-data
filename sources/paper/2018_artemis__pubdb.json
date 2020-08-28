@@ -1,0 +1,93 @@
+{
+    "id": "2018_artemis",
+    "name": "ARTEMIS: Neutralizing BGP Hijacking within a Minute",
+    "datePublished": "2018.12",
+    "description": "BGP prefix hijacking is a critical threat to Internet organizations and users. Despite the availability of several defense approaches (ranging from RPKI to popular third-party services), none of them solves the problem adequately in practice. In fact, they suffer from: (i) lack of detection comprehensiveness, allowing sophisticated attackers to evade detection, (ii) limited accuracy, especially in the case of third-party detection, (iii) delayed verification and mitigation of incidents, reaching up to days, and (iv) lack of privacy and of flexibility in post-hijack counteractions, on the side of network operators. In this work, we propose ARTEMIS (Automatic and Real-Time dEtection and MItigation System), a defense approach (a) based on accurate and fast detection operated by the AS itself, leveraging the pervasiveness of publicly available BGP monitoring services and their recent shift towards real-time streaming, thus (b) enabling flexible and fast mitigation of hijacking events. Compared to previous work, our approach combines characteristics desirable to network operators such as comprehensiveness, accuracy, speed, privacy, and flexibility. Finally, we show through real-world experiments that, with the ARTEMIS approach, prefix hijacking can be neutralized within a minute.\r\n",
+    "annotation": "",
+    "tags": [
+        "passive data analysis",
+        "routing",
+        "security",
+        "software/tools",
+        "topology"
+    ],
+    "pubdb_id": "paper659",
+    "authors": [
+        {
+            "person": "person:Sermpezis__Pavlos",
+            "organizations": [
+                "Foundation for Research and Technology - Hellas, Institute of Computer Science (FORTH-ICS)"
+            ]
+        },
+        {
+            "person": "person:Kotronis__Vasileios",
+            "organizations": [
+                "Foundation for Research and Technology - Hellas, Institute of Computer Science (FORTH-ICS)"
+            ]
+        },
+        {
+            "person": "person:Gigis__Petros",
+            "organizations": [
+                "Foundation for Research and Technology - Hellas, Institute of Computer Science (FORTH-ICS)"
+            ]
+        },
+        {
+            "person": "person:Dimitropoulos__Xenofontas",
+            "organizations": [
+                "Foundation for Research and Technology - Hellas, Institute of Computer Science (FORTH-ICS)",
+                "University of Crete"
+            ]
+        },
+        {
+            "person": "person:Cicalese__Danilo",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego",
+                "Telecom ParisTech"
+            ]
+        },
+        {
+            "person": "person:King__Alistair",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Dainotti__Alberto",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        }
+    ],
+    "links": [
+        {
+            "to": "media:2018_artemis_anrw",
+            "url": "https://www.caida.org/publications/presentations/2018/artemis_anrw/"
+        }
+    ],
+    "booktitle": "",
+    "institution": "",
+    "number": "6",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2018_artemis__pubdb.json",
+    "publisher": "IEEE/ACM Transactions on Networking",
+    "resources": [
+        {
+            "name": "DOI",
+            "url": "https://doi.org/10.1109/TNET.2018.2869798",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2018/artemis/artemis.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "ARTICLE",
+        "journal": "IEEE/ACM Transactions on Networking",
+        "volume": "26",
+        "pages": "2471-2486"
+    },
+    "date": "2018.12"
+}

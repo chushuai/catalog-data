@@ -1,0 +1,31 @@
+{
+    "id": "2002_maya_intro",
+    "name": "Maya 4.0 Introduction Seminar",
+    "description": "",
+    "tags": [
+        "software/tools"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "SDSC",
+            "date": "2002.04",
+            "url": "",
+            "person": "person:Jakubiec__Oliver"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2002_maya_intro__pubdb.json",
+    "pubdb_id": "presentation293",
+    "resources": [
+        {
+            "name": "HTML slides",
+            "url": "https://www.caida.org/publications/presentations/2002/maya_intro/slides.html",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2002.04"
+}

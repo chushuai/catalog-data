@@ -1,0 +1,37 @@
+{
+    "id": "2018_artemis_ripe",
+    "name": "ARTEMIS: Neutralizing BGP Hijacking within a Minute",
+    "description": "Presented by a CAIDA collaborator at FORTH-ICS.",
+    "tags": [
+        "security",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "RIPE Meeting",
+            "date": "2018.05",
+            "url": "https://ripe76.ripe.net/",
+            "person": "person:Kotronis__Vasileios"
+        }
+    ],
+    "links": [
+        {
+            "to": "paper:2018_artemis",
+            "url": "https://www.caida.org/publications/papers/2018/artemis/"
+        }
+    ],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2018_artemis_ripe__pubdb.json",
+    "pubdb_id": "presentation519",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2018/artemis_ripe/artemis_ripe.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2018.05"
+}

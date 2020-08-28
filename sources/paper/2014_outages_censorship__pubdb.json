@@ -1,0 +1,95 @@
+{
+    "id": "2014_outages_censorship",
+    "name": "Analysis of Country-wide Internet Outages Caused by Censorship",
+    "datePublished": "2014.12",
+    "description": "In the first months of 2011, Internet communications were disrupted in several North African countries in response to civilian protests and threats of civil war. In this paper we analyze episodes of these disruptions in two countries: Egypt and Libya. Our analysis relies on multiple sources of large-scale data already available to academic researchers: BGP interdomain routing control plane data; unsolicited data plane traffic to unassigned address space; active macroscopic traceroute measurements; RIR delegation files; and MaxMind's geolocation database. We used the latter two data sets to determine which IP address ranges were allocated to entities within each country, and then mapped these IP addresses of interest to BGP-announced address ranges (prefixes) and origin ASes using publicly available BGP data repositories in the U.S. and Europe. We then analyzed observable activity related to these sets of prefixes and ASes throughout the censorship episodes. Using both control plane and data plane data sets in combination allowed us to narrow down which forms of Internet access disruption were implemented in a given region over time. Among other insights, we detected what we believe were Libya's attempts to test firewall-based blocking before they executed more aggressive BGP-based disconnection. Our methodology could be used, and automated, to detect outages or similar macroscopically disruptive events in other geographic or topological regions.",
+    "annotation": "An earlier version of this paper was presented in the proceedings of the Internet Measurement Conference (IMC) in 2011.",
+    "tags": [
+        "active data analysis",
+        "data",
+        "measurement methodology",
+        "passive data analysis",
+        "routing",
+        "security",
+        "topology",
+        "network telescope",
+        "internet outages"
+    ],
+    "pubdb_id": "paper497",
+    "authors": [
+        {
+            "person": "person:Dainotti__Alberto",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Squarcella__Claudio",
+            "organizations": [
+                "Roma Tre University"
+            ]
+        },
+        {
+            "person": "person:Aben__Emile",
+            "organizations": [
+                "RIPE NCC, Amsterdam, The Netherlands"
+            ]
+        },
+        {
+            "person": "person:Claffy__Kimberly",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Chiesa__Marco",
+            "organizations": [
+                "Roma Tre University"
+            ]
+        },
+        {
+            "person": "person:Russo__Michele",
+            "organizations": [
+                "University of Napoli Federico II,\nNapoli, Italy"
+            ]
+        },
+        {
+            "person": "person:Pescap\u00e8__Antonio",
+            "organizations": [
+                "University of Napoli Federico II,\nNapoli, Italy"
+            ]
+        }
+    ],
+    "links": [],
+    "booktitle": "",
+    "institution": "",
+    "number": "6",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2014_outages_censorship__pubdb.json",
+    "publisher": "IEEE/ACM Transactions on Networking",
+    "resources": [
+        {
+            "name": "DOI",
+            "url": "http://dx.doi.org/10.1109/TNET.2013.2291244",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2014/outages_censorship/outages_censorship.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Presentation",
+            "url": "/publications/presentations/2012/internet_outages/",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "ARTICLE",
+        "journal": "IEEE/ACM Transactions on Networking",
+        "volume": "22",
+        "pages": "1964-1977"
+    },
+    "date": "2014.12"
+}

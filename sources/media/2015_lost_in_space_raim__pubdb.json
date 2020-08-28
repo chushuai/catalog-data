@@ -1,0 +1,41 @@
+{
+    "id": "2015_lost_in_space_raim",
+    "name": "Lost in Space: Improving Inference of IPv4 Address Space Utilization",
+    "description": "",
+    "tags": [
+        "routing",
+        "security",
+        "network telescope",
+        "internet outages",
+        "passive data analysis",
+        "measurement methodology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "IRTF Workshop on Research and Applications of Internet Measurements (RAIM)",
+            "date": "2015.10",
+            "url": "https://irtf.org/raim-2015",
+            "person": "person:Dainotti__Alberto"
+        }
+    ],
+    "links": [
+        {
+            "to": "paper:2015_lost_in_space",
+            "url": "https://www.caida.org/publications/papers/2015/lost_in_space/"
+        }
+    ],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2015_lost_in_space_raim__pubdb.json",
+    "pubdb_id": "presentation422",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2015/lost_in_space_raim/lost_in_space_raim.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2015.10"
+}

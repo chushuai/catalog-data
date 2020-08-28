@@ -1,0 +1,38 @@
+{
+    "id": "2003_nmspi0305",
+    "name": "modeling the Domain Name System (DNS)",
+    "description": "",
+    "tags": [
+        "dns",
+        "measurement methodology",
+        "policy"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "NMS PI Meeting",
+            "date": "2003.05",
+            "url": "",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2003_nmspi0305__pubdb.json",
+    "pubdb_id": "presentation161",
+    "resources": [
+        {
+            "name": "HTML slides",
+            "url": "https://www.caida.org/publications/presentations/2003/nmspi0305/index.html",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2003/nmspi0305/nmspi0305.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2003.05"
+}

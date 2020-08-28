@@ -1,0 +1,38 @@
+{
+    "id": "2004_nsfpi0402",
+    "name": "Correlating Heterogeneous Measurement Data to Achieve System-Level Analysis of Internet Traffic Trends",
+    "description": "",
+    "tags": [
+        "data",
+        "measurement methodology",
+        "policy"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "NSF",
+            "date": "2004.02",
+            "url": "",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2004_nsfpi0402__pubdb.json",
+    "pubdb_id": "presentation46",
+    "resources": [
+        {
+            "name": "gzipped postscript",
+            "url": "https://www.caida.org/publications/presentations/2004/nsfpi0402/nsfpi0402.ps.gz",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2004/nsfpi0402/nsfpi0402.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2004.02"
+}

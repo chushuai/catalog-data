@@ -1,0 +1,37 @@
+{
+    "id": "2019_manic_restful_api_aims",
+    "name": "MANIC Restful API",
+    "description": "",
+    "tags": [
+        "congestion",
+        "software/tools"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Workshop on Active Internet Measurements (AIMS)",
+            "date": "2019.04",
+            "url": "http://www.caida.org/workshops/aims/1904/",
+            "person": "person:Fanou__Rod\u00e9rick"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2019_manic_restful_api_aims__pubdb.json",
+    "pubdb_id": "presentation546",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2019/manic_restful_api_aims/manic_restful_api_aims.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Project",
+            "url": "https://www.caida.org/projects/manic/",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2019.04"
+}

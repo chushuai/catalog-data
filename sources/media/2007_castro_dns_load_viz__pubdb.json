@@ -1,0 +1,33 @@
+{
+    "id": "2007_castro_dns_load_viz",
+    "name": "DNS load visualization",
+    "description": "",
+    "tags": [
+        "passive data analysis",
+        "dns",
+        "visualization"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "OARC",
+            "date": "2007.07",
+            "url": "",
+            "person": "person:Castro__Sebastian"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2007_castro_dns_load_viz__pubdb.json",
+    "pubdb_id": "presentation249",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2007/castro_dns_load_viz/castro_dns_load_viz.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2007.07"
+}

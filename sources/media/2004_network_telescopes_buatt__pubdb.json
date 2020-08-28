@@ -1,0 +1,44 @@
+{
+    "id": "2004_network_telescopes_buatt",
+    "name": "Network Telescopes: Remote Monitoring of Internet Worms and Denial-of-Service Attacks",
+    "description": "This slideset was presented at AT&T Research Labs on September 13, 2004, and Boston University on September 27, 2004.",
+    "tags": [
+        "security",
+        "measurement methodology",
+        "network telescope"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "Boston University",
+            "date": "2004.09",
+            "url": "",
+            "person": "person:Shannon__Colleen"
+        },
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "AT&T Research",
+            "date": "2004.09",
+            "url": "",
+            "person": "person:Shannon__Colleen"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2004_network_telescopes_buatt__pubdb.json",
+    "pubdb_id": "presentation98",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2004/network_telescopes_buatt/network_telescopes_buatt.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2004.09"
+}

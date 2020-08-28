@@ -1,0 +1,32 @@
+{
+    "id": "2014_disclosure_control_predict_pi",
+    "name": "Disclosure Control Update",
+    "description": "",
+    "tags": [
+        "overview",
+        "policy"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "DHS PREDICT PI Meeting",
+            "date": "2014.06",
+            "url": "",
+            "person": "person:Kenneally__Erin"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2014_disclosure_control_predict_pi__pubdb.json",
+    "pubdb_id": "presentation395",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2014/disclosure_control_predict_pi/disclosure_control_predict_pi.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2014.06"
+}

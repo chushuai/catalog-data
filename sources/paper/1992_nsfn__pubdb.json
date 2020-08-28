@@ -1,0 +1,47 @@
+{
+    "id": "1992_nsfn",
+    "name": "The National Science Foundation Network",
+    "datePublished": "1992.09",
+    "description": "This paper describes the National Science Foundation Network, which\nevolved from a 56 kbps six-node network in the mid-eighties to today's\n45 Mbps network, covering a large fraction of the research and\neducation community via attached mid-level networks, and extending into\na global arena via international connections.\n\n",
+    "annotation": "",
+    "tags": [
+        "overview"
+    ],
+    "pubdb_id": "paper185",
+    "authors": [
+        {
+            "person": "person:Chinoy__Bilal",
+            "organizations": [
+                "San Diego Supercomputer Center,   University of California, San Diego (SDSC/UCSD)"
+            ]
+        },
+        {
+            "person": "person:Braun__Hans-Werner",
+            "organizations": [
+                "San Diego Supercomputer Center,   University of California, San Diego (SDSC/UCSD)"
+            ]
+        }
+    ],
+    "links": [],
+    "booktitle": "",
+    "journal": "",
+    "volume": "",
+    "number": "SDSC Report GA-A21029",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/1992_nsfn__pubdb.json",
+    "publisher": "San Diego Supercomputer Center",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/1992/nsfn//publications/papers/1992/nsfn/nsfnet-t1-technology.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "TECHREPORT",
+        "institution": "San Diego Supercomputer Center"
+    },
+    "date": "1992.09"
+}

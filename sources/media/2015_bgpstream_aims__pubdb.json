@@ -1,0 +1,33 @@
+{
+    "id": "2015_bgpstream_aims",
+    "name": "BGPstream",
+    "description": "",
+    "tags": [
+        "routing",
+        "internet outages",
+        "software/tools"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Workshop on Active Internet Measurements (AIMS)",
+            "date": "2015.03",
+            "url": "http://www.caida.org/workshops/aims/1503/",
+            "person": "person:King__Alistair"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2015_bgpstream_aims__pubdb.json",
+    "pubdb_id": "presentation413",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2015/bgpstream_aims/bgpstream_aims.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2015.03"
+}

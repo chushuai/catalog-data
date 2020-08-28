@@ -1,0 +1,33 @@
+{
+    "id": "2013_physics_geometry_networks_neu",
+    "name": "Physics and geometry of networks",
+    "description": "",
+    "tags": [
+        "network geometry",
+        "routing",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Northeastern University",
+            "date": "2013.02",
+            "url": "",
+            "person": "person:Krioukov__Dmitri"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2013_physics_geometry_networks_neu__pubdb.json",
+    "pubdb_id": "presentation351",
+    "resources": [
+        {
+            "name": "Powerpoint",
+            "url": "https://www.caida.org/publications/presentations/2013/physics_geometry_networks_neu/physics_geometry_networks_neu.pptx",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2013.02"
+}

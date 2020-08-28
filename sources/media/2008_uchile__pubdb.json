@@ -1,0 +1,33 @@
+{
+    "id": "2008_uchile",
+    "name": "Internet as emerging critical infrastructure: what needs to be measured?",
+    "description": "This slideset was presented at the University of Chile and Jornadas Chilenas de Computacion in November, 2008.(Trip hosted by Universidad de Chile's computer science department and NIC Chile.)",
+    "tags": [
+        "measurement methodology",
+        "data",
+        "policy"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "UChile / Jornadas Chilenas de Computacion (JCCC)",
+            "date": "2008.11",
+            "url": "",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2008_uchile__pubdb.json",
+    "pubdb_id": "presentation4",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2008/uchile/uchile.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2008.11"
+}

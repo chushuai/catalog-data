@@ -1,0 +1,34 @@
+{
+    "id": "2018_alias_resolution_service_aims",
+    "name": "An Alias Resolution Service for the Community",
+    "description": "",
+    "tags": [
+        "topology",
+        "software/tools",
+        "measurement methodology",
+        "ipv6"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Workshop on Active Internet Measurements (AIMS)",
+            "date": "2018.03",
+            "url": "http://www.caida.org/workshops/aims/1803/",
+            "person": "person:Hyun__Young"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2018_alias_resolution_service_aims__pubdb.json",
+    "pubdb_id": "presentation504",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2018/alias_resolution_service_aims/alias_resolution_service_aims.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2018.03"
+}

@@ -1,0 +1,34 @@
+{
+    "id": "2006_isma0605_fontas",
+    "name": "A New Approach to Topology Generation: Random Annotated Graphs",
+    "description": "",
+    "tags": [
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego",
+                "Georgia Institute of Technology (Georgia Tech)"
+            ],
+            "venue": "ISMA Workshop on the Internet Topology (WIT)",
+            "date": "2006.05",
+            "url": "",
+            "person": "person:Dimitropoulos__Xenofontas"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2006_isma0605_fontas__pubdb.json",
+    "pubdb_id": "presentation206",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2006/isma0605_fontas/isma0605_fontas.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2006.05"
+}

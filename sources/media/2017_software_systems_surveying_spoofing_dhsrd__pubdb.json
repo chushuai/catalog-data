@@ -1,0 +1,39 @@
+{
+    "id": "2017_software_systems_surveying_spoofing_dhsrd",
+    "name": "Software Systems for Surveying Spoofing Susceptibility",
+    "description": "",
+    "tags": [
+        "security",
+        "active data analysis",
+        "routing",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "DHS R&D Showcase and Technical Workshop",
+            "date": "2017.07",
+            "url": "http://www.cvent.com/events/2017-cyber-security-r-d-showcase-and-technical-workshop/custom-35-9acde78a545049728c03bf3874f47532.aspx",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2017_software_systems_surveying_spoofing_dhsrd__pubdb.json",
+    "pubdb_id": "presentation480",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2017/software_systems_surveying_spoofing_dhsrd/software_systems_surveying_spoofing_dhsrd.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Project",
+            "url": "https://www.caida.org/projects/spoofer/",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2017.07"
+}

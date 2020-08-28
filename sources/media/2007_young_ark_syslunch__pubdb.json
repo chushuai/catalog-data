@@ -1,0 +1,31 @@
+{
+    "id": "2007_young_ark_syslunch",
+    "name": "Archipelago: A Coordination-Oriented Measurement Infrastructure",
+    "description": "",
+    "tags": [
+        "software/tools"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "UCSD CSE Syslunch",
+            "date": "2007.04",
+            "url": "",
+            "person": "person:Hyun__Young"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2007_young_ark_syslunch__pubdb.json",
+    "pubdb_id": "presentation221",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2007/young_ark_syslunch/young_ark_syslunch.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2007.04"
+}

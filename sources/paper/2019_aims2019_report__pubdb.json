@@ -1,0 +1,58 @@
+{
+    "id": "2019_aims2019_report",
+    "name": "The 11th Workshop on Active Internet Measurements (AIMS-11) Workshop Report",
+    "datePublished": "2019.07",
+    "description": "On 16-17 April 2019, CAIDA hosted its eleventh Workshop on Active Internet Measurements (AIMS-11). This workshop series provides a forum for stakeholders in Internet active measurement projects to communicate their interests and concerns, and explore cooperative approaches to maximizing the collective benefit of deployed infrastructure and gathered data. An overarching theme this year was scaling the storage, indexing, annotation, and usage of Internet measurements. We discussed tradeoffs in use of commercial cloud services to to make measurement results more accessible and informative to researchers in various disciplines. Other agenda topics included status updates on recent measurement infrastructures and community feedback; measurement of poorly configured infrastructure; and recent successes and approaches to evolving challenges in geolocation, topology, route hijacking, and performance measurement. We review highlights of discussions of the talks. This report does not cover each topic discussed; for more details examine workshop presentations linked from the workshop web page: https://www.caida.org/workshops/aims/1904/",
+    "annotation": "",
+    "tags": [
+        "measurement methodology",
+        "workshop report"
+    ],
+    "pubdb_id": "paper682",
+    "authors": [
+        {
+            "person": "person:claffy__kc",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Clark__David",
+            "organizations": [
+                "Massachusetts Institute of Technology's Computer Science & Artificial Intelligence Laboratory (MIT/CSAIL)"
+            ]
+        }
+    ],
+    "links": [],
+    "booktitle": "",
+    "institution": "",
+    "number": "3",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2019_aims2019_report__pubdb.json",
+    "publisher": "ACM SIGCOMM Computer Communication Review (CCR)",
+    "resources": [
+        {
+            "name": "DOI",
+            "url": "https://doi.org/10.1145/3371927.3371933",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2019/aims2019_report/aims2019_report.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Workshop",
+            "url": "https://www.caida.org/workshops/aims/1904",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "ARTICLE",
+        "journal": "ACM SIGCOMM Computer Communication Review (CCR)",
+        "volume": "49",
+        "pages": "39-43"
+    },
+    "date": "2019.07"
+}

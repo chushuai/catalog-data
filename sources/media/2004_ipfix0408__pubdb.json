@@ -1,0 +1,37 @@
+{
+    "id": "2004_ipfix0408",
+    "name": "Building a Better NetFlow",
+    "description": "",
+    "tags": [
+        "software/tools",
+        "measurement methodology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Internet Engineering Task Force (IETF)",
+            "date": "2004.08",
+            "url": "",
+            "person": "person:Moore__David"
+        }
+    ],
+    "links": [
+        {
+            "to": "paper:2004_betternetflow",
+            "url": "https://www.caida.org/publications/papers/2004/betternetflow/"
+        }
+    ],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2004_ipfix0408__pubdb.json",
+    "pubdb_id": "presentation65",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2004/ipfix0408/ietf_ipfix_200408.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2004.08"
+}

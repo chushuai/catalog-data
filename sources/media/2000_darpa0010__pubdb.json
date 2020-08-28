@@ -1,0 +1,33 @@
+{
+    "id": "2000_darpa0010",
+    "name": "bad data better than no data?",
+    "description": "",
+    "tags": [
+        "data",
+        "overview",
+        "visualization"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "DARPA PI Meeting",
+            "date": "2000.10",
+            "url": "",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2000_darpa0010__pubdb.json",
+    "pubdb_id": "presentation298",
+    "resources": [
+        {
+            "name": "HTML slides",
+            "url": "https://www.caida.org/publications/presentations/2000/darpa0010/index.html",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2000.10"
+}

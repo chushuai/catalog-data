@@ -1,0 +1,37 @@
+{
+    "id": "2011_nmmc_geocompare",
+    "name": "Geolocation Comparison: CAIDA's Geolocation Database Comparison",
+    "description": "This slideset was presented at the Network Mapping and Measurement Conference (NMMC) in May 2011. References the CAIDA Technical Report, \"Geocompare: a comparison of public and commercial geolocation databases\".",
+    "tags": [
+        "overview",
+        "measurement methodology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Network Mapping and Measurement Conference (NMMC)",
+            "date": "2011.05",
+            "url": "",
+            "person": "person:Huffaker__Bradley"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2011_nmmc_geocompare__pubdb.json",
+    "pubdb_id": "presentation24",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2011/nmmc_geocompare/nmmc_geocompare.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2011/geocompare-tr",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2011.05"
+}

@@ -1,0 +1,41 @@
+{
+    "id": "2012_flocon_entropy_in_ip_darkspace",
+    "name": "Entropy in IP Darkspace Data",
+    "description": "",
+    "tags": [
+        "security",
+        "passive data analysis",
+        "measurement methodology"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego",
+                "Fraunhofer Institute for Open Communication Systems (FOKUS), Berlin"
+            ],
+            "venue": "FloCon",
+            "date": "2012.01",
+            "url": "",
+            "person": "person:Zseby__Tanja"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2012_flocon_entropy_in_ip_darkspace__pubdb.json",
+    "pubdb_id": "presentation89",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2012/flocon_entropy_in_ip_darkspace/flocon_entropy_in_ip_darkspace.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2014/nightlights_entropy",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2012.01"
+}

@@ -1,0 +1,34 @@
+{
+    "id": "2019_stardust_aims",
+    "name": "STARDUST",
+    "description": "",
+    "tags": [
+        "routing",
+        "topology",
+        "security",
+        "network telescope"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Workshop on Active Internet Measurements (AIMS)",
+            "date": "2019.04",
+            "url": "http://www.caida.org/workshops/aims/1904/",
+            "person": "person:King__Alistair"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2019_stardust_aims__pubdb.json",
+    "pubdb_id": "presentation545",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2019/stardust_aims/stardust_aims.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2019.04"
+}

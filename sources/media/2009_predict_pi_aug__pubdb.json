@@ -1,0 +1,35 @@
+{
+    "id": "2009_predict_pi_aug",
+    "name": "CAIDA participation in PREDICT",
+    "description": "",
+    "tags": [
+        "data",
+        "measurement methodology",
+        "overview",
+        "policy",
+        "security"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "DHS PREDICT PI Meeting",
+            "date": "2009.08",
+            "url": "",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2009_predict_pi_aug__pubdb.json",
+    "pubdb_id": "presentation232",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2009/predict_pi_aug/predict_pi_aug.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2009.08"
+}

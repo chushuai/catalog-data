@@ -1,0 +1,37 @@
+{
+    "id": "2005_asrelationships",
+    "name": "Inferring AS Relationships: Dead End or Lively Beginning?",
+    "description": "",
+    "tags": [
+        "routing",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Workshop on Efficient and Experimental Algorithms (WEA)",
+            "date": "2005.05",
+            "url": "",
+            "person": "person:Dimitropoulos__Xenofontas"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2005_asrelationships__pubdb.json",
+    "pubdb_id": "presentation264",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2005/asrelationships/WEA2005-inferring.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2005/asrelationships",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2005.05"
+}

@@ -1,0 +1,37 @@
+{
+    "id": "2015_mapping_technological_frontier_siliconflatirons",
+    "name": "Mapping the Technological Frontier and Sources of Innovation",
+    "description": "",
+    "tags": [
+        "policy",
+        "overview"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Silicon Flatirons Center",
+            "date": "2015.02",
+            "url": "http://www.siliconflatirons.com/events.php?id=1495",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2015_mapping_technological_frontier_siliconflatirons__pubdb.json",
+    "pubdb_id": "presentation403",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2015/mapping_technological_frontier_siliconflatirons/mapping_technological_frontier_siliconflatirons.pdf",
+            "tags": []
+        },
+        {
+            "name": "Video (YouTube)",
+            "url": "https://youtu.be/yMtP_eaVuPE?t=10m52s",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2015.02"
+}

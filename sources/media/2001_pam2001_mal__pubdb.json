@@ -1,0 +1,37 @@
+{
+    "id": "2001_pam2001_mal",
+    "name": "Methodology for Passive Analysis",
+    "description": "",
+    "tags": [
+        "measurement methodology",
+        "passive data analysis"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Passive and Active Measurement Conference (PAM)",
+            "date": "2001.04",
+            "url": "",
+            "person": "person:Brownlee__Nevil"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2001_pam2001_mal__pubdb.json",
+    "pubdb_id": "presentation258",
+    "resources": [
+        {
+            "name": "HTML",
+            "url": "https://www.caida.org/publications/presentations/2001/pam2001_mal/index.html",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2001/MethodAnalyseLink",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2001.04"
+}

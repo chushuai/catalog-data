@@ -1,0 +1,58 @@
+{
+    "id": "2011_dances_outages_censorship",
+    "name": "Analysis of Country-wide Internet Outages Caused by Censorship",
+    "description": "This slideset was presented at the UCSD Complex Network Seminar (DANCES) in November 2011, and again at the 4th CAIDA-WIDE-CASFI Joint Measurement Workshop in December 2011.",
+    "tags": [
+        "active data analysis",
+        "data",
+        "measurement methodology",
+        "passive data analysis",
+        "routing",
+        "security",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "Different Angles on Network Complexity, Engineering, and Science (DANCES)",
+            "date": "2011.11",
+            "url": "",
+            "person": "person:claffy__kc"
+        },
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "CAIDA-WIDE-CASFI Joint Measurement Workshop",
+            "date": "2011.12",
+            "url": "",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2011_dances_outages_censorship__pubdb.json",
+    "pubdb_id": "presentation171",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2011/dances_outages_censorship/dances_outages_censorship.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2011/outages_censorship",
+            "tags": []
+        },
+        {
+            "name": "Video (m4v, 371MB)",
+            "url": "https://www.caida.org/publications/presentations/2011/dances_outages_censorship//workshops/dances/videos/dances2011_kclaffy.m4v",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2011.12"
+}

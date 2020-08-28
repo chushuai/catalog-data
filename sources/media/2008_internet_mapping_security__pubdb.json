@@ -1,0 +1,36 @@
+{
+    "id": "2008_internet_mapping_security",
+    "name": "Leveraging the Science and Technology of Internet Mapping for Homeland Security",
+    "description": "",
+    "tags": [
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "DHS Cybersecurity PI Meeting",
+            "date": "2008.09",
+            "url": "",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2008_internet_mapping_security__pubdb.json",
+    "pubdb_id": "presentation26",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2008/internet_mapping_security/internet_mapping_security.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2009/internet_mapping",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2008.09"
+}

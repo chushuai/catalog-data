@@ -1,0 +1,45 @@
+{
+    "id": "2016_bgpstream_framework_historical_nanog",
+    "name": "BGPStream: a framework for historical analysis and real-time monitoring of BGP data",
+    "description": "",
+    "tags": [
+        "internet outages",
+        "routing",
+        "software/tools"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "North American Network Operators' Group (NANOG)",
+            "date": "2016.02",
+            "url": "https://www.nanog.org/meetings/nanog66/home",
+            "person": "person:Dainotti__Alberto"
+        },
+        {
+            "organizations": [],
+            "venue": "Workshop on Active Internet Measurements (AIMS)",
+            "date": "2016.02",
+            "url": "http://www.caida.org/workshops/aims/1602/",
+            "person": "person:Dainotti__Alberto"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2016_bgpstream_framework_historical_nanog__pubdb.json",
+    "pubdb_id": "presentation431",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2016/bgpstream_framework_historical_nanog/bgpstream_framework_historical_nanog.pdf",
+            "tags": []
+        },
+        {
+            "name": "Video",
+            "url": "https://www.youtube.com/watch?v=HlKtEfwG42w&feature=youtu.be&t=1617",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2016.02"
+}

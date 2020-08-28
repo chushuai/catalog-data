@@ -1,0 +1,38 @@
+{
+    "id": "2013_complex_networks_quantum_gravity_iqc",
+    "name": "Complex networks in quantum gravity",
+    "description": "",
+    "tags": [
+        "network geometry",
+        "routing",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Institute of Quantum Computing (IQC)",
+            "date": "2013.05",
+            "url": "",
+            "person": "person:Krioukov__Dmitri"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2013_complex_networks_quantum_gravity_iqc__pubdb.json",
+    "pubdb_id": "presentation359",
+    "resources": [
+        {
+            "name": "Powerpoint",
+            "url": "https://www.caida.org/publications/presentations/2013/complex_networks_quantum_gravity_iqc/complex_networks_quantum_gravity_iqc.pptx",
+            "tags": []
+        },
+        {
+            "name": "Related Animation",
+            "url": "http://htwins.net/scale/",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2013.05"
+}

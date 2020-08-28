@@ -1,0 +1,33 @@
+{
+    "id": "2010_decisionmaking_navigability_complex_networks",
+    "name": "Navigability of complex networks",
+    "description": "",
+    "tags": [
+        "routing",
+        "topology",
+        "network geometry"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Decision Making: A Psychophysics Application of Network Science",
+            "date": "2010.01",
+            "url": "",
+            "person": "person:Krioukov__Dmitri"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2010_decisionmaking_navigability_complex_networks__pubdb.json",
+    "pubdb_id": "presentation199",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2010/decisionmaking_navigability_complex_networks/decisionmaking_navigability_complex_networks.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2010.01"
+}

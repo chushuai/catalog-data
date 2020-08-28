@@ -1,0 +1,33 @@
+{
+    "id": "2006_recent_future_wide",
+    "name": "CAIDA Recent and Future Work",
+    "description": "",
+    "tags": [
+        "overview"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "WIDE",
+            "date": "2006.06",
+            "url": "",
+            "person": "person:Huffaker__Bradley"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2006_recent_future_wide__pubdb.json",
+    "pubdb_id": "presentation41",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2006/recent_future_wide/recent_future_wide.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2006.06"
+}

@@ -1,0 +1,32 @@
+{
+    "id": "2010_visualizing_geolocated",
+    "name": "Visualizing geolocated Internet measurements",
+    "description": "",
+    "tags": [
+        "visualization",
+        "software/tools"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "RIPE Meeting",
+            "date": "2010.11",
+            "url": "",
+            "person": "person:Squarcella__Claudio"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2010_visualizing_geolocated__pubdb.json",
+    "pubdb_id": "presentation115",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2010/visualizing_geolocated/visualizing_geolocated.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2010.11"
+}

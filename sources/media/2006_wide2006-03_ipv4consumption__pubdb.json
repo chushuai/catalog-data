@@ -1,0 +1,32 @@
+{
+    "id": "2006_wide2006-03_ipv4consumption",
+    "name": "IPv4 Consumption: the end",
+    "description": "",
+    "tags": [
+        "policy",
+        "internet id consumption"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "WIDE",
+            "date": "2006.03",
+            "url": "",
+            "person": "person:Huffaker__Bradley"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2006_wide2006-03_ipv4consumption__pubdb.json",
+    "pubdb_id": "presentation127",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2006/wide2006-03_ipv4consumption/ipv4consumption.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2006.03"
+}

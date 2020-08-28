@@ -1,0 +1,108 @@
+{
+    "id": "2020_dns_in_iot",
+    "name": "The DNS in IoT: Opportunities, Risks, and Challenges",
+    "datePublished": "2020.07",
+    "description": "The Internet of Things (IoT) is widely expected to make our society safer, smarter, and more sustainable. However, a key challenge remains, which is how to protect users and Internet infrastructure operators from attacks on or launched through vast numbers of autonomously operating sensors and actuators. In this paper, we discuss how the security extensions of the Domain Name System (DNS) offer an opportunity to help tackle that challenge, while also outlining the risks that the IoT poses to the DNS in terms of complex and quickly growing IoT-powered Distributed Denial of Service (DDoS) attacks. We identify three challenges for the DNS and IoT industries to seize these opportunities and address the risks, for example by making DNS security functions (e.g., response verification and encryption) available on popular IoT operating systems. ",
+    "annotation": "",
+    "tags": [
+        "dns",
+        "security"
+    ],
+    "pubdb_id": "paper703",
+    "authors": [
+        {
+            "person": "person:Hesselman__Cristian",
+            "organizations": [
+                "SIDN Labs",
+                "University of Twente"
+            ]
+        },
+        {
+            "person": "person:Kaeo__Merike",
+            "organizations": [
+                "Double Shot Security"
+            ]
+        },
+        {
+            "person": "person:Chapin__Lyman",
+            "organizations": [
+                "Interisle Consulting Group"
+            ]
+        },
+        {
+            "person": "person:claffy__kc",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Seiden__Mark",
+            "organizations": [
+                "Internet Archive"
+            ]
+        },
+        {
+            "person": "person:McPherson__Danny",
+            "organizations": [
+                "Verisign"
+            ]
+        },
+        {
+            "person": "person:Piscitello__Dave",
+            "organizations": [
+                "Interisle Consulting Group"
+            ]
+        },
+        {
+            "person": "person:McConachie__Andrew",
+            "organizations": [
+                "ICANN"
+            ]
+        },
+        {
+            "person": "person:April__Tim",
+            "organizations": [
+                "Akamai"
+            ]
+        },
+        {
+            "person": "person:Latour__Jacques",
+            "organizations": [
+                "CIRA"
+            ]
+        },
+        {
+            "person": "person:Rasmussen__Rod",
+            "organizations": [
+                "R2 Cyber"
+            ]
+        }
+    ],
+    "links": [],
+    "booktitle": "",
+    "institution": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "linkedObjects": "3,41",
+    "__typename": "paper",
+    "filename": "sources/paper/2020_dns_in_iot__pubdb.json",
+    "publisher": "IEEE Internet Computing",
+    "resources": [
+        {
+            "name": "DOI",
+            "url": "https://www.doi.org/10.1109/MIC.2020.3005388",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2020/dns_in_iot/dns_in_iot.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "ARTICLE",
+        "journal": "IEEE Internet Computing"
+    },
+    "date": "2020.07"
+}

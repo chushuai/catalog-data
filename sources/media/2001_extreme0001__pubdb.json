@@ -1,0 +1,35 @@
+{
+    "id": "2001_extreme0001",
+    "name": "are raw bandwidth testbeds worth the investment?",
+    "description": "",
+    "tags": [
+        "measurement methodology",
+        "policy"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "National Laboratory for Applied Network Research - NLANR, San Diego Supercomputer Center, University of California, San Diego",
+                "Pittsburgh Supercomputer Center"
+            ],
+            "venue": "Extreme Networking",
+            "date": "2001.01",
+            "url": "",
+            "person": "person:Mathis__Matt"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2001_extreme0001__pubdb.json",
+    "pubdb_id": "presentation124",
+    "resources": [
+        {
+            "name": "HTML slides",
+            "url": "https://www.caida.org/publications/presentations/2001/extreme0001/index.html",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2001.01"
+}

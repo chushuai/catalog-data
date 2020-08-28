@@ -1,0 +1,72 @@
+{
+    "id": "2010_AS_evolution",
+    "name": "Evolution of the Internet AS-Level Ecosystem",
+    "datePublished": "2010.03",
+    "description": "We present an analytically tractable model of Internet evolution at the level of Autonomous Systems (ASs). We call our model the multiclass preferential attachment (MPA) model. As its name suggests, it is based on preferential attachment. All of its parameters are measurable from available Internet topology data. Given the estimated values of these parameters, our analytic results predict a definitive set of statistics characterizing the AS topology structure. These statistics are not part of model formulation. The MPA model thus closes the \"measure-model-validate-predict\" loop, and provides further evidence that preferential attachment is the main driving force behind Internet evolution. ",
+    "annotation": "First presented at The First International Conference on Complex Sciences: Theory and Applications (Complex'2009).",
+    "tags": [
+        "policy",
+        "routing",
+        "topology"
+    ],
+    "pubdb_id": "paper493",
+    "authors": [
+        {
+            "person": "person:Shakkottai__Srinivas",
+            "organizations": [
+                "Texas A&M University, College Station"
+            ]
+        },
+        {
+            "person": "person:Fomenkov__Marina",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Koga__Ryan",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Krioukov__Dmitri",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:claffy__kc",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        }
+    ],
+    "links": [],
+    "booktitle": "",
+    "institution": "",
+    "number": "2",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2010_AS_evolution__pubdb.json",
+    "publisher": "European Physical Journal B",
+    "resources": [
+        {
+            "name": "DOI",
+            "url": "http://dx.doi.org/10.1140/epjb/e2010-00057-x",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2010/AS_evolution/AS_evolution.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "ARTICLE",
+        "journal": "European Physical Journal B",
+        "volume": "74",
+        "pages": "271-278"
+    },
+    "date": "2010.03"
+}

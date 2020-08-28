@@ -1,0 +1,32 @@
+{
+    "id": "2008_oarc_castro_heavyhitters",
+    "name": "In the search of heavy hitters",
+    "description": "",
+    "tags": [
+        "passive data analysis",
+        "dns"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "OARC",
+            "date": "2008.06",
+            "url": "",
+            "person": "person:Castro__Sebastian"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2008_oarc_castro_heavyhitters__pubdb.json",
+    "pubdb_id": "presentation224",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2008/oarc_castro_heavyhitters/oarc_castro_heavyhitters.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2008.06"
+}

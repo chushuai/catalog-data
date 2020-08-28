@@ -1,0 +1,37 @@
+{
+    "id": "2010_predict_pi_jul",
+    "name": "DHS PREDICT project: CAIDA update",
+    "description": "",
+    "tags": [
+        "data",
+        "measurement methodology",
+        "overview",
+        "policy",
+        "security"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "DHS PREDICT PI Meeting",
+            "date": "2010.07",
+            "url": "",
+            "person": "person:Fomenkov__Marina"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2010_predict_pi_jul__pubdb.json",
+    "pubdb_id": "presentation45",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2010/predict_pi_jul/predict_pi_jul.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2010.07"
+}

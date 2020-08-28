@@ -1,0 +1,37 @@
+{
+    "id": "2017_mapping_our_way_iij",
+    "name": "Mapping our Way to a More Secure Internet",
+    "description": "",
+    "tags": [
+        "routing",
+        "security",
+        "internet outages",
+        "congestion",
+        "active data analysis",
+        "measurement methodology",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Internet Initiative Japan (IIJ)",
+            "date": "2017.11",
+            "url": "http://www.iij-ii.co.jp/en/lab/seminars/index.html",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2017_mapping_our_way_iij__pubdb.json",
+    "pubdb_id": "presentation494",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2017/mapping_our_way_iij/mapping_our_way_iij.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2017.11"
+}

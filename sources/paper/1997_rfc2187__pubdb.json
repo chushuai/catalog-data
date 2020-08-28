@@ -1,0 +1,47 @@
+{
+    "id": "1997_rfc2187",
+    "name": "IETF RFC 2187: Application of Internet Cache Protocol (ICP), version 2",
+    "datePublished": "1997.09",
+    "description": "This document describes the application of ICPv2 (Internet Cache Protocol version 2, RFC2186) to Web caching. ICPv2 is a lightweight message format used for communication among Web caches. Several independent caching implementations now use ICP, making it important to codify the existing practical uses of ICP for those trying to implement, deploy, and extend its use.\r\n\r\nICP queries and replies refer to the existence of URLs (or objects) in neighbor caches. Caches exchange ICP messages and use the gathered information to select the most appropriate location from which to retrieve an object. A companion document (RFC2186) describes the format and syntax of the protocol itself. In this document we focus on issues of ICP deployment, efficiency, security, and interaction with other aspects of Web traffic behavior.\r\n\r\n",
+    "annotation": "",
+    "tags": [
+        "caching"
+    ],
+    "pubdb_id": "paper151",
+    "authors": [
+        {
+            "person": "person:Wessels__Duane",
+            "organizations": [
+                "National Laboratory for Applied Network Research - NLANR, San Diego Supercomputer Center, University of California, San Diego"
+            ]
+        },
+        {
+            "person": "person:claffy__kc",
+            "organizations": [
+                "National Laboratory for Applied Network Research - NLANR, San Diego Supercomputer Center, University of California, San Diego"
+            ]
+        }
+    ],
+    "links": [],
+    "booktitle": "",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/1997_rfc2187__pubdb.json",
+    "publisher": "Internet Engineering Task Force (IETF)",
+    "resources": [
+        {
+            "name": "HTML",
+            "url": "rfc2187.xml",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "MISC",
+        "institution": "Internet Engineering Task Force (IETF)"
+    },
+    "date": "1997.09"
+}

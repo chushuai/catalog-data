@@ -1,0 +1,32 @@
+{
+    "id": "2015_improving_as_level_topology_aims",
+    "name": "Improving CAIDA's AS Level Topology",
+    "description": "",
+    "tags": [
+        "overview",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Workshop on Active Internet Measurements (AIMS)",
+            "date": "2015.03",
+            "url": "http://www.caida.org/workshops/aims/1503/",
+            "person": "person:Huffaker__Bradley"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2015_improving_as_level_topology_aims__pubdb.json",
+    "pubdb_id": "presentation406",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2015/improving_as_level_topology_aims/improving_as_level_topology_aims.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2015.03"
+}

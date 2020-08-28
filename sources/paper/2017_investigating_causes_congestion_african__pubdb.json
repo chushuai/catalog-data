@@ -1,0 +1,71 @@
+{
+    "id": "2017_investigating_causes_congestion_african",
+    "name": "Investigating the Causes of Congestion on the African IXP substrate",
+    "datePublished": "2017.11",
+    "description": "The goal of this work is to investigate the prevalence, causes, and impact of congestion on the African IXP substrate. Towards this end, we deployed Ark probes (within networks peering) at six African IXPs and ran the time-sequence latency probes (TSLP) algorithm, thereby collecting latency measurements to both ends of each mapped AS link for a whole year. We were able to detect congestion events and quantify their periods and magnitudes at four IXPs. We then verified the events and investigated the causes by interviewing the IXP operators. Our results show that only 2.2% of the discovered IP links experienced (sustained or transient) congestion during our measurement period. Our findings suggest the need for ISPs to carefully monitor the provision of their peering links, so as to avoid or quickly mitigate the occurrence of congestion. Regulators may also define the maximum level of packet loss in those links to provide some protection to communications routed through local IXPs.",
+    "annotation": "",
+    "tags": [
+        "active data analysis",
+        "congestion",
+        "topology",
+        "measurement methodology"
+    ],
+    "pubdb_id": "paper639",
+    "authors": [
+        {
+            "person": "person:Fanou__Rod\u00e9rick",
+            "organizations": [
+                "IMDEA Networks Institute",
+                "University Carlos III of Madrid"
+            ]
+        },
+        {
+            "person": "person:Valera__Francisco",
+            "organizations": [
+                "University Carlos III of Madrid"
+            ]
+        },
+        {
+            "person": "person:Dhamdhere__Amogh",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        }
+    ],
+    "links": [
+        {
+            "to": "media:2018_investigating_causes_congestion_african_afrinic",
+            "url": "https://www.caida.org/publications/presentations/2018/investigating_causes_congestion_african_afrinic/"
+        },
+        {
+            "to": "media:2017_investigating_causes_congestion_african_imc",
+            "url": "https://www.caida.org/publications/presentations/2017/investigating_causes_congestion_african_imc/"
+        }
+    ],
+    "institution": "",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2017_investigating_causes_congestion_african__pubdb.json",
+    "publisher": "ACM Internet Measurement Conference (IMC)",
+    "resources": [
+        {
+            "name": "DOI",
+            "url": "https://doi.org/10.1145/3131365.3131394",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2017/investigating_causes_congestion_african/investigating_causes_congestion_african.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "INPROCEEDINGS",
+        "bookTitle": "ACM Internet Measurement Conference (IMC)"
+    },
+    "date": "2017.11"
+}

@@ -1,0 +1,35 @@
+{
+    "id": "2014_internet_architecture_innovation_duke",
+    "name": "Internet Architecture Innovation: 2020 and 2030",
+    "description": "",
+    "tags": [
+        "economics",
+        "internet id consumption",
+        "ipv6",
+        "overview",
+        "policy"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Duke Law's Center for Innovation Policy: Internet Regulation in 2020 Conference",
+            "date": "2014.10",
+            "url": "http://law.duke.edu/innovationpolicy/internetregulation/",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2014_internet_architecture_innovation_duke__pubdb.json",
+    "pubdb_id": "presentation397",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2014/internet_architecture_innovation_duke/internet_architecture_innovation_duke.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2014.10"
+}

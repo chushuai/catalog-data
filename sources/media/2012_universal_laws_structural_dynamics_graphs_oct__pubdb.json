@@ -1,0 +1,33 @@
+{
+    "id": "2012_universal_laws_structural_dynamics_graphs_oct",
+    "name": "The Universal Laws of Structural Dynamics in Large Graphs",
+    "description": "",
+    "tags": [
+        "network geometry",
+        "routing",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "DARPA Graph-theoretic Research in Algorithms and the Phenomenology of Social networks (GRAPHS)",
+            "date": "2012.10",
+            "url": "",
+            "person": "person:Krioukov__Dmitri"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2012_universal_laws_structural_dynamics_graphs_oct__pubdb.json",
+    "pubdb_id": "presentation330",
+    "resources": [
+        {
+            "name": "Powerpoint",
+            "url": "https://www.caida.org/publications/presentations/2012/universal_laws_structural_dynamics_graphs_oct/universal_laws_structural_dynamics_graphs_oct.pptx",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2012.10"
+}

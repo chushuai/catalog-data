@@ -1,0 +1,33 @@
+{
+    "id": "2012_caida_asrank_nanog",
+    "name": "CAIDA's AS-rank: measuring the influence of ASes on Internet Routing",
+    "description": "",
+    "tags": [
+        "active data analysis",
+        "routing",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "North American Network Operators' Group (NANOG)",
+            "date": "2012.10",
+            "url": "",
+            "person": "person:Luckie__Matthew"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2012_caida_asrank_nanog__pubdb.json",
+    "pubdb_id": "presentation332",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2012/caida_asrank_nanog/caida_asrank_nanog.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2012.10"
+}

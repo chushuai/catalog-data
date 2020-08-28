@@ -1,0 +1,49 @@
+{
+    "id": "2017_look_at_router_geolocation_imc",
+    "name": "A Look at Router Geolocation in Public and Commercial Databases",
+    "description": "",
+    "tags": [
+        "active data analysis",
+        "measurement methodology",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "ACM Internet Measurement Conference (IMC)",
+            "date": "2017.11",
+            "url": "https://conferences.sigcomm.org/imc/2017/",
+            "person": "person:Huffaker__Bradley"
+        },
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "Internet Initiative Japan (IIJ)",
+            "date": "2017.11",
+            "url": "http://www.iij-ii.co.jp/en/lab/seminars/index.html",
+            "person": "person:Huffaker__Bradley"
+        }
+    ],
+    "links": [
+        {
+            "to": "paper:2017_look_at_router_geolocation",
+            "url": "https://www.caida.org/publications/papers/2017/look_at_router_geolocation/"
+        }
+    ],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2017_look_at_router_geolocation_imc__pubdb.json",
+    "pubdb_id": "presentation491",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2017/look_at_router_geolocation_imc/look_at_router_geolocation_imc.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2017.11"
+}

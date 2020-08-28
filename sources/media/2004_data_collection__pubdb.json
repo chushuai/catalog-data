@@ -1,0 +1,47 @@
+{
+    "id": "2004_data_collection",
+    "name": "Data Collection/Provision at CAIDA",
+    "description": "",
+    "tags": [
+        "data"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "Lincoln Labs",
+            "date": "2004.09",
+            "url": "",
+            "person": "person:Shannon__Colleen"
+        },
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "DHS PREDICT PI Meeting",
+            "date": "2004.05",
+            "url": "",
+            "person": "person:Shannon__Colleen"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2004_data_collection__pubdb.json",
+    "pubdb_id": "presentation3",
+    "resources": [
+        {
+            "name": "PDF - DHS",
+            "url": "https://www.caida.org/publications/presentations/2004/data_collection/data_collection_dhs.pdf",
+            "tags": []
+        },
+        {
+            "name": "PDF - Lincoln",
+            "url": "https://www.caida.org/publications/presentations/2004/data_collection/data_collection_lincoln.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2004.09"
+}

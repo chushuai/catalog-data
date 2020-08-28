@@ -1,0 +1,32 @@
+{
+    "id": "2000_isma00_andre_core",
+    "name": "The Internet's 'Core': Top IPs, Prefixes, and ASes",
+    "description": "",
+    "tags": [
+        "topology",
+        "data"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Internet Statistics and Metrics Analysis Workshop (ISMA)",
+            "date": "2000.12",
+            "url": "",
+            "person": "person:Broido__Andre"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2000_isma00_andre_core__pubdb.json",
+    "pubdb_id": "presentation120",
+    "resources": [
+        {
+            "name": "HTML slides",
+            "url": "https://www.caida.org/workshops/isma/0012/talks/andre/",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2000.12"
+}

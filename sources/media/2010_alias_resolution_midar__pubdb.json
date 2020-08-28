@@ -1,0 +1,38 @@
+{
+    "id": "2010_alias_resolution_midar",
+    "name": "Internet-Scale Alias Resolution with MIDAR",
+    "description": "",
+    "tags": [
+        "topology",
+        "software/tools",
+        "measurement methodology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "ISMA Workshop on Active Internet Measurements (AIMS)",
+            "date": "2010.02",
+            "url": "",
+            "person": "person:Keys__Ken"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2010_alias_resolution_midar__pubdb.json",
+    "pubdb_id": "presentation38",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2010/alias_resolution_midar/alias_resolution_midar.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2011/midar-tr",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2010.02"
+}

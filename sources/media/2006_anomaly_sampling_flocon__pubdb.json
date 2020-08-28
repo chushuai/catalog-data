@@ -1,0 +1,32 @@
+{
+    "id": "2006_anomaly_sampling_flocon",
+    "name": "Anomaly Sampling (bringing diversity to network security)",
+    "description": "Another version of this slideset was presented at the Intimate Workshop in July 2006. ",
+    "tags": [
+        "security",
+        "measurement methodology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "FloCon",
+            "date": "2006.10",
+            "url": "",
+            "person": "person:Moore__David"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2006_anomaly_sampling_flocon__pubdb.json",
+    "pubdb_id": "presentation278",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2006/anomaly_sampling_flocon/anomaly_sampling_flocon.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2006.10"
+}

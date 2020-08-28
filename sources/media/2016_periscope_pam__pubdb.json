@@ -1,0 +1,39 @@
+{
+    "id": "2016_periscope_pam",
+    "name": "Periscope:Unifying Looking Glass Querying",
+    "description": "",
+    "tags": [
+        "active data analysis",
+        "measurement methodology",
+        "routing",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Passive and Active Measurement Conference (PAM)",
+            "date": "2016.03",
+            "url": "http://www.ics.forth.gr/pam2016/",
+            "person": "person:Giotsas__Vasileios"
+        }
+    ],
+    "links": [
+        {
+            "to": "paper:2016_periscope",
+            "url": "https://www.caida.org/publications/papers/2016/periscope/"
+        }
+    ],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2016_periscope_pam__pubdb.json",
+    "pubdb_id": "presentation447",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2016/periscope_pam/periscope_pam.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2016.03"
+}

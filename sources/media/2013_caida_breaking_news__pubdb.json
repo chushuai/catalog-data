@@ -1,0 +1,36 @@
+{
+    "id": "2013_caida_breaking_news",
+    "name": "CAIDA Breaking News",
+    "description": "",
+    "tags": [
+        "data",
+        "measurement methodology",
+        "network telescope",
+        "overview",
+        "topology",
+        "visualization"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "ACM Internet Measurement Conference (IMC)",
+            "date": "2013.10",
+            "url": "",
+            "person": "person:King__Alistair"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2013_caida_breaking_news__pubdb.json",
+    "pubdb_id": "presentation365",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2013/caida_breaking_news/caida_breaking_news.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2013.10"
+}

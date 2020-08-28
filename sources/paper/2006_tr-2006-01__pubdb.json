@@ -1,0 +1,59 @@
+{
+    "id": "2006_tr-2006-01",
+    "name": "A Basis for Systematic Analysis of Network Topologies: Technical Report",
+    "datePublished": "2006.04",
+    "description": "This paper presents a new, systematic approach to analyzing network topologies. We first introduce a series of probability distributions specifying all degree correlations within d-sized subgraphs of a given graph G. Using this series, we can quantitatively evaluate how close synthetic topologies are to G, construct graphs that accurately reproduce the values of commonly-used graphmetrics of G, and provide a rigorous basis for capturing any future metrics that may be of interest. The d = 0 and d = 1 cases reduce to the known classical (Erd\u00f5s-R\u00e9nyi) random graphs and random graphs with prescribed degree distributions respectively. However, recent research shows that simply reproducing a graph's degree distribution is insufficient for capturing important properties of network topologies. Using our approach, we construct graphs for d = 0, 1, 2, 3 and demonstrate that these graphs reproduce, with increasing accuracy, important properties of measured and modeled Internet topologies. We find that the d = 2 case is sufficient for most practical purposes, while d = 3 essentially reconstructs the Internet AS- and router-level topologies exactly. Overall, the availability of a systematic method to analyze and synthesize topologies offers a significant improvement to the set of tools available to network topology and protocol researchers.",
+    "annotation": "",
+    "tags": [
+        "topology"
+    ],
+    "pubdb_id": "paper474",
+    "authors": [
+        {
+            "person": "person:Mahadevan__Priya",
+            "organizations": [
+                "Department of Computer Science and Engineering,\nUniversity of California, San Diego"
+            ]
+        },
+        {
+            "person": "person:Krioukov__Dmitri",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Vahdat__Amin",
+            "organizations": [
+                "Department of Computer Science and Engineering,\nUniversity of California, San Diego"
+            ]
+        },
+        {
+            "person": "person:Fall__Kevin",
+            "organizations": [
+                "Intel Research, Berkeley"
+            ]
+        }
+    ],
+    "links": [],
+    "booktitle": "",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2006_tr-2006-01__pubdb.json",
+    "publisher": "Cooperative Association for Internet Data Analysis (CAIDA)",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2006/tr-2006-01/tr-2006-01.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "TECHREPORT",
+        "institution": "Cooperative Association for Internet Data Analysis (CAIDA)"
+    },
+    "date": "2006.04"
+}

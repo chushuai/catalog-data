@@ -1,0 +1,38 @@
+{
+    "id": "2010_infocom_greedy_forwarding_dsfn_hms",
+    "name": "Greedy Forwarding in Dynamic Scale-Free Networks Embedded in Hyperbolic Metric Spaces",
+    "description": "",
+    "tags": [
+        "routing",
+        "topology",
+        "network geometry"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "IEEE Conference on Computer Communications (INFOCOM)",
+            "date": "2010.03",
+            "url": "",
+            "person": "person:Krioukov__Dmitri"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2010_infocom_greedy_forwarding_dsfn_hms__pubdb.json",
+    "pubdb_id": "presentation8",
+    "resources": [
+        {
+            "name": "Powerpoint",
+            "url": "https://www.caida.org/publications/presentations/2010/infocom_greedy_forwarding_dsfn_hms/infocom_greedy_forwarding_dsfn_hms.ppt",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2010/greedy_forwarding_dynamic",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2010.03"
+}

@@ -1,0 +1,31 @@
+{
+    "id": "2010_quilt_caida_activities",
+    "name": "CAIDA Activities, 2009-2010",
+    "description": "",
+    "tags": [
+        "overview"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "The Quilt",
+            "date": "2010.09",
+            "url": "",
+            "person": "person:Fomenkov__Marina"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2010_quilt_caida_activities__pubdb.json",
+    "pubdb_id": "presentation142",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2010/quilt_caida_activities/quilt_caida_activities.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2010.09"
+}

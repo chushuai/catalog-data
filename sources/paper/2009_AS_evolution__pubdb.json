@@ -1,0 +1,67 @@
+{
+    "id": "2009_AS_evolution",
+    "name": "Evolution of the Internet AS-Level Ecosystem",
+    "datePublished": "2009.02",
+    "description": "We present an analytically tractable model of Internet evolution at the level of Autonomous Systems (ASs).  We call our model the multiclass preferential attachment (MPA) model.  As its name suggests, it is based on preferential attachment.  All of its parameters are measurable from available Internet topology data.  Given the estimated values of these parameters, our analytic results predict a definitive set of statistics characterizing the AS topology structure.  These statistics are not part of model formulation.  The MPA model thus closes the \"measure-model-validate-predict\" loop, and provides further evidence that preferential attachment is the main driving force behind Internet evolution.\r\n",
+    "annotation": "",
+    "tags": [
+        "policy",
+        "routing",
+        "topology"
+    ],
+    "pubdb_id": "paper20",
+    "authors": [
+        {
+            "person": "person:Shakkottai__Srinivas",
+            "organizations": [
+                "Texas A&M University, College Station"
+            ]
+        },
+        {
+            "person": "person:Fomenkov__Marina",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Koga__Ryan",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Krioukov__Dmitri",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:claffy__kc",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        }
+    ],
+    "links": [],
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2009_AS_evolution__pubdb.json",
+    "publisher": "International Conference on Complex Sciences (Complex)",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2009/AS_evolution/AS_evolution.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "INPROCEEDINGS",
+        "bookTitle": "International Conference on Complex Sciences (Complex)",
+        "institution": "Texas A&M University"
+    },
+    "date": "2009.02"
+}

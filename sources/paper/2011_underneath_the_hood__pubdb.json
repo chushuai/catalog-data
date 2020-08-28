@@ -1,0 +1,52 @@
+{
+    "id": "2011_underneath_the_hood",
+    "name": "Underneath the hood: ownership vs. stewardship of the internet",
+    "datePublished": "2011.09",
+    "description": "I recently published this essay on CircleID on my thoughts on ICANN's recent decision to launch .XXX and the larger new gTLD program this year. Among other observations, I describe how .XXX marks a historical inflection point, where ICANN's board formally abandoned any responsibility to present an understanding of the ramifications of probable negative externalities (\"harms\") in setting its policies. That ICANN chose to relinquish this responsibility puts the U.S. government in the awkward position of trying to tighten the few inadequate controls that remain over ICANN, and leaves individual and responsible corporate citizens in the unenviable yet familiar position of bracing for the consequences. ",
+    "annotation": "",
+    "tags": [
+        "dns",
+        "policy"
+    ],
+    "pubdb_id": "paper501",
+    "authors": [
+        {
+            "person": "person:claffy__kc",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        }
+    ],
+    "links": [],
+    "booktitle": "",
+    "institution": "",
+    "number": "5",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2011_underneath_the_hood__pubdb.json",
+    "publisher": "ACM SIGCOMM Computer Communication Review (CCR)",
+    "resources": [
+        {
+            "name": "CCR Online",
+            "url": "http://www.sigcomm.org/sites/default/files/ccr/papers/2011/October/2043165-2043173.pdf",
+            "tags": []
+        },
+        {
+            "name": "DOI",
+            "url": "http://dx.doi.org/10.1145/2043165.2043173",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2011/underneath_the_hood/underneath_the_hood.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "ARTICLE",
+        "journal": "ACM SIGCOMM Computer Communication Review (CCR)",
+        "volume": "41",
+        "pages": "46-47"
+    },
+    "date": "2011.09"
+}

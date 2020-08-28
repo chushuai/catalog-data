@@ -1,0 +1,33 @@
+{
+    "id": "2011_community_standards_ethical_behavior",
+    "name": "The Need for Community Standards for Ethical Behavior in E-Crime Research",
+    "description": "",
+    "tags": [
+        "policy",
+        "trends",
+        "overview"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "AntiPhishing Working Group E-Crime (APWG eCR) Sync-Up",
+            "date": "2011.03",
+            "url": "",
+            "person": "person:Kenneally__Erin"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2011_community_standards_ethical_behavior__pubdb.json",
+    "pubdb_id": "presentation311",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2011/community_standards_ethical_behavior/community_standards_ethical_behavior.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2011.03"
+}

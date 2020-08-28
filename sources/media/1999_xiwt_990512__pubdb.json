@@ -1,0 +1,31 @@
+{
+    "id": "1999_xiwt_990512",
+    "name": "What drives academia?",
+    "description": "",
+    "tags": [
+        "policy"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Workshop on Future Priorities for Research on Advanced Networking and Applications",
+            "date": "1999.05",
+            "url": "",
+            "person": "person:Monk__Tracie"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/1999_xiwt_990512__pubdb.json",
+    "pubdb_id": "presentation49",
+    "resources": [
+        {
+            "name": "HTML slides",
+            "url": "https://www.caida.org/publications/presentations/1999/xiwt_990512/index.html",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "1999.05"
+}

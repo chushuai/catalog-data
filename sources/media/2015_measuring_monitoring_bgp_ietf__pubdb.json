@@ -1,0 +1,38 @@
+{
+    "id": "2015_measuring_monitoring_bgp_ietf",
+    "name": "Measuring and Monitoring BGP",
+    "description": "Presented at IETF tech plenary.",
+    "tags": [
+        "routing",
+        "software/tools",
+        "internet outages"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Internet Engineering Task Force (IETF)",
+            "date": "2015.11",
+            "url": "https://datatracker.ietf.org/meeting/94/agenda.html",
+            "person": "person:Dainotti__Alberto"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2015_measuring_monitoring_bgp_ietf__pubdb.json",
+    "pubdb_id": "presentation423",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2015/measuring_monitoring_bgp_ietf/measuring_monitoring_bgp_ietf.pdf",
+            "tags": []
+        },
+        {
+            "name": "Video",
+            "url": "https://youtu.be/H15AkkW5Aj0?t=1h22m",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2015.11"
+}

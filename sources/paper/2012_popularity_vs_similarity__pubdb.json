@@ -1,0 +1,72 @@
+{
+    "id": "2012_popularity_vs_similarity",
+    "name": "Popularity versus Similarity in Growing Networks",
+    "datePublished": "2012.09",
+    "description": "The principle that \"popularity is attractive\" underlies preferential attachment, which is a common explanation for the emergence of scaling in growing networks. If new connections are made preferentially to more popular nodes, then the resulting distribution of the number of connections possessed by nodes follows power laws as observed in many real networks. Preferential attachment has been directly validated for some real networks (including the Internet), and can be a consequence of different underlying processes based on node fitness, ranking, optimization, random walks or duplication. Here we show that popularity is just one dimension of attractiveness; another dimension is similarity. We develop a framework in which new connections optimize certain trade-offs between popularity and similarity, instead of simply preferring popular nodes. The framework has a geometric interpretation in which popularity preference emerges from local optimization. As opposed to preferential attachment, our optimization framework accurately describes the large-scale evolution of technological (the Internet), social (trust relationships between people) and biological (Escherichia coli metabolic) networks, predicting the probability of new links with high precision. The framework that we have developed can thus be used for predicting new links in evolving networks, and provides a different perspective on preferential attachment as an emergent phenomenon.",
+    "annotation": "",
+    "tags": [
+        "topology",
+        "network geometry",
+        "routing"
+    ],
+    "pubdb_id": "paper520",
+    "authors": [
+        {
+            "person": "person:Papadopoulos__Fragkiskos",
+            "organizations": [
+                "Cyprus University of Technology"
+            ]
+        },
+        {
+            "person": "person:Kitsak__Maksim",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Serrano__Mirian \u00c1ngeles",
+            "organizations": [
+                "Departament de F\u00edsica Fonamental, Universitat de Barcelona"
+            ]
+        },
+        {
+            "person": "person:Bogu\u00f1\u00e1__Mari\u00e1n",
+            "organizations": [
+                "Departament de F\u00edsica Fonamental, Universitat de Barcelona"
+            ]
+        },
+        {
+            "person": "person:Krioukov__Dmitri",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        }
+    ],
+    "links": [],
+    "booktitle": "",
+    "institution": "",
+    "number": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2012_popularity_vs_similarity__pubdb.json",
+    "publisher": "Nature",
+    "resources": [
+        {
+            "name": "arXiv",
+            "url": "http://arxiv.org/abs/1106.0286",
+            "tags": []
+        },
+        {
+            "name": "DOI",
+            "url": "http://dx.doi.org/10.1038/nature11459",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "ARTICLE",
+        "journal": "Nature",
+        "volume": "489",
+        "pages": "537-540"
+    },
+    "date": "2012.09"
+}

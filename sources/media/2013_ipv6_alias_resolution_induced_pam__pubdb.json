@@ -1,0 +1,39 @@
+{
+    "id": "2013_ipv6_alias_resolution_induced_pam",
+    "name": "IPv6 Alias Resolution via Induced Fragmentation",
+    "description": "",
+    "tags": [
+        "ipv6",
+        "measurement methodology",
+        "software/tools",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Passive and Active Measurement Conference (PAM)",
+            "date": "2013.03",
+            "url": "",
+            "person": "person:Luckie__Matthew"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2013_ipv6_alias_resolution_induced_pam__pubdb.json",
+    "pubdb_id": "presentation355",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2013/ipv6_alias_resolution_induced_pam/ipv6_alias_resolution_induced_pam.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2013/ipv6_alias_resolution_induced",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2013.03"
+}

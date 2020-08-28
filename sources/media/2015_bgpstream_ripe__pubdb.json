@@ -1,0 +1,38 @@
+{
+    "id": "2015_bgpstream_ripe",
+    "name": "BGPStream - An Open Source Framework for Live/Historical BGP Data Analysis",
+    "description": "",
+    "tags": [
+        "internet outages",
+        "routing",
+        "software/tools"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "RIPE Meeting",
+            "date": "2015.05",
+            "url": "https://ripe70.ripe.net/",
+            "person": "person:Orsini__Chiara"
+        }
+    ],
+    "links": [
+        {
+            "to": "paper:2015_bgpstream_tr",
+            "url": "https://www.caida.org/publications/papers/2015/bgpstream-tr/"
+        }
+    ],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2015_bgpstream_ripe__pubdb.json",
+    "pubdb_id": "presentation414",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2015/bgpstream_ripe/bgpstream_ripe.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2015.05"
+}

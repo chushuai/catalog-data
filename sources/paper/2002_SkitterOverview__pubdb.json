@@ -1,0 +1,65 @@
+{
+    "id": "2002_SkitterOverview",
+    "name": "Topology discovery by active probing",
+    "datePublished": "2002.01",
+    "description": "\nAs the Internet has grown, so has the challenge of accurate\nmeasurement and modeling of its topology. Commonly used but coarse\nmethods of measuring topology, e.g., BGP tables, suffer from several limitations.\nTo pursue more accurate empirically-based topology modeling.\nCAIDA began its Macroscopic Topology Project in 1998, The project focus\nis actively measuring topology and round trip time (RTT) information\nacross a wide cross-section of the commodity Internet. In this paper\nwe describe CAIDA's topology measurement architecture and our analysis\nand visualization tools. We describe differences between IP and AS (BGP-based)\ngranularities of topology modeling, including advantages and limitations\nof both, as well as how correlation between both types of data can yield\nmore relevant insights. We introduce four new visualization metaphors for\nhandling macroscopic topology data, as well as a tool for aggregating multiple\nIP addresses into the same physical router. We highlight results of\nour analyses, in particular relationships between RTT and topology data,\nand how source and destination selection and geopolitical boundaries affect\nthose relationships.\n\n",
+    "annotation": "",
+    "tags": [
+        "topology",
+        "active data analysis"
+    ],
+    "pubdb_id": "paper107",
+    "authors": [
+        {
+            "person": "person:Huffaker__Bradley",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Plummer__Daniel",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Moore__David",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:claffy__kc",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        }
+    ],
+    "links": [],
+    "institution": "",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2002_SkitterOverview__pubdb.json",
+    "publisher": "Symposium on Applications and the Internet (SAINT)",
+    "resources": [
+        {
+            "name": "gzipped postscript",
+            "url": "skitter_overview.ps.gz",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2002/SkitterOverview/skitter_overview.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "INPROCEEDINGS",
+        "bookTitle": "Symposium on Applications and the Internet (SAINT)",
+        "pages": "90-96"
+    },
+    "date": "2002.01"
+}

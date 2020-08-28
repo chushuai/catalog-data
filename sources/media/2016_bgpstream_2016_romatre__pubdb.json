@@ -1,0 +1,33 @@
+{
+    "id": "2016_bgpstream_2016_romatre",
+    "name": "BGPStream 2016",
+    "description": "Presented Friday, June 24th, 2016.",
+    "tags": [
+        "internet outages",
+        "routing",
+        "software/tools"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Roma Tre University",
+            "date": "2016.06",
+            "url": "",
+            "person": "person:Dainotti__Alberto"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2016_bgpstream_2016_romatre__pubdb.json",
+    "pubdb_id": "presentation451",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2016/bgpstream_2016_romatre/bgpstream_2016_romatre.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2016.06"
+}

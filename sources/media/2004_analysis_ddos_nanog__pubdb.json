@@ -1,0 +1,31 @@
+{
+    "id": "2004_analysis_ddos_nanog",
+    "name": "Analysis of the December DDoS Attack Against SCO",
+    "description": "",
+    "tags": [
+        "security"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "North American Network Operators' Group (NANOG)",
+            "date": "2004.02",
+            "url": "https://www.nanog.org/meetings/nanog30/home",
+            "person": "person:Shannon__Colleen"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2004_analysis_ddos_nanog__pubdb.json",
+    "pubdb_id": "presentation317",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2004/analysis_ddos_nanog/analysis_ddos_nanog.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2004.02"
+}

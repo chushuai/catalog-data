@@ -1,0 +1,34 @@
+{
+    "id": "2020_inferring_country-level_transit_influence_kismet",
+    "name": "Inferring Country-Level Transit Influence of Autonomous Systems",
+    "description": "",
+    "tags": [
+        "topology",
+        "measurement methodology",
+        "congestion",
+        "passive data analysis"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Workshop on Active Internet Measurements: Knowledge of Internet Structure: Measurement, Epistemology, and Technology (AIMS-KISMET)",
+            "date": "2020.02",
+            "url": "https://www.caida.org/workshops/kismet/2002/",
+            "person": "person:Gamero-Garrido__Alex"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2020_inferring_country-level_transit_influence_kismet__pubdb.json",
+    "pubdb_id": "presentation569",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2020/inferring_country-level_transit_influence_kismet/inferring_country-level_transit_influence_kismet.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2020.02"
+}

@@ -1,0 +1,38 @@
+{
+    "id": "2019_geo-locating_bgp_prefixes_tma",
+    "name": "Geo-locating BGP prefixes",
+    "description": "",
+    "tags": [
+        "routing",
+        "measurement methodology",
+        "internet outages"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Network Traffic Measurement and Analysis Conference (TMA)",
+            "date": "2019.06",
+            "url": "https://tma.ifip.org/2019/",
+            "person": "person:Padmanabhan__Ramakrishna"
+        }
+    ],
+    "links": [
+        {
+            "to": "paper:2019_geo_locating_bgp_prefixes",
+            "url": "https://www.caida.org/publications/papers/2019/geo-locating_bgp_prefixes/"
+        }
+    ],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2019_geo-locating_bgp_prefixes_tma__pubdb.json",
+    "pubdb_id": "presentation554",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2019/geo-locating_bgp_prefixes_tma/geo-locating_bgp_prefixes_tma.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2019.06"
+}

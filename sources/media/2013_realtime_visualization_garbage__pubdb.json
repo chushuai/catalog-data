@@ -1,0 +1,35 @@
+{
+    "id": "2013_realtime_visualization_garbage",
+    "name": "Toward Realtime Visualization of Garbage",
+    "description": "",
+    "tags": [
+        "internet outages",
+        "network telescope",
+        "passive data analysis",
+        "security",
+        "visualization"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "ISMA Workshop on Active Internet Measurements (AIMS)",
+            "date": "2013.02",
+            "url": "http://www.caida.org/workshops/isma/1302/",
+            "person": "person:King__Alistair"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2013_realtime_visualization_garbage__pubdb.json",
+    "pubdb_id": "presentation350",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2013/realtime_visualization_garbage/realtime_visualization_garbage.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2013.02"
+}

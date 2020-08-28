@@ -1,0 +1,39 @@
+{
+    "id": "2017_ioda_sdsc",
+    "name": "IODA - Internet Outage Detection & Analysis",
+    "description": "",
+    "tags": [
+        "internet outages",
+        "measurement methodology",
+        "routing",
+        "overview"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "San Diego Supercomputer Center",
+            "date": "2017.02",
+            "url": "",
+            "person": "person:Dainotti__Alberto"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2017_ioda_sdsc__pubdb.json",
+    "pubdb_id": "presentation470",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2017/ioda_sdsc/ioda_sdsc.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Project",
+            "url": "https://www.caida.org/projects/ioda/",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2017.02"
+}

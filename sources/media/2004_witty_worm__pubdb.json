@@ -1,0 +1,52 @@
+{
+    "id": "2004_witty_worm",
+    "name": "The Spread of the Witty Worm",
+    "description": "This slideset was presented at San Diego Regional Information Watch (SDRIW) on June 15, 2004 and at UCSD LISA on July 15, 2004.",
+    "tags": [
+        "security"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "San Diego Regional Information Watch (SDRIW)",
+            "date": "2004.06",
+            "url": "",
+            "person": "person:Shannon__Colleen"
+        },
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "USENIX Large Installation System Administration (LISA)",
+            "date": "2004.07",
+            "url": "",
+            "person": "person:Shannon__Colleen"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2004_witty_worm__pubdb.json",
+    "pubdb_id": "presentation33",
+    "resources": [
+        {
+            "name": "PDF - LISA",
+            "url": "https://www.caida.org/publications/presentations/2004/witty_worm/witty_worm_lisa.pdf",
+            "tags": []
+        },
+        {
+            "name": "PDF - SDRIW",
+            "url": "https://www.caida.org/publications/presentations/2004/witty_worm/witty_worm_sdriw.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2004/witty",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2004.07"
+}

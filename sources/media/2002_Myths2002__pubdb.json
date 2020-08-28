@@ -1,0 +1,65 @@
+{
+    "id": "2002_Myths2002",
+    "name": "Internet measurement: myths about Internet data",
+    "description": "",
+    "tags": [
+        "measurement methodology",
+        "active data analysis",
+        "passive data analysis",
+        "routing",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "USENIX Large Installation System Administration (LISA)",
+            "date": "2001.12",
+            "url": "",
+            "person": "person:claffy__kc"
+        },
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "CAIDA",
+            "date": "2002.07",
+            "url": "",
+            "person": "person:claffy__kc"
+        },
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "North American Network Operators' Group (NANOG)",
+            "date": "2002.02",
+            "url": "https://www.nanog.org/meetings/nanog24/home",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2002_Myths2002__pubdb.json",
+    "pubdb_id": "presentation270",
+    "resources": [
+        {
+            "name": "gzipped tar",
+            "url": "https://www.caida.org/publications/presentations/2002/Myths2002/myths2002.tar.gz",
+            "tags": []
+        },
+        {
+            "name": "HTML Slides",
+            "url": "https://www.caida.org/publications/presentations/2002/Myths2002/index.html",
+            "tags": []
+        },
+        {
+            "name": "RealVideo stream",
+            "url": "https://www.caida.org/publications/presentations/2002/Myths2002/datamyths.ram",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2002.07"
+}

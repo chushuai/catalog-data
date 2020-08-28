@@ -1,0 +1,39 @@
+{
+    "id": "2012_extract_benefit_from_harm_sigcomm_2012",
+    "name": "Extracting Benefit from Harm: Using Malware Pollution to Analyze the Impact of Political and Geophysical Events on the Internet",
+    "description": "",
+    "tags": [
+        "internet outages",
+        "passive data analysis",
+        "policy",
+        "security"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "ACM SIGCOMM",
+            "date": "2012.08",
+            "url": "",
+            "person": "person:Dainotti__Alberto"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2012_extract_benefit_from_harm_sigcomm_2012__pubdb.json",
+    "pubdb_id": "presentation325",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2012/extract_benefit_from_harm_sigcomm_2012/extract_benefit_from_harm_sigcomm_2012.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2012/extracting_benefit_from_harm",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2012.08"
+}

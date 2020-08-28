@@ -1,0 +1,39 @@
+{
+    "id": "2011_cans_tracking_ipv6_evolution",
+    "name": "Tracking IPv6 evolution: Data We Have and Data We Need",
+    "description": "",
+    "tags": [
+        "measurement methodology",
+        "data",
+        "ipv6",
+        "policy"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Chinese American Networking Symposium (CANS)",
+            "date": "2011.08",
+            "url": "",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2011_cans_tracking_ipv6_evolution__pubdb.json",
+    "pubdb_id": "presentation141",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2011/cans_tracking_ipv6_evolution/cans_tracking_ipv6_evolution.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2011/tracking_ipv6_evolution",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2011.08"
+}

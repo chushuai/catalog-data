@@ -1,0 +1,33 @@
+{
+    "id": "2015_bgpstream_mplane",
+    "name": "BGPStream: a framework for historical analysis and real-time monitoring of BGP data",
+    "description": "",
+    "tags": [
+        "internet outages",
+        "routing",
+        "software/tools"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "mPlane Workshop",
+            "date": "2015.11",
+            "url": "http://www.ict-mplane.eu/public/mplane-workshop-platform-measuring-internet",
+            "person": "person:Dainotti__Alberto"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2015_bgpstream_mplane__pubdb.json",
+    "pubdb_id": "presentation450",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2015/bgpstream_mplane/bgpstream_mplane.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2015.11"
+}

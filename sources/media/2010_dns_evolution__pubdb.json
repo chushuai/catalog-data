@@ -1,0 +1,42 @@
+{
+    "id": "2010_dns_evolution",
+    "name": "Understanding and Preparing for DNS Evolution",
+    "description": "",
+    "tags": [
+        "dns",
+        "passive data analysis",
+        "security",
+        "trends"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego",
+                "Chalmers University of Technology"
+            ],
+            "venue": "Traffic Monitoring and Analysis",
+            "date": "2010.04",
+            "url": "",
+            "person": "person:John__Wolfgang"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2010_dns_evolution__pubdb.json",
+    "pubdb_id": "presentation309",
+    "resources": [
+        {
+            "name": "Audio Recording",
+            "url": "http://www.multimedia.ethz.ch/conferences/2010/pam/?doi=10.3930/ETHZ/AV-66edc155-a4c0-4374-bb70-836e76cce3a0&amp;autostart=true",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2010/dns_evolution/dns_evolution.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2010.04"
+}

@@ -1,0 +1,32 @@
+{
+    "id": "2019_alias_resolution_apis_aims",
+    "name": "Alias Resolution APIs",
+    "description": "",
+    "tags": [
+        "topology",
+        "software/tools"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Workshop on Active Internet Measurements (AIMS)",
+            "date": "2019.04",
+            "url": "http://www.caida.org/workshops/aims/1904/",
+            "person": "person:Hyun__Young"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2019_alias_resolution_apis_aims__pubdb.json",
+    "pubdb_id": "presentation544",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2019/alias_resolution_apis_aims/alias_resolution_apis_aims.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2019.04"
+}

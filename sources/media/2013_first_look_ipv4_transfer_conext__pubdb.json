@@ -1,0 +1,38 @@
+{
+    "id": "2013_first_look_ipv4_transfer_conext",
+    "name": "A First Look at IPv4 Transfer Markets",
+    "description": "",
+    "tags": [
+        "economics",
+        "ipv6",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "ACM SIGCOMM Conference on emerging Networking EXperiments and Technologies (CoNEXT)",
+            "date": "2013.12",
+            "url": "http://conferences.sigcomm.org/co-next/2013/",
+            "person": "person:Livadariu__Ioana"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2013_first_look_ipv4_transfer_conext__pubdb.json",
+    "pubdb_id": "presentation379",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2013/first_look_ipv4_transfer_conext/first_look_ipv4_transfer_conext.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2013/first_look_transfer_markets",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2013.12"
+}

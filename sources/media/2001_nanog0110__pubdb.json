@@ -1,0 +1,31 @@
+{
+    "id": "2001_nanog0110",
+    "name": "Recent Internet Worms: Who are the Victims and How Good are We at Getting the Word Out?",
+    "description": "",
+    "tags": [
+        "security"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "North American Network Operators' Group (NANOG)",
+            "date": "2001.10",
+            "url": "https://www.nanog.org/meetings/nanog23/home",
+            "person": "person:Moore__David"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2001_nanog0110__pubdb.json",
+    "pubdb_id": "presentation136",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2001/nanog0110/nanog0110.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2001.10"
+}

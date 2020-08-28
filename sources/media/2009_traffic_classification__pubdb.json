@@ -1,0 +1,35 @@
+{
+    "id": "2009_traffic_classification",
+    "name": "State of the Art in Traffic Classification",
+    "description": "",
+    "tags": [
+        "passive data analysis",
+        "overview",
+        "peer-to-peer"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "WIDE-CASFI",
+            "date": "2009.04",
+            "url": "",
+            "person": "person:Zhang__Min"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2009_traffic_classification__pubdb.json",
+    "pubdb_id": "presentation228",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2009/traffic_classification/traffic_classification.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2009.04"
+}

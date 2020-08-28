@@ -1,0 +1,31 @@
+{
+    "id": "2009_xunlei",
+    "name": "A Measurement-Based Study of Xunlei",
+    "description": "",
+    "tags": [
+        "peer-to-peer"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "WIDE-CASFI",
+            "date": "2009.04",
+            "url": "",
+            "person": "person:Zhang__Min"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2009_xunlei__pubdb.json",
+    "pubdb_id": "presentation244",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2009/xunlei/xunlei.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2009.04"
+}

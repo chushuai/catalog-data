@@ -1,0 +1,32 @@
+{
+    "id": "2009_telefonica_dk-series_hms",
+    "name": "dK-series and hidden hyperbolic metric spaces",
+    "description": "",
+    "tags": [
+        "routing",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Telefonica Research",
+            "date": "2009.06",
+            "url": "",
+            "person": "person:Krioukov__Dmitri"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2009_telefonica_dk-series_hms__pubdb.json",
+    "pubdb_id": "presentation82",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2009/telefonica_dk-series_hms/telefonica_dk-series_hms.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2009.06"
+}

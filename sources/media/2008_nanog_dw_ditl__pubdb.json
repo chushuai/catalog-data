@@ -1,0 +1,41 @@
+{
+    "id": "2008_nanog_dw_ditl",
+    "name": "Day In The Life of the Internet 2008 Data Collection Event",
+    "description": "",
+    "tags": [
+        "data",
+        "measurement methodology",
+        "dns"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego",
+                "The Measurement Factory, Inc."
+            ],
+            "venue": "North American Network Operators' Group (NANOG)",
+            "date": "2008.02",
+            "url": "",
+            "person": "person:Wessels__Duane"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2008_nanog_dw_ditl__pubdb.json",
+    "pubdb_id": "presentation129",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2008/nanog_dw_ditl/ditl-2008.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2006/ditl_proposal",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2008.02"
+}

@@ -1,0 +1,33 @@
+{
+    "id": "2005_problems_collection_conmi",
+    "name": "current problems in data collection and analysis",
+    "description": "",
+    "tags": [
+        "data",
+        "measurement methodology",
+        "policy"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Community-Oriented Network Measurement Infrastructure Workshop (CONMI)",
+            "date": "2005.03",
+            "url": "",
+            "person": "person:Shannon__Colleen"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2005_problems_collection_conmi__pubdb.json",
+    "pubdb_id": "presentation158",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2005/problems_collection_conmi/problems_collection_conmi.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2005.03"
+}

@@ -1,0 +1,33 @@
+{
+    "id": "2005_detecting_worms",
+    "name": "Detecting Internet Worms",
+    "description": "",
+    "tags": [
+        "security",
+        "measurement methodology",
+        "passive data analysis"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "UCSD Research Exam",
+            "date": "2005.03",
+            "url": "",
+            "person": "person:Moore__David"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2005_detecting_worms__pubdb.json",
+    "pubdb_id": "presentation275",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2005/detecting_worms/detecting_worms.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2005.03"
+}

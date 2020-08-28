@@ -1,0 +1,55 @@
+{
+    "id": "2012_refined_ethical_impact",
+    "name": "A Refined Ethical Impact Assessment Tool and a Case Study of its Application",
+    "datePublished": "2012.03",
+    "description": "Research of or involving Information and Communications Technology (ICT) presents a wide variety of ethical challenges and the relative immaturity of ethical decision making in the ICT research community has prompted calls for additional research and guidance. The Menlo report, a revisiting of the seminal Belmont report, seeks to bring clarity to this arena by articulating a basic set of ethical principles for ICT research. However the gap between such principles and actionable guidance for the ethical conduct of ICT research is large. In previous work we sought to bridge this gap through the construction of an ethical impact assessment (EIA) tool that provided a set of guiding questions to help researchers understand how to apply the Menlo principles. While a useful tool, experiences in the intervening years have caused us to rethink and expand the EIA. In this paper we: (i) discuss the various challenges encountered in applying the original EIA, (ii) present a new EIA framework that represents our evolved understanding, and (iii)  retrospectively apply this EIA to an ethically challenging, original study in ICTR.",
+    "annotation": "",
+    "tags": [
+        "policy",
+        "trends",
+        "data sharing"
+    ],
+    "pubdb_id": "paper523",
+    "authors": [
+        {
+            "person": "person:Bailey__Michael",
+            "organizations": [
+                "Computer Science and Engineering, University of Michigan"
+            ]
+        },
+        {
+            "person": "person:Kenneally__Erin",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Dittrich__David",
+            "organizations": [
+                "Applied Physics Laboratory, University of Washington"
+            ]
+        }
+    ],
+    "links": [],
+    "institution": "",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2012_refined_ethical_impact__pubdb.json",
+    "publisher": "Workshop on Ethics in Computer Security Research (WECSR)",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2012/refined_ethical_impact/refined_ethical_impact.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "INPROCEEDINGS",
+        "bookTitle": "Workshop on Ethics in Computer Security Research (WECSR)"
+    },
+    "date": "2012.03"
+}

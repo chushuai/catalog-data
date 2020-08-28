@@ -1,0 +1,32 @@
+{
+    "id": "2006_commons200619_sascha",
+    "name": "LANs, MANs, & Beyond: Community Intranets & the COMMONS Project",
+    "description": "",
+    "tags": [
+        "data",
+        "policy"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Alternative Telecommunications Policy",
+            "date": "2006.10",
+            "url": "",
+            "person": "person:Meinrath__Sascha"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2006_commons200619_sascha__pubdb.json",
+    "pubdb_id": "presentation102",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2006/commons200619_sascha/commons200619_sascha.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2006.10"
+}

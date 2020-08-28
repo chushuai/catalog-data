@@ -1,0 +1,37 @@
+{
+    "id": "2014_c4_pi_mar",
+    "name": "Cartographic Capabilities for Critical Cyberinfrastructure (C4)",
+    "description": "",
+    "tags": [
+        "active data analysis",
+        "data",
+        "economics",
+        "measurement methodology",
+        "overview",
+        "software/tools",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Cyber Security Division PI Meeting",
+            "date": "2014.03",
+            "url": "",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2014_c4_pi_mar__pubdb.json",
+    "pubdb_id": "presentation383",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2014/c4_pi_mar/c4_pi_mar.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2014.03"
+}

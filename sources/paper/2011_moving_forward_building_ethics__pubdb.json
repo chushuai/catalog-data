@@ -1,0 +1,62 @@
+{
+    "id": "2011_moving_forward_building_ethics",
+    "name": "Moving Forward, Building an Ethics Community (Panel Statements) ",
+    "datePublished": "2011.03",
+    "description": "The organizing question around which this panel at WECSR 2011 rallied was how to move toward building a nation-state-agnostic ethics community in computer security research. ",
+    "annotation": "From the proceedings of the Workshop on Ethics in Computer Security Research (WECSR) in March 2011. ",
+    "tags": [
+        "policy",
+        "trends",
+        "data sharing"
+    ],
+    "pubdb_id": "paper485",
+    "authors": [
+        {
+            "person": "person:Kenneally__Erin",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego",
+                "Elchemy, Inc."
+            ]
+        },
+        {
+            "person": "person:Stavrou__Angelos",
+            "organizations": [
+                "George Mason University"
+            ]
+        },
+        {
+            "person": "person:McHugh__John",
+            "organizations": [
+                "Redjack"
+            ]
+        },
+        {
+            "person": "person:Christin__Nicolas",
+            "organizations": [
+                "INI/CyLab, Carnegie Mellon University"
+            ]
+        }
+    ],
+    "links": [],
+    "institution": "",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2011_moving_forward_building_ethics__pubdb.json",
+    "publisher": "Workshop on Ethics in Computer Security Research (WECSR)",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2011/moving_forward_building_ethics/moving_forward_building_ethics.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "INPROCEEDINGS",
+        "bookTitle": "Workshop on Ethics in Computer Security Research (WECSR)"
+    },
+    "date": "2011.03"
+}

@@ -1,0 +1,31 @@
+{
+    "id": "2002_dns0209",
+    "name": "measurement and analysis of the root DNS system: update",
+    "description": "",
+    "tags": [
+        "dns"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "RIPE Meeting",
+            "date": "2002.09",
+            "url": "",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2002_dns0209__pubdb.json",
+    "pubdb_id": "presentation168",
+    "resources": [
+        {
+            "name": "HTML slides",
+            "url": "https://www.caida.org/publications/presentations/2002/dns0209/index.html",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2002.09"
+}

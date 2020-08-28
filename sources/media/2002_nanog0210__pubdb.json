@@ -1,0 +1,35 @@
+{
+    "id": "2002_nanog0210",
+    "name": "Toward Lowering the Load on DNS Root Nameservers",
+    "description": "",
+    "tags": [
+        "dns",
+        "passive data analysis"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego",
+                "The Measurement Factory, Inc."
+            ],
+            "venue": "North American Network Operators' Group (NANOG)",
+            "date": "2002.10",
+            "url": "https://www.nanog.org/meetings/nanog26/home",
+            "person": "person:Wessels__Duane"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2002_nanog0210__pubdb.json",
+    "pubdb_id": "presentation94",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2002/nanog0210/duane.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2002.10"
+}

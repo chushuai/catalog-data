@@ -1,0 +1,38 @@
+{
+    "id": "2019_ioda-np_aims",
+    "name": "IODA-NP: Detecting outages affecting the Internet\u2019s edge",
+    "description": "",
+    "tags": [
+        "internet outages",
+        "routing",
+        "measurement methodology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Workshop on Active Internet Measurements (AIMS)",
+            "date": "2019.04",
+            "url": "http://www.caida.org/workshops/aims/1904/",
+            "person": "person:Padmanabhan__Ramakrishna"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2019_ioda-np_aims__pubdb.json",
+    "pubdb_id": "presentation552",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2019/ioda-np_aims/ioda-np_aims.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Project",
+            "url": "https://www.caida.org/projects/ioda/",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2019.04"
+}

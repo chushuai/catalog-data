@@ -1,0 +1,31 @@
+{
+    "id": "2003_cisco_internet_worms",
+    "name": "Internet Worms: Current Capabilities in Awareness, Detection, Response",
+    "description": "",
+    "tags": [
+        "security"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Cisco",
+            "date": "2003.07",
+            "url": "",
+            "person": "person:Shannon__Colleen"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2003_cisco_internet_worms__pubdb.json",
+    "pubdb_id": "presentation133",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2003/cisco_internet_worms/cisco_internet_worms.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2003.07"
+}

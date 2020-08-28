@@ -1,0 +1,32 @@
+{
+    "id": "2015_bgp_hackathon_imc",
+    "name": "BGP Hackathon",
+    "description": "A one page flyer announcing the BGP Hackathon in February 2016.\r\nPresented at IMC community session.",
+    "tags": [
+        "routing",
+        "software/tools"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "ACM Internet Measurement Conference (IMC)",
+            "date": "2015.10",
+            "url": "http://conferences2.sigcomm.org/imc/2015/program.html",
+            "person": "person:Dainotti__Alberto"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2015_bgp_hackathon_imc__pubdb.json",
+    "pubdb_id": "presentation419",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2015/bgp_hackathon_imc/bgp_hackathon_imc.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2015.10"
+}

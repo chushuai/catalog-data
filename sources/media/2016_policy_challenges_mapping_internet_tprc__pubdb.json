@@ -1,0 +1,32 @@
+{
+    "id": "2016_policy_challenges_mapping_internet_tprc",
+    "name": "Policy challenges in mapping Internet inter-domain congestion",
+    "description": "Presented as part of joint work with CAIDA.",
+    "tags": [
+        "policy",
+        "congestion"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Telecommunications Policy Research Conference (TPRC)",
+            "date": "2016.09",
+            "url": "http://www.tprcweb.com/",
+            "person": "person:Clark__David"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2016_policy_challenges_mapping_internet_tprc__pubdb.json",
+    "pubdb_id": "presentation469",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2016/policy_challenges_mapping_internet_tprc/policy_challenges_mapping_internet_tprc.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2016.09"
+}

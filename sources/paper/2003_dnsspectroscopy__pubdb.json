@@ -1,0 +1,54 @@
+{
+    "id": "2003_dnsspectroscopy",
+    "name": "Spectroscopy of DNS Update Traffic",
+    "datePublished": "2003.06",
+    "description": "We study attempts to dynamically update DNS records for\r\nprivate (RFC1918) addresses, by analyzing the frequency\r\nspectrum of updates observed at an authoritative name-\r\nserver for these addresses. Using a discrete autocorrelation\r\nalgorithm we found that updates series have periods of 60\r\nor 75 minutes, which we identied as default settings of out-\r\nof-the-box Microsoft Windows 2000 and XP DNS software.\r\n",
+    "annotation": "",
+    "tags": [
+        "dns",
+        "measurement methodology"
+    ],
+    "pubdb_id": "paper89",
+    "authors": [
+        {
+            "person": "person:Broido__Andre",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Nemeth__Evi",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:claffy__kc",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        }
+    ],
+    "links": [],
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2003_dnsspectroscopy__pubdb.json",
+    "publisher": "SIGMETRICS Poster",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2003/dnsspectroscopy/dnsspectroscopy.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "INPROCEEDINGS",
+        "bookTitle": "SIGMETRICS Poster",
+        "institution": "Cooperative Association for Internet Data Analysis (CAIDA)",
+        "pages": "320-321"
+    },
+    "date": "2003.06"
+}

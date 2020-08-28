@@ -1,0 +1,48 @@
+{
+    "id": "2001_fundamentals_internet_measurement_tutorial",
+    "name": "Fundamentals of Internet Measurement: A Tutorial",
+    "datePublished": "2001.04",
+    "description": "Many Internet users need to understand how to measure Internet traffic and performance. The primary focus of this tutorial is the global Internet, and ways of measuring, analyzing, and reporting the services provided to a user's network via the Internet. Some sections apply to measuring any network that uses the TCP/IP protocol suite, including a private network, or intranet.",
+    "annotation": "",
+    "tags": [
+        "measurement methodology",
+        "overview"
+    ],
+    "pubdb_id": "paper649",
+    "authors": [
+        {
+            "person": "person:Brownlee__Nevil",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Loosley__Chris",
+            "organizations": [
+                "Computer Measurement Group"
+            ]
+        }
+    ],
+    "links": [],
+    "booktitle": "",
+    "institution": "",
+    "volume": "",
+    "number": "102",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2001_fundamentals_internet_measurement_tutorial__pubdb.json",
+    "publisher": "Journal of Computer Resource Management",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2001/fundamentals_internet_measurement_tutorial/fundamentals_internet_measurement_tutorial.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "ARTICLE",
+        "journal": "Journal of Computer Resource Management"
+    },
+    "date": "2001.04"
+}

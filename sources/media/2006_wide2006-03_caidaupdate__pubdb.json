@@ -1,0 +1,27 @@
+{
+    "id": "2006_wide2006-03_caidaupdate",
+    "name": "CAIDA Update",
+    "description": "",
+    "tags": [
+        "overview"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "WIDE",
+            "date": "2006.03",
+            "url": "",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2006_wide2006-03_caidaupdate__pubdb.json",
+    "pubdb_id": "presentation107",
+    "resources": [],
+    "type": "PRESENTATION",
+    "date": "2006.03"
+}

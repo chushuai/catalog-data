@@ -1,0 +1,74 @@
+{
+    "id": "2005_ccr_imdc",
+    "name": "The Internet Measurement Data Catalog",
+    "datePublished": "2005.10",
+    "description": "Internet data remains one of the basic components of computer science network research. Despite its necessity, available data is limited by legal, social, and technical constraints on its collection and distribution. Thus, optimal distribution of knowledge about available data is a valuable service to the research community. To this end, CAIDA has developed the Internet Measurement Data Catalog to:\n\n* provide a searchable index of available data\n* enhance documentation of datasets via a public annotation system\n* advance network science by promoting reproducible research\n\nThis paper describes the impetus, design, and planned deployment of the Internet Measurement Data Catalog.\n",
+    "annotation": "",
+    "tags": [
+        "data",
+        "measurement methodology",
+        "policy",
+        "software/tools"
+    ],
+    "pubdb_id": "paper54",
+    "authors": [
+        {
+            "person": "person:Shannon__Colleen",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Moore__David",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Keys__Ken",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Fomenkov__Marina",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Huffaker__Bradley",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:claffy__kc",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        }
+    ],
+    "links": [],
+    "booktitle": "",
+    "institution": "",
+    "number": "5",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2005_ccr_imdc__pubdb.json",
+    "publisher": "ACM SIGCOMM Computer Communication Review (CCR)",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2005/ccr_imdc/ccr_imdc.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "ARTICLE",
+        "journal": "ACM SIGCOMM Computer Communication Review (CCR)",
+        "volume": "35",
+        "pages": "97-100"
+    },
+    "date": "2005.10"
+}

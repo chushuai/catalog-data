@@ -1,0 +1,37 @@
+{
+    "id": "2015_periscope_unifying_looking_wie",
+    "name": "Periscope: Unifying Looking Glass querying ",
+    "description": "",
+    "tags": [
+        "topology",
+        "software/tools"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Workshop on Internet Economics (WIE)",
+            "date": "2015.12",
+            "url": "http://www.caida.org/workshops/wie/1512/",
+            "person": "person:Giotsas__Vasileios"
+        }
+    ],
+    "links": [
+        {
+            "to": "paper:2016_periscope",
+            "url": "https://www.caida.org/publications/papers/2016/periscope/"
+        }
+    ],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2015_periscope_unifying_looking_wie__pubdb.json",
+    "pubdb_id": "presentation427",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2015/periscope_unifying_looking_wie/periscope_unifying_looking_wie.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2015.12"
+}

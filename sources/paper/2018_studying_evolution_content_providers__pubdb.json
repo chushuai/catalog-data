@@ -1,0 +1,76 @@
+{
+    "id": "2018_studying_evolution_content_providers",
+    "name": "Studying the Evolution of Content Providers in the Internet Core",
+    "datePublished": "2018.06",
+    "description": "There is recent evidence that the core of the Internet, which was formerly dominated by large transit providers, has been reshaped after the transition to a multimedia-oriented network, first by general-purpose CDNs and now by private CDNs. In this work we use k-cores, an element of graph theory, to define which ASes compose the core of the Internet and to track the evolution of the core since 1999. Specifically, we investigate whether large players in the Internet content and CDN ecosystem belong to the core and, if so, since when. We further investigate regional differences in the evolution of large content providers. Finally, we show that the core of the Internet has incorporated an increasing number of content ASes in recent years. To enable reproducibility of this work, we provide a website to allow interactive analysis of our datasets to detect, for example, \u201cup and coming\u201d ASes using customized queries.",
+    "annotation": "",
+    "tags": [
+        "measurement methodology",
+        "routing",
+        "topology",
+        "congestion"
+    ],
+    "pubdb_id": "paper654",
+    "authors": [
+        {
+            "person": "person:Carisimo__Esteban",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego",
+                "CONICET",
+                "University of Buenos Aires"
+            ]
+        },
+        {
+            "person": "person:Selmo__Carlos",
+            "organizations": [
+                "Buenos Aires Institute of Technology"
+            ]
+        },
+        {
+            "person": "person:Alvarez-Hamelin__J. Ignacio",
+            "organizations": [
+                "Buenos Aires Institute of Technology",
+                "CONICET",
+                "University of Buenos Aires"
+            ]
+        },
+        {
+            "person": "person:Dhamdhere__Amogh",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        }
+    ],
+    "links": [
+        {
+            "to": "media:2018_studying_evolution_content_providers_tma",
+            "url": "https://www.caida.org/publications/presentations/2018/studying_evolution_content_providers_tma/"
+        }
+    ],
+    "institution": "",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2018_studying_evolution_content_providers__pubdb.json",
+    "publisher": "Network Traffic Measurement and Analysis Conference (TMA)",
+    "resources": [
+        {
+            "name": "DOI",
+            "url": "http://dx.doi.org/10.23919/TMA.2018.8506513",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2018/studying_evolution_content_providers/studying_evolution_content_providers.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "INPROCEEDINGS",
+        "bookTitle": "Network Traffic Measurement and Analysis Conference (TMA)"
+    },
+    "date": "2018.06"
+}

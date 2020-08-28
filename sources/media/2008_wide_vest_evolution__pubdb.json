@@ -1,0 +1,32 @@
+{
+    "id": "2008_wide_vest_evolution",
+    "name": "What Happens When IPv4 Runs Out?",
+    "description": "",
+    "tags": [
+        "policy",
+        "internet id consumption"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "WIDE-CASFI",
+            "date": "2008.08",
+            "url": "",
+            "person": "person:Vest__Tom"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2008_wide_vest_evolution__pubdb.json",
+    "pubdb_id": "presentation92",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2008/wide_vest_evolution/wide_vest_evolution.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2008.08"
+}

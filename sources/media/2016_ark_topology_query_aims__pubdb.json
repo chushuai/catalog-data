@@ -1,0 +1,33 @@
+{
+    "id": "2016_ark_topology_query_aims",
+    "name": "Ark Topology Query System",
+    "description": "",
+    "tags": [
+        "active data analysis",
+        "measurement methodology",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Workshop on Active Internet Measurements (AIMS)",
+            "date": "2016.02",
+            "url": "http://www.caida.org/workshops/aims/1602/",
+            "person": "person:Hyun__Young"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2016_ark_topology_query_aims__pubdb.json",
+    "pubdb_id": "presentation432",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2016/ark_topology_query_aims/ark_topology_query_aims.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2016.02"
+}

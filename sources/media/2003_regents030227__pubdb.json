@@ -1,0 +1,32 @@
+{
+    "id": "2003_regents030227",
+    "name": "Understanding Global Internet Health",
+    "description": "",
+    "tags": [
+        "security",
+        "overview"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "UC Regents",
+            "date": "2003.02",
+            "url": "",
+            "person": "person:Moore__David"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2003_regents030227__pubdb.json",
+    "pubdb_id": "presentation113",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2003/regents030227/regents030227.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2003.02"
+}

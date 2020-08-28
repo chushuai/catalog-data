@@ -1,0 +1,41 @@
+{
+    "id": "2014_bitag-congestion",
+    "name": "Internet Interdomain Congestion ",
+    "description": "",
+    "tags": [
+        "data",
+        "economics",
+        "measurement methodology",
+        "overview",
+        "policy",
+        "congestion"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Broadband Internet Technical Advisory Group (BITAG) Technical Working Group (TWG)",
+            "date": "2014.06",
+            "url": "http://www.bitag.org/",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2014_bitag-congestion__pubdb.json",
+    "pubdb_id": "presentation388",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2014/bitag-congestion/bitag-congestion.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2014/challenges_inferring_interdomain_congestion",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2014.06"
+}

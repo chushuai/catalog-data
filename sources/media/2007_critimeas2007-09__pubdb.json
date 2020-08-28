@@ -1,0 +1,33 @@
+{
+    "id": "2007_critimeas2007-09",
+    "name": "the Internet as emerging critical infrastructure: what needs to be measured?",
+    "description": "",
+    "tags": [
+        "measurement methodology",
+        "data",
+        "policy"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "AT&T Research",
+            "date": "2007.09",
+            "url": "",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2007_critimeas2007-09__pubdb.json",
+    "pubdb_id": "presentation220",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2007/critimeas2007-09/critimeas2007-09.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2007.09"
+}

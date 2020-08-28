@@ -1,0 +1,43 @@
+{
+    "id": "2008_wide_emile_passive_measurement",
+    "name": "CAIDA Passive Measurement Infrastructure",
+    "description": "This slideset was presented at the 10th CAIDA-WIDE-CASFI Workshop in August, 2008 and in Tel Aviv, Israel at the MOMENT workshop in September, 2008.",
+    "tags": [
+        "measurement methodology",
+        "passive data analysis"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "MOMENT",
+            "date": "2008.09",
+            "url": "",
+            "person": "person:Aben__Emile"
+        },
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "CAIDA-WIDE-CASFI Joint Measurement Workshop",
+            "date": "2008.08",
+            "url": "",
+            "person": "person:Aben__Emile"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2008_wide_emile_passive_measurement__pubdb.json",
+    "pubdb_id": "presentation18",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2008/wide_emile_passive_measurement/wide_emile_passive_measurement.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2008.09"
+}

@@ -1,0 +1,32 @@
+{
+    "id": "2001_isma01_kcopening",
+    "name": "ISMA 2001: routing and topology analysis",
+    "description": "",
+    "tags": [
+        "routing",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Internet Statistics and Metrics Analysis Workshop (ISMA)",
+            "date": "2001.12",
+            "url": "",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2001_isma01_kcopening__pubdb.json",
+    "pubdb_id": "presentation175",
+    "resources": [
+        {
+            "name": "HTML slides",
+            "url": "https://www.caida.org/publications/presentations/2001/isma01_kcopening//workshops/isma/0112/talks/kc01/",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2001.12"
+}

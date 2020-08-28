@@ -1,0 +1,36 @@
+{
+    "id": "2018_sister_pi_apr",
+    "name": "Science of Internet Security: Technology and Experimental Research",
+    "description": "",
+    "tags": [
+        "internet outages",
+        "routing",
+        "topology",
+        "security",
+        "active data analysis",
+        "measurement methodology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Applied Network Measurement Science PI meeting",
+            "date": "2018.04",
+            "url": "",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2018_sister_pi_apr__pubdb.json",
+    "pubdb_id": "presentation513",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2018/sister_pi_apr/sister_pi_apr.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2018.04"
+}

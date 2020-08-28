@@ -1,0 +1,35 @@
+{
+    "id": "2005_dns_cache_poisoners",
+    "name": "Searching for DNS Cache Poisoners",
+    "description": "",
+    "tags": [
+        "dns",
+        "security"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego",
+                "The Measurement Factory, Inc."
+            ],
+            "venue": "OARC",
+            "date": "2005.07",
+            "url": "",
+            "person": "person:Wessels__Duane"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2005_dns_cache_poisoners__pubdb.json",
+    "pubdb_id": "presentation225",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2005/dns_cache_poisoners/dns_cache_poisoners.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2005.07"
+}

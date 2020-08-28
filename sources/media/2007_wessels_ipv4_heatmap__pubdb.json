@@ -1,0 +1,35 @@
+{
+    "id": "2007_wessels_ipv4_heatmap",
+    "name": "IPv4 Heatmap",
+    "description": "",
+    "tags": [
+        "visualization",
+        "dns"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego",
+                "The Measurement Factory, Inc."
+            ],
+            "venue": "OARC",
+            "date": "2007.10",
+            "url": "",
+            "person": "person:Wessels__Duane"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2007_wessels_ipv4_heatmap__pubdb.json",
+    "pubdb_id": "presentation11",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2007/wessels_ipv4_heatmap/wessels_ipv4_heatmap.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2007.10"
+}

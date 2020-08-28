@@ -1,0 +1,53 @@
+{
+    "id": "2009_navigating_ultrasmall",
+    "name": "Navigating ultrasmall worlds in ultrashort time",
+    "datePublished": "2009.02",
+    "description": "Random scale-free networks are ultrasmall worlds. The average length of the shortest paths in networks of size N scales as lnlnN. Here we show that these ultrasmall worlds can be navigated in ultrashort time. Greedy routing on scale-free networks embedded in metric spaces finds paths with the average length scaling also as lnlnN. Greedy routing uses only local information to navigate a network. Nevertheless, it finds asymptotically the shortest paths, a direct computation of which requires global topology knowledge. Our findings imply that the peculiar structure of complex networks ensures that the lack of global topological awareness has asymptotically no impact on the length of communication paths. These results have important consequences for communication systems such as the Internet, where maintaining knowledge of current topology is a major scalability bottleneck. \r\n",
+    "annotation": "",
+    "tags": [
+        "routing",
+        "topology"
+    ],
+    "pubdb_id": "paper17",
+    "authors": [
+        {
+            "person": "person:Bogu\u00f1\u00e1__Mari\u00e1n",
+            "organizations": [
+                "Departament de F\u00edsica Fonamental, Universitat de Barcelona"
+            ]
+        },
+        {
+            "person": "person:Krioukov__Dmitri",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        }
+    ],
+    "links": [],
+    "booktitle": "",
+    "institution": "",
+    "number": "058701",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2009_navigating_ultrasmall__pubdb.json",
+    "publisher": "Physical Review Letters",
+    "resources": [
+        {
+            "name": "DOI",
+            "url": "http://dx.doi.org/10.1103/PhysRevLett.102.058701",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2009/navigating_ultrasmall/navigating_ultrasmall.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "ARTICLE",
+        "journal": "Physical Review Letters",
+        "volume": "102"
+    },
+    "date": "2009.02"
+}

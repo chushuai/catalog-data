@@ -1,0 +1,31 @@
+{
+    "id": "2010_caida_update",
+    "name": "CAIDA Report 2010",
+    "description": "",
+    "tags": [
+        "overview"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "WIDE-CASFI",
+            "date": "2010.04",
+            "url": "",
+            "person": "person:Huffaker__Bradley"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2010_caida_update__pubdb.json",
+    "pubdb_id": "presentation64",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2010/caida_update/caida_update.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2010.04"
+}

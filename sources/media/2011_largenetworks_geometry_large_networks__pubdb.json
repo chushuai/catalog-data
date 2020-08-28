@@ -1,0 +1,38 @@
+{
+    "id": "2011_largenetworks_geometry_large_networks",
+    "name": "Geometry of Large Networks (Computer Science Perspective)",
+    "description": "",
+    "tags": [
+        "routing",
+        "topology",
+        "network geometry"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "American Institute of Mathematics (AIM)",
+            "date": "2011.10",
+            "url": "",
+            "person": "person:Krioukov__Dmitri"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2011_largenetworks_geometry_large_networks__pubdb.json",
+    "pubdb_id": "presentation242",
+    "resources": [
+        {
+            "name": "Powerpoint",
+            "url": "https://www.caida.org/publications/presentations/2011/largenetworks_geometry_large_networks/largenetworks_geometry_large_networks.pptx",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2010/hyperbolic_geometry_complex",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2011.10"
+}

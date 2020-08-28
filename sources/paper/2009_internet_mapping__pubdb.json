@@ -1,0 +1,67 @@
+{
+    "id": "2009_internet_mapping",
+    "name": "Internet Mapping: from Art to Science",
+    "datePublished": "2009.03",
+    "description": "We are designing, implementing, deploying, and operating a secure measurement platform capable of performing various types of Internet infrastructure measurements and assessments.  We integrate state-of-the-art measurement and analysis capabilities to try to build a coherent view of Internet topology. In September 2007 we began to use this novel architecture to support ongoing global Internet topology measurement and mapping, and are now gathering the largest set of IP topology data for use by academic researchers. We are using the best available techniques for IP topology mapping, and are developing some new techniques, as well as supporting software for data analysis, topology generation, and interactive visualization of resulting large annotated graphs. This paper presents our current results, next steps, and future goals.\r\n",
+    "annotation": "",
+    "tags": [
+        "active data analysis",
+        "measurement methodology",
+        "topology"
+    ],
+    "pubdb_id": "paper18",
+    "authors": [
+        {
+            "person": "person:claffy__kc",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Hyun__Young",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Keys__Ken",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Fomenkov__Marina",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Krioukov__Dmitri",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        }
+    ],
+    "links": [],
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2009_internet_mapping__pubdb.json",
+    "publisher": "IEEE DHS Cybersecurity Applications and Technologies Conference for Homeland Security (CATCH)",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2009/internet_mapping/internet_mapping.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "INPROCEEDINGS",
+        "bookTitle": "IEEE DHS Cybersecurity Applications and Technologies Conference for Homeland Security (CATCH)",
+        "institution": "Cooperative Association for Internet Data Analysis (CAIDA)",
+        "pages": "205-211"
+    },
+    "date": "2009.03"
+}

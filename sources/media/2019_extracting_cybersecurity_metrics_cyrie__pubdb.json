@@ -1,0 +1,32 @@
+{
+    "id": "2019_extracting_cybersecurity_metrics_cyrie",
+    "name": "Extracting Cybersecurity Metrics from Internet Mapping and Monitoring",
+    "description": "",
+    "tags": [
+        "internet outages",
+        "security"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "DHS S&T Cyrie Internet Infrastructure Risk Economics Stakeholder Exchange Meeting",
+            "date": "2019.04",
+            "url": "",
+            "person": "person:Dainotti__Alberto"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2019_extracting_cybersecurity_metrics_cyrie__pubdb.json",
+    "pubdb_id": "presentation553",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2019/extracting_cybersecurity_metrics_cyrie/extracting_cybersecurity_metrics_cyrie.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2019.04"
+}

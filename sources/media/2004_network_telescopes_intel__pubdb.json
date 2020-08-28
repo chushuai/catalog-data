@@ -1,0 +1,33 @@
+{
+    "id": "2004_network_telescopes_intel",
+    "name": "Network Telescopes: Remote Monitoring of Internet Worms and Denial-of-Service Attacks",
+    "description": "",
+    "tags": [
+        "measurement methodology",
+        "network telescope",
+        "security"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Intel Cambridge",
+            "date": "2004.01",
+            "url": "",
+            "person": "person:Shannon__Colleen"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2004_network_telescopes_intel__pubdb.json",
+    "pubdb_id": "presentation375",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2004/network_telescopes_intel/network_telescopes_intel.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2004.01"
+}

@@ -1,0 +1,91 @@
+{
+    "id": "2001_MethodAnalyseLink",
+    "name": "Methodology for passive analysis of a university Internet link",
+    "datePublished": "2001.04",
+    "description": "\nPassive monitoring of Internet links can efficiently provide valuable\ndata on a wide variety of network performance measures. We use two\npublicly available monitoring tools (CoralReef and NeTraMet), exploring\ntheir synergy and relevance for collecting and analyzing Internet flow\ndata. We consider measurement design issues, then present two case\nstudies that use these tools to analyze an Internet connection at a\nlarge university. We illustrate and discuss the potential for\ninvestigating operational and research questions using our passive\nmeasurement methodology.\n",
+    "annotation": "",
+    "tags": [
+        "software/tools",
+        "measurement methodology",
+        "passive data analysis"
+    ],
+    "pubdb_id": "paper117",
+    "authors": [
+        {
+            "person": "person:Brownlee__Nevil",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:claffy__kc",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Murray__Margaret",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Nemeth__Evi",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        }
+    ],
+    "links": [],
+    "institution": "",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2001_MethodAnalyseLink__pubdb.json",
+    "publisher": "Passive and Active Network Measurement Workshop (PAM)",
+    "resources": [
+        {
+            "name": "CoralReef",
+            "url": "/tools/measurement/coralreef/",
+            "tags": []
+        },
+        {
+            "name": "data rate",
+            "url": "data-rate.srl",
+            "tags": []
+        },
+        {
+            "name": "flow stats/size",
+            "url": "flow-stats-size.srl",
+            "tags": []
+        },
+        {
+            "name": "gzipped postscript",
+            "url": "passive.ps.gz",
+            "tags": []
+        },
+        {
+            "name": "HTML",
+            "url": "MethodAnalyseLink.xml",
+            "tags": []
+        },
+        {
+            "name": "NeTraMet",
+            "url": "/tools/measurement/netramet/",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2001/MethodAnalyseLink/passive.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "INPROCEEDINGS",
+        "bookTitle": "Passive and Active Network Measurement Workshop (PAM)"
+    },
+    "date": "2001.04"
+}

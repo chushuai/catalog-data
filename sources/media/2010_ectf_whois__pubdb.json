@@ -1,0 +1,34 @@
+{
+    "id": "2010_ectf_whois",
+    "name": "Inferring Geolocation Ownership of Internet Identifiers",
+    "description": "",
+    "tags": [
+        "overview",
+        "routing",
+        "security",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Sprint Electronic Crimes Task Force (ECTF)",
+            "date": "2010.05",
+            "url": "",
+            "person": "person:Huffaker__Bradley"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2010_ectf_whois__pubdb.json",
+    "pubdb_id": "presentation151",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2010/ectf_whois/ectf_whois.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2010.05"
+}

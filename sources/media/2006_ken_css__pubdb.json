@@ -1,0 +1,31 @@
+{
+    "id": "2006_ken_css",
+    "name": "Introduction to CSS for HTML",
+    "description": "",
+    "tags": [
+        "software/tools"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "CAIDA",
+            "date": "2006.12",
+            "url": "",
+            "person": "person:Keys__Ken"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2006_ken_css__pubdb.json",
+    "pubdb_id": "presentation274",
+    "resources": [
+        {
+            "name": "HTML slides",
+            "url": "https://www.caida.org/publications/presentations/2006/ken_css/slides/",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2006.12"
+}

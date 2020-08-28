@@ -1,0 +1,38 @@
+{
+    "id": "2012_darpa_hyperbolic_geometry",
+    "name": "Hyperbolic geometry of large networks",
+    "description": "",
+    "tags": [
+        "routing",
+        "topology",
+        "network geometry"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "DARPA Mathematics Summit",
+            "date": "2012.02",
+            "url": "",
+            "person": "person:Krioukov__Dmitri"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2012_darpa_hyperbolic_geometry__pubdb.json",
+    "pubdb_id": "presentation78",
+    "resources": [
+        {
+            "name": "Powerpoint",
+            "url": "https://www.caida.org/publications/presentations/2012/darpa_hyperbolic_geometry/darpa_hyperbolic_geometry.pptx",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2010/hyperbolic_geometry_complex",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2012.02"
+}

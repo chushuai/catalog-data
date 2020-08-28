@@ -1,0 +1,31 @@
+{
+    "id": "2005_caidawide050311_brownlee",
+    "name": "Capturing dragonflies - how to measure very short-lived streams",
+    "description": "",
+    "tags": [
+        "measurement methodology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "WIDE",
+            "date": "2005.03",
+            "url": "",
+            "person": "person:Brownlee__Nevil"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2005_caidawide050311_brownlee__pubdb.json",
+    "pubdb_id": "presentation252",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2005/caidawide050311_brownlee//workshops/wide/0503/slides/nevil-wide-mar05.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2005.03"
+}

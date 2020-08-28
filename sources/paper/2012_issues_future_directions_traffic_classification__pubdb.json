@@ -1,0 +1,57 @@
+{
+    "id": "2012_issues_future_directions_traffic_classification",
+    "name": "Issues and future directions in traffic classification",
+    "datePublished": "2012.01",
+    "description": "Traffic classification technology has increased in relevance this decade, as it is now used in the definition and implementation of mechanisms for service differentiation, network design and engineering, security, accounting, advertising, and research. Over the past 10 years the research community and the networking industry have investigated, proposed and developed several classification approaches. While traffic classification techniques are improving in accuracy and efficiency, the continued proliferation of different Internet application behaviors, in addition to growing incentives to disguise some applications to avoid filtering or blocking, are among the reasons that traffic classification remains one of many open problems in Internet research. In this article we review recent achievements and discuss future directions in traffic classification, along with their trade-offs in applicability, reliability, and privacy. We outline the persistently unsolved challenges in the field over the last decade, and suggest several strategies for tackling these challenges to promote progress in the science of Internet traffic classification.",
+    "annotation": "",
+    "tags": [
+        "passive data analysis",
+        "security",
+        "policy",
+        "data sharing",
+        "measurement methodology"
+    ],
+    "pubdb_id": "paper500",
+    "authors": [
+        {
+            "person": "person:Dainotti__Alberto",
+            "organizations": [
+                "University of Napoli Federico II,\nNapoli, Italy"
+            ]
+        },
+        {
+            "person": "person:Pescap\u00e8__Antonio",
+            "organizations": [
+                "University of Napoli Federico II,\nNapoli, Italy"
+            ]
+        },
+        {
+            "person": "person:Claffy__Kimberly",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        }
+    ],
+    "links": [],
+    "booktitle": "",
+    "institution": "",
+    "number": "1",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2012_issues_future_directions_traffic_classification__pubdb.json",
+    "publisher": "IEEE Network",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2012/issues_future_directions_traffic_classification/issues_future_directions_traffic_classification.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "ARTICLE",
+        "journal": "IEEE Network",
+        "volume": "26",
+        "pages": "35-40"
+    },
+    "date": "2012.01"
+}

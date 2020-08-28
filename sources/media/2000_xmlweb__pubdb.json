@@ -1,0 +1,36 @@
+{
+    "id": "2000_xmlweb",
+    "name": "CAIDA's XML-based Web Publishing Environment",
+    "description": "",
+    "tags": [
+        "software/tools"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "CAIDA",
+            "date": "2000.07",
+            "url": "",
+            "person": "person:Murray__Margaret"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2000_xmlweb__pubdb.json",
+    "pubdb_id": "presentation104",
+    "resources": [
+        {
+            "name": "HTML slides",
+            "url": "https://www.caida.org/publications/presentations/2000/xmlweb/index.html",
+            "tags": []
+        },
+        {
+            "name": "PowerPoint",
+            "url": "https://www.caida.org/publications/presentations/2000/xmlweb/xmlweb.ppt",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2000.07"
+}

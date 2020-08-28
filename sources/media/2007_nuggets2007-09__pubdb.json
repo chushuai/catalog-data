@@ -1,0 +1,42 @@
+{
+    "id": "2007_nuggets2007-09",
+    "name": "caida nuggets",
+    "description": "This slideset was presented to IBM-Cambridge and NIST in September 2007.",
+    "tags": [
+        "overview"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "National Institute of Standards and Technology (NIST)",
+            "date": "2007.09",
+            "url": "",
+            "person": "person:claffy__kc"
+        },
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "IBM-Cambridge",
+            "date": "2007.09",
+            "url": "",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2007_nuggets2007-09__pubdb.json",
+    "pubdb_id": "presentation91",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2007/nuggets2007-09/nuggets2007-09.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2007.09"
+}

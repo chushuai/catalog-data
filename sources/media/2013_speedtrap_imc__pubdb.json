@@ -1,0 +1,39 @@
+{
+    "id": "2013_speedtrap_imc",
+    "name": "Speedtrap: Internet-Scale IPv6 Alias Resolution",
+    "description": "",
+    "tags": [
+        "ipv6",
+        "measurement methodology",
+        "software/tools",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "ACM Internet Measurement Conference (IMC)",
+            "date": "2013.10",
+            "url": "http://conferences.sigcomm.org/imc/2013/",
+            "person": "person:Luckie__Matthew"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2013_speedtrap_imc__pubdb.json",
+    "pubdb_id": "presentation378",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2013/speedtrap_imc/speedtrap_imc.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2013/speedtrap",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2013.10"
+}

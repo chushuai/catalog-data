@@ -1,0 +1,31 @@
+{
+    "id": "2007_colleen_blackworm",
+    "name": "Blackworm: Analyzing the Spread of a Worm from Poisoned IP Data",
+    "description": "",
+    "tags": [
+        "security"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "ISOI",
+            "date": "2007.01",
+            "url": "",
+            "person": "person:Shannon__Colleen"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2007_colleen_blackworm__pubdb.json",
+    "pubdb_id": "presentation62",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2007/colleen_blackworm/colleen_blackworm.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2007.01"
+}

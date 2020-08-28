@@ -1,0 +1,38 @@
+{
+    "id": "2003_lsn20030610",
+    "name": "priorities and challenges in Internet measurement simulation and analysis",
+    "description": "",
+    "tags": [
+        "measurement methodology",
+        "data",
+        "policy"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Large Scale Network (LSN)",
+            "date": "2003.06",
+            "url": "",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2003_lsn20030610__pubdb.json",
+    "pubdb_id": "presentation132",
+    "resources": [
+        {
+            "name": "HTML slides",
+            "url": "https://www.caida.org/publications/presentations/2003/lsn20030610/index.html",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2003/lsn20030610/lsn20030610.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2003.06"
+}

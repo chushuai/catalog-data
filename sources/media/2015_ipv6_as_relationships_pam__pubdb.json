@@ -1,0 +1,38 @@
+{
+    "id": "2015_ipv6_as_relationships_pam",
+    "name": "IPv6 AS Relationships, Clique, and Congruence",
+    "description": "",
+    "tags": [
+        "measurement methodology",
+        "routing",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Passive and Active Measurement Conference (PAM)",
+            "date": "2015.03",
+            "url": "http://wan.poly.edu/pam2015/",
+            "person": "person:Giotsas__Vasileios"
+        }
+    ],
+    "links": [
+        {
+            "to": "paper:2015_ipv6_as_relationships",
+            "url": "https://www.caida.org/publications/papers/2015/ipv6_as_relationships/"
+        }
+    ],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2015_ipv6_as_relationships_pam__pubdb.json",
+    "pubdb_id": "presentation405",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2015/ipv6_as_relationships_pam/ipv6_as_relationships_pam.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2015.03"
+}

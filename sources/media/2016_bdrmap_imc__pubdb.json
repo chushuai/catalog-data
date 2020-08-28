@@ -1,0 +1,44 @@
+{
+    "id": "2016_bdrmap_imc",
+    "name": "bdrmap: Inference of Borders Between IP Networks",
+    "description": "",
+    "tags": [
+        "measurement methodology",
+        "topology",
+        "routing",
+        "congestion"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "ACM Internet Measurement Conference (IMC)",
+            "date": "2016.11",
+            "url": "http://conferences.sigcomm.org/imc/2016/index.html",
+            "person": "person:Luckie__Matthew"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2016_bdrmap_imc__pubdb.json",
+    "pubdb_id": "presentation462",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2016/bdrmap_imc/bdrmap_imc.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Code",
+            "url": "https://www.caida.org/tools/measurement/scamper/",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/presentations/2016/bdrmap_imc//publications/papers/2016/bdrmap/",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2016.11"
+}

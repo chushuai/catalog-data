@@ -1,0 +1,32 @@
+{
+    "id": "1998_IEPG.9808",
+    "name": "Path and Round-Trip Time Measurements",
+    "description": "",
+    "tags": [
+        "measurement methodology",
+        "software/tools"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Internet Engineering and Planning Group (IEPG)",
+            "date": "1998.08",
+            "url": "",
+            "person": "person:McRobb__Daniel"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/1998_IEPG.9808__pubdb.json",
+    "pubdb_id": "presentation174",
+    "resources": [
+        {
+            "name": "HTML Outline",
+            "url": "https://www.caida.org/publications/presentations/1998/IEPG.9808/outline.html",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "1998.08"
+}

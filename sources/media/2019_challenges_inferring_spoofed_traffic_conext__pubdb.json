@@ -1,0 +1,42 @@
+{
+    "id": "2019_challenges_inferring_spoofed_traffic_conext",
+    "name": "Challenges in Inferring Spoofed Traffic at IXPs",
+    "description": "",
+    "tags": [
+        "routing",
+        "topology",
+        "security",
+        "active data analysis"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego",
+                "Universidade Federal do Rio Grande do Sul (UFRGS)"
+            ],
+            "venue": "ACM SIGCOMM Conference on emerging Networking EXperiments and Technologies (CoNEXT)",
+            "date": "2019.12",
+            "url": "https://conferences2.sigcomm.org/co-next/2019/#!/program",
+            "person": "person:M\u00fcller__Lucas"
+        }
+    ],
+    "links": [
+        {
+            "to": "paper:2019_challenges_inferring_spoofed_traffic",
+            "url": "https://www.caida.org/publications/papers/2019/challenges_inferring_spoofed_traffic/"
+        }
+    ],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2019_challenges_inferring_spoofed_traffic_conext__pubdb.json",
+    "pubdb_id": "presentation563",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2019/challenges_inferring_spoofed_traffic_conext/challenges_inferring_spoofed_traffic_conext.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2019.12"
+}

@@ -1,0 +1,36 @@
+{
+    "id": "2001_ietf_dnsperf",
+    "name": "DNS/gTLD Performance Measurements ",
+    "description": "",
+    "tags": [
+        "dns"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Internet Engineering Task Force (IETF)",
+            "date": "2001.12",
+            "url": "",
+            "person": "person:Brownlee__Nevil"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2001_ietf_dnsperf__pubdb.json",
+    "pubdb_id": "presentation372",
+    "resources": [
+        {
+            "name": "HTML Slides",
+            "url": "https://www.caida.org/publications/presentations/2001/ietf_dnsperf/index.html",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2001/DNSPerfMeas",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2001.12"
+}

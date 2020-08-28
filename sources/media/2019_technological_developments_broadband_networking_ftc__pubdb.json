@@ -1,0 +1,48 @@
+{
+    "id": "2019_technological_developments_broadband_networking_ftc",
+    "name": "Technological Developments in Broadband Networking",
+    "description": "Webcast 1 introducing kc and her talk begins at 10m30s, Webcast 2 covers the panel discussion and begins at 0m25s.",
+    "tags": [
+        "topology",
+        "overview",
+        "routing"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "FTC Hearing",
+            "date": "2019.03",
+            "url": "https://www.ftc.gov/news-events/events-calendar/ftc-hearing-10-competition-consumer-protection-21st-century",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [
+        {
+            "to": "media:2019_technological_developments_broadband_networking_ftc",
+            "url": "https://www.caida.org/publications/presentations/2019/technological_developments_broadband_networking_ftc/"
+        }
+    ],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2019_technological_developments_broadband_networking_ftc__pubdb.json",
+    "pubdb_id": "presentation539",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2019/technological_developments_broadband_networking_ftc/technological_developments_broadband_networking_ftc.pdf",
+            "tags": []
+        },
+        {
+            "name": "Press Coverage",
+            "url": "https://www.project-disco.org/competition/032219-ftc-hearing-10-competition-consumer-protection-issues-in-us-broadband-markets/",
+            "tags": []
+        },
+        {
+            "name": "Video (webcast) 1",
+            "url": "https://www.ftc.gov/news-events/audio-video/video/ftc-hearing-10-march-20-session-1-competition-consumer-protection",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2019.03"
+}

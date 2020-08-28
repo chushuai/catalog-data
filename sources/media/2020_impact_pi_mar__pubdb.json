@@ -1,0 +1,35 @@
+{
+    "id": "2020_impact_pi_mar",
+    "name": "IMPACT PI Meeting",
+    "description": "",
+    "tags": [
+        "measurement methodology",
+        "routing",
+        "active data analysis",
+        "overview",
+        "policy"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": " DHS IMPACT PI Meeting",
+            "date": "2020.03",
+            "url": "",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2020_impact_pi_mar__pubdb.json",
+    "pubdb_id": "presentation572",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2020/impact_pi_mar/impact_pi_mar.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2020.03"
+}

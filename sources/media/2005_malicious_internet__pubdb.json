@@ -1,0 +1,33 @@
+{
+    "id": "2005_malicious_internet",
+    "name": "Measuring a Malicious Internet",
+    "description": "",
+    "tags": [
+        "security",
+        "measurement methodology",
+        "passive data analysis"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "UC San Diego Thesis Proposal",
+            "date": "2005.03",
+            "url": "",
+            "person": "person:Moore__David"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2005_malicious_internet__pubdb.json",
+    "pubdb_id": "presentation239",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2005/malicious_internet/malicious_internet.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2005.03"
+}

@@ -1,0 +1,37 @@
+{
+    "id": "2012_analysis_stealth_scan_lisa",
+    "name": "Analysis of an Internet-wide Stealth Scan from a Botnet",
+    "description": "",
+    "tags": [
+        "measurement methodology",
+        "security"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "USENIX Large Installation System Administration (LISA)",
+            "date": "2012.12",
+            "url": "",
+            "person": "person:Dainotti__Alberto"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2012_analysis_stealth_scan_lisa__pubdb.json",
+    "pubdb_id": "presentation340",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2012/analysis_stealth_scan_lisa/analysis_stealth_scan_lisa.pdf",
+            "tags": []
+        },
+        {
+            "name": "Video",
+            "url": "https://www.usenix.org/conference/lisa12/analysis-internet-wide-stealth-scan-botnet",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2012.12"
+}

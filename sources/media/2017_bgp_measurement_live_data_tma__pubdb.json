@@ -1,0 +1,36 @@
+{
+    "id": "2017_bgp_measurement_live_data_tma",
+    "name": "BGP measurement and live data analysis",
+    "description": "",
+    "tags": [
+        "topology",
+        "software/tools",
+        "security",
+        "routing",
+        "passive data analysis",
+        "measurement methodology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "PhD school on Network Traffic Measurement and Analysis Conference (TMA) ",
+            "date": "2017.06",
+            "url": "http://tma.ifip.org/2017/phd-school/",
+            "person": "person:Dainotti__Alberto"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2017_bgp_measurement_live_data_tma__pubdb.json",
+    "pubdb_id": "presentation484",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2017/bgp_measurement_live_data_tma/bgp_measurement_live_data_tma.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2017.06"
+}

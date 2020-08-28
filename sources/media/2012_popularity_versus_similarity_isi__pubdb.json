@@ -1,0 +1,43 @@
+{
+    "id": "2012_popularity_versus_similarity_isi",
+    "name": "Popularity versus Similarity in Growing Networks",
+    "description": "",
+    "tags": [
+        "network geometry",
+        "routing",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "USC Information Sciences Institute (ISI)",
+            "date": "2012.11",
+            "url": "",
+            "person": "person:Krioukov__Dmitri"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2012_popularity_versus_similarity_isi__pubdb.json",
+    "pubdb_id": "presentation337",
+    "resources": [
+        {
+            "name": "Powerpoint",
+            "url": "https://www.caida.org/publications/presentations/2012/popularity_versus_similarity_isi/popularity_versus_similarity_isi.pptx",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2012/popularity_vs_similarity",
+            "tags": []
+        },
+        {
+            "name": "Video",
+            "url": "http://webcasterms1.isi.edu/mediasite/Viewer/?peid=4808e572a0294a2889109e0484c3185c1d",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2012.11"
+}

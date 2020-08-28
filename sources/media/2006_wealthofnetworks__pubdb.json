@@ -1,0 +1,37 @@
+{
+    "id": "2006_wealthofnetworks",
+    "name": "The Wealth of Networks",
+    "description": "",
+    "tags": [
+        "policy",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "SDSC",
+            "date": "2006.03",
+            "url": "",
+            "person": "person:Vest__Tom"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2006_wealthofnetworks__pubdb.json",
+    "pubdb_id": "presentation197",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2006/wealthofnetworks/wealthofnetworks.pdf",
+            "tags": []
+        },
+        {
+            "name": "RealAudio",
+            "url": "http://cichannel.sdsc.edu/16023.ram",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2006.03"
+}

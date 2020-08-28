@@ -1,0 +1,85 @@
+{
+    "id": "2019_chocolatine",
+    "name": "Chocolatine: Outage Detection for Internet Background Radiation",
+    "datePublished": "2019.06",
+    "description": "The Internet is a complex ecosystem composed of thousands of Autonomous Systems (ASs) operated by independent organizations; each AS having a very limited view outside its own network. These complexities and limitations impede network operators to finely pinpoint the causes of service degradation or disruption when the problem lies outside of their network. In this paper, we present Chocolatine, a solution to detect remote connectivity loss using Internet Background Radiation (IBR) through a simple and efficient method. IBR is unidirectional unsolicited Internet traffic, which is easily observed by monitoring unused address space. IBR features two remarkable properties: it is originated worldwide, across diverse ASs, and it is incessant. We show that the number of IP addresses observed from an AS or a geographical area follows a periodic pattern. Then, using Seasonal ARIMA to statistically model IBR data, we predict the number of IPs for the next time window. Significant deviations from these predictions indicate an outage. We evaluated Chocolatine using data from the UCSD Network Telescope, operated by CAIDA, with a set of documented outages. Our experiments show that the proposed methodology achieves a good trade-off between true-positive rate (90%) and false- positive rate (2%) and largely outperforms CAIDA\u2019s own IBR based detection method. Furthermore, performing a comparison against other methods, i.e., with BGP monitoring and active probing, we observe that Chocolatine shares a large common set of outages with them in addition to many specific outages that would otherwise go undetected.",
+    "annotation": "",
+    "tags": [
+        "internet outages",
+        "passive data analysis",
+        "security",
+        "network telescope"
+    ],
+    "pubdb_id": "paper676",
+    "authors": [
+        {
+            "person": "person:Guillot__Andreas",
+            "organizations": [
+                "ICube, University of Strasbourg"
+            ]
+        },
+        {
+            "person": "person:Fontugne__Romain",
+            "organizations": [
+                "IIJ Research Lab"
+            ]
+        },
+        {
+            "person": "person:Winter__Philipp",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:M\u00e9rindol__Pascal",
+            "organizations": [
+                "ICube, University of Strasbourg"
+            ]
+        },
+        {
+            "person": "person:King__Alistair",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Dainotti__Alberto",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Pelsser__Cristel",
+            "organizations": [
+                "ICube, University of Strasbourg"
+            ]
+        }
+    ],
+    "links": [],
+    "institution": "",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2019_chocolatine__pubdb.json",
+    "publisher": "Network Traffic Measurement and Analysis Conference (TMA)",
+    "resources": [
+        {
+            "name": "arXiv",
+            "url": "https://arxiv.org/abs/1906.04426",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2019/chocolatine/chocolatine.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "INPROCEEDINGS",
+        "bookTitle": "Network Traffic Measurement and Analysis Conference (TMA)"
+    },
+    "date": "2019.06"
+}

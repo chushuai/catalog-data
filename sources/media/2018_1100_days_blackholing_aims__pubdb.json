@@ -1,0 +1,36 @@
+{
+    "id": "2018_1100_days_blackholing_aims",
+    "name": "1100 Days of Blackholing Who\u2019s Affected?",
+    "description": "",
+    "tags": [
+        "security",
+        "measurement methodology",
+        "network telescope"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego",
+                "University of Twente"
+            ],
+            "venue": "Workshop on Active Internet Measurements (AIMS)",
+            "date": "2018.03",
+            "url": "http://www.caida.org/workshops/aims/1803/",
+            "person": "person:Jonker__Mattijs"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2018_1100_days_blackholing_aims__pubdb.json",
+    "pubdb_id": "presentation507",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2018/1100_days_blackholing_aims/1100_days_blackholing_aims.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2018.03"
+}

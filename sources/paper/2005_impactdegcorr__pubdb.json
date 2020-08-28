@@ -1,0 +1,65 @@
+{
+    "id": "2005_impactdegcorr",
+    "name": "Impact of Degree Correlations on Topology Generators",
+    "datePublished": "2005.08",
+    "description": "Internet topology analysis has attracted a lot of attention in recent years, since its relationship to a variety of networking technologies and phenomena is not only fundamental but generally poorly understood. Performance of applications and protocols, especially routing protocols, robustness of the network under attack, traffic engineering, etc., depend crucially on the topology of the network. In this work we focus on two cornerstones of Internet topology research: 1) knowledge of realistic network topologies; and 2) availability of tools to generate them. ",
+    "annotation": "",
+    "tags": [
+        "topology"
+    ],
+    "pubdb_id": "paper56",
+    "authors": [
+        {
+            "person": "person:Mahadevan__Priya",
+            "organizations": [
+                "University of California, San Diego (UCSD)"
+            ]
+        },
+        {
+            "person": "person:Krioukov__Dmitri",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Huffaker__Bradley",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:claffy__kc",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Vahdat__Amin",
+            "organizations": [
+                "University of California, San Diego (UCSD)"
+            ]
+        }
+    ],
+    "links": [],
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2005_impactdegcorr__pubdb.json",
+    "publisher": "ACM SIGCOMM Poster",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2005/impactdegcorr/impactdegcorr.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "INPROCEEDINGS",
+        "bookTitle": "ACM SIGCOMM Poster",
+        "institution": "Cooperative Association for Internet Data Analysis (CAIDA)"
+    },
+    "date": "2005.08"
+}

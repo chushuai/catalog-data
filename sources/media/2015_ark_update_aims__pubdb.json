@@ -1,0 +1,33 @@
+{
+    "id": "2015_ark_update_aims",
+    "name": "Ark Update: Present and Future",
+    "description": "",
+    "tags": [
+        "active data analysis",
+        "measurement methodology",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Workshop on Active Internet Measurements (AIMS)",
+            "date": "2015.03",
+            "url": "http://www.caida.org/workshops/aims/1503/",
+            "person": "person:Hyun__Young"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2015_ark_update_aims__pubdb.json",
+    "pubdb_id": "presentation408",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2015/ark_update_aims/ark_update_aims.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2015.03"
+}

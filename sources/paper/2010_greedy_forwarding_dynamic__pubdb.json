@@ -1,0 +1,71 @@
+{
+    "id": "2010_greedy_forwarding_dynamic",
+    "name": "Greedy Forwarding in Dynamic Scale-Free Networks Embedded in Hyperbolic Metric Spaces",
+    "datePublished": "2010.03",
+    "description": "We show that complex (scale-free) network topologies naturally emerge from hyperbolic metric spaces. Hyperbolic geometry facilitates maximally efficient greedy forwarding in these networks. Greedy forwarding is topology-oblivious. Nevertheless, greedy packets find their destinations with 100% probability following almost optimal shortest paths. This remarkable efficiency sustains even in highly dynamic networks. Our findings suggest that forwarding information through complex networks, such as the Internet, is possible without the overhead of existing routing protocols, and may also find practical applications in overlay networks for tasks such as application-level routing, information sharing, and data distribution. ",
+    "annotation": "From the proceedings of IEEE INFOCOM 2010 in March 2010.",
+    "tags": [
+        "routing",
+        "topology",
+        "network geometry"
+    ],
+    "pubdb_id": "paper494",
+    "authors": [
+        {
+            "person": "person:Papadopoulos__Fragkiskos",
+            "organizations": [
+                "University of Cyprus"
+            ]
+        },
+        {
+            "person": "person:Krioukov__Dmitri",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Bogu\u00f1\u00e1__Mari\u00e1n",
+            "organizations": [
+                "Departament de F\u00edsica Fonamental, Universitat de Barcelona"
+            ]
+        },
+        {
+            "person": "person:Vahdat__Amin",
+            "organizations": [
+                "Department of Computer Science and Engineering,\nUniversity of California, San Diego"
+            ]
+        }
+    ],
+    "links": [
+        {
+            "to": "media:2010_infocom_greedy_forwarding_dsfn_hms",
+            "url": "https://www.caida.org/publications/presentations/2010/infocom_greedy_forwarding_dsfn_hms/"
+        }
+    ],
+    "institution": "",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2010_greedy_forwarding_dynamic__pubdb.json",
+    "publisher": "IEEE Conference on Computer Communications (INFOCOM)",
+    "resources": [
+        {
+            "name": "DOI",
+            "url": "http://dx.doi.org/10.1109/INFCOM.2010.5462131",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2010/greedy_forwarding_dynamic/greedy_forwarding_dynamic.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "INPROCEEDINGS",
+        "bookTitle": "IEEE Conference on Computer Communications (INFOCOM)"
+    },
+    "date": "2010.03"
+}

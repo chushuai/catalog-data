@@ -1,0 +1,33 @@
+{
+    "id": "2002_ipam0203",
+    "name": "Pitfalls and Problems with Internet Data",
+    "description": "",
+    "tags": [
+        "data",
+        "software/tools",
+        "overview"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Institute for Pure and Applied Mathematics (IPAM)",
+            "date": "2002.03",
+            "url": "",
+            "person": "person:Moore__David"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2002_ipam0203__pubdb.json",
+    "pubdb_id": "presentation186",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2002/ipam0203/ipam0203.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2002.03"
+}

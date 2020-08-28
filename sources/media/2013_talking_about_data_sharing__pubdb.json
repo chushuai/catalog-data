@@ -1,0 +1,32 @@
+{
+    "id": "2013_talking_about_data_sharing",
+    "name": "Why Are We Talking About Data Sharing?",
+    "description": "",
+    "tags": [
+        "data",
+        "policy"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "ISMA Workshop on Active Internet Measurements (AIMS)",
+            "date": "2013.02",
+            "url": "http://www.caida.org/workshops/isma/1302/",
+            "person": "person:Kenneally__Erin"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2013_talking_about_data_sharing__pubdb.json",
+    "pubdb_id": "presentation349",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2013/talking_about_data_sharing/talking_about_data_sharing.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2013.02"
+}

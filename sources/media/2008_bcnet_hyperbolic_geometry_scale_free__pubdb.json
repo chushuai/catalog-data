@@ -1,0 +1,37 @@
+{
+    "id": "2008_bcnet_hyperbolic_geometry_scale_free",
+    "name": "Hyperbolic geometry and scale-free topology of complex networks",
+    "description": "",
+    "tags": [
+        "routing",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "BCNet Workshop",
+            "date": "2008.12",
+            "url": "",
+            "person": "person:Krioukov__Dmitri"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2008_bcnet_hyperbolic_geometry_scale_free__pubdb.json",
+    "pubdb_id": "presentation28",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2008/bcnet_hyperbolic_geometry_scale_free/bcnet_hyperbolic_geometry_scale_free.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2010/greedy_forwarding_dynamic",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2008.12"
+}

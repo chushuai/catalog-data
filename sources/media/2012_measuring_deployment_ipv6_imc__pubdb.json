@@ -1,0 +1,40 @@
+{
+    "id": "2012_measuring_deployment_ipv6_imc",
+    "name": "Measuring the Deployment of IPv6: Topology, Routing, and Performance",
+    "description": "",
+    "tags": [
+        "active data analysis",
+        "ipv6",
+        "passive data analysis",
+        "routing",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "ACM Internet Measurement Conference (IMC)",
+            "date": "2012.11",
+            "url": "",
+            "person": "person:Luckie__Matthew"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2012_measuring_deployment_ipv6_imc__pubdb.json",
+    "pubdb_id": "presentation339",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2012/measuring_deployment_ipv6_imc/measuring_deployment_ipv6_imc.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2012/measuring_deployment_ipv6",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2012.11"
+}

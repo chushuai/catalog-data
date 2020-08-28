@@ -1,0 +1,97 @@
+{
+    "id": "2015_named_data_networking_2014-2015",
+    "name": "Named Data Networking Next Phase (NDN-NP) Project May 2014 - April 2015 Annual Report",
+    "datePublished": "2015.06",
+    "description": "This report catalogs a wide range of our accomplishments during the first year of the \"NDN Next Phase (NDN-NP)\" project. This phase of the project is environment-driven, in that we are focusing on deploying and evaluating the NDN architecture in two specific environments: building automation management systems and mobile health, together with a cluster of multimedia collaboration tools. ",
+    "annotation": "",
+    "tags": [
+        "topology",
+        "overview",
+        "mobile"
+    ],
+    "pubdb_id": "paper583",
+    "authors": [
+        {
+            "person": "person:Jacobson__Van",
+            "organizations": [
+                "University of California, Los Angeles (UCLA)"
+            ]
+        },
+        {
+            "person": "person:Burke__Jeffrey",
+            "organizations": [
+                "University of California, Los Angeles (UCLA)"
+            ]
+        },
+        {
+            "person": "person:Zhang__Lixia",
+            "organizations": [
+                "University of California, Los Angeles (UCLA)"
+            ]
+        },
+        {
+            "person": "person:Zhang__Beichuan",
+            "organizations": [
+                "University of Arizona"
+            ]
+        },
+        {
+            "person": "person:Claffy__Kimberly",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Papadopoulos__Christos",
+            "organizations": [
+                "Colorado State University"
+            ]
+        },
+        {
+            "person": "person:Abdelzaher__Tarek",
+            "organizations": [
+                "University of Illinois at Urbana-Champaign, Illinois (UIUC)"
+            ]
+        },
+        {
+            "person": "person:Wang__Lan",
+            "organizations": [
+                "University of Memphis"
+            ]
+        },
+        {
+            "person": "person:Halderman__J Alex",
+            "organizations": [
+                "University of Michigan"
+            ]
+        },
+        {
+            "person": "person:Crowley__Patrick",
+            "organizations": [
+                "Washington University in St. Louis"
+            ]
+        }
+    ],
+    "links": [],
+    "booktitle": "",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2015_named_data_networking_2014-2015__pubdb.json",
+    "publisher": "Named Data Networking (NDN)",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2015/named_data_networking_2014-2015/named_data_networking_2014-2015.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "TECHREPORT",
+        "institution": "Named Data Networking (NDN)"
+    },
+    "date": "2015.06"
+}

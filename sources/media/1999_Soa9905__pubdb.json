@@ -1,0 +1,31 @@
+{
+    "id": "1999_Soa9905",
+    "name": "Internet measurement: abysmal science",
+    "description": "",
+    "tags": [
+        "overview"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "CAIDA",
+            "date": "1999.06",
+            "url": "",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/1999_Soa9905__pubdb.json",
+    "pubdb_id": "presentation374",
+    "resources": [
+        {
+            "name": "HTML Slides",
+            "url": "https://www.caida.org/publications/presentations/1999/Soa9905/index.html",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "1999.06"
+}

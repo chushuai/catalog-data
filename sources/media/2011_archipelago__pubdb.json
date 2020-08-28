@@ -1,0 +1,33 @@
+{
+    "id": "2011_archipelago",
+    "name": "Archipelago Measurement Infrastructure Updates",
+    "description": "",
+    "tags": [
+        "measurement methodology",
+        "topology",
+        "software/tools"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "ISMA Workshop on Active Internet Measurements (AIMS)",
+            "date": "2011.02",
+            "url": "",
+            "person": "person:Hyun__Young"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2011_archipelago__pubdb.json",
+    "pubdb_id": "presentation236",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2011/archipelago/archipelago.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2011.02"
+}

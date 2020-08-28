@@ -1,0 +1,34 @@
+{
+    "id": "2019_stable_practical_as_relationship_nsdi",
+    "name": "Stable and Practical AS Relationship Inference with ProbLink",
+    "description": "",
+    "tags": [
+        "topology",
+        "routing",
+        "measurement methodology",
+        "economics"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "USENIX Symposium on Networked Systems Design and Implementation (NSDI)",
+            "date": "2019.02",
+            "url": "https://www.usenix.org/conference/nsdi19",
+            "person": "person:Jin__Yuchen"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2019_stable_practical_as_relationship_nsdi__pubdb.json",
+    "pubdb_id": "presentation543",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2019/stable_practical_as_relationship_nsdi/stable_practical_as_relationship_nsdi.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2019.02"
+}

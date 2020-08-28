@@ -1,0 +1,48 @@
+{
+    "id": "2011_data_management_challenges",
+    "name": "Internet measurement data management challenges",
+    "datePublished": "2011.07",
+    "description": "Effective Internet measurement raises daunting issues for the research community and funding agencies. Improved understanding of the structure and dynamics of Internet topology, routing, workload, performance, and vulnerabilities remains disturbingly elusive, in part for lack of realistic and representative datasets available to scientific researchers. The dearth is understandable; measurement of operational Internet infrastructure involves managing more complex and interconnected dimensions than measurement in most scientific disciplines: logistical, financial, methodological, technical, legal, and ethical. CAIDA has been navigating these challenges with modest success fifteen years, collecting, coordinating, curating, and sharing data sets for the Internet research and operational community in support of Internet science. Our three current biggest challenges which we hope to explore at the workshop are: sustainable collection, curation, and storage of large volumes of data; privacy-respecting sharing; and long-term archiving for reproducibility.",
+    "annotation": "",
+    "tags": [
+        "measurement methodology",
+        "data"
+    ],
+    "pubdb_id": "paper479",
+    "authors": [
+        {
+            "person": "person:Fomenkov__Marina",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:claffy__kc",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        }
+    ],
+    "links": [],
+    "institution": "",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2011_data_management_challenges__pubdb.json",
+    "publisher": "Workshop on Research Data Lifecycle Management",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2011/data_management_challenges/data_management_challenges.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "INPROCEEDINGS",
+        "bookTitle": "Workshop on Research Data Lifecycle Management"
+    },
+    "date": "2011.07"
+}

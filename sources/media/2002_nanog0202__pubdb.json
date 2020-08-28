@@ -1,0 +1,42 @@
+{
+    "id": "2002_nanog0202",
+    "name": "Internet expansion, refinement, and churn",
+    "description": "",
+    "tags": [
+        "routing",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "North American Network Operators' Group (NANOG)",
+            "date": "2002.02",
+            "url": "https://www.nanog.org/meetings/nanog24/home",
+            "person": "person:Broido__Andre"
+        }
+    ],
+    "links": [
+        {
+            "to": "paper:2002_egr",
+            "url": "https://www.caida.org/publications/papers/2002/EGR/"
+        }
+    ],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2002_nanog0202__pubdb.json",
+    "pubdb_id": "presentation32",
+    "resources": [
+        {
+            "name": "HTML Slides",
+            "url": "https://www.caida.org/publications/presentations/2002/nanog0202/index.html",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2002/EGR",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2002.02"
+}

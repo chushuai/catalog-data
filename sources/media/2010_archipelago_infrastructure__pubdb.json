@@ -1,0 +1,33 @@
+{
+    "id": "2010_archipelago_infrastructure",
+    "name": "Archipelago Measurement Infrastructure: Updates and Case Study",
+    "description": "",
+    "tags": [
+        "topology",
+        "software/tools",
+        "measurement methodology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "ISMA Workshop on Active Internet Measurements (AIMS)",
+            "date": "2010.02",
+            "url": "",
+            "person": "person:Hyun__Young"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2010_archipelago_infrastructure__pubdb.json",
+    "pubdb_id": "presentation292",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2010/archipelago_infrastructure/archipelago_infrastructure.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2010.02"
+}

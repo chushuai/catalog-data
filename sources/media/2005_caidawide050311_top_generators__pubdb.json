@@ -1,0 +1,36 @@
+{
+    "id": "2005_caidawide050311_top_generators",
+    "name": "Degree correlations and topology generators",
+    "description": "",
+    "tags": [
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "WIDE",
+            "date": "2005.03",
+            "url": "",
+            "person": "person:Krioukov__Dmitri"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2005_caidawide050311_top_generators__pubdb.json",
+    "pubdb_id": "presentation75",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2005/caidawide050311_top_generators//workshops/wide/0503/slides/krioukov.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2005/impactdegcorr",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2005.03"
+}

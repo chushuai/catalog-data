@@ -1,0 +1,60 @@
+{
+    "id": "2007_ieeecon",
+    "name": "The (un)Economic Internet?",
+    "datePublished": "2007.05",
+    "description": "\nThe Internet Economics track will address how economic and policy issues relate\nto the emergence of the Internet as critical infrastructure. Here, the authors\nprovide a historical overview of internetworking, identifying key transitions that\nhave contributed to the Internet's development and penetration. Its core\narchitecture wasn't designed to serve as critical communications infrastructure\nfor society, but developed far beyond the expectations of the original funding\nagencies, architects, developers, and early users. The incongruence between the\nInternet's underlying architecture and current use and expectations, however,\nmeans we can no longer study Internet technology in isolation from the political\nand economic context in which it is deployed.\n",
+    "annotation": "",
+    "tags": [
+        "routing",
+        "topology",
+        "policy"
+    ],
+    "pubdb_id": "paper39",
+    "authors": [
+        {
+            "person": "person:claffy__kc",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Meinrath__Sascha",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Bradner__Scott",
+            "organizations": [
+                "Harvard University"
+            ]
+        }
+    ],
+    "links": [],
+    "booktitle": "",
+    "institution": "",
+    "number": "3",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2007_ieeecon__pubdb.json",
+    "publisher": "IEEE Internet Computing",
+    "resources": [
+        {
+            "name": "HTML",
+            "url": "ieeecon.xml",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2007/ieeecon/ieeecon.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "ARTICLE",
+        "journal": "IEEE Internet Computing",
+        "volume": "11",
+        "pages": "53-58"
+    },
+    "date": "2007.05"
+}

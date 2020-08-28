@@ -1,0 +1,37 @@
+{
+    "id": "2003_viz_tokyo",
+    "name": "CAIDA projects related to Internet data visualization",
+    "description": "",
+    "tags": [
+        "data",
+        "visualization"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Sony Computer Science Laboratories, Inc.",
+            "date": "2003.07",
+            "url": "",
+            "person": "person:Huffaker__Bradley"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2003_viz_tokyo__pubdb.json",
+    "pubdb_id": "presentation284",
+    "resources": [
+        {
+            "name": "gzipped postscript",
+            "url": "https://www.caida.org/publications/presentations/2003/viz_tokyo/viz_tokyo.ps.gz",
+            "tags": []
+        },
+        {
+            "name": "HTML slides",
+            "url": "https://www.caida.org/publications/presentations/2003/viz_tokyo/index.html",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2003.07"
+}

@@ -1,0 +1,38 @@
+{
+    "id": "2011_bell_hyperbolic_geometry",
+    "name": "Hyperbolic geometry of complex networks",
+    "description": "",
+    "tags": [
+        "routing",
+        "topology",
+        "network geometry"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Bell Labs-NIST Workshop on Large-Scale Geometry of Networks",
+            "date": "2011.04",
+            "url": "",
+            "person": "person:Krioukov__Dmitri"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2011_bell_hyperbolic_geometry__pubdb.json",
+    "pubdb_id": "presentation37",
+    "resources": [
+        {
+            "name": "Powerpoint",
+            "url": "https://www.caida.org/publications/presentations/2011/bell_hyperbolic_geometry/bell_hyperbolic_geometry.pptx",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2010/hyperbolic_geometry_complex",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2011.04"
+}

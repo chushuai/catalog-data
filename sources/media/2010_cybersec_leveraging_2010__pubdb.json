@@ -1,0 +1,45 @@
+{
+    "id": "2010_cybersec_leveraging_2010",
+    "name": "Leveraging the Science and Technology of Internet Mapping for Homeland Security",
+    "description": "",
+    "tags": [
+        "active data analysis",
+        "visualization",
+        "measurement methodology",
+        "security",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "DHS Cybersecurity PI Meeting",
+            "date": "2010.09",
+            "url": "",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2010_cybersec_leveraging_2010__pubdb.json",
+    "pubdb_id": "presentation173",
+    "resources": [
+        {
+            "name": "Ark Project",
+            "url": "https://www.caida.org/projects/ark/",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2010/cybersec_leveraging_2010/cybersec_leveraging_2010.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2009/internet_mapping",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2010.09"
+}

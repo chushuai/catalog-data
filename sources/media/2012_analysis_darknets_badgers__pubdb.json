@@ -1,0 +1,38 @@
+{
+    "id": "2012_analysis_darknets_badgers",
+    "name": "Analysis of Internet-wide Probing using Darknets",
+    "description": "",
+    "tags": [
+        "internet outages",
+        "measurement methodology",
+        "security"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "BADGERS",
+            "date": "2012.10",
+            "url": "",
+            "person": "person:Dainotti__Alberto"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2012_analysis_darknets_badgers__pubdb.json",
+    "pubdb_id": "presentation327",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2012/analysis_darknets_badgers/analysis_darknets_badgers.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2012/analysis_internetwide_probing_darknets",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2012.10"
+}

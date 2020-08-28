@@ -1,0 +1,37 @@
+{
+    "id": "2012_analysis_peering_strategy_dances",
+    "name": "Analysis of peering strategy adoption by transit providers in the Internet",
+    "description": "",
+    "tags": [
+        "economics",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "UCSD Complex Networks Seminar (DANCES)",
+            "date": "2012.04",
+            "url": "",
+            "person": "person:Dhamdhere__Amogh"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2012_analysis_peering_strategy_dances__pubdb.json",
+    "pubdb_id": "presentation210",
+    "resources": [
+        {
+            "name": "Powerpoint",
+            "url": "https://www.caida.org/publications/presentations/2012/analysis_peering_strategy_dances/analysis_peering_strategy_dances.pptx",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2012/peering_strategy_adoption",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2012.04"
+}

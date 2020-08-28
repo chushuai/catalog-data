@@ -1,0 +1,53 @@
+{
+    "id": "2012_dust_report",
+    "name": "DUST 2012 Workshop Report",
+    "datePublished": "2012.10",
+    "description": "On May 14-15, 2012, CAIDA hosted the first international Workshop on Darkspace and UnSolicited Traffic Analysis\r\n(DUST 2012) to provide a forum for discussion of the\r\nscience, engineering, and policy challenges associated with\r\ndarkspace and unsolicited traffic analysis. This report captures threads discussed at the workshop and lists resulting\r\ncollaborations.\r\n\r\nSlides and other materials related to the workshop are available at the [DUST 2012 website](https://www.caida.org/workshops/dust/1205/).",
+    "annotation": "",
+    "tags": [
+        "workshop report",
+        "network telescope"
+    ],
+    "pubdb_id": "paper515",
+    "authors": [
+        {
+            "person": "person:Zseby__Tanja",
+            "organizations": [
+                "Fraunhofer Institute for Open Communication Systems (FOKUS), Berlin"
+            ]
+        },
+        {
+            "person": "person:claffy__kc",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        }
+    ],
+    "links": [
+        {
+            "to": "paper:2012_dust_report",
+            "url": "https://www.caida.org/publications/papers/2012/dust_report/"
+        }
+    ],
+    "booktitle": "",
+    "institution": "",
+    "number": "5",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2012_dust_report__pubdb.json",
+    "publisher": "ACM SIGCOMM Computer Communication Review (CCR)",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2012/dust_report/dust_report.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "ARTICLE",
+        "journal": "ACM SIGCOMM Computer Communication Review (CCR)",
+        "volume": "42",
+        "pages": "49-53"
+    },
+    "date": "2012.10"
+}

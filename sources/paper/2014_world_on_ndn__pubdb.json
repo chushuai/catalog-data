@@ -1,0 +1,71 @@
+{
+    "id": "2014_world_on_ndn",
+    "name": "A World on NDN: Affordances & Implications of the Named Data Networking Future Internet Architecture",
+    "datePublished": "2014.04",
+    "description": "This paper explores the potential social impacts of Named Data Networking (NDN), a proposed future Internet architecture that forwards packets based on data names rather than host addresses. We highlight four departures from today's TCP/IP architecture, which underscore the social impacts of NDN: the architecture's emphases on enabling semantic classification, provenance, publication, and decentralized communication. While all of these principles can be implemented in the current Internet\u201bs application layer, NDN enables them at the network layer, and thus encourages all applications to comport with them. We describe how these changes from TCP/IP will expand affordances for free speech, and produce positive outcomes for security, privacy and anonymity while raising new challenges regarding data retention and forgetting. We describe how these changes might alter current corporate and law enforcement content regulation mechanisms by changing the way data is identified, handled, and routed across the Web. We examine how even as NDN empowers edges with more decentralized communication options, by providing more context per packet than IP, it raises new challenges in ensuring neutrality across the public network. Finally, we introduce openings where telecommunications policy can evolve alongside NDN to ensure an open, fair Internet. ",
+    "annotation": "This technical report was later published as a paper in December 2016.",
+    "tags": [
+        "topology",
+        "overview"
+    ],
+    "pubdb_id": "paper572",
+    "authors": [
+        {
+            "person": "person:Shilton__Katie",
+            "organizations": [
+                "University of Maryland, College Park"
+            ]
+        },
+        {
+            "person": "person:Burke__Jeffrey",
+            "organizations": [
+                "University of California, Los Angeles (UCLA)"
+            ]
+        },
+        {
+            "person": "person:claffy__kc",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Duan__Charles",
+            "organizations": [
+                "University of Colorado Law School"
+            ]
+        },
+        {
+            "person": "person:Zhang__Lixia",
+            "organizations": [
+                "University of California, Los Angeles (UCLA)"
+            ]
+        }
+    ],
+    "links": [
+        {
+            "to": "paper:2016_anticipating_policy_social_implications_ndn",
+            "url": "https://www.caida.org/publications/papers/2016/anticipating_policy_social_implications_ndn/"
+        }
+    ],
+    "booktitle": "",
+    "journal": "",
+    "volume": "",
+    "number": "18",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2014_world_on_ndn__pubdb.json",
+    "publisher": "Named Data Networking (NDN)",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2014/world_on_ndn/world_on_ndn.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "TECHREPORT",
+        "institution": "Named Data Networking (NDN)"
+    },
+    "date": "2014.04"
+}

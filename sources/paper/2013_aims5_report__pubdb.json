@@ -1,0 +1,53 @@
+{
+    "id": "2013_aims5_report",
+    "name": "The 5th Workshop on Active Internet Measurements (AIMS-5) Report",
+    "datePublished": "2013.07",
+    "description": "On February 6-8, 2013, CAIDA hosted the fifth Workshop on Active Internet Measurements (AIMS-5) as part of our series of Internet Statistics and Metrics Analysis (ISMA) workshops. As with previous AIMS workshops, the goals were to further our understanding of the potential and limitations of active measurement research and infrastructure in the wide-area Internet, and to promote cooperative solutions and coordinated strategies to address future data needs of the network and security operations and research communities. The workshop focus this year was on creating, managing, and analyzing annotations of large longitudinal active Internet measurement data sets. Due to popular demand, we also dedicated half a day to large-scale active measurement (performance/topology) from mobile/cellular devices. This report describes topics discussed at this year\u201bs workshop. \r\n\r\nMaterials related to the workshop are available at the [ISMA 2013 AIMS-5 website](https://www.caida.org/workshops/isma/1302/).",
+    "annotation": "",
+    "tags": [
+        "measurement methodology",
+        "workshop report",
+        "mobile"
+    ],
+    "pubdb_id": "paper532",
+    "authors": [
+        {
+            "person": "person:claffy__kc",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        }
+    ],
+    "links": [],
+    "booktitle": "",
+    "institution": "",
+    "number": "3",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2013_aims5_report__pubdb.json",
+    "publisher": "ACM SIGCOMM Computer Communication Review (CCR)",
+    "resources": [
+        {
+            "name": "DOI",
+            "url": "https://doi.org/10.1145/2500098.2500114",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2013/aims5_report/aims5_report.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Workshop",
+            "url": "https://www.caida.org/workshops/isma/1302/",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "ARTICLE",
+        "journal": "ACM SIGCOMM Computer Communication Review (CCR)",
+        "volume": "43",
+        "pages": "101-107"
+    },
+    "date": "2013.07"
+}

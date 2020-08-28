@@ -1,0 +1,38 @@
+{
+    "id": "2018_tcp_congestion_signatures_anrw",
+    "name": "TCP Congestion Signatures",
+    "description": "",
+    "tags": [
+        "congestion",
+        "measurement methodology",
+        "passive data analysis"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Applied Networking Research Workshop",
+            "date": "2018.07",
+            "url": "https://irtf.org/anrw/2018/",
+            "person": "person:Dhamdhere__Amogh"
+        }
+    ],
+    "links": [
+        {
+            "to": "paper:2017_tcp_congestion_signatures",
+            "url": "https://www.caida.org/publications/papers/2017/tcp_congestion_signatures/"
+        }
+    ],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2018_tcp_congestion_signatures_anrw__pubdb.json",
+    "pubdb_id": "presentation522",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2018/tcp_congestion_signatures_anrw/tcp_congestion_signatures_anrw.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2018.07"
+}

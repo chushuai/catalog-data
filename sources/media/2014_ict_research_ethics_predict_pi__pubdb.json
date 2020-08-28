@@ -1,0 +1,43 @@
+{
+    "id": "2014_ict_research_ethics_predict_pi",
+    "name": "ICT Research Ethics Update",
+    "description": "",
+    "tags": [
+        "overview",
+        "policy"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "DHS PREDICT PI Meeting",
+            "date": "2014.06",
+            "url": "",
+            "person": "person:Kenneally__Erin"
+        },
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "IEEE Security & Privacy Symposium",
+            "date": "2014.04",
+            "url": "http://www.ieee-security.org/TC/SP2014/",
+            "person": "person:Kenneally__Erin"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2014_ict_research_ethics_predict_pi__pubdb.json",
+    "pubdb_id": "presentation394",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2014/ict_research_ethics_predict_pi/ict_research_ethics_predict_pi.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2014.06"
+}

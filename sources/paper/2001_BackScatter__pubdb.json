@@ -1,0 +1,74 @@
+{
+    "id": "2001_BackScatter",
+    "name": "Inferring Internet Denial-of-Service Activity",
+    "datePublished": "2001.08",
+    "description": "In this paper, we seek to answer a simple question: \u201fHow\r\nprevalent are denial-of-service attacks in the Internet today?\u201c.\r\nOur motivation is to understand quantitatively the\r\nnature of the current threat as well as to enable longer term analyses of trends and recurring patterns of attacks.\r\nWe present a new technique, called \u201fbackscatter analysis\u201c,\r\nthat provides an estimate of worldwide denial-of service\r\nactivity. We use this approach on three week-long\r\ndatasets to assess the number, duration and focus of attacks,\r\nand to characterize their behavior. During this period,\r\nwe observe more than 12,000 attacks against more\r\nthan 5,000 distinct targets, ranging from well known e-commerce companies such as Amazon and Hotmail to\r\nsmall foreign ISPs and dial-up connections. We believe\r\nthat our work is the only publically available data quantifying denial-of-service activity in the Internet.",
+    "annotation": "",
+    "tags": [
+        "security",
+        "network telescope"
+    ],
+    "pubdb_id": "paper124",
+    "authors": [
+        {
+            "person": "person:Moore__David",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Voelker__Geoffrey",
+            "organizations": [
+                "Department of Computer Science and Engineering,\nUniversity of California, San Diego"
+            ]
+        },
+        {
+            "person": "person:Savage__Stefan",
+            "organizations": [
+                "Department of Computer Science and Engineering,\nUniversity of California, San Diego"
+            ]
+        }
+    ],
+    "links": [],
+    "institution": "",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2001_BackScatter__pubdb.json",
+    "publisher": "USENIX Security Symposium",
+    "resources": [
+        {
+            "name": "Abstract",
+            "url": "index.xml",
+            "tags": []
+        },
+        {
+            "name": "gzipped postscript",
+            "url": "usenixsecurity01.ps.gz",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2001/BackScatter/usenixsecurity01.pdf",
+            "tags": []
+        },
+        {
+            "name": "Press Coverage",
+            "url": "press/",
+            "tags": []
+        },
+        {
+            "name": "Slides",
+            "url": "/publications/presentations/usenix0108/dos/",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "INPROCEEDINGS",
+        "bookTitle": "USENIX Security Symposium"
+    },
+    "date": "2001.08"
+}

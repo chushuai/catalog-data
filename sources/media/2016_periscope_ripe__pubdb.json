@@ -1,0 +1,42 @@
+{
+    "id": "2016_periscope_ripe",
+    "name": "Periscope: Standardizing and Orchestrating Looking Glass Querying",
+    "description": "",
+    "tags": [
+        "software/tools",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "RIPE Meeting",
+            "date": "2016.10",
+            "url": "https://ripe73.ripe.net/",
+            "person": "person:Giotsas__Vasileios"
+        }
+    ],
+    "links": [
+        {
+            "to": "paper:2016_periscope",
+            "url": "https://www.caida.org/publications/papers/2016/periscope/"
+        }
+    ],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2016_periscope_ripe__pubdb.json",
+    "pubdb_id": "presentation460",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2016/periscope_ripe/periscope_ripe.pdf",
+            "tags": []
+        },
+        {
+            "name": "Video",
+            "url": "https://ripe73.ripe.net/archives/video/1251",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2016.10"
+}

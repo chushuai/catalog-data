@@ -1,0 +1,41 @@
+{
+    "id": "1992_diri",
+    "name": "Dynamics of Internet routing information",
+    "datePublished": "1992.10",
+    "description": "The Internet is a complex mesh of networks that use a common suite\n(TCP/IP) of networking protocols. A key feature of the Internet is that\nall of these constituent networks are interconnected, thereby providing\nsystem wide communication. The magnitude and pattern of the flow of\nrouting information directly represents the connectivity stability of\nthe Internet. The NSFNET backbone network provides transit services to\na large portion of the global Internet and maintains routing tables\nreflecting this current connectivity. These routing tables are\nconstantly updated based on information received by the attached\nnetworks. This paper investigates the dynamics of routing information\nflow as presented to the NSFNET backbone network.\n\n",
+    "annotation": "",
+    "tags": [
+        "routing"
+    ],
+    "pubdb_id": "paper184",
+    "authors": [
+        {
+            "person": "person:Chinoy__Bilal",
+            "organizations": [
+                "San Diego Supercomputer Center,   University of California, San Diego (SDSC/UCSD)"
+            ]
+        }
+    ],
+    "links": [],
+    "booktitle": "",
+    "institution": "",
+    "number": "4",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/1992_diri__pubdb.json",
+    "publisher": "ACM SIGCOMM Computer Communication Review (CCR)",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/1992/diri/route-dynam.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "ARTICLE",
+        "journal": "ACM SIGCOMM Computer Communication Review (CCR)",
+        "volume": "23"
+    },
+    "date": "1992.10"
+}

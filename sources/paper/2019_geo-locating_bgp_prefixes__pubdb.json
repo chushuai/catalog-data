@@ -1,0 +1,71 @@
+{
+    "id": "2019_geo-locating_bgp_prefixes",
+    "name": "Geo-Locating BGP prefixes",
+    "datePublished": "2019.06",
+    "description": "Geo-locating BGP prefixes can help us understand routing anomalies, prefix aggregation, or reveal what regions are affected by an Internet outage. Our work shows that the naive approach to prefix geo-location\u2014simply mapping each IP address to its corresponding geo-location\u2014can be ambiguous because a prefix may contain another, separately-announced prefix that maps to a different geographical location. Should the containing prefix also map to the locations of the contained prefix? We show that this question is difficult to answer and characterize the scope of these ambiguities by geo-locating around 680,000 prefixes to countries, regions, and cities using both GeoLite and NetAcuity Edge. We find that 0.3% of prefixes are ambiguous with respect to countries but these prefixes constitute 8.5% of the IPv4 address space. In the second part of our work, we study the mappings from prefix to location. We find that most prefixes map to only a single city but the shorter a prefix, the more locations it maps to. Our dataset however contains outliers, e.g., a /23 that maps to as many as 127 (potentially spoofed) countries. Our work takes a first look at prefix geo-location and identifies issues one should be aware of, which paves the way towards more sophisticated applications such as the geo-location of autonomous systems. We make our code and datasets publicly available to facilitate further analysis.",
+    "annotation": "",
+    "tags": [
+        "routing",
+        "measurement methodology",
+        "internet outages"
+    ],
+    "pubdb_id": "paper675",
+    "authors": [
+        {
+            "person": "person:Winter__Philipp",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Padmanabhan__Ramakrishna",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:King__Alistair",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Dainotti__Alberto",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        }
+    ],
+    "links": [
+        {
+            "to": "media:2019_geo_locating_bgp_prefixes_tma",
+            "url": "https://www.caida.org/publications/presentations/2019/geo-locating_bgp_prefixes_tma/"
+        }
+    ],
+    "institution": "",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2019_geo-locating_bgp_prefixes__pubdb.json",
+    "publisher": "Network Traffic Measurement and Analysis Conference (TMA)",
+    "resources": [
+        {
+            "name": "DOI",
+            "url": "http://dx.doi.org/10.23919/TMA.2019.8784509",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2019/geo-locating_bgp_prefixes/geo-locating_bgp_prefixes.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "INPROCEEDINGS",
+        "bookTitle": "Network Traffic Measurement and Analysis Conference (TMA)"
+    },
+    "date": "2019.06"
+}

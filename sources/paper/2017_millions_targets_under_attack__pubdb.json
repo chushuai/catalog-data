@@ -1,0 +1,89 @@
+{
+    "id": "2017_millions_targets_under_attack",
+    "name": "Millions of Targets Under Attack: a Macroscopic Characterization of the DoS Ecosystem",
+    "datePublished": "2017.11",
+    "description": "Denial-of-Service attacks have rapidly increased in terms of frequency and intensity, steadily becoming one of the biggest threats to Internet stability and reliability. However, a rigorous comprehensive characterization of this phenomenon, and of countermeasures to mitigate the associated risks, faces many infrastructure and analytic challenges. We make progress toward this goal, by introducing and applying a new framework to enable a macroscopic characterization of attacks, attack targets, and DDoS Protection Services (DPSs). Our analysis leverages data from four independent global Internet measurement infrastructures over the last two years: backscatter traffic to a large network telescope; logs from amplification honeypots; a DNS measurement platform covering 60% of the current namespace; and a DNS-based data set focusing on DPS adoption. Our results reveal the massive scale of the DoS problem, including an eye-opening statistic that one-third of all /24 networks recently estimated to be active on the Internet have suffered at least one DoS attack over the last two years. We also discovered that often targets are simultaneously hit by different types of attacks. In our data, Web servers were the most prominent attack target; an average of 3% of the Web sites in .com, .net, and .org were involved with attacks, daily. Finally, we shed light on factors influencing migration to a DPS.",
+    "annotation": "",
+    "tags": [
+        "measurement methodology",
+        "internet outages",
+        "security",
+        "network telescope"
+    ],
+    "pubdb_id": "paper635",
+    "authors": [
+        {
+            "person": "person:Jonker__Mattijs",
+            "organizations": [
+                "University of Twente"
+            ]
+        },
+        {
+            "person": "person:King__Alistair",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Krupp__Johannes",
+            "organizations": [
+                "CISPA, Saarland University"
+            ]
+        },
+        {
+            "person": "person:Rossow__Christian",
+            "organizations": [
+                "CISPA, Saarland University"
+            ]
+        },
+        {
+            "person": "person:Sperotto__Anna",
+            "organizations": [
+                "University of Twente"
+            ]
+        },
+        {
+            "person": "person:Dainotti__Alberto",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        }
+    ],
+    "links": [
+        {
+            "to": "media:2017_millions_targets_under_attack_imc",
+            "url": "https://www.caida.org/publications/presentations/2017/millions_targets_under_attack_imc/"
+        }
+    ],
+    "institution": "",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2017_millions_targets_under_attack__pubdb.json",
+    "publisher": "ACM Internet Measurement Conference (IMC)",
+    "resources": [
+        {
+            "name": "Data Supplement",
+            "url": "https://www.caida.org/data/passive/rsdos-targets/",
+            "tags": []
+        },
+        {
+            "name": "DOI",
+            "url": "https://doi.org/10.1145/3131365.3131383",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2017/millions_targets_under_attack/millions_targets_under_attack.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "INPROCEEDINGS",
+        "bookTitle": "ACM Internet Measurement Conference (IMC)"
+    },
+    "date": "2017.11"
+}

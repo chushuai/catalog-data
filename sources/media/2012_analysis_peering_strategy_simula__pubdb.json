@@ -1,0 +1,37 @@
+{
+    "id": "2012_analysis_peering_strategy_simula",
+    "name": "Analysis of peering strategy adoption by transit providers in the Internet",
+    "description": "",
+    "tags": [
+        "economics",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Simula Research",
+            "date": "2012.05",
+            "url": "",
+            "person": "person:Dhamdhere__Amogh"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2012_analysis_peering_strategy_simula__pubdb.json",
+    "pubdb_id": "presentation149",
+    "resources": [
+        {
+            "name": "Powerpoint",
+            "url": "https://www.caida.org/publications/presentations/2012/analysis_peering_strategy_simula/analysis_peering_strategy_simula.pptx",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2012/analysis_peering_strategy_adoption",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2012.05"
+}

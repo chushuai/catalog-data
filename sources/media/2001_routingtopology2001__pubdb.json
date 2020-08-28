@@ -1,0 +1,33 @@
+{
+    "id": "2001_routingtopology2001",
+    "name": "analysis of routing & topology data",
+    "description": "",
+    "tags": [
+        "routing",
+        "topology",
+        "data"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "CAIDA",
+            "date": "2001.10",
+            "url": "",
+            "person": "person:Broido__Andre"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2001_routingtopology2001__pubdb.json",
+    "pubdb_id": "presentation73",
+    "resources": [
+        {
+            "name": "HTML slides",
+            "url": "https://www.caida.org/publications/presentations/2001/routingtopology2001/index.html",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2001.10"
+}

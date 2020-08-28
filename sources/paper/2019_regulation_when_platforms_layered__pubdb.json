@@ -1,0 +1,65 @@
+{
+    "id": "2019_regulation_when_platforms_layered",
+    "name": "Regulation When Platforms Are Layered",
+    "datePublished": "2019.09",
+    "description": "In previous papers, Lehr and Sicker (2018a,b) argued that the changing character of our telecommunications infrastructure called for a new regulatory approach, with a new Communications Act to define the duties and authorities of a reconceptualized FCC (what we call newFCC in this paper). \r\n\r\nToday's Internet ecosystem is comprised of multiple digital network platforms organized into a multi-layer architecture. Lower layer IP platforms provided by access and backbone ISPs collectively support the Internet, on which complementors can build higher-layer platforms, such as the platforms provided by powerful firms such as Google, Microsoft, Amazon, Facebook and Apple. These firms control and operate multiple platforms within the larger Internet ecosystem. When dominant platform providers pursue multi-platform strategies in an effort to capture or control a market, such strategies confound current methods for defining markets and assessing market power.\r\n\r\nThis paper draws on the layered platform nature of the Internet ecosystem, as described in Claffy and Clark (2014), to illustrate how this layered character of today\u2019s Internet ecosystem calls for new regulatory authority. This paper draws on the layered platform model to scope the duties for an agency (or agencies) with sector-specific expertise.",
+    "annotation": "",
+    "tags": [
+        "economics",
+        "policy"
+    ],
+    "pubdb_id": "paper687",
+    "authors": [
+        {
+            "person": "person:Lehr__William",
+            "organizations": [
+                "Massachusetts Institute of Technology's Computer Science & Artificial Intelligence Laboratory (MIT/CSAIL)"
+            ]
+        },
+        {
+            "person": "person:Clark__David",
+            "organizations": [
+                "Massachusetts Institute of Technology's Computer Science & Artificial Intelligence Laboratory (MIT/CSAIL)"
+            ]
+        },
+        {
+            "person": "person:Bauer__Steven",
+            "organizations": [
+                "Massachusetts Institute of Technology (MIT)"
+            ]
+        },
+        {
+            "person": "person:claffy__kc",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        }
+    ],
+    "links": [],
+    "institution": "",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2019_regulation_when_platforms_layered__pubdb.json",
+    "publisher": "Telecommunications Policy Research Conference (TPRC)",
+    "resources": [
+        {
+            "name": "DOI",
+            "url": "http://dx.doi.org/10.2139/ssrn.3427499",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2019/regulation_when_platforms_layered/regulation_when_platforms_layered.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "INPROCEEDINGS",
+        "bookTitle": "Telecommunications Policy Research Conference (TPRC)"
+    },
+    "date": "2019.09"
+}

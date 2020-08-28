@@ -1,0 +1,39 @@
+{
+    "id": "2012_measuring_evolution_peering",
+    "name": "Measuring the Evolution of Internet Peering Agreements",
+    "description": "",
+    "tags": [
+        "topology",
+        "routing",
+        "measurement methodology",
+        "economics"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "International Conferences on Networking",
+            "date": "2012.05",
+            "url": "",
+            "person": "person:Dhamdhere__Amogh"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2012_measuring_evolution_peering__pubdb.json",
+    "pubdb_id": "presentation256",
+    "resources": [
+        {
+            "name": "Powerpoint",
+            "url": "https://www.caida.org/publications/presentations/2012/measuring_evolution_peering/measuring_evolution_peering.pptx",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2012/measuring_evolution_internet_peering",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2012.05"
+}

@@ -1,0 +1,32 @@
+{
+    "id": "2008_krioukov_aveiro",
+    "name": "What we know and what we don't about the Internet",
+    "description": "",
+    "tags": [
+        "routing",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "University of Aveiro",
+            "date": "2008.05",
+            "url": "",
+            "person": "person:Krioukov__Dmitri"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2008_krioukov_aveiro__pubdb.json",
+    "pubdb_id": "presentation138",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2008/krioukov_aveiro/krioukov_aveiro.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2008.05"
+}

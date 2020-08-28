@@ -1,0 +1,54 @@
+{
+    "id": "2016_remote_peering_jedi_ripe",
+    "name": "The Remote Peering Jedi",
+    "description": "",
+    "tags": [
+        "software/tools",
+        "topology",
+        "measurement methodology"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "RIPE Meeting",
+            "date": "2016.10",
+            "url": "https://ripe73.ripe.net/",
+            "person": "person:Giotsas__Vasileios"
+        },
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "Workshop on Internet Economics (WIE)",
+            "date": "2016.12",
+            "url": "http://www.caida.org/workshops/wie/1612/",
+            "person": "person:Giotsas__Vasileios"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2016_remote_peering_jedi_ripe__pubdb.json",
+    "pubdb_id": "presentation461",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2016/remote_peering_jedi_ripe/remote_peering_jedi_ripe.pdf",
+            "tags": []
+        },
+        {
+            "name": "Video (webcast)",
+            "url": "https://ripe73.ripe.net/archives/video/1455",
+            "tags": []
+        },
+        {
+            "name": "Video (YouTube)",
+            "url": "https://www.youtube.com/watch?v=Yawg2aRrrj8",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2016.12"
+}

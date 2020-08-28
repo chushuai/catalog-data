@@ -1,0 +1,42 @@
+{
+    "id": "2015_road_to_open_internet_ensr",
+    "name": "The Road to an Open Internet is Paved With Pragmatic Disclosure & Transparency Policies",
+    "description": "",
+    "tags": [
+        "policy"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "Telecommunications Policy Research Conference (TPRC)",
+            "date": "2015.09",
+            "url": "http://www.tprcweb.com/",
+            "person": "person:Kenneally__Erin"
+        },
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "ACM SIGCOMM Workshop on Ethics in Networked Systems Research ",
+            "date": "2015.08",
+            "url": "http://conferences.sigcomm.org/sigcomm/2015/netethics.php",
+            "person": "person:Kenneally__Erin"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2015_road_to_open_internet_ensr__pubdb.json",
+    "pubdb_id": "presentation417",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2015/road_to_open_internet_ensr/road_to_open_internet_ensr.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2015.09"
+}

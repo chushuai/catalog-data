@@ -1,0 +1,79 @@
+{
+    "id": "2018_using_crowdsourcing_marketplaces",
+    "name": "Using Crowdsourcing Marketplaces for Network Measurements: The Case of Spoofer",
+    "datePublished": "2018.06",
+    "description": "Internet measurement tools are used to make inferences about network policies and practices across the Internet, such as censorship, traffic manipulation, bandwidth, and security measures. Some tools must be run from vantage points within individual networks, so are dependent on volunteer recruitment. A small pool of volunteers limits the impact of these tools. Crowdsourcing marketplaces can potentially recruit workers to run tools from networks not covered by the volunteer pool. \r\n\r\nWe design an infrastructure to collect and synchronize measurements from five crowdsourcing platforms, and use that infrastructure to collect data on network source address validation policies for CAIDA's Spoofer project. In six weeks we increased the coverage of Spoofer measurements by recruiting 1519 workers from within 91 countries and 784 unique ASes for 2,000 Euro; 342 of these ASes were not previously covered, and represent a 15% increase in ASes over the prior 12 months. We describe lessons learned in recruiting and remunerating workers; in particular, strategies to address worker behavior when workers are screened because of overlap in the volunteer pool.",
+    "annotation": "",
+    "tags": [
+        "measurement methodology",
+        "software/tools",
+        "topology",
+        "security"
+    ],
+    "pubdb_id": "paper672",
+    "authors": [
+        {
+            "person": "person:Lone__Qasim",
+            "organizations": [
+                "Delft University of Technology, the Netherlands"
+            ]
+        },
+        {
+            "person": "person:Luckie__Matthew",
+            "organizations": [
+                "University of Waikato"
+            ]
+        },
+        {
+            "person": "person:Korczy\u0144ski__Maciej",
+            "organizations": [
+                "Universit\u00e9 Grenoble Alpes, CNRS, Grenoble INP, LIG"
+            ]
+        },
+        {
+            "person": "person:Asghari__Hadi",
+            "organizations": [
+                "Delft University of Technology, the Netherlands"
+            ]
+        },
+        {
+            "person": "person:Javed__Mobin",
+            "organizations": [
+                "Lahore University of Management Sciences"
+            ]
+        },
+        {
+            "person": "person:van Eeten__Michel",
+            "organizations": [
+                "Delft University of Technology, the Netherlands"
+            ]
+        }
+    ],
+    "links": [],
+    "institution": "",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2018_using_crowdsourcing_marketplaces__pubdb.json",
+    "publisher": "Network Traffic Measurement and Analysis Conference (TMA)",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2018/using_crowdsourcing_marketplaces/using_crowdsourcing_marketplaces.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Project",
+            "url": "http://spoofer.caida.org",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "INPROCEEDINGS",
+        "bookTitle": "Network Traffic Measurement and Analysis Conference (TMA)"
+    },
+    "date": "2018.06"
+}

@@ -1,0 +1,31 @@
+{
+    "id": "2003_nsfpi0301",
+    "name": "priorities and challenges in Internet measurement simulation, and analysis",
+    "description": "",
+    "tags": [
+        "overview"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "NSF",
+            "date": "2003.01",
+            "url": "",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2003_nsfpi0301__pubdb.json",
+    "pubdb_id": "presentation131",
+    "resources": [
+        {
+            "name": "HTML slides",
+            "url": "https://www.caida.org/publications/presentations/2003/nsfpi0301/index.html",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2003.01"
+}

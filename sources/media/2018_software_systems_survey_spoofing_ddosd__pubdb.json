@@ -1,0 +1,34 @@
+{
+    "id": "2018_software_systems_survey_spoofing_ddosd",
+    "name": "Software Systems to Survey Spoofing Susceptibility",
+    "description": "",
+    "tags": [
+        "topology",
+        "routing",
+        "active data analysis",
+        "security"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "DHS DDoSD PI Meeting",
+            "date": "2018.04",
+            "url": "",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2018_software_systems_survey_spoofing_ddosd__pubdb.json",
+    "pubdb_id": "presentation514",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2018/software_systems_survey_spoofing_ddosd/software_systems_survey_spoofing_ddosd.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2018.04"
+}

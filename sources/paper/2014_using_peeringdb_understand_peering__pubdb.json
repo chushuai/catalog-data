@@ -1,0 +1,73 @@
+{
+    "id": "2014_using_peeringdb_understand_peering",
+    "name": "Using PeeringDB to Understand the Peering Ecosystem",
+    "datePublished": "2014.04",
+    "description": "In this study we mine one of the few sources of public data available about the interdomain peering ecosytem: PeeringDB, an online database where participating networks contribute information about their peering policies, traffic volumes and presence at various geographic locations. Although established to support the practical needs of operators, this data also provides a valuable source of information to researchers. Using BGP data to cross-validate three years of PeeringDB snapshots, we find that PeeringDB membership is reasonably representative of the Internet\u201bs transit, content, and access providers in terms of business types and geography of participants, and PeeringDB data is generally up-to-date. We find strong correlations among different measures of network size - BGP-advertised address space, PeeringDB-reported traffic volume and presence at peering facilities, and between these size measures and advertised peering policies. ",
+    "annotation": "",
+    "tags": [
+        "routing",
+        "economics",
+        "policy",
+        "topology"
+    ],
+    "pubdb_id": "paper553",
+    "authors": [
+        {
+            "person": "person:Lodhi__Aemen",
+            "organizations": [
+                "Georgia Institute of Technology (Georgia Tech)"
+            ]
+        },
+        {
+            "person": "person:Larson__Natalie",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Dhamdhere__Amogh",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Dovrolis__Constantine",
+            "organizations": [
+                "Georgia Institute of Technology (Georgia Tech)"
+            ]
+        },
+        {
+            "person": "person:claffy__kc",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        }
+    ],
+    "links": [],
+    "booktitle": "",
+    "institution": "",
+    "number": "2",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2014_using_peeringdb_understand_peering__pubdb.json",
+    "publisher": "ACM SIGCOMM Computer Communication Review (CCR)",
+    "resources": [
+        {
+            "name": "DOI",
+            "url": "https://doi.org/10.1145/2602204.2602208",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2014/using_peeringdb_understand_peering/using_peeringdb_understand_peering.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "ARTICLE",
+        "journal": "ACM SIGCOMM Computer Communication Review (CCR)",
+        "volume": "44",
+        "pages": "21-27"
+    },
+    "date": "2014.04"
+}

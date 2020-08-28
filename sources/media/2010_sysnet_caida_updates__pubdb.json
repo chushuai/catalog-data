@@ -1,0 +1,31 @@
+{
+    "id": "2010_sysnet_caida_updates",
+    "name": "CAIDA Updates",
+    "description": "",
+    "tags": [
+        "overview"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "UCSD CSE Syslunch",
+            "date": "2010.03",
+            "url": "",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2010_sysnet_caida_updates__pubdb.json",
+    "pubdb_id": "presentation306",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2010/sysnet_caida_updates/sysnet_caida_updates.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2010.03"
+}

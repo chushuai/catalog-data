@@ -1,0 +1,77 @@
+{
+    "id": "2019_blink",
+    "name": "Blink: Fast Connectivity Recovery Entirely in the Data Plane",
+    "datePublished": "2019.02",
+    "description": "In this paper, we explore new possibilities, created by programmable switches, for fast rerouting upon signals triggered by Internet traffic disruptions. We present Blink, a data-driven system exploiting TCP-induced signals to detect failures. The key intuition behind Blink is that a TCP flow exhibits a predictable behavior upon disruption: retransmitting the same packet over and over, at epochs exponentially spaced in time. When compounded over multiple flows, this behavior creates a strong and characteristic failure signal. Blink efficiently analyzes TCP flows, at line rate, to: (i) select flows to track; (ii) reliably and quickly detect major traffic disruptions; and (iii) recover data-plane connectivity, via next-hops compatible with the operator\u2019s policies.\r\n\r\nWe present an end-to-end implementation of Blink in P4 together with an extensive evaluation on real and synthetic traffic traces. Our results indicate that Blink: (i) can achieve sub-second rerouting for realistic Internet traffic; (ii) prevents unnecessary traffic shifts, in the presence of noise; and (iii) scales to protect large fractions of realistic Internet traffic, on existing hardware. We further show the feasibility of Blink by running our system on a real Tofino switch.",
+    "annotation": "",
+    "tags": [
+        "internet outages",
+        "routing"
+    ],
+    "pubdb_id": "paper669",
+    "authors": [
+        {
+            "person": "person:Holterbach__Thomas",
+            "organizations": [
+                "ETH Z\u00fcrich"
+            ]
+        },
+        {
+            "person": "person:Molero__Edgar Costa",
+            "organizations": [
+                "ETH Z\u00fcrich"
+            ]
+        },
+        {
+            "person": "person:Apostolaki__Maria",
+            "organizations": [
+                "ETH Z\u00fcrich"
+            ]
+        },
+        {
+            "person": "person:Dainotti__Alberto",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Vissicchio__Stefano",
+            "organizations": [
+                "University College London"
+            ]
+        },
+        {
+            "person": "person:Vanbever__Laurent",
+            "organizations": [
+                "ETH Z\u00fcrich"
+            ]
+        }
+    ],
+    "links": [],
+    "institution": "",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2019_blink__pubdb.json",
+    "publisher": "USENIX Symposium on Networked Systems Design and Implementation (NSDI)",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2019/blink/blink.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Presentation",
+            "url": "https://www.caida.org/publications/presentations/2019/blink_nsdi",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "INPROCEEDINGS",
+        "bookTitle": "USENIX Symposium on Networked Systems Design and Implementation (NSDI)",
+        "pages": "161-176"
+    },
+    "date": "2019.02"
+}

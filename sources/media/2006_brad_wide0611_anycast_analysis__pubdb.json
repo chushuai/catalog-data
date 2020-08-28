@@ -1,0 +1,48 @@
+{
+    "id": "2006_brad_wide0611_anycast_analysis",
+    "name": "Two days in the life of three DNS root servers",
+    "description": "",
+    "tags": [
+        "dns",
+        "passive data analysis"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "DNS RSSAC Meeting",
+            "date": "2006.11",
+            "url": "",
+            "person": "person:Huffaker__Bradley"
+        },
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "WIDE",
+            "date": "2006.11",
+            "url": "",
+            "person": "person:Huffaker__Bradley"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2006_brad_wide0611_anycast_analysis__pubdb.json",
+    "pubdb_id": "presentation50",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2006/brad_wide0611_anycast_analysis/brad_wide0611_anycast_analysis.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2007/dns_anycast",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2006.11"
+}

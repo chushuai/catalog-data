@@ -1,0 +1,59 @@
+{
+    "id": "2018_asrank_reborn",
+    "name": "AS Rank Reborn",
+    "description": "",
+    "tags": [
+        "topology",
+        "visualization",
+        "software/tools",
+        "overview"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "Workshop on Active Internet Measurements (AIMS)",
+            "date": "2018.03",
+            "url": "http://www.caida.org/workshops/aims/1803/",
+            "person": "person:Huffaker__Bradley"
+        },
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "UC San Diego",
+            "date": "2018.03",
+            "url": "http://ucsd.edu",
+            "person": "person:Huffaker__Bradley"
+        },
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "Internet Measurement And Political Science Workshop (IMAPS)",
+            "date": "2018.09",
+            "url": "http://www.caida.org/workshops/imaps/1809/",
+            "person": "person:Huffaker__Bradley"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2018_asrank_reborn__pubdb.json",
+    "pubdb_id": "presentation502",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2018/asrank_reborn/asrank_reborn.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Project",
+            "url": "http://asrank.caida.org/",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2018.09"
+}

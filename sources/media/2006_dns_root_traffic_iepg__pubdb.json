@@ -1,0 +1,43 @@
+{
+    "id": "2006_dns_root_traffic_iepg",
+    "name": "DNS root traffic: how do anycast instances behave?",
+    "description": "This slideset was presented at the RSSAC meeting. An extended version of this slideset was also presented at Internet Engineering and Planning Group (IEPG).",
+    "tags": [
+        "dns",
+        "passive data analysis"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "DNS RSSAC Meeting",
+            "date": "2006.03",
+            "url": "",
+            "person": "person:Brownlee__Nevil"
+        },
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "Internet Engineering and Planning Group (IEPG)",
+            "date": "2006.03",
+            "url": "",
+            "person": "person:Brownlee__Nevil"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2006_dns_root_traffic_iepg__pubdb.json",
+    "pubdb_id": "presentation157",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2006/dns_root_traffic_iepg/dns_root_traffic_iepg.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2006.03"
+}

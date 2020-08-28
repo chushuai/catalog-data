@@ -1,0 +1,31 @@
+{
+    "id": "2014_revisiting_signals_noise_ubicomp",
+    "name": "Revisiting Signals and Noise for Ethical and Legal Research Using Online Data",
+    "description": "",
+    "tags": [
+        "policy"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp)",
+            "date": "2014.09",
+            "url": "http://ubicomp.org/ubicomp2014/",
+            "person": "person:Kenneally__Erin"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2014_revisiting_signals_noise_ubicomp__pubdb.json",
+    "pubdb_id": "presentation396",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2014/revisiting_signals_noise_ubicomp/revisiting_signals_noise_ubicomp.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2014.09"
+}

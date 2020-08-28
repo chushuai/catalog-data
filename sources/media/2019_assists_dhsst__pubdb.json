@@ -1,0 +1,36 @@
+{
+    "id": "2019_assists_dhsst",
+    "name": "Advancing Scientific Study of Internet Security and Topological Stability (ASSISTS DP)",
+    "description": "",
+    "tags": [
+        "security",
+        "data sharing",
+        "policy",
+        "topology",
+        "software/tools",
+        "data"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "DHS S&T Cybersecurity and Innovation Showcase",
+            "date": "2019.03",
+            "url": "http://www.cvent.com/events/2019-s-t-cybersecurity-and-innovation-showcase/custom-35-e03b29b86f354a1d8838786794cabee9.aspx",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2019_assists_dhsst__pubdb.json",
+    "pubdb_id": "presentation535",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2019/assists_dhsst/assists_dhsst.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2019.03"
+}

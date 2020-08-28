@@ -1,0 +1,32 @@
+{
+    "id": "1998_coralreefoverview",
+    "name": "Coral Reef: software distribution of coral tools",
+    "description": "",
+    "tags": [
+        "software/tools",
+        "measurement methodology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "CAIDA",
+            "date": "1998.09",
+            "url": "",
+            "person": "person:Moore__David"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/1998_coralreefoverview__pubdb.json",
+    "pubdb_id": "presentation246",
+    "resources": [
+        {
+            "name": "HTML slides",
+            "url": "https://www.caida.org/publications/presentations/1998/coralreefoverview/index.html",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "1998.09"
+}

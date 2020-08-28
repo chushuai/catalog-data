@@ -1,0 +1,49 @@
+{
+    "id": "2020_apple",
+    "name": "APPLE: Alias Pruning by Path Length Estimation",
+    "datePublished": "2020.03",
+    "description": "Uncovering the Internet\u2019s router graph is vital to accurate measurement and analysis. In this paper, we present a new technique for resolving router IP aliases that complements existing techniques. Our approach, Alias Pruning by Path Length Estimation (apple), avoids relying on router manufacturer and operating system specific implementations of IP. Instead, it filters potential router aliases seen in traceroute by comparing the reply path length from each address to a distributed set of vantage points. We evaluated our approach on Internet-wide collections of IPv4 and IPv6 traceroutes. We compared apple\u2019s router alias inferences against router configurations from two R&E networks, finding no false positives. Moreover, apple\u2019s coverage of the potential alias pairs in the ground truth networks rivals the current state-of-the-art in IPv4, and far exceeds existing techniques in IPv6. We also show that apple complements existing alias resolution techniques, increasing the total number of inferred alias pairs by 109.6% in IPv4, and by 1071.5% in IPv6.",
+    "annotation": "",
+    "tags": [
+        "ipv6",
+        "measurement methodology",
+        "routing",
+        "topology"
+    ],
+    "pubdb_id": "paper701",
+    "authors": [
+        {
+            "person": "person:Marder__Alexander",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        }
+    ],
+    "links": [
+        {
+            "to": "media:2020_apple_pam",
+            "url": "https://www.caida.org/publications/presentations/2020/apple_pam/"
+        }
+    ],
+    "institution": "",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2020_apple__pubdb.json",
+    "publisher": "Passive and Active Measurement Conference (PAM)",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2020/apple/apple.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "INPROCEEDINGS",
+        "bookTitle": "Passive and Active Measurement Conference (PAM)",
+        "pages": "249-263"
+    },
+    "date": "2020.03"
+}

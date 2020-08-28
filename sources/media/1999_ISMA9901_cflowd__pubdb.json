@@ -1,0 +1,32 @@
+{
+    "id": "1999_ISMA9901_cflowd",
+    "name": "cflowd 2.0: Cisco flow-export collection",
+    "description": "",
+    "tags": [
+        "software/tools",
+        "measurement methodology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Internet Statistics and Metrics Analysis Workshop (ISMA)",
+            "date": "1999.01",
+            "url": "",
+            "person": "person:McRobb__Daniel"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/1999_ISMA9901_cflowd__pubdb.json",
+    "pubdb_id": "presentation76",
+    "resources": [
+        {
+            "name": "HTML slides",
+            "url": "https://www.caida.org/publications/presentations/1999/ISMA9901_cflowd/index.html",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "1999.01"
+}

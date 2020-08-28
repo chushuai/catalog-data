@@ -1,0 +1,32 @@
+{
+    "id": "2016_interactive_access_internet_topology_gateways",
+    "name": "Interactive Access to Internet Topology Data",
+    "description": "Co-presented with Young Hyun (CAIDA/UC San Diego)",
+    "tags": [
+        "software/tools",
+        "data"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Gateways Conference",
+            "date": "2016.11",
+            "url": "http://sciencegateways.org/gateways2016/",
+            "person": "person:Huffaker__Bradley"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2016_interactive_access_internet_topology_gateways__pubdb.json",
+    "pubdb_id": "presentation459",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2016/interactive_access_internet_topology_gateways/interactive_access_internet_topology_gateways.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2016.11"
+}

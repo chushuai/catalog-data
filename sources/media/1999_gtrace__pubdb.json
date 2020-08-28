@@ -1,0 +1,39 @@
+{
+    "id": "1999_gtrace",
+    "name": "GTrace - A Graphical Traceroute Tool",
+    "description": "",
+    "tags": [
+        "software/tools"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego",
+                "University of Colorado at Boulder"
+            ],
+            "venue": "USENIX Large Installation System Administration (LISA)",
+            "date": "1999.11",
+            "url": "",
+            "person": "person:Periakaruppan__Ram"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/1999_gtrace__pubdb.json",
+    "pubdb_id": "presentation288",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/1999/gtrace/gtrace.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/1999/GTrace",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "1999.11"
+}

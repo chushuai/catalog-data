@@ -1,0 +1,67 @@
+{
+    "id": "2015_complexities_internet_peering",
+    "name": "Complexities in Internet Peering: Understanding the \"Black\" in the \"Black Art\"",
+    "datePublished": "2015.04",
+    "description": "Peering in the Internet interdomain network has long been considered a \"black art\", understood in-depth only by a select few peering experts while the majority of the network operator community only scratches the surface employing conventional rules-of-thumb to form peering links through ad hoc personal interactions. Why is peering considered a black art? What are the main sources of complexity in identifying potential peers, negotiating a stable peering relationship, and utility optimization through peering? How do contemporary operational practices approach these problems? In this work we address these questions for Tier-2 Network Service Providers. We identify and explore three major sources of complexity in peering: (a) inability to predict traffic flows prior to link formation (b) inability to predict economic utility owing to a complex transit and peering pricing structure (c) computational infeasibility of identifying the optimal set of peers because of the network structure. We show that framing optimal peer selection as a formal optimization problem and solving it is rendered infeasible by the nature of these problems. Our results for traffic complexity show that 15% NSPs lose some fraction of customer traffic after peering. Additionally, our results for economic complexity show that 15% NSPs lose utility after peering, approximately, 50% NSPs end up with higher cumulative costs with peering than transit only, and only 10% NSPs get paid-peering customers.",
+    "annotation": "",
+    "tags": [
+        "economics",
+        "measurement methodology",
+        "policy",
+        "topology"
+    ],
+    "pubdb_id": "paper609",
+    "authors": [
+        {
+            "person": "person:Lodhi__Aemen",
+            "organizations": [
+                "Georgia Institute of Technology (Georgia Tech)"
+            ]
+        },
+        {
+            "person": "person:Dhamdhere__Amogh",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Laoutaris__Nikolaos",
+            "organizations": [
+                "Telefonica Research"
+            ]
+        },
+        {
+            "person": "person:Dovrolis__Constantine",
+            "organizations": [
+                "Georgia Institute of Technology (Georgia Tech)"
+            ]
+        }
+    ],
+    "links": [],
+    "institution": "",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2015_complexities_internet_peering__pubdb.json",
+    "publisher": "IEEE Conference on Computer Communications (INFOCOM)",
+    "resources": [
+        {
+            "name": "DOI",
+            "url": "http://dx.doi.org/10.1109/INFOCOM.2015.7218559",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2015/complexities_internet_peering/complexities_internet_peering.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "INPROCEEDINGS",
+        "bookTitle": "IEEE Conference on Computer Communications (INFOCOM)",
+        "pages": "1778-1786"
+    },
+    "date": "2015.04"
+}

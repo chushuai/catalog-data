@@ -1,0 +1,39 @@
+{
+    "id": "2010_framework_peering_agreements",
+    "name": "A Value-based Framework for Internet Peering Agreements",
+    "description": "",
+    "tags": [
+        "policy",
+        "economics",
+        "routing",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "International Teletraffic Congress (ITC)",
+            "date": "2010.09",
+            "url": "",
+            "person": "person:Francois__Pierre"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2010_framework_peering_agreements__pubdb.json",
+    "pubdb_id": "presentation262",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2010/framework_peering_agreements/framework_peering_agreements.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2010/framework_peering_agreements",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2010.09"
+}

@@ -1,0 +1,71 @@
+{
+    "id": "2012_menlo_report",
+    "name": "The Menlo Report",
+    "datePublished": "2012.03",
+    "description": "On 28 December 2011, the US Department of Homeland Security, Science and Technology, Cyber Security Division released \"The Menlo Report: Ethical Principles Guiding Information and Communication Technology Research\" to the Federal Register to elicit the public's feedback. In this article, the authors briefly describe the road to this milestone, summarize the report and its companion document, and describe the next steps we should take as a community.",
+    "annotation": "This article is an introduction to the similarly-titled DHS document \"[The Menlo Report: Ethical Principles Guiding Information and Communication Technology Research](https://www.caida.org/publications/papers/2012/menlo_report_actual_formatted/)\".",
+    "tags": [
+        "policy",
+        "data sharing",
+        "overview"
+    ],
+    "pubdb_id": "paper505",
+    "authors": [
+        {
+            "person": "person:Bailey__Michael",
+            "organizations": [
+                "University of Michigan"
+            ]
+        },
+        {
+            "person": "person:Dittrich__David",
+            "organizations": [
+                "University of Washington"
+            ]
+        },
+        {
+            "person": "person:Kenneally__Erin",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Maughan__Douglas",
+            "organizations": [
+                "Department of Homeland Security"
+            ]
+        }
+    ],
+    "links": [
+        {
+            "to": "paper:2012_menlo_report_actual_formatted",
+            "url": "https://www.caida.org/publications/papers/2012/menlo_report_actual_formatted/"
+        }
+    ],
+    "booktitle": "",
+    "institution": "",
+    "number": "2",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2012_menlo_report__pubdb.json",
+    "publisher": "IEEE Security & Privacy",
+    "resources": [
+        {
+            "name": "DOI",
+            "url": "http://dx.doi.org/10.1109/MSP.2012.52",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2012/menlo_report/menlo_report.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "ARTICLE",
+        "journal": "IEEE Security & Privacy",
+        "volume": "10",
+        "pages": "71-75"
+    },
+    "date": "2012.03"
+}

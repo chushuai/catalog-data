@@ -1,0 +1,42 @@
+{
+    "id": "2018_investigating_causes_congestion_african_afrinic",
+    "name": "Investigating the Causes of Congestion on the African IXP substrate",
+    "description": "Remotely presented during the Internet Measurements Workshop at AFRINIC-29.",
+    "tags": [
+        "active data analysis",
+        "congestion",
+        "measurement methodology",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego",
+                "IMDEA Networks Institute"
+            ],
+            "venue": "Internet Measurements Workshop (AFRINIC)",
+            "date": "2018.11",
+            "url": "https://meeting.afrinic.net/afrinic-29/",
+            "person": "person:Fanou__Rod\u00e9rick"
+        }
+    ],
+    "links": [
+        {
+            "to": "paper:2017_investigating_causes_congestion_african",
+            "url": "https://www.caida.org/publications/papers/2017/investigating_causes_congestion_african/"
+        }
+    ],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2018_investigating_causes_congestion_african_afrinic__pubdb.json",
+    "pubdb_id": "presentation529",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2018/investigating_causes_congestion_african_afrinic/investigating_causes_congestion_african_afrinic.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2018.11"
+}

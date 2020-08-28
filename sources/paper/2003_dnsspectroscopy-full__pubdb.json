@@ -1,0 +1,59 @@
+{
+    "id": "2003_dnsspectroscopy-full",
+    "name": "Spectroscopy of DNS Update Traffic",
+    "datePublished": "2003.06",
+    "description": "We study attempts to dynamically update DNS records for private (RFC1918) addresses, by analyzing the frequency spectrum of updates observed at an authoritative nameserver for these addresses. We developed a binary autocorrelation algorithm and discovered that updates come in infinite series with periods of 60 or 75 minutes. We identify both periods as default settings of out-of-the-box Microsoft Windows 2000 and XP DNS software. Identifying this common property of end-user environments helps to understand users' behavior on the Internet. To our knowledge this is the first study of the global impact of dynamic DNS.\r\n",
+    "annotation": "",
+    "tags": [
+        "dns",
+        "measurement methodology"
+    ],
+    "pubdb_id": "paper82",
+    "authors": [
+        {
+            "person": "person:Broido__Andre",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Nemeth__Evi",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:claffy__kc",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        }
+    ],
+    "links": [],
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2003_dnsspectroscopy-full__pubdb.json",
+    "publisher": "Workshop on Internet Applications (WIAPP)",
+    "resources": [
+        {
+            "name": "gzipped postscript",
+            "url": "dnsspectroscopy-full.ps.gz",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2003/dnsspectroscopy-full/dnsspectroscopy-full.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "INPROCEEDINGS",
+        "bookTitle": "Workshop on Internet Applications (WIAPP)",
+        "institution": "Cooperative Association for Internet Data Analysis (CAIDA)"
+    },
+    "date": "2003.06"
+}

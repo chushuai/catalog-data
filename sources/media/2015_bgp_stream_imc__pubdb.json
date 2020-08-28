@@ -1,0 +1,33 @@
+{
+    "id": "2015_bgp_stream_imc",
+    "name": "BGPStream",
+    "description": "Presented at IMC community session.",
+    "tags": [
+        "internet outages",
+        "routing",
+        "software/tools"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "ACM Internet Measurement Conference (IMC)",
+            "date": "2015.10",
+            "url": "http://conferences2.sigcomm.org/imc/2015/program.html",
+            "person": "person:King__Alistair"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2015_bgp_stream_imc__pubdb.json",
+    "pubdb_id": "presentation421",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2015/bgp_stream_imc/bgp_stream_imc.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2015.10"
+}

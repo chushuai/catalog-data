@@ -1,0 +1,35 @@
+{
+    "id": "2005_root_server_abuse",
+    "name": "Case Studies of Root Server Abuse",
+    "description": "",
+    "tags": [
+        "security",
+        "dns"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego",
+                "The Measurement Factory, Inc."
+            ],
+            "venue": "WIDE",
+            "date": "2005.03",
+            "url": "",
+            "person": "person:Wessels__Duane"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2005_root_server_abuse__pubdb.json",
+    "pubdb_id": "presentation308",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2005/root_server_abuse/root_server_abuse.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2005.03"
+}

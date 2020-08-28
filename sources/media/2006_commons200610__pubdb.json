@@ -1,0 +1,37 @@
+{
+    "id": "2006_commons200610",
+    "name": "Cooperative Measurement and Modeling of Open Networked Systems (COMMONS) proposal",
+    "description": "",
+    "tags": [
+        "data",
+        "policy"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Muni Wireless Conference",
+            "date": "2006.10",
+            "url": "",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2006_commons200610__pubdb.json",
+    "pubdb_id": "presentation63",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2006/commons200610/commons200610.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2008/commons",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2006.10"
+}

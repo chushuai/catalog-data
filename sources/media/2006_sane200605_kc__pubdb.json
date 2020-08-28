@@ -1,0 +1,33 @@
+{
+    "id": "2006_sane200605_kc",
+    "name": "Internet measurement: what have we learned?",
+    "description": "",
+    "tags": [
+        "measurement methodology",
+        "data",
+        "policy"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "System Administration and Network Engineering Conference (SANE)",
+            "date": "2006.05",
+            "url": "",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2006_sane200605_kc__pubdb.json",
+    "pubdb_id": "presentation44",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2006/sane200605_kc/sane200605_kc.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2006.05"
+}

@@ -1,0 +1,48 @@
+{
+    "id": "2016_48hrs_after_1st_bgp_nanog",
+    "name": "48hrs after the 1st BGP Hackathon",
+    "description": "",
+    "tags": [
+        "routing",
+        "software/tools"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "North American Network Operators' Group (NANOG)",
+            "date": "2016.02",
+            "url": "https://www.nanog.org/meetings/nanog66/home",
+            "person": "person:Dainotti__Alberto"
+        },
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "Workshop on Active Internet Measurements (AIMS)",
+            "date": "2016.02",
+            "url": "http://www.caida.org/workshops/aims/1602/",
+            "person": "person:Dainotti__Alberto"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2016_48hrs_after_1st_bgp_nanog__pubdb.json",
+    "pubdb_id": "presentation430",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2016/48hrs_after_1st_bgp_nanog/48hrs_after_1st_bgp_nanog.pdf",
+            "tags": []
+        },
+        {
+            "name": "Video",
+            "url": "https://www.youtube.com/watch?v=ZG_87XLHk2Y",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2016.02"
+}

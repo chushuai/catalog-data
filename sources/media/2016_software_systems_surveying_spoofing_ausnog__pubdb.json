@@ -1,0 +1,49 @@
+{
+    "id": "2016_software_systems_surveying_spoofing_ausnog",
+    "name": "Software Systems for Surveying Spoofing Susceptibility",
+    "description": "",
+    "tags": [
+        "topology",
+        "routing",
+        "active data analysis",
+        "security"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego",
+                "University of Waikato"
+            ],
+            "venue": "Australian Network Operators Group (AusNOG)",
+            "date": "2016.09",
+            "url": "http://www.ausnog.net/events/ausnog-2016",
+            "person": "person:Luckie__Matthew"
+        },
+        {
+            "organizations": [],
+            "venue": "ICANN Security and Stability Advisory Committee (SSAC)",
+            "date": "2016.09",
+            "url": "https://community.icann.org/display/atlarge/September+2016+SSAC+Liaison+Report",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2016_software_systems_surveying_spoofing_ausnog__pubdb.json",
+    "pubdb_id": "presentation455",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2016/software_systems_surveying_spoofing_ausnog/software_systems_surveying_spoofing_ausnog.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Project",
+            "url": "https://www.caida.org/projects/spoofer/",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2016.09"
+}

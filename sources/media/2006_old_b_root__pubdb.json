@@ -1,0 +1,34 @@
+{
+    "id": "2006_old_b_root",
+    "name": "128.9.0.107",
+    "description": "",
+    "tags": [
+        "dns"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego",
+                "The Measurement Factory, Inc."
+            ],
+            "venue": "OARC",
+            "date": "2006.11",
+            "url": "",
+            "person": "person:Wessels__Duane"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2006_old_b_root__pubdb.json",
+    "pubdb_id": "presentation237",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2006/old_b_root/old_b_root.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2006.11"
+}

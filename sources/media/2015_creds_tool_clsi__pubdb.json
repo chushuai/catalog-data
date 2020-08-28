@@ -1,0 +1,31 @@
+{
+    "id": "2015_creds_tool_clsi",
+    "name": "Answering the Ethical Questions: Cyber Risk Ethics Decision Support (CREDS) Tool",
+    "description": "",
+    "tags": [
+        "policy"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Citizen Lab Summer Institute",
+            "date": "2015.06",
+            "url": "http://citizenlab.org/summerinstitute/2015.html",
+            "person": "person:Kenneally__Erin"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2015_creds_tool_clsi__pubdb.json",
+    "pubdb_id": "presentation415",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2015/creds_tool_clsi/creds_tool_clsi.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2015.06"
+}

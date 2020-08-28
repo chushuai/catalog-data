@@ -1,0 +1,31 @@
+{
+    "id": "2013_irnc_pi_jan",
+    "name": "IRNC-SP: Sustainable data-handling and analysis methodologies for the IRNC networks",
+    "description": "",
+    "tags": [
+        "software/tools"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "NSF International Research Network Connections (IRNC) PI Meeting",
+            "date": "2013.01",
+            "url": "",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2013_irnc_pi_jan__pubdb.json",
+    "pubdb_id": "presentation343",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2013/irnc_pi_jan/irnc_pi_jan.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2013.01"
+}

@@ -1,0 +1,67 @@
+{
+    "id": "2018_nash_peering",
+    "name": "Nash-Peering: A New Techno-Economic Framework for Internet Interconnections",
+    "datePublished": "2018.04",
+    "description": "The current framework of Internet interconnections, based on transit and settlement-free peering relations, has systemic problems that often cause peering disputes. Repeated high-profile incidents show that this unfortunate state of affairs stands in the way of better Internet performance, sometimes even leading to large-scale Internet outages. We propose a new techno-economic interconnection framework called Nash- Peering, which is based on the principles of Nash Bargaining in game theory and economics. Nash-Peering constitutes a radical departure from current interconnection practices, providing a broader and more economically efficient set of interdomain relations. In particular, the direction of payment is not determined by the direction of traffic or by rigid customer-provider relationships but based on which AS benefits more from the interconnection. We argue that Nash-Peering can address the root cause of various types of peering disputes.",
+    "annotation": "",
+    "tags": [
+        "economics",
+        "policy",
+        "routing",
+        "topology"
+    ],
+    "pubdb_id": "paper667",
+    "authors": [
+        {
+            "person": "person:Zarchy__Doron",
+            "organizations": [
+                "Hebrew University of Jerusalem"
+            ]
+        },
+        {
+            "person": "person:Dhamdhere__Amogh",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Dovrolis__Constantine",
+            "organizations": [
+                "Georgia Institute of Technology (Georgia Tech)"
+            ]
+        },
+        {
+            "person": "person:Schapira__Michael",
+            "organizations": [
+                "Hebrew University of Jerusalem"
+            ]
+        }
+    ],
+    "links": [],
+    "institution": "",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2018_nash_peering__pubdb.json",
+    "publisher": "IEEE Global Internet Symposium (GI)",
+    "resources": [
+        {
+            "name": "DOI",
+            "url": "https://doi.org/10.1109/INFCOMW.2018.8406865",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2018/nash_peering/nash_peering.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "INPROCEEDINGS",
+        "bookTitle": "IEEE Global Internet Symposium (GI)"
+    },
+    "date": "2018.04"
+}

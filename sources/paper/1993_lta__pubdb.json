@@ -1,0 +1,53 @@
+{
+    "id": "1993_lta",
+    "name": "Long-term traffic aspects of the NSFNET",
+    "datePublished": "1993.05",
+    "description": "We present the architecture for data collection for the T3 NSFNET backbone service, and difficulties with using the collected statistics for long-term network forecasting of certain traffic aspects. We describe\r\nrelevant aspects of the T3 backbone architecture, describe the instrumentation for the statistics collection process, and how it differs from that on the T1 backbone. We then present long-term NSFNET data to\r\nelucidate long term trends in both the reachability of Internet components via the NSFNET as well as the growing cross-section of traffic. We focus on the difficulties of forecasting and planning for these two\r\ntraffic aspects in an infrastructure whose protocol architecture and instrumentation for data collection was not designed to support such objectives.\r\n",
+    "annotation": "",
+    "tags": [
+        "policy"
+    ],
+    "pubdb_id": "paper180",
+    "authors": [
+        {
+            "person": "person:claffy__kc",
+            "organizations": [
+                "University of California, San Diego (UCSD)"
+            ]
+        },
+        {
+            "person": "person:Polyzos__George",
+            "organizations": [
+                "University of California, San Diego (UCSD)"
+            ]
+        },
+        {
+            "person": "person:Braun__Hans-Werner",
+            "organizations": [
+                "San Diego Supercomputer Center,   University of California, San Diego (SDSC/UCSD)"
+            ]
+        }
+    ],
+    "links": [],
+    "institution": "",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/1993_lta__pubdb.json",
+    "publisher": "International Networking Conference (INET)",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/1993/lta/inet93.NSFNETtraffic.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "INPROCEEDINGS",
+        "bookTitle": "International Networking Conference (INET)"
+    },
+    "date": "1993.05"
+}

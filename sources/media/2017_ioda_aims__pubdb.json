@@ -1,0 +1,39 @@
+{
+    "id": "2017_ioda_aims",
+    "name": "IODA - Internet Outage Detection & Analysis",
+    "description": "",
+    "tags": [
+        "internet outages",
+        "measurement methodology",
+        "routing",
+        "overview"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Workshop on Active Internet Measurements (AIMS)",
+            "date": "2017.03",
+            "url": "http://www.caida.org/workshops/aims/1703/",
+            "person": "person:Dainotti__Alberto"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2017_ioda_aims__pubdb.json",
+    "pubdb_id": "presentation473",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2017/ioda_aims/ioda_aims.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Project",
+            "url": "https://www.caida.org/projects/ioda/",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2017.03"
+}

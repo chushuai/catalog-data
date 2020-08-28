@@ -1,0 +1,43 @@
+{
+    "id": "2020_vrfinder_sigmetrics",
+    "name": "vrfinder: Finding Outbound Addresses in Traceroute",
+    "description": "",
+    "tags": [
+        "measurement methodology",
+        "routing",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "ACM SIGMETRICS",
+            "date": "2020.06",
+            "url": "https://www.sigmetrics.org/sigmetrics2020/",
+            "person": "person:Marder__Alexander"
+        }
+    ],
+    "links": [
+        {
+            "to": "paper:2020_vrfinder",
+            "url": "https://www.caida.org/publications/papers/2020/vrfinder/"
+        }
+    ],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2020_vrfinder_sigmetrics__pubdb.json",
+    "pubdb_id": "presentation580",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2020/vrfinder_sigmetrics/vrfinder_sigmetrics.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Video",
+            "url": "https://youtu.be/yuIEB0XJozg",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2020.06"
+}

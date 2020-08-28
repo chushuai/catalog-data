@@ -1,0 +1,36 @@
+{
+    "id": "2010_ccnr_metric_spaces_bipartite",
+    "name": "Metric Structure of Bipartite Networks",
+    "description": "",
+    "tags": [
+        "network geometry"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Center for Complex Network Research (CCNR)",
+            "date": "2010.05",
+            "url": "",
+            "person": "person:Kitsak__Maksim"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2010_ccnr_metric_spaces_bipartite__pubdb.json",
+    "pubdb_id": "presentation172",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2010/ccnr_metric_spaces_bipartite/ccnr_metric_spaces_bipartite.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2011/hidden_variables_bipartite",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2010.05"
+}

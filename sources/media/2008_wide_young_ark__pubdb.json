@@ -1,0 +1,33 @@
+{
+    "id": "2008_wide_young_ark",
+    "name": "Archipelago Measurement Infrastructure: Status and Experiences",
+    "description": "",
+    "tags": [
+        "measurement methodology",
+        "active data analysis",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "WIDE-CASFI",
+            "date": "2008.08",
+            "url": "",
+            "person": "person:Hyun__Young"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2008_wide_young_ark__pubdb.json",
+    "pubdb_id": "presentation1",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2008/wide_young_ark/wide_young_ark.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2008.08"
+}

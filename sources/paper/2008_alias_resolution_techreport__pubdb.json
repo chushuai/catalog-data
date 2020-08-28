@@ -1,0 +1,54 @@
+{
+    "id": "2008_alias_resolution_techreport",
+    "name": "IP Alias Resolution Techniques: Technical Report",
+    "datePublished": "2008.12",
+    "description": "The well-known traceroute probing method discovers links between interfaces on Internet routers. IP alias resolution, the process of identifying IP addresses belonging to the same router, is a critical step in producing Internet topology maps. We compare known alias resolution techniques, and suggest a practical combination of techniques that can produce the most accurate and complete IP-to-router mapping.\r\n",
+    "annotation": "The latest version, 1.1 (2009-01-19), is available as well as the original version published in December of 2008.",
+    "tags": [
+        "active data analysis",
+        "measurement methodology",
+        "software/tools",
+        "topology"
+    ],
+    "pubdb_id": "paper21",
+    "authors": [
+        {
+            "person": "person:Keys__Ken",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        }
+    ],
+    "links": [],
+    "booktitle": "",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2008_alias_resolution_techreport__pubdb.json",
+    "publisher": "Cooperative Association for Internet Data Analysis (CAIDA)",
+    "resources": [
+        {
+            "name": "latest version (1.1, PDF)",
+            "url": "alias_resolution_techreport.pdf",
+            "tags": []
+        },
+        {
+            "name": "original version (1.0, PDF)",
+            "url": "alias_resolution_techreport_1.0.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2008/alias_resolution_techreport",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "TECHREPORT",
+        "institution": "Cooperative Association for Internet Data Analysis (CAIDA)"
+    },
+    "date": "2008.12"
+}

@@ -1,0 +1,38 @@
+{
+    "id": "2007_brownlee_anomalies",
+    "name": "Passive Monitoring of DNS Anomalies",
+    "description": "",
+    "tags": [
+        "passive data analysis",
+        "measurement methodology",
+        "dns"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Conference on Detection of Intrusions and Malware and Vulnerability Assessment (DIMVA)",
+            "date": "2007.07",
+            "url": "",
+            "person": "person:Brownlee__Nevil"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2007_brownlee_anomalies__pubdb.json",
+    "pubdb_id": "presentation48",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2007/brownlee_anomalies/brownlee_anomalies.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2007/dns_anomalies",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2007.07"
+}

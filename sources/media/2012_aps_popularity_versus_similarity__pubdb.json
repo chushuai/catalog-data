@@ -1,0 +1,38 @@
+{
+    "id": "2012_aps_popularity_versus_similarity",
+    "name": "Popularity versus Similarity in Growing Networks",
+    "description": "",
+    "tags": [
+        "routing",
+        "topology",
+        "network geometry"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "American Physical Society (APS)",
+            "date": "2012.03",
+            "url": "",
+            "person": "person:Krioukov__Dmitri"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2012_aps_popularity_versus_similarity__pubdb.json",
+    "pubdb_id": "presentation128",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2012/aps_popularity_versus_similarity/aps_popularity_versus_similarity.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2012/popularity_vs_similarity",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2012.03"
+}

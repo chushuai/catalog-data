@@ -1,0 +1,36 @@
+{
+    "id": "2017_sister_pi_jan",
+    "name": "Science of Internet Security: Technology and Experimental Research",
+    "description": "",
+    "tags": [
+        "internet outages",
+        "security",
+        "topology",
+        "routing",
+        "active data analysis",
+        "measurement methodology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "DHS IMAM Mid Term Meeting",
+            "date": "2017.01",
+            "url": "",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2017_sister_pi_jan__pubdb.json",
+    "pubdb_id": "presentation467",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2017/sister_pi_jan/sister_pi_jan.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2017.01"
+}

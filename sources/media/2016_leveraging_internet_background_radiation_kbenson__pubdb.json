@@ -1,0 +1,37 @@
+{
+    "id": "2016_leveraging_internet_background_radiation_kbenson",
+    "name": "Leveraging Internet Background Radiation for Opportunistic Network Analysis",
+    "description": "Presented during Karyn Benson's Master's thesis defense at UC San Diego.",
+    "tags": [
+        "internet outages",
+        "network telescope",
+        "security",
+        "measurement methodology"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego",
+                "Department of Computer Science and Engineering,\nUniversity of California, San Diego"
+            ],
+            "venue": "UC San Diego Thesis Defense",
+            "date": "2016.06",
+            "url": "",
+            "person": "person:Benson__Karyn"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2016_leveraging_internet_background_radiation_kbenson__pubdb.json",
+    "pubdb_id": "presentation456",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2016/leveraging_internet_background_radiation_kbenson/leveraging_internet_background_radiation_kbenson.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2016.06"
+}

@@ -1,0 +1,37 @@
+{
+    "id": "2010_estimating_routing_symmetry",
+    "name": "Estimating Routing Symmetry on Single Links by Passive Flow Measurements",
+    "description": "",
+    "tags": [
+        "measurement methodology",
+        "routing"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "International Workshop on TRaffic Analysis and Classification (TRAC)",
+            "date": "2010.06",
+            "url": "",
+            "person": "person:John__Wolfgang"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2010_estimating_routing_symmetry__pubdb.json",
+    "pubdb_id": "presentation80",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2010/estimating_routing_symmetry/estimating_routing_symmetry.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2010/estimating_routing_symmetry",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2010.06"
+}

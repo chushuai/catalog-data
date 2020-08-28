@@ -1,0 +1,34 @@
+{
+    "id": "2013_datcat_lessons_learned",
+    "name": "DATCAT Lessons Learned",
+    "description": "",
+    "tags": [
+        "data",
+        "overview",
+        "software/tools",
+        "trends"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "ISMA Workshop on Active Internet Measurements (AIMS)",
+            "date": "2013.02",
+            "url": "http://www.caida.org/workshops/isma/1302/",
+            "person": "person:Huffaker__Bradley"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2013_datcat_lessons_learned__pubdb.json",
+    "pubdb_id": "presentation347",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2013/datcat_lessons_learned/datcat_lessons_learned.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2013.02"
+}

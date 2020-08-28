@@ -1,0 +1,52 @@
+{
+    "id": "2001_NdrmBgp",
+    "name": "Analysis of RouteViews BGP data: policy atoms",
+    "datePublished": "2001.05",
+    "description": "In this paper we introduce a framework for analyzing BGP connectivity, and evaluate a number of new complexity measures for a union of core backbone BGP tables.  Sensitive to resource limitations of router memory and CPU cycles, we focus on techniques to estimate redundancy of the merged tables, in particular how many entries are essential for complete and correct routing.\n",
+    "annotation": "",
+    "tags": [
+        "routing"
+    ],
+    "pubdb_id": "paper116",
+    "authors": [
+        {
+            "person": "person:Broido__Andre",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:claffy__kc",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        }
+    ],
+    "links": [],
+    "institution": "",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2001_NdrmBgp__pubdb.json",
+    "publisher": "Network Resource Data Management Workshop",
+    "resources": [
+        {
+            "name": "gzipped postscript",
+            "url": "NdrmBgp.ps.gz",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2001/NdrmBgp/NdrmBgp.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "INPROCEEDINGS",
+        "bookTitle": "Network Resource Data Management Workshop"
+    },
+    "date": "2001.05"
+}

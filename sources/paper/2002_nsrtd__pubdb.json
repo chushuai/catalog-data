@@ -1,0 +1,48 @@
+{
+    "id": "2002_nsrtd",
+    "name": "Response time distributions for global name servers",
+    "datePublished": "2002.03",
+    "description": "Our earlier measurements of global name server performance concentrated on response time measurements. In this paper we examine the shape of response time distributions. These distributions often show clear evidence of multipathing behaviour. We also report on improvements to NeTraMet's method of collecting data distributions.\r\n",
+    "annotation": "",
+    "tags": [
+        "dns"
+    ],
+    "pubdb_id": "paper106",
+    "authors": [
+        {
+            "person": "person:Brownlee__Nevil",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego",
+                "IT Systems & Services - ITSS, The University of Auckland"
+            ]
+        },
+        {
+            "person": "person:Ziedins__Ilze",
+            "organizations": [
+                "IT Systems & Services - ITSS, The University of Auckland"
+            ]
+        }
+    ],
+    "links": [],
+    "institution": "",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2002_nsrtd__pubdb.json",
+    "publisher": "Passive and Active Network Measurement Workshop (PAM)",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2002/nsrtd/nsrtd.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "INPROCEEDINGS",
+        "bookTitle": "Passive and Active Network Measurement Workshop (PAM)"
+    },
+    "date": "2002.03"
+}

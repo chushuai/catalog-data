@@ -1,0 +1,31 @@
+{
+    "id": "2004_caidaview",
+    "name": "Caida 2004-2006 view",
+    "description": "",
+    "tags": [
+        "overview"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Intel",
+            "date": "2004.06",
+            "url": "",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2004_caidaview__pubdb.json",
+    "pubdb_id": "presentation200",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2004/caidaview/caidaview.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2004.06"
+}

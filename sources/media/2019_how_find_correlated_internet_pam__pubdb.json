@@ -1,0 +1,37 @@
+{
+    "id": "2019_how_find_correlated_internet_pam",
+    "name": "How to find correlated Internet failures",
+    "description": "",
+    "tags": [
+        "routing",
+        "internet outages"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Passive and Active Measurement Conference (PAM)",
+            "date": "2019.03",
+            "url": "http://pam2019.niclabs.cl/",
+            "person": "person:Padmanabhan__Ramakrishna"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2019_how_find_correlated_internet_pam__pubdb.json",
+    "pubdb_id": "presentation542",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2019/how_find_correlated_internet_pam/how_find_correlated_internet_pam.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2019/how_find_correlated_internet",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2019.03"
+}

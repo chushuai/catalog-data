@@ -1,0 +1,37 @@
+{
+    "id": "2004_diversity_disparity",
+    "name": "Their Share: Diversity and Disparity in IP Traffic",
+    "description": "",
+    "tags": [
+        "passive data analysis",
+        "routing"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Passive and Active Measurement Conference (PAM)",
+            "date": "2004.04",
+            "url": "",
+            "person": "person:Broido__Andre"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2004_diversity_disparity__pubdb.json",
+    "pubdb_id": "presentation110",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2004/diversity_disparity/diversity_disparity.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2004/diversity",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2004.04"
+}

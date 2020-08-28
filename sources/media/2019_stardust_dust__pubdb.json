@@ -1,0 +1,34 @@
+{
+    "id": "2019_stardust_dust",
+    "name": "STARDUST",
+    "description": "",
+    "tags": [
+        "network telescope",
+        "routing",
+        "security",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Workshop on Darkspace and UnSolicited Traffic Analysis (DUST)",
+            "date": "2019.09",
+            "url": "http://www.caida.org/workshops/dust/1909/",
+            "person": "person:King__Alistair"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2019_stardust_dust__pubdb.json",
+    "pubdb_id": "presentation556",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2019/stardust_dust/stardust_dust.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2019.09"
+}

@@ -1,0 +1,36 @@
+{
+    "id": "2011_wie_cost_model",
+    "name": "A cost model for network traffic (with an application to paid-peering)",
+    "description": "",
+    "tags": [
+        "economics"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Workshop on Internet Economics (WIE)",
+            "date": "2011.12",
+            "url": "",
+            "person": "person:Dhamdhere__Amogh"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2011_wie_cost_model__pubdb.json",
+    "pubdb_id": "presentation7",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2011/wie_cost_model/wie_cost_model.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2012/cost_model_network_traffic",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2011.12"
+}

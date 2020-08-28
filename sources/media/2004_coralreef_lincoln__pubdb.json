@@ -1,0 +1,32 @@
+{
+    "id": "2004_coralreef_lincoln",
+    "name": "The CoralReef Software Suite",
+    "description": "",
+    "tags": [
+        "software/tools",
+        "measurement methodology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Lincoln Labs",
+            "date": "2004.09",
+            "url": "",
+            "person": "person:Shannon__Colleen"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2004_coralreef_lincoln__pubdb.json",
+    "pubdb_id": "presentation257",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2004/coralreef_lincoln/coralreef_lincoln.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2004.09"
+}

@@ -1,0 +1,33 @@
+{
+    "id": "2005_lsn2005-11",
+    "name": "the Internet as emerging critical infrastructure: what needs to be measured?",
+    "description": "",
+    "tags": [
+        "measurement methodology",
+        "policy",
+        "data"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Large Scale Network (LSN)",
+            "date": "2005.11",
+            "url": "",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2005_lsn2005-11__pubdb.json",
+    "pubdb_id": "presentation196",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2005/lsn2005-11/lsn2005-11.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2005.11"
+}

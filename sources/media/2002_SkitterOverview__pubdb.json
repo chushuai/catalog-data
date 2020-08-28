@@ -1,0 +1,42 @@
+{
+    "id": "2002_SkitterOverview",
+    "name": "CAIDA's Macroscopic Topology Project",
+    "description": "This presentation slideset accompanies the paper \"Topology discovery by active probing\" authored by Bradley Huffaker, Daniel Plummer, David Moore, and k claffy.  This presentation was given at the 2002 Symposium on Applications and the Internet in January 2002.",
+    "tags": [
+        "topology",
+        "measurement methodology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Symposium on Applications and the Internet (SAINT)",
+            "date": "2002.01",
+            "url": "",
+            "person": "person:Huffaker__Bradley"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2002_SkitterOverview__pubdb.json",
+    "pubdb_id": "presentation147",
+    "resources": [
+        {
+            "name": "gzipped postscript",
+            "url": "https://www.caida.org/publications/presentations/2002/SkitterOverview/nara_2002.ps.gz",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2002/SkitterOverview/nara_2002.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2002/SkitterOverview",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2002.01"
+}

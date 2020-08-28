@@ -1,0 +1,54 @@
+{
+    "id": "1994_tlg",
+    "name": "Tracking long-term growth of the NSFNET",
+    "datePublished": "1994.03",
+    "description": "We present the architecture for data collection for the NSFNET\nbackbone and difficulties with using the collected statistics\nfor long-term network forecasting of certain traffic aspects.  We describe relevant aspects of the NSFNET backbone architecture and the instrumentation for statistics collection.\n\nWe then present long-term NSFNET data to elucidate long-term trends in both the reachability of Internet components via the NSFNET as well as the growing cross-section of traffic.  We focus on the difficulties of forecasting and planning in an infrastructure whose protocol architecture and instrumentation for data collection was not designed to support such objectives.",
+    "annotation": "",
+    "tags": [
+        "measurement methodology",
+        "passive data analysis"
+    ],
+    "pubdb_id": "paper170",
+    "authors": [
+        {
+            "person": "person:claffy__kc",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Braun__Hans-Werner",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Polyzos__George",
+            "organizations": [
+                "University of California, San Diego (UCSD)"
+            ]
+        }
+    ],
+    "links": [],
+    "booktitle": "",
+    "institution": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/1994_tlg__pubdb.json",
+    "publisher": "Communications of the ACM",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/1994/tlg/cacm.94.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "ARTICLE",
+        "journal": "Communications of the ACM"
+    },
+    "date": "1994.03"
+}

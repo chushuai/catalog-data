@@ -1,0 +1,38 @@
+{
+    "id": "2013_popularity_versus_similarity_siam",
+    "name": "Popularity versus Similarity in Growing Networks",
+    "description": "",
+    "tags": [
+        "network geometry",
+        "routing",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "SIAM Conference on Computational Science & Engineering (CSE)",
+            "date": "2013.03",
+            "url": "",
+            "person": "person:Krioukov__Dmitri"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2013_popularity_versus_similarity_siam__pubdb.json",
+    "pubdb_id": "presentation354",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2013/popularity_versus_similarity_siam/popularity_versus_similarity_siam.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2012/popularity_vs_similarity",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2013.03"
+}

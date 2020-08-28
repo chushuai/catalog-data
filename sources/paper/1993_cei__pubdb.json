@@ -1,0 +1,54 @@
+{
+    "id": "1993_cei",
+    "name": "CIDR and the evolution of the Internet",
+    "datePublished": "1993.05",
+    "description": "The tremendous growth of the Internet has resulted in several efforts\naddressing the need to be able to address and route the global public\nInternet. Many of these efforts call for large changes in the deployed\nInternet infrastructure. We believe a prudent course of action includes\nextending the usable life of IPv4 while evaluating the use of these new\ntechnologies. This requires incremental changes in the IPv4 routing\ntechnology base, but more importantly it will require additional\ncoordination and management among the Internet service providers. We\nalso believe that extending the life of IPv4 includes getting higher\nutilization of the IPv4 address space. Several strategies, mostly\nadministrative in nature, are proposed to conserve the use of IP\naddress space.\n\n",
+    "annotation": "",
+    "tags": [
+        "policy",
+        "routing"
+    ],
+    "pubdb_id": "paper177",
+    "authors": [
+        {
+            "person": "person:Braun__Hans-Werner",
+            "organizations": [
+                "Applied Network Research, San Diego Supercomputer Center, University of California, San Diego"
+            ]
+        },
+        {
+            "person": "person:Ford__Peter",
+            "organizations": [
+                "Los Alamos National Laboratory"
+            ]
+        },
+        {
+            "person": "person:Rekhter__Yakov",
+            "organizations": [
+                "Watson Research Center, IBM Corp."
+            ]
+        }
+    ],
+    "links": [],
+    "institution": "",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/1993_cei__pubdb.json",
+    "publisher": "International Networking Conference (INET)",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/1993/cei/inet93.cidr.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "INPROCEEDINGS",
+        "bookTitle": "International Networking Conference (INET)"
+    },
+    "date": "1993.05"
+}

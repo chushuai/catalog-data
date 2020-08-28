@@ -1,0 +1,33 @@
+{
+    "id": "2009_broadband",
+    "name": "Broadband Conditions",
+    "description": "This slideset was presented at the NTIA Broadband Technology Opportunities Program meeting.  The video is also available at the meeting URL under March 23, 2009 \"Show Session 1: Roundtable on Nondiscrimination and Interconnection Obligations\", and a text transcript of that session 1 is available on the NTIA website.",
+    "tags": [
+        "policy",
+        "data",
+        "trends"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "NTIA Broadband Technology Opportunities Program",
+            "date": "2009.03",
+            "url": "",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2009_broadband__pubdb.json",
+    "pubdb_id": "presentation145",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2009/broadband/ntia_bp.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2009.03"
+}

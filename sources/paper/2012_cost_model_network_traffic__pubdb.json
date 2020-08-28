@@ -1,0 +1,65 @@
+{
+    "id": "2012_cost_model_network_traffic",
+    "name": "Towards a Cost Model for Network Traffic",
+    "datePublished": "2012.01",
+    "description": "We develop a holistic cost model that operators can use to help\r\nevaluate the costs of various routing and peering decisions. Using\r\nreal traffic data from a large carrier network, we show how network\r\noperators can use this cost model to significantly reduce the cost of\r\ncarrying traffic in their networks. We find that adjusting the routing\r\nfor a small fraction of total flows (and total traffic volume) significantly reduces cost in many cases. We also show how operators can use the cost model both to evaluate potential peering arrangements\r\nand for other network operations problems.\r\n",
+    "annotation": "",
+    "tags": [
+        "economics",
+        "routing"
+    ],
+    "pubdb_id": "paper513",
+    "authors": [
+        {
+            "person": "person:Motiwala__Murtaza",
+            "organizations": [
+                "Georgia Institute of Technology (Georgia Tech)"
+            ]
+        },
+        {
+            "person": "person:Dhamdhere__Amogh",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Feamster__Nick",
+            "organizations": [
+                "Georgia Institute of Technology (Georgia Tech)"
+            ]
+        },
+        {
+            "person": "person:Lakhina__Anukool",
+            "organizations": [
+                "Guavus"
+            ]
+        }
+    ],
+    "links": [],
+    "booktitle": "",
+    "institution": "",
+    "number": "1",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2012_cost_model_network_traffic__pubdb.json",
+    "publisher": "ACM SIGCOMM Computer Communication Review (CCR)",
+    "resources": [
+        {
+            "name": "DOI",
+            "url": "http://dx.doi.org/10.1145/2096149.2096157",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2012/cost_model_network_traffic/cost_model_network_traffic.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "ARTICLE",
+        "journal": "ACM SIGCOMM Computer Communication Review (CCR)",
+        "volume": "42",
+        "pages": "54-60"
+    },
+    "date": "2012.01"
+}

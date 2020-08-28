@@ -1,0 +1,65 @@
+{
+    "id": "2020_flowtrace",
+    "name": "FlowTrace: A Framework for Active Bandwidth Measurements using In-band Packet Trains",
+    "datePublished": "2020.03",
+    "description": "Active measurement tools are important to understand and diagnose performance bottlenecks on the Internet. However, their overhead is a concern because a high number of additional measurement packets can congest the network they try to measure. To address this issue, prior work has proposed in-band approaches that piggyback application traffic for active measurements. However, prior approaches are hard to deploy because they require either specialized hardware or modifications in the Linux kernel. In this paper, we propose FlowTrace\u2013a readily deployable user-space active measurement framework that leverages application TCP flows to carry out in-band network measurements. Our implementation of Pathneck using FlowTrace creates recursive packet trains to locate bandwidth bottlenecks. The experimental evaluation on a testbed shows that FlowTrace is able to locate bandwidth bottlenecks as accurately as Pathneck with significantly less overhead.",
+    "annotation": "",
+    "tags": [
+        "measurement methodology",
+        "QoE",
+        "routing"
+    ],
+    "pubdb_id": "paper698",
+    "authors": [
+        {
+            "person": "person:Ahmed__Adnan",
+            "organizations": [
+                "University of Iowa"
+            ]
+        },
+        {
+            "person": "person:Mok__Ricky K. P.",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Shafiq__Zubair",
+            "organizations": [
+                "University of Iowa"
+            ]
+        }
+    ],
+    "links": [
+        {
+            "to": "media:2020_flowtrace_pam",
+            "url": "https://www.caida.org/publications/presentations/2020/flowtrace_pam/"
+        }
+    ],
+    "institution": "",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2020_flowtrace__pubdb.json",
+    "publisher": "Passive and Active Measurement Conference (PAM)",
+    "resources": [
+        {
+            "name": "DOI",
+            "url": "https://doi.org/10.1007/978-3-030-44081-7_3",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2020/flowtrace/flowtrace.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "INPROCEEDINGS",
+        "bookTitle": "Passive and Active Measurement Conference (PAM)"
+    },
+    "date": "2020.03"
+}

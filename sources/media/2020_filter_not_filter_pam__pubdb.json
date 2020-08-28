@@ -1,0 +1,43 @@
+{
+    "id": "2020_filter_not_filter_pam",
+    "name": "To Filter or not to Filter: Measuring the Benefits of Registering in the RPKI Today",
+    "description": "",
+    "tags": [
+        "routing",
+        "topology",
+        "security"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Passive and Active Measurement Conference (PAM)",
+            "date": "2020.03",
+            "url": "https://pam2020.cs.uoregon.edu/",
+            "person": "person:Testart__Cecilia"
+        }
+    ],
+    "links": [
+        {
+            "to": "paper:2020_filter_not_filter",
+            "url": "https://www.caida.org/publications/papers/2020/filter_not_filter/"
+        }
+    ],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2020_filter_not_filter_pam__pubdb.json",
+    "pubdb_id": "presentation577",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2020/filter_not_filter_pam/filter_not_filter_pam.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Video",
+            "url": "https://www.youtube.com/watch?v=p3q4RCxGcyw",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2020.03"
+}

@@ -1,0 +1,32 @@
+{
+    "id": "2019_caidas_bgp_observatory_aims",
+    "name": "CAIDA's BGP Observatory",
+    "description": "",
+    "tags": [
+        "security",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Workshop on Active Internet Measurements (AIMS)",
+            "date": "2019.04",
+            "url": "http://www.caida.org/workshops/aims/1904/",
+            "person": "person:Dainotti__Alberto"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2019_caidas_bgp_observatory_aims__pubdb.json",
+    "pubdb_id": "presentation550",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2019/caidas_bgp_observatory_aims/caidas_bgp_observatory_aims.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2019.04"
+}

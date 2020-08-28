@@ -1,0 +1,62 @@
+{
+    "id": "2006_recursive_approach",
+    "name": "Approche R\u00e9cursive d'Etiquetage des Chemins Alternatifs au Niveau IP",
+    "datePublished": "2006.11",
+    "description": "A diamond refers to the existence of several alternative paths between two points in\r\nthe network. This notion plays an important role in traffic engineering where it is needed, for\r\ninstance, to balance the traffic load between several paths. These diamonds might be found at\r\nthe AS level or the IP level. This paper is interested in the IP level and proposes a recursive\r\nlabelling method for diamonds, RLPA. In this paper, we show, on a subset of skitter data, that\r\ndiamonds are mainly composed of a single intermediate node, have two edges, are basically\r\nsymmetrical and are located between 10 and 15 hops from the traceroute source.\r\n",
+    "annotation": "Note: This paper is only available in French.",
+    "tags": [
+        "measurement methodology",
+        "software/tools",
+        "topology"
+    ],
+    "pubdb_id": "paper43",
+    "authors": [
+        {
+            "person": "person:Donnet__Benoit",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego",
+                "Laboratoire LiP6/CNRS\nUniversit\u00e9 Pierre & Marie Curie"
+            ]
+        },
+        {
+            "person": "person:Huffaker__Bradley",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Friedman__Timur",
+            "organizations": [
+                "Laboratoire LiP6/CNRS\nUniversit\u00e9 Pierre & Marie Curie"
+            ]
+        },
+        {
+            "person": "person:claffy__kc",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        }
+    ],
+    "links": [],
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2006_recursive_approach__pubdb.json",
+    "publisher": "Colloque Francophone d'Ing\u00e9nierie des Protocoles (CFIP)",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2006/recursive_approach/recursive_approach.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "INPROCEEDINGS",
+        "bookTitle": "Colloque Francophone d'Ing\u00e9nierie des Protocoles (CFIP)",
+        "institution": "Cooperative Association for Internet Data Analysis (CAIDA) and Universit\u00e9 Pierre & Marie Curie"
+    },
+    "date": "2006.11"
+}

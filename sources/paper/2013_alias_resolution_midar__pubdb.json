@@ -1,0 +1,76 @@
+{
+    "id": "2013_alias_resolution_midar",
+    "name": "Internet-Scale IPv4 Alias Resolution with MIDAR",
+    "datePublished": "2013.04",
+    "description": "A critical step in creating accurate Internet topology maps from traceroute data is mapping IP addresses to routers, a process known as alias resolution. Recent work in alias resolution inferred aliases based on similarities in IP ID time series produced by different IP addresses. We design, implement, and experiment with a new tool that builds on these insights to scale to Internet-scale topologies, i.e., millions of addresses, with greater precision and sensitivity. MIDAR, our Monotonic ID-Based Alias Resolution tool, provides an extremely precise ID comparison test based on monotonicity rather than proximity.\r\n\r\nMIDAR integrates multiple probing methods, multiple vantage points, and a novel sliding-window probe scheduling algorithm to increase scalability to millions of IP addresses. Experiments show that MIDAR\u201bs approach is effective at minimizing the false positive rate sufficiently to achieve a high positive predictive value at Internet scale. We provide sample statistics from running MIDAR on over 2 million addresses. We also validate MIDAR and RadarGun against available ground truth and show that MIDAR\u201bs results are significantly better than RadarGun's. Tools such as MIDAR can enable longitudinal study of the Internet\u201bs topological evolution.",
+    "annotation": "",
+    "tags": [
+        "measurement methodology",
+        "software/tools",
+        "topology"
+    ],
+    "pubdb_id": "paper508",
+    "authors": [
+        {
+            "person": "person:Keys__Ken",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Hyun__Young",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Luckie__Matthew",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:claffy__kc",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        }
+    ],
+    "links": [
+        {
+            "to": "media:2010_alias_resolution_midar",
+            "url": "https://www.caida.org/publications/presentations/2010/alias_resolution_midar/"
+        }
+    ],
+    "booktitle": "",
+    "institution": "",
+    "number": "2",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2013_alias_resolution_midar__pubdb.json",
+    "publisher": "IEEE/ACM Transactions on Networking",
+    "resources": [
+        {
+            "name": "Data Supplement",
+            "url": "http://data.caida.org/datasets/topology/midar-20110418/",
+            "tags": []
+        },
+        {
+            "name": "DOI",
+            "url": "http://dx.doi.org/10.1109/TNET.2012.2198887",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2013/alias_resolution_midar/alias_resolution_midar.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "ARTICLE",
+        "journal": "IEEE/ACM Transactions on Networking",
+        "volume": "21",
+        "pages": "383-399"
+    },
+    "date": "2013.04"
+}

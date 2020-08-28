@@ -1,0 +1,37 @@
+{
+    "id": "2003_bwest-doe",
+    "name": "bandwidth estimation: measurement methodologies and applications",
+    "description": "",
+    "tags": [
+        "bandwidth estimation",
+        "measurement methodology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "DOE Energy Sciences Network (ESnet)",
+            "date": "2003.02",
+            "url": "",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2003_bwest-doe__pubdb.json",
+    "pubdb_id": "presentation283",
+    "resources": [
+        {
+            "name": "HTML slides",
+            "url": "https://www.caida.org/publications/presentations/2003/bwest-doe/index.html",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2003/bwestmetrics",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2003.02"
+}

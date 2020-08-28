@@ -1,0 +1,34 @@
+{
+    "id": "2000_isma00_andre_graphs",
+    "name": "Graphs That Make the Net Work",
+    "description": "",
+    "tags": [
+        "topology",
+        "data"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "Internet Statistics and Metrics Analysis Workshop (ISMA)",
+            "date": "2000.12",
+            "url": "",
+            "person": "person:Broido__Andre"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2000_isma00_andre_graphs__pubdb.json",
+    "pubdb_id": "presentation52",
+    "resources": [
+        {
+            "name": "HTML slides",
+            "url": "https://www.caida.org/publications/presentations/2000/isma00_andre_graphs//workshops/isma/0012/talks/kcandre/",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2000.12"
+}

@@ -1,0 +1,31 @@
+{
+    "id": "2002_crisis2002",
+    "name": "Fundamental Limits on Blocking Self-Propagating Code",
+    "description": "",
+    "tags": [
+        "security"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Computer Science and Telecommunications Board (CSTB)",
+            "date": "2002.03",
+            "url": "",
+            "person": "person:Moore__David"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2002_crisis2002__pubdb.json",
+    "pubdb_id": "presentation125",
+    "resources": [
+        {
+            "name": "HTML",
+            "url": "https://www.caida.org/publications/presentations/2002/crisis2002/index.htm",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2002.03"
+}

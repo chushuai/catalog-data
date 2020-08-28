@@ -1,0 +1,31 @@
+{
+    "id": "2012_dust_darkspace_data_sharing",
+    "name": "Illuminating the way for Trusted Darkspace Data Sharing",
+    "description": "",
+    "tags": [
+        "policy"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "International Workshop on Darkspace and UnSolicited Traffic Analysis (DUST)",
+            "date": "2012.05",
+            "url": "",
+            "person": "person:Kenneally__Erin"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2012_dust_darkspace_data_sharing__pubdb.json",
+    "pubdb_id": "presentation280",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2012/dust_darkspace_data_sharing/dust_darkspace_data_sharing.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2012.05"
+}

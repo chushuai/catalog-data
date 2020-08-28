@@ -1,0 +1,58 @@
+{
+    "id": "2001_DNSMeasRoot",
+    "name": "DNS Measurements at a Root Server",
+    "datePublished": "2001.11",
+    "description": "The Domain Name System (DNS) manages domain names to be used in network\ntransactions (email, web requests, etc.) instead of IP addresses. The root\nof the DNS distributed database is managed by 13 root nameservers.  We\npassively measure the performance of one of them: F.root-servers.net.\n\nThese measurements show an astounding number of bogus queries: from\n60-85% of observed queries were repeated from the same host within the\nmeasurement interval.  Over 14% of a root server's query load is due to\nqueries that violate the DNS specification.  Denial of service attacks using\nroot servers are common and occurred throughout our measurement period (7-24\nJan 2001). Though not targeted at the root servers, DOS attacks often use root\nservers as reflectors toward a victim network.  We contrast our observations\nwith those found in an earlier study of DNS rootserver performance by\nDanzig et al.\n",
+    "annotation": "&copy; 2001 IEEE. Personal use of this material is permitted. However, permission to reprint/republish this material for advertising or promotional purposes or for creating new collective works for resale or redistribution to servers or lists, or to reuse any copyrighted component of this work in other works must be obtained from the IEEE.",
+    "tags": [
+        "dns"
+    ],
+    "pubdb_id": "paper113",
+    "authors": [
+        {
+            "person": "person:Brownlee__Nevil",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:claffy__kc",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Nemeth__Evi",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        }
+    ],
+    "links": [],
+    "institution": "",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2001_DNSMeasRoot__pubdb.json",
+    "publisher": "IEEE Global Telecommunications Conference (GLOBECOM)",
+    "resources": [
+        {
+            "name": "gzipped postscript",
+            "url": "dmr.ps.gz",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2001/DNSMeasRoot/dmr.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "INPROCEEDINGS",
+        "bookTitle": "IEEE Global Telecommunications Conference (GLOBECOM)"
+    },
+    "date": "2001.11"
+}

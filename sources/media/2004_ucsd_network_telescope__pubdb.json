@@ -1,0 +1,77 @@
+{
+    "id": "2004_ucsd_network_telescope",
+    "name": "The UCSD Network Telescope",
+    "description": "This slideset was presented at the Equinix Gigabit Peering Forum on September 14, 2004, at BBN on September 28, 2004, at Lincoln Labs on September 29, 2004, and at the CCIED Site Visit on November 22, 2004.",
+    "tags": [
+        "network telescope",
+        "security",
+        "measurement methodology"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "CCIED Site Visit",
+            "date": "2004.11",
+            "url": "",
+            "person": "person:Shannon__Colleen"
+        },
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "Lincoln Labs",
+            "date": "2004.09",
+            "url": "",
+            "person": "person:Shannon__Colleen"
+        },
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "BBN",
+            "date": "2004.09",
+            "url": "",
+            "person": "person:Shannon__Colleen"
+        },
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "Equinix Gigabit Peering Forum",
+            "date": "2004.09",
+            "url": "",
+            "person": "person:Shannon__Colleen"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2004_ucsd_network_telescope__pubdb.json",
+    "pubdb_id": "presentation39",
+    "resources": [
+        {
+            "name": "PDF - BBN",
+            "url": "https://www.caida.org/publications/presentations/2004/ucsd_network_telescope/ucsd_network_telescope_bbn.pdf",
+            "tags": []
+        },
+        {
+            "name": "PDF - CCIED Site Visit",
+            "url": "https://www.caida.org/publications/presentations/2004/ucsd_network_telescope/ucsd_network_telescope_ccied.pdf",
+            "tags": []
+        },
+        {
+            "name": "PDF - Equinix Gigabit Peering Forum",
+            "url": "https://www.caida.org/publications/presentations/2004/ucsd_network_telescope/ucsd_network_telescope_equinix.pdf",
+            "tags": []
+        },
+        {
+            "name": "PDF - Lincoln Labs",
+            "url": "https://www.caida.org/publications/presentations/2004/ucsd_network_telescope/ucsd_network_telescope_lincoln.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2004.11"
+}

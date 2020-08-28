@@ -1,0 +1,85 @@
+{
+    "id": "2007_as_relationships_inference",
+    "name": "AS Relationships: Inference and Validation",
+    "datePublished": "2007.01",
+    "description": "\nResearch on performance, robustness, and evolution of the global Internet is fundamentally handicapped without accurate and complete knowledge of the nature and structure of the contractual relationships between Autonomous Systems (ASs). In this work, we first examine the state-of-the-art in inferring AS relationships. We carefully analyze existing techniques and pinpoint limitations and inadequacies associated with them. We then introduce new, improved heuristics addressing the problems we have identified. Seeking to increase the value and reliability of our inference results, we then proceed to direct validation. We perform a survey with ASs' network administrators to collect information on the actual connectivity and policies of the surveyed ASs. Based on the survey results, we find that our new AS relationship inference techniques achieve high levels of accuracy: we correctly infer 96.5% customer to provider (c2p), 82.8% peer to peer (p2p), and 90.3% sibling to sibling (s2s) relationships. We then cross-compare the reported AS connectivity with the AS connectivity data contained in BGP tables. We regret to report that BGP tables miss up to 86.2% of the true adjacencies of the surveyed ASs. The majority of the missing links are of the p2p type, meaning that, in reality, peering links are likely to be more dominant than have been previously reported or conjectured. Finally, to make our results easily accessible and practically useful for the community, we open an AS relationship repository where we archive, on a weekly basis, and make publicly available the complete Internet AS-level topologies enriched with AS relationship information for every pair of AS neighbors.\n",
+    "annotation": "",
+    "tags": [
+        "routing",
+        "topology",
+        "policy"
+    ],
+    "pubdb_id": "paper42",
+    "authors": [
+        {
+            "person": "person:Dimitropoulos__Xenofontas",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego",
+                "Georgia Institute of Technology (Georgia Tech)"
+            ]
+        },
+        {
+            "person": "person:Krioukov__Dmitri",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Fomenkov__Marina",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Huffaker__Bradley",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Hyun__Young",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:claffy__kc",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Riley__George",
+            "organizations": [
+                "Georgia Institute of Technology (Georgia Tech)"
+            ]
+        }
+    ],
+    "links": [],
+    "booktitle": "",
+    "institution": "",
+    "number": "1",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2007_as_relationships_inference__pubdb.json",
+    "publisher": "ACM SIGCOMM Computer Communication Review (CCR)",
+    "resources": [
+        {
+            "name": "DOI",
+            "url": "http://portal.acm.org/citation.cfm?doid=1198255.1198259",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2007/as_relationships_inference/as_relationships_inference.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "ARTICLE",
+        "journal": "ACM SIGCOMM Computer Communication Review (CCR)",
+        "volume": "37",
+        "pages": "29-40"
+    },
+    "date": "2007.01"
+}

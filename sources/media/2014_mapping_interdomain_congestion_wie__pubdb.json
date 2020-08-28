@@ -1,0 +1,36 @@
+{
+    "id": "2014_mapping_interdomain_congestion_wie",
+    "name": "Mapping Interdomain Congestion",
+    "description": "",
+    "tags": [
+        "policy",
+        "measurement methodology",
+        "data",
+        "active data analysis",
+        "topology",
+        "congestion"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Workshop on Internet Economics (WIE)",
+            "date": "2014.12",
+            "url": "http://www.caida.org/workshops/wie/1412/",
+            "person": "person:Dhamdhere__Amogh"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2014_mapping_interdomain_congestion_wie__pubdb.json",
+    "pubdb_id": "presentation400",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2014/mapping_interdomain_congestion_wie/mapping_interdomain_congestion_wie.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2014.12"
+}

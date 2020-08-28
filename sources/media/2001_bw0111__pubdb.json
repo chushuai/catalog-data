@@ -1,0 +1,32 @@
+{
+    "id": "2001_bw0111",
+    "name": "Internet measurement: state of DeUnion",
+    "description": "",
+    "tags": [
+        "overview",
+        "policy"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Tarifica Bandwidth Seminar",
+            "date": "2001.11",
+            "url": "",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2001_bw0111__pubdb.json",
+    "pubdb_id": "presentation295",
+    "resources": [
+        {
+            "name": "HTML slides",
+            "url": "https://www.caida.org/publications/presentations/2001/bw0111/index.html",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2001.11"
+}

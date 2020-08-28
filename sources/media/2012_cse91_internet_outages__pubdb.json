@@ -1,0 +1,36 @@
+{
+    "id": "2012_cse91_internet_outages",
+    "name": "Analysis of macroscopic Internet Outages",
+    "description": "",
+    "tags": [
+        "passive data analysis",
+        "security",
+        "policy",
+        "data",
+        "measurement methodology",
+        "overview"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "UCSD CSE Perspectives in Computer Science",
+            "date": "2012.02",
+            "url": "",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2012_cse91_internet_outages__pubdb.json",
+    "pubdb_id": "presentation22",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2012/cse91_internet_outages/cse91_internet_outages.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2012.02"
+}

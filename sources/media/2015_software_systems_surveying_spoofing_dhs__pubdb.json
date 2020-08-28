@@ -1,0 +1,39 @@
+{
+    "id": "2015_software_systems_surveying_spoofing_dhs",
+    "name": "Software Systems for Surveying Spoofing Susceptibility",
+    "description": "",
+    "tags": [
+        "security",
+        "active data analysis",
+        "routing",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "DHS DDoSD PI Meeting",
+            "date": "2015.08",
+            "url": "",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2015_software_systems_surveying_spoofing_dhs__pubdb.json",
+    "pubdb_id": "presentation416",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2015/software_systems_surveying_spoofing_dhs/software_systems_surveying_spoofing_dhs.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Project",
+            "url": "https://www.caida.org/projects/spoofer/",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2015.08"
+}

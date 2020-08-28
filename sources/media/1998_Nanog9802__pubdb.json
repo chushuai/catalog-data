@@ -1,0 +1,37 @@
+{
+    "id": "1998_Nanog9802",
+    "name": "NLANR cache hierarchy statistics visualization, and roi",
+    "description": "",
+    "tags": [
+        "caching",
+        "visualization"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "North American Network Operators' Group (NANOG)",
+            "date": "1998.02",
+            "url": "https://www.nanog.org/meetings/nanog12/home",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/1998_Nanog9802__pubdb.json",
+    "pubdb_id": "presentation250",
+    "resources": [
+        {
+            "name": "HTML Outline",
+            "url": "https://www.caida.org/publications/presentations/1998/Nanog9802/index.html",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/1998/plankton",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "1998.02"
+}

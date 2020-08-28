@@ -1,0 +1,36 @@
+{
+    "id": "2006_isma0605_priya",
+    "name": "A Basis for Systematic Analysis of Network Topologies",
+    "description": "",
+    "tags": [
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "ISMA Workshop on the Internet Topology (WIT)",
+            "date": "2006.05",
+            "url": "",
+            "person": "person:Mahadevan__Priya"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2006_isma0605_priya__pubdb.json",
+    "pubdb_id": "presentation23",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2006/isma0605_priya/isma0605_priya.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2006/tr-2006-01",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2006.05"
+}

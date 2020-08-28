@@ -1,0 +1,42 @@
+{
+    "id": "2017_resilience_deployed_tcp_blind",
+    "name": "Resilience of Deployed TCP to Blind FIN Attacks",
+    "datePublished": "2017.10",
+    "description": "In prior work we conducted in 2015, we considered the resilience of deployed TCP implementations to blind in-window RST, SYN, and data attacks. These three attacks and defenses to the attacks were previously described in RFC5961. In this report, we consider the resilience of deployed TCP implementations to blind in-window FIN attacks, an attack not explicitly covered in RFC5961, where an off-path adversary disrupts an established connection by sending a packet that the victim believes came from its peer, causing the connection to be prematurely closed. We extended scamper, a parallelized packet prober with existing TCP behaviour inference capability, to add an active measurement test that infers whether or not a TCP implementation will accept a FIN packet that contains an acknowledgement value that should cause the receiver to discard the packet. We tested operating systems (and middleboxes deployed in front) of 4397 webservers in the wild in September 2017 and found 18% of tested connections were vulnerable to in-window FIN attack packets, consistent with our prior measurements testing the resilience of TCP implementations to blind in-window RST, SYN, and data attacks.",
+    "annotation": "",
+    "tags": [
+        "measurement methodology",
+        "security"
+    ],
+    "pubdb_id": "paper641",
+    "authors": [
+        {
+            "person": "person:Luckie__Matthew",
+            "organizations": [
+                "University of Waikato"
+            ]
+        }
+    ],
+    "links": [],
+    "booktitle": "",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2017_resilience_deployed_tcp_blind__pubdb.json",
+    "publisher": "Center for Applied Internet Data Analysis (CAIDA)",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2017/resilience_deployed_tcp_blind/resilience_deployed_tcp_blind.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "TECHREPORT",
+        "institution": "Center for Applied Internet Data Analysis (CAIDA)"
+    },
+    "date": "2017.10"
+}

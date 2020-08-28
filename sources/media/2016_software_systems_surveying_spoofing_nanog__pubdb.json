@@ -1,0 +1,44 @@
+{
+    "id": "2016_software_systems_surveying_spoofing_nanog",
+    "name": "Software Systems for Surveying Spoofing Susceptibility",
+    "description": "",
+    "tags": [
+        "active data analysis",
+        "routing",
+        "security",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "North American Network Operators' Group (NANOG)",
+            "date": "2016.10",
+            "url": "https://nanog.org/meetings/nanog68/home",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2016_software_systems_surveying_spoofing_nanog__pubdb.json",
+    "pubdb_id": "presentation457",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2016/software_systems_surveying_spoofing_nanog/software_systems_surveying_spoofing_nanog.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Project",
+            "url": "https://www.caida.org/projects/spoofer/",
+            "tags": []
+        },
+        {
+            "name": "Video",
+            "url": "https://www.youtube.com/watch?v=WL4DxFOxR8E&feature=youtu.be&t=33m30s",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2016.10"
+}

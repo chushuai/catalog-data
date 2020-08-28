@@ -1,0 +1,55 @@
+{
+    "id": "2018_studying_evolution_content_providers_tma",
+    "name": "Studying the Evolution of Content Providers in the Internet Core",
+    "description": "Presented as part of joint work with CAIDA. A spanish version of this presentation was made at LACNOG in Sep 2018.",
+    "tags": [
+        "congestion",
+        "topology",
+        "measurement methodology",
+        "routing"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "University of Buenos Aires"
+            ],
+            "venue": "Network Traffic Measurement and Analysis Conference (TMA)",
+            "date": "2018.06",
+            "url": "http://tma.ifip.org/2018/",
+            "person": "person:Carisimo__Esteban"
+        },
+        {
+            "organizations": [
+                "University of Buenos Aires"
+            ],
+            "venue": "Network Operators Group of Latin America and the Carribean (LACNOG)",
+            "date": "2018.09",
+            "url": "http://www.lacnog.org/en/events/lacnog2018/",
+            "person": "person:Carisimo__Esteban"
+        }
+    ],
+    "links": [
+        {
+            "to": "paper:2018_studying_evolution_content_providers",
+            "url": "https://www.caida.org/publications/papers/2018/studying_evolution_content_providers/"
+        }
+    ],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2018_studying_evolution_content_providers_tma__pubdb.json",
+    "pubdb_id": "presentation520",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2018/studying_evolution_content_providers_tma/studying_evolution_content_providers_tma.pdf",
+            "tags": []
+        },
+        {
+            "name": "PDF (Espa\u00f1ol)",
+            "url": "https://www.caida.org/publications/presentations/2018/studying_evolution_content_providers_tma/studying_evolution_content_providers_lacnog.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2018.09"
+}

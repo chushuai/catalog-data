@@ -1,0 +1,32 @@
+{
+    "id": "1998_nanog9806",
+    "name": "Path and Round-Trip Time Measurements",
+    "description": "",
+    "tags": [
+        "measurement methodology",
+        "software/tools"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "North American Network Operators' Group (NANOG)",
+            "date": "1998.06",
+            "url": "https://www.nanog.org/meetings/nanog13/home",
+            "person": "person:McRobb__Daniel"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/1998_nanog9806__pubdb.json",
+    "pubdb_id": "presentation167",
+    "resources": [
+        {
+            "name": "HTML Outline",
+            "url": "https://www.caida.org/publications/presentations/1998/nanog9806/index.html",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "1998.06"
+}

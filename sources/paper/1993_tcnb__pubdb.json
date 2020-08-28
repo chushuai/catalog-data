@@ -1,0 +1,59 @@
+{
+    "id": "1993_tcnb",
+    "name": "Traffic characteristics of the T1 NSFNET backbone",
+    "datePublished": "1993.01",
+    "description": "This paper presents the results of a measurement study of the T1 NSFNET\r\nbackbone. We first discuss the measurement environment and approach to\r\ndata collection. We then present measurements results for: long-term\r\ngrowth in traffic volume, including attribution to domains and\r\nprotocols; trend in average packet size on the network, both over long\r\nand medium term intervals; most popular sources, destinations, and site\r\npairs; traffic locality; international distribution of traffic; mean\r\nutilization statistics, both of the overall backbone as well as of\r\nspecific links of interest; and delay statistics.\r\n\r\n",
+    "annotation": "",
+    "tags": [
+        "measurement methodology",
+        "passive data analysis"
+    ],
+    "pubdb_id": "paper178",
+    "authors": [
+        {
+            "person": "person:claffy__kc",
+            "organizations": [
+                "Applied Network Research, San Diego Supercomputer Center, University of California, San Diego"
+            ]
+        },
+        {
+            "person": "person:Polyzos__George",
+            "organizations": [
+                "University of California, San Diego (UCSD)"
+            ]
+        },
+        {
+            "person": "person:Braun__Hans-Werner",
+            "organizations": [
+                "Applied Network Research, San Diego Supercomputer Center, University of California, San Diego"
+            ]
+        }
+    ],
+    "links": [],
+    "institution": "",
+    "journal": "",
+    "number": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/1993_tcnb__pubdb.json",
+    "publisher": "IEEE Conference on Computer Communications (INFOCOM)",
+    "resources": [
+        {
+            "name": "gzipped postscript",
+            "url": "nsfnet-t1-stats.ps.gz",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/1993/tcnb/nsfnet-t1-stats.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "INPROCEEDINGS",
+        "bookTitle": "IEEE Conference on Computer Communications (INFOCOM)",
+        "volume": "2",
+        "pages": "885-893"
+    },
+    "date": "1993.01"
+}

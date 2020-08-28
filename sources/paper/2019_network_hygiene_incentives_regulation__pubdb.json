@@ -1,0 +1,84 @@
+{
+    "id": "2019_network_hygiene_incentives_regulation",
+    "name": "Network Hygiene, Incentives, and Regulation: Deployment of Source Address Validation in the Internet",
+    "datePublished": "2019.11",
+    "description": "The Spoofer project has collected data on the deployment and characteristics of IP source address validation on the Internet since 2005. Data from the project comes from participants who install an active probing client that runs in the background. The client automatically runs tests both periodically and when it detects a new network attachment point. We analyze the rich dataset of Spoofer tests in multiple dimensions: across time, networks, autonomous systems, countries, and by Internet protocol version. In our data for the year ending August 2019, at least a quarter of tested ASes did not filter packets with spoofed source addresses leaving their networks. We show that routers performing Network Address Translation do not always filter spoofed packets, as 6.4% of IPv4/24 tested in the year ending August 2019 did not filter. Worse, at least two thirds of tested ASes did not filter packets entering their networks with source addresses claiming to be from within their network that arrived from outside their network. We explore several approaches to encouraging remediation and the challenges of evaluating their impact. While we have been able to remediate 352 IPv4/24, we have found an order of magnitude more IPv4/24 that remains unremediated, despite myriad remediation strategies, with 21% unremediated for more than six months. Our analysis provides the most complete and confident picture of the Internet\u2019s susceptibility to date of this long-standing vulnerability. Although there is no simple solution to address the remaining long-tail of unremediated networks, we conclude with a discussion of possible non-technical interventions, and demonstrate how the platform can support evaluation of the impact of such interventions over time.",
+    "annotation": "",
+    "tags": [
+        "measurement methodology",
+        "topology",
+        "software/tools",
+        "security"
+    ],
+    "pubdb_id": "paper691",
+    "authors": [
+        {
+            "person": "person:Luckie__Matthew",
+            "organizations": [
+                "University of Waikato"
+            ]
+        },
+        {
+            "person": "person:Beverly__Robert",
+            "organizations": [
+                "Naval Postgraduate School"
+            ]
+        },
+        {
+            "person": "person:Koga__Ryan",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Keys__Ken",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Kroll__Joshua A.",
+            "organizations": [
+                "Naval Postgraduate School"
+            ]
+        },
+        {
+            "person": "person:claffy__kc",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        }
+    ],
+    "links": [
+        {
+            "to": "media:2019_network_hygiene_incentives_regulation_ccs",
+            "url": "https://www.caida.org/publications/presentations/2019/network_hygiene_incentives_regulation_ccs/"
+        }
+    ],
+    "institution": "",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2019_network_hygiene_incentives_regulation__pubdb.json",
+    "publisher": "ACM Computer and Communications Security (CCS)",
+    "resources": [
+        {
+            "name": "DOI",
+            "url": "https://doi.org/10.1145/3319535.3354232",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2019/network_hygiene_incentives_regulation/network_hygiene_incentives_regulation.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "INPROCEEDINGS",
+        "bookTitle": "ACM Computer and Communications Security (CCS)"
+    },
+    "date": "2019.11"
+}

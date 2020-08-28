@@ -1,0 +1,38 @@
+{
+    "id": "2010_wecsr_framework_ethical_research",
+    "name": "Framework for Understanding and Applying Ethical Principles in Network and Security Research",
+    "description": "",
+    "tags": [
+        "policy",
+        "trends",
+        "overview"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Workshop on Ethics in Computer Security Research",
+            "date": "2010.01",
+            "url": "",
+            "person": "person:Kenneally__Erin"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2010_wecsr_framework_ethical_research__pubdb.json",
+    "pubdb_id": "presentation16",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2010/wecsr_framework_ethical_research/wecsr_framework_ethical_research.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2010/framework_ethical_research",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2010.01"
+}

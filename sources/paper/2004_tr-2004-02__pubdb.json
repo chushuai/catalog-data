@@ -1,0 +1,64 @@
+{
+    "id": "2004_tr-2004-02",
+    "name": "The RTT distribution of TCP flows on the Internet and its impact on TCP based flow control",
+    "datePublished": "2004.03",
+    "description": "It is well known that the performance of a TCP flow is affected by its round-trip time (RTT), i.e., the elapsed time between the instant a packet is released by the source to the instant the corresponding ack is received by the source. The distribution of RTTs can dramatically affect not only the data rates realized by individual flows sharing a link but also the utilization of Internet links. In this paper we present a comprehensive study of the RTT distribution for TCP traffic in the Internet.",
+    "annotation": "",
+    "tags": [
+        "measurement methodology"
+    ],
+    "pubdb_id": "paper471",
+    "authors": [
+        {
+            "person": "person:Shakkottai__Srinivas",
+            "organizations": [
+                "University of Illinois at Urbana-Champaign, Illinois (UIUC)"
+            ]
+        },
+        {
+            "person": "person:Brownlee__Nevil",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Broido__Andre",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:claffy__kc",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        }
+    ],
+    "links": [],
+    "booktitle": "",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2004_tr-2004-02__pubdb.json",
+    "publisher": "Cooperative Association for Internet Data Analysis (CAIDA)",
+    "resources": [
+        {
+            "name": "gzipped postscript",
+            "url": "tr-2004-02.ps.gz",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2004/tr-2004-02/tr-2004-02.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "TECHREPORT",
+        "institution": "Cooperative Association for Internet Data Analysis (CAIDA)"
+    },
+    "date": "2004.03"
+}

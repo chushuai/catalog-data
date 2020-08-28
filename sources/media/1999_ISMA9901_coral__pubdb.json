@@ -1,0 +1,32 @@
+{
+    "id": "1999_ISMA9901_coral",
+    "name": "coral: a flexible platform for passive network monitoring",
+    "description": "",
+    "tags": [
+        "software/tools",
+        "measurement methodology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Internet Statistics and Metrics Analysis Workshop (ISMA)",
+            "date": "1999.01",
+            "url": "",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/1999_ISMA9901_coral__pubdb.json",
+    "pubdb_id": "presentation177",
+    "resources": [
+        {
+            "name": "HTML Slides",
+            "url": "https://www.caida.org/publications/presentations/1999/ISMA9901_coral/index.html",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "1999.01"
+}

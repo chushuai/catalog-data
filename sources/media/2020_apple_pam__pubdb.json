@@ -1,0 +1,44 @@
+{
+    "id": "2020_apple_pam",
+    "name": "APPLE: Alias Pruning by Path Length Estimation",
+    "description": "",
+    "tags": [
+        "ipv6",
+        "topology",
+        "routing",
+        "measurement methodology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Passive and Active Measurement Conference (PAM)",
+            "date": "2020.03",
+            "url": "https://pam2020.cs.uoregon.edu/",
+            "person": "person:Marder__Alexander"
+        }
+    ],
+    "links": [
+        {
+            "to": "paper:2020_apple",
+            "url": "https://www.caida.org/publications/papers/2020/apple/"
+        }
+    ],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2020_apple_pam__pubdb.json",
+    "pubdb_id": "presentation579",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2020/apple_pam/apple_pam.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Video",
+            "url": "https://www.youtube.com/watch?v=vm_62zaGau0&feature=youtu.be",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2020.03"
+}

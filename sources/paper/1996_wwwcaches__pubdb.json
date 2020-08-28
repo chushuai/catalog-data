@@ -1,0 +1,41 @@
+{
+    "id": "1996_wwwcaches",
+    "name": "Can WWW caches help to save the Internet?",
+    "datePublished": "1996.09",
+    "description": "A number of different factors can make Web browsing slow. Internet circuits in many places are running at full capacity and often suffer from congestion. Since a typical Web transaction involves a handful of service providers, any congested link along the way can cause the entire connection to be slow. It might be your local provider, a backbone operator, or the remote server's provider. Or it may be that the remote server machine is just too busy. When Web sites suddenly become popular, the server systems are often unprepared to handle the load. It is also somewhat appropriate to blame the HyperText Transfer Protocol (HTTP) because the current version transfers only one request per connection.\n\nWhat can be done to speed things up?\n",
+    "annotation": "",
+    "tags": [
+        "caching"
+    ],
+    "pubdb_id": "paper161",
+    "authors": [
+        {
+            "person": "person:Wessels__Duane",
+            "organizations": [
+                "San Diego Supercomputer Center,   University of California, San Diego (SDSC/UCSD)"
+            ]
+        }
+    ],
+    "links": [],
+    "institution": "",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/1996_wwwcaches__pubdb.json",
+    "publisher": "Coordination and Administration of the Internet Workshop",
+    "resources": [
+        {
+            "name": "HTML",
+            "url": "wwwcaches.html",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "INPROCEEDINGS",
+        "bookTitle": "Coordination and Administration of the Internet Workshop"
+    },
+    "date": "1996.09"
+}

@@ -1,0 +1,53 @@
+{
+    "id": "2010_as_assignment",
+    "name": "AS Assignment for Routers",
+    "description": "This slideset was presented at the Passive and Active Measurement (PAM) conference in April 2010. It was also presented at the ISMA 2010 AIMS-2 workshop in February 2010 and the CAIDA-WIDE-CASFI workshop in April 2010.",
+    "tags": [
+        "active data analysis",
+        "routing",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "WIDE-CASFI",
+            "date": "2010.04",
+            "url": "",
+            "person": "person:Huffaker__Bradley"
+        },
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "ISMA Workshop on Active Internet Measurements (AIMS)",
+            "date": "2010.02",
+            "url": "",
+            "person": "person:Huffaker__Bradley"
+        },
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "Passive and Active Measurement Conference (PAM)",
+            "date": "2010.04",
+            "url": "",
+            "person": "person:Huffaker__Bradley"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2010_as_assignment__pubdb.json",
+    "pubdb_id": "presentation17",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2010/as_assignment/as_assignment.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2010.04"
+}

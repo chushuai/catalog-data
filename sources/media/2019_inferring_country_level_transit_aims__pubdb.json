@@ -1,0 +1,32 @@
+{
+    "id": "2019_inferring_country_level_transit_aims",
+    "name": "Inferring Country-Level Transit Influence of Autonomous Systems",
+    "description": "",
+    "tags": [
+        "topology",
+        "measurement methodology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Workshop on Active Internet Measurements (AIMS)",
+            "date": "2019.04",
+            "url": "http://www.caida.org/workshops/aims/1904",
+            "person": "person:Gamero-Garrido__Alex"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2019_inferring_country_level_transit_aims__pubdb.json",
+    "pubdb_id": "presentation547",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2019/inferring_country_level_transit_aims/inferring_country_level_transit_aims.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2019.04"
+}

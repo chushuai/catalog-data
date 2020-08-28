@@ -1,0 +1,39 @@
+{
+    "id": "2015_mapping_peering_interconnections_conext",
+    "name": "Mapping Peering Interconnections to a Facility",
+    "description": "",
+    "tags": [
+        "active data analysis",
+        "measurement methodology",
+        "routing",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "ACM SIGCOMM Conference on emerging Networking EXperiments and Technologies (CoNEXT)",
+            "date": "2015.12",
+            "url": "http://conferences2.sigcomm.org/co-next/2015/",
+            "person": "person:Giotsas__Vasileios"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2015_mapping_peering_interconnections_conext__pubdb.json",
+    "pubdb_id": "presentation437",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2015/mapping_peering_interconnections_conext/mapping_peering_interconnections_conext.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/presentations/2015/mapping_peering_interconnections_conext//publications/papers/2015/mapping_peering_interconnections/",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2015.12"
+}

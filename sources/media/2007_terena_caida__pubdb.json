@@ -1,0 +1,31 @@
+{
+    "id": "2007_terena_caida",
+    "name": "CAIDA Activities",
+    "description": "",
+    "tags": [
+        "overview"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "TERENA Networking Conference",
+            "date": "2007.05",
+            "url": "",
+            "person": "person:Shannon__Colleen"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2007_terena_caida__pubdb.json",
+    "pubdb_id": "presentation68",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2007/terena_caida/terena_caida.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2007.05"
+}

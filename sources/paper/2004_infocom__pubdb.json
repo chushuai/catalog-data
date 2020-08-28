@@ -1,0 +1,64 @@
+{
+    "id": "2004_infocom",
+    "name": "A Nonstationary Poisson View of Internet Traffic",
+    "datePublished": "2004.03",
+    "description": "Since the identification of long-range dependence in network traffic ten years ago, its consistent appearance across numerous measurement studies has largely discredited Poissonbased models. However, since that original data set was collected, both link speeds and the number of Internet-connected hosts have increased by more than three orders of magnitude. Thus, we now revisit the Poisson assumption, by studying a combination of historical traces and new measurements obtained from a major backbone link belonging to a Tier 1 ISP. We show that unlike the older data sets, current network traffic can be well represented by the Poisson model for sub-second time scales. At multi-second scales, we find a distinctive piecewise-linear non-stationarity, together with evidence of long-range dependence. Combining our observations across both time scales leads to a time-dependent Poisson characterization of network traffic that, when viewed across very long time scales, exhibits the observed long-range dependence. This traffic characterization reconciliates the seemingly contradicting observations of Poisson and long-memory traffic characteristics. It also seems to be in general agreement with recent theoretical models for large-scale traffic aggregation.\r\n",
+    "annotation": "",
+    "tags": [
+        "passive data analysis"
+    ],
+    "pubdb_id": "paper86",
+    "authors": [
+        {
+            "person": "person:Karagiannis__Thomas",
+            "organizations": [
+                "Department of Computer Science &amp; Engineering,\nUniversity of California, Riverside"
+            ]
+        },
+        {
+            "person": "person:Molle__Mart",
+            "organizations": [
+                "Department of Computer Science &amp; Engineering,\nUniversity of California, Riverside"
+            ]
+        },
+        {
+            "person": "person:Faloutsos__Michalis",
+            "organizations": [
+                "Department of Computer Science &amp; Engineering,\nUniversity of California, Riverside"
+            ]
+        },
+        {
+            "person": "person:Broido__Andre",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        }
+    ],
+    "links": [],
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2004_infocom__pubdb.json",
+    "publisher": "IEEE Conference on Computer Communications (INFOCOM)",
+    "resources": [
+        {
+            "name": "gzipped postscript",
+            "url": "infocom.ps.gz",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2004/infocom/infocom.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "INPROCEEDINGS",
+        "bookTitle": "IEEE Conference on Computer Communications (INFOCOM)",
+        "institution": "Cooperative Association for Internet Data Analysis (CAIDA)",
+        "pages": "1558-1569"
+    },
+    "date": "2004.03"
+}

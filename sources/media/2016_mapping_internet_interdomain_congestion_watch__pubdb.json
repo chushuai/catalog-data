@@ -1,0 +1,41 @@
+{
+    "id": "2016_mapping_internet_interdomain_congestion_watch",
+    "name": "Mapping Internet Interdomain Congestion",
+    "description": "",
+    "tags": [
+        "active data analysis",
+        "data",
+        "policy",
+        "measurement methodology",
+        "topology",
+        "congestion"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "NSF Washington Area Trustworthy Computing Hour (WATCH)",
+            "date": "2016.08",
+            "url": "http://www.nsf.gov/cise/cns/watch/talks/claffy.jsp",
+            "person": "person:Claffy__Kimberly"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2016_mapping_internet_interdomain_congestion_watch__pubdb.json",
+    "pubdb_id": "presentation454",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2016/mapping_internet_interdomain_congestion_watch/mapping_internet_interdomain_congestion_watch.pdf",
+            "tags": []
+        },
+        {
+            "name": "Video (webcast)",
+            "url": "http://www.tvworldwide.com/events/nsf/160818/",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2016.08"
+}

@@ -1,0 +1,33 @@
+{
+    "id": "2001_dns0701",
+    "name": "thoughts on measurement and management of the DNS system",
+    "description": "",
+    "tags": [
+        "dns",
+        "policy",
+        "passive data analysis"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Computer Science and Telecommunications Board (CSTB)",
+            "date": "2001.07",
+            "url": "",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2001_dns0701__pubdb.json",
+    "pubdb_id": "presentation140",
+    "resources": [
+        {
+            "name": "HTML slides",
+            "url": "https://www.caida.org/publications/presentations/2001/dns0701/index.html",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2001.07"
+}

@@ -1,0 +1,41 @@
+{
+    "id": "1999_Nae",
+    "name": "Internet measurement and data analysis: topology, workload, performance and routing statistics",
+    "datePublished": "1999.03",
+    "description": "We discuss the collection, analysis and visualization of four forms of\r\nInternet traffic data: network topology, workload, performance, and\r\nrouting. Topology data describe network link infrastructure at a\r\nvariety of `protocol' layers. Workload measurements involve the\r\ncollection of traffic information from a point within a network, e.g.,\r\ndata collected by a router or switch or by an independent device\r\npassively monitoring traffic as it traverses a network link.\r\nPerformance measurements involve the introduction of traffic into the\r\nnetwork for the purpose of monitoring delay between specific\r\nend-points. Routing data includes data from Border Gateway Protocol\r\n(BGP) routing tables, which reflect the transit relationships between\r\nindividual Autonomous Systems (ASes) at a given point in time. We\r\ndescribe highlights from these topic areas and their role in the state\r\nof Internet measurement and data analysis today.\r\n\r\n",
+    "annotation": "",
+    "tags": [
+        "overview"
+    ],
+    "pubdb_id": "paper137",
+    "authors": [
+        {
+            "person": "person:claffy__kc",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        }
+    ],
+    "links": [],
+    "institution": "",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/1999_Nae__pubdb.json",
+    "publisher": "National Academy of Engineering (NAE) Workshop",
+    "resources": [
+        {
+            "name": "HTML",
+            "url": "Nae.html",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "INPROCEEDINGS",
+        "bookTitle": "National Academy of Engineering (NAE) Workshop"
+    },
+    "date": "1999.03"
+}

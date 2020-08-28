@@ -1,0 +1,53 @@
+{
+    "id": "2001_consti",
+    "name": "What do packet dispersion techniques measure?",
+    "datePublished": "2001.01",
+    "description": "The packet pair technique estimates the capacity of a path\r\n(bottleneck bandwidth) from the dispersion (spacing) experienced by\r\ntwo back-to-back packets. We demonstrate that the dispersion of\r\npacket pairs in loaded paths follows a multimodal distribution, and\r\ndis-cuss the queueing effects that cause the multiple modes. We\r\nshow that the path capacity is often not the global mode, and so it\r\ncannot be estimated using standard statistical procedures. The\r\neffect of the size of the probing packets is also investigated,\r\nshowing that the conventional wisdom of using maximum sized packet\r\npairs is not optimal. We then study the dispersion of long packet\r\ntrains. Increasing the length of the packet train reduces the\r\nmeasurement variance, but the estimates converge to a value,\r\nreferred to as Asymptotic Dispersion Rate (ADR), that is lower than\r\nthe capacity. We derive the effect of the cross traffic in the\r\ndispersion of long packet trains, showing that the ADR is not the\r\navailable bandwidth in the path, as was assumed in previous work.\r\nPutting all the pieces together, we present a capacity estimation\r\nmethodology that has been implemented in a tool called pathrate.",
+    "annotation": "",
+    "tags": [
+        "bandwidth estimation"
+    ],
+    "pubdb_id": "paper120",
+    "authors": [
+        {
+            "person": "person:Dovrolis__Constantinos",
+            "organizations": [
+                "University of Wisconsin at Madison"
+            ]
+        },
+        {
+            "person": "person:Ramanathan__Parameswaran",
+            "organizations": [
+                "University of Wisconsin at Madison"
+            ]
+        },
+        {
+            "person": "person:Moore__David",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        }
+    ],
+    "links": [],
+    "institution": "",
+    "journal": "",
+    "number": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2001_consti__pubdb.json",
+    "publisher": "IEEE Conference on Computer Communications (INFOCOM)",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2001/consti/consti.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "INPROCEEDINGS",
+        "bookTitle": "IEEE Conference on Computer Communications (INFOCOM)",
+        "volume": "2",
+        "pages": "905-914"
+    },
+    "date": "2001.01"
+}

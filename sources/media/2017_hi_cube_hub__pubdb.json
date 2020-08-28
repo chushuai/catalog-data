@@ -1,0 +1,34 @@
+{
+    "id": "2017_hi_cube_hub",
+    "name": "HI-Cube - Hub for Internet Incidents Investigation",
+    "description": "",
+    "tags": [
+        "security",
+        "active data analysis",
+        "data",
+        "data sharing"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "DHS IMPACT PI Meeting",
+            "date": "2017.12",
+            "url": "",
+            "person": "person:Dainotti__Alberto"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2017_hi_cube_hub__pubdb.json",
+    "pubdb_id": "presentation500",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2017/hi_cube_hub/hi_cube_hub.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2017.12"
+}

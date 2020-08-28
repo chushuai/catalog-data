@@ -1,0 +1,31 @@
+{
+    "id": "1998_Caida.june98",
+    "name": "Engineering the Net: Overview of CAIDA",
+    "description": "",
+    "tags": [
+        "overview"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "CAIDA",
+            "date": "1998.06",
+            "url": "",
+            "person": "person:Monk__Tracie"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/1998_Caida.june98__pubdb.json",
+    "pubdb_id": "presentation121",
+    "resources": [
+        {
+            "name": "HTML slides",
+            "url": "https://www.caida.org/publications/presentations/1998/Caida.june98/index.html",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "1998.06"
+}

@@ -1,0 +1,38 @@
+{
+    "id": "2003_internetworking03",
+    "name": "Atom-based Routing",
+    "description": "",
+    "tags": [
+        "routing",
+        "topology",
+        "data"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Internetworking",
+            "date": "2003.06",
+            "url": "",
+            "person": "person:Verkaik__Patrick"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2003_internetworking03__pubdb.json",
+    "pubdb_id": "presentation143",
+    "resources": [
+        {
+            "name": "gzipped postscript",
+            "url": "https://www.caida.org/publications/presentations/2003/internetworking03/atoms.internetworking03.ps.gz",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2003/internetworking03/atoms.internetworking03.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2003.06"
+}

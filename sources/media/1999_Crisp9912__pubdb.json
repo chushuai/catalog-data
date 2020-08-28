@@ -1,0 +1,31 @@
+{
+    "id": "1999_Crisp9912",
+    "name": "traffic observation in a stateless data networking environment",
+    "description": "",
+    "tags": [
+        "security"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "CRISP Cybercrime Workshop",
+            "date": "1999.12",
+            "url": "",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/1999_Crisp9912__pubdb.json",
+    "pubdb_id": "presentation79",
+    "resources": [
+        {
+            "name": "HTML slides",
+            "url": "https://www.caida.org/publications/presentations/1999/Crisp9912/index.html",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "1999.12"
+}

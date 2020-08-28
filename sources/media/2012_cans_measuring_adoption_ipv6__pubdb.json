@@ -1,0 +1,35 @@
+{
+    "id": "2012_cans_measuring_adoption_ipv6",
+    "name": "Measuring the Adoption of IPv6",
+    "description": "",
+    "tags": [
+        "economics",
+        "ipv6",
+        "measurement methodology",
+        "routing",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Chinese American Networking Symposium (CANS)",
+            "date": "2012.10",
+            "url": "",
+            "person": "person:Dhamdhere__Amogh"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2012_cans_measuring_adoption_ipv6__pubdb.json",
+    "pubdb_id": "presentation328",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2012/cans_measuring_adoption_ipv6/cans_measuring_adoption_ipv6.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2012.10"
+}

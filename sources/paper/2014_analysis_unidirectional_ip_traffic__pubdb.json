@@ -1,0 +1,71 @@
+{
+    "id": "2014_analysis_unidirectional_ip_traffic",
+    "name": "Analysis of Unidirectional IP Traffic to Darkspace with an Educational Data Kit",
+    "datePublished": "2014.02",
+    "description": "This tutorial describes methods for analyzing unsolicited one-way Internet Protocol (IP) traffic destined to unassigned address space. We provide an educational dataset curated from data collected by the UCSD Network Telescope and detailed step-by-step analysis instructions including the outcome of each of the steps. Our exercises target engineering or computer science undergraduate and graduate students familiar with the concept of IP addresses and port numbers, and IP header fields.",
+    "annotation": "A paper based on this tutorial was later published in IEEE Transactions on Education.",
+    "tags": [
+        "security",
+        "network telescope"
+    ],
+    "pubdb_id": "paper548",
+    "authors": [
+        {
+            "person": "person:Zseby__Tanja",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego",
+                "Fraunhofer Institute for Open Communication Systems (FOKUS), Berlin"
+            ]
+        },
+        {
+            "person": "person:King__Alistair",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Fomenkov__Marina",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:claffy__kc",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        }
+    ],
+    "links": [],
+    "booktitle": "",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2014_analysis_unidirectional_ip_traffic__pubdb.json",
+    "publisher": "Cooperative Association for Internet Data Analysis (CAIDA)",
+    "resources": [
+        {
+            "name": "HTML",
+            "url": "https://www.caida.org/home/how-to/telescope-patch-tuesday/",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2014/analysis_unidirectional_ip_traffic/analysis_unidirectional_ip_traffic.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "/publications/papers/2015/teaching_network_security/",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "MISC",
+        "institution": "Cooperative Association for Internet Data Analysis (CAIDA)"
+    },
+    "date": "2014.02"
+}

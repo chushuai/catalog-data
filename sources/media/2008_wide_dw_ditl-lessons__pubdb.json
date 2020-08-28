@@ -1,0 +1,35 @@
+{
+    "id": "2008_wide_dw_ditl-lessons",
+    "name": "Lessons from DITL 2007 - and what we should do different in 2008",
+    "description": "",
+    "tags": [
+        "passive data analysis",
+        "dns"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego",
+                "The Measurement Factory, Inc."
+            ],
+            "venue": "WIDE",
+            "date": "2008.01",
+            "url": "",
+            "person": "person:Wessels__Duane"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2008_wide_dw_ditl-lessons__pubdb.json",
+    "pubdb_id": "presentation190",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/workshops/wide/0801/slides/dw-ditl-lessons.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2008.01"
+}

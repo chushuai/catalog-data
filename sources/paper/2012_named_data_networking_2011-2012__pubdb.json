@@ -1,0 +1,144 @@
+{
+    "id": "2012_named_data_networking_2011-2012",
+    "name": "Named Data Networking (NDN) Project 2011 - 2012 Annual Report",
+    "datePublished": "2012.09",
+    "description": "This annual report of the Named Data Networking (NDN) project summarizes our second year research achievements and future plans. Chapter 1 briefly reviews the NDN architectural model. Chapter 2 gives an overview of our research plan, describes the milestones reached through our second year's effort. Chapter 3 gives a detailed description of the activities and findings in each of the project's research areas.",
+    "annotation": "",
+    "tags": [
+        "overview",
+        "topology"
+    ],
+    "pubdb_id": "paper577",
+    "authors": [
+        {
+            "person": "person:Zhang__Lixia",
+            "organizations": [
+                "University of California, Los Angeles (UCLA)"
+            ]
+        },
+        {
+            "person": "person:Estrin__Deborah",
+            "organizations": [
+                "University of California, Los Angeles (UCLA)"
+            ]
+        },
+        {
+            "person": "person:Burke__Jeffrey",
+            "organizations": [
+                "University of California, Los Angeles (UCLA)"
+            ]
+        },
+        {
+            "person": "person:Jacobson__Van",
+            "organizations": [
+                "Palo Alto Research Center (PARC)"
+            ]
+        },
+        {
+            "person": "person:Thornton__James",
+            "organizations": [
+                "Palo Alto Research Center (PARC)"
+            ]
+        },
+        {
+            "person": "person:Uzun__Ersin",
+            "organizations": [
+                "Palo Alto Research Center (PARC)"
+            ]
+        },
+        {
+            "person": "person:Zhang__Beichuan",
+            "organizations": [
+                "University of Arizona"
+            ]
+        },
+        {
+            "person": "person:Tsudik__Gene",
+            "organizations": [
+                "University of California, Irvine (UCI)"
+            ]
+        },
+        {
+            "person": "person:claffy__kc",
+            "organizations": [
+                "University of California, San Diego (UCSD)"
+            ]
+        },
+        {
+            "person": "person:Krioukov__Dmitri",
+            "organizations": [
+                "University of California, San Diego (UCSD)"
+            ]
+        },
+        {
+            "person": "person:Massey__Dan",
+            "organizations": [
+                "Colorado State University"
+            ]
+        },
+        {
+            "person": "person:Papadopoulos__Christos",
+            "organizations": [
+                "Colorado State University"
+            ]
+        },
+        {
+            "person": "person:Ohm__Paul",
+            "organizations": [
+                "University of Colorado at Boulder"
+            ]
+        },
+        {
+            "person": "person:Abdelzaher__Tarek",
+            "organizations": [
+                "University of Illinois at Urbana-Champaign, Illinois (UIUC)"
+            ]
+        },
+        {
+            "person": "person:Shilton__Katie",
+            "organizations": [
+                "University of Maryland, College Park"
+            ]
+        },
+        {
+            "person": "person:Wang__Lan",
+            "organizations": [
+                "University of Memphis"
+            ]
+        },
+        {
+            "person": "person:Yeh__Edmund",
+            "organizations": [
+                "Northeastern University"
+            ]
+        },
+        {
+            "person": "person:Crowley__Patrick",
+            "organizations": [
+                "Washington University in St. Louis"
+            ]
+        }
+    ],
+    "links": [],
+    "booktitle": "",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2012_named_data_networking_2011-2012__pubdb.json",
+    "publisher": "Named Data Networking (NDN)",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2012/named_data_networking_2011-2012/named_data_networking_2011-2012.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "TECHREPORT",
+        "institution": "Named Data Networking (NDN)"
+    },
+    "date": "2012.09"
+}

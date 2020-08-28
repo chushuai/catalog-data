@@ -1,0 +1,44 @@
+{
+    "id": "2012_internet_outages",
+    "name": "Analysis of Country-wide Internet Outages Caused by Censorship",
+    "description": "",
+    "tags": [
+        "data",
+        "internet outages",
+        "network telescope",
+        "passive data analysis",
+        "routing",
+        "topology",
+        "security",
+        "measurement methodology",
+        "active data analysis"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Internet Engineering Task Force (IETF)",
+            "date": "2012.07",
+            "url": "",
+            "person": "person:Dainotti__Alberto"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2012_internet_outages__pubdb.json",
+    "pubdb_id": "presentation364",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2012/internet_outages/internet_outages.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2011/outages_censorship",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2012.07"
+}

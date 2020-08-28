@@ -1,0 +1,33 @@
+{
+    "id": "2013_as_rank_aims5_2013",
+    "name": "CAIDA's AS-rank: measuring the influence of ASes on Internet Routing",
+    "description": "",
+    "tags": [
+        "active data analysis",
+        "routing",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "ISMA Workshop on Active Internet Measurements (AIMS)",
+            "date": "2013.02",
+            "url": "http://www.caida.org/workshops/isma/1302/",
+            "person": "person:Luckie__Matthew"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2013_as_rank_aims5_2013__pubdb.json",
+    "pubdb_id": "presentation352",
+    "resources": [
+        {
+            "name": "Powerpoint",
+            "url": "https://www.caida.org/publications/presentations/2013/as_rank_aims5_2013/as_rank_aims5_2013.pptx",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2013.02"
+}

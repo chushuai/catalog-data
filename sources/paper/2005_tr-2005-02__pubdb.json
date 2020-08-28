@@ -1,0 +1,82 @@
+{
+    "id": "2005_tr-2005-02",
+    "name": "Lessons from Three Views of the Internet Topology: Technical Report",
+    "datePublished": "2005.06",
+    "description": "Network topology plays a vital role in understanding the performance of\nnetwork applications and protocols.  Thus, recently there has been\ntremendous interest in generating realistic network topologies.  Such work\nmust begin with an understanding of existing network topologies, which\ntoday typically consists of a relatively small number of data sources.  In\nthis paper, we calculate an extensive set of important characteristics of\nInternet AS-level topologies extracted from the three data sources most\nfrequently used by the research community: traceroutes, BGP, and WHOIS.\nWe find that traceroute and BGP topologies are similar to one another but\ndiffer substantially from the WHOIS topology.  We discuss the\ninterplay between the properties of the data sources that result from\nspecific data collection mechanisms and the resulting topology views.  We\nfind that, among metrics widely considered, the joint degree\ndistribution appears to fundamentally characterize\nInternet AS-topologies: it narrowly defines values for other\nimportant metrics. We also introduce an evaluation criteria for the\naccuracy oftopology generators and verify previous observations that\ngenerators solely reproducing degree distributions cannot capture the\nfull spectrum of critical topological characteristics of any of the\nthree topologies. Finally, we release to the community the input\ntopology datasets, along with the scripts and output of our calculations.\nThis supplement should enable researchers to validate their models\nagainst real data and to make more informed selection of topology data\nsources for their specific needs.\n",
+    "annotation": "",
+    "tags": [
+        "topology"
+    ],
+    "pubdb_id": "paper57",
+    "authors": [
+        {
+            "person": "person:Mahadevan__Priya",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Krioukov__Dmitri",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Fomenkov__Marina",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Huffaker__Bradley",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Dimitropoulos__Xenofontas",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:claffy__kc",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Vahdat__Amin",
+            "organizations": [
+                "Department of Computer Science and Engineering,\nUniversity of California, San Diego"
+            ]
+        }
+    ],
+    "links": [],
+    "booktitle": "",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2005_tr-2005-02__pubdb.json",
+    "publisher": "Cooperative Association for Internet Data Analysis (CAIDA)",
+    "resources": [
+        {
+            "name": "Data Supplement",
+            "url": "/research/topology/as_topo_comparisons/",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2005/tr-2005-02/tr-2005-02.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "TECHREPORT",
+        "institution": "Cooperative Association for Internet Data Analysis (CAIDA)"
+    },
+    "date": "2005.06"
+}

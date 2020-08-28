@@ -1,0 +1,53 @@
+{
+    "id": "1996_bradner",
+    "name": "In whose domain: name service in adolescence",
+    "datePublished": "1996.09",
+    "description": "Domain names serve two distinct purposes. They are used as a \"handle\" for users to specify a particular computer. A domain name server supports database queries to map these handles to the corresponding IP address with which one needs to communicate, and insert that address into the packets that comprise the data stream sent to that computer. The second use is one that was not originally envisioned: domain names have fallen into the role of a rudimentary directory system. Rather than looking up the name of a specific computer in a directory, the way one uses a phone book, users tend to assume that the domain name itself is strongly related to a company name or service offering. The problem with this assumption is that company and service names are far from unique, even in a local context and far less so on the global Internet.\r\n\r\nWe feel that the reliance on the DNS for a directory service only indicates our desperate need for a real directory service; it does not prove that the DNS should be that service.\r\n",
+    "annotation": "",
+    "tags": [
+        "dns"
+    ],
+    "pubdb_id": "paper157",
+    "authors": [
+        {
+            "person": "person:Mitchell__Don",
+            "organizations": [
+                "National Science Foundation (NSF)"
+            ]
+        },
+        {
+            "person": "person:Bradner__Scott",
+            "organizations": [
+                "Harvard University"
+            ]
+        },
+        {
+            "person": "person:claffy__kc",
+            "organizations": [
+                "National Laboratory for Applied Network Research - NLANR, San Diego Supercomputer Center, University of California, San Diego"
+            ]
+        }
+    ],
+    "links": [],
+    "institution": "",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/1996_bradner__pubdb.json",
+    "publisher": "Coordination and Administration of the Internet Workshop",
+    "resources": [
+        {
+            "name": "HTML",
+            "url": "bradner.html",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "INPROCEEDINGS",
+        "bookTitle": "Coordination and Administration of the Internet Workshop"
+    },
+    "date": "1996.09"
+}

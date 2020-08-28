@@ -1,0 +1,38 @@
+{
+    "id": "2007_hash_dns_root",
+    "name": "DNS Root Server Analysis",
+    "description": "",
+    "tags": [
+        "passive data analysis",
+        "dns",
+        "data"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "WIDE",
+            "date": "2007.07",
+            "url": "",
+            "person": "person:Hash__Haven"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2007_hash_dns_root__pubdb.json",
+    "pubdb_id": "presentation111",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2007/hash_dns_root/hash_dns_root.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2007/dns_anycast",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2007.07"
+}

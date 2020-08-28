@@ -1,0 +1,36 @@
+{
+    "id": "2001_usenix0112",
+    "name": "Monitoring Your Network with CoralReef",
+    "description": "",
+    "tags": [
+        "software/tools"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "USENIX",
+            "date": "2001.12",
+            "url": "",
+            "person": "person:Moore__David"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2001_usenix0112__pubdb.json",
+    "pubdb_id": "presentation130",
+    "resources": [
+        {
+            "name": "HTML",
+            "url": "https://www.caida.org/publications/presentations/2001/usenix0112/index.htm",
+            "tags": []
+        },
+        {
+            "name": "Paper",
+            "url": "https://www.caida.org/publications/papers/2001/CoralApps/index.xml",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2001.12"
+}

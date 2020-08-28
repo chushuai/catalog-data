@@ -1,0 +1,45 @@
+{
+    "id": "2002_iepg-0203",
+    "name": "Root/gTLD DNS Performance Web Page",
+    "description": "",
+    "tags": [
+        "dns",
+        "visualization"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego",
+                "IT Systems & Services - ITSS, The University of Auckland"
+            ],
+            "venue": "Internet Engineering and Planning Group (IEPG)",
+            "date": "2002.03",
+            "url": "",
+            "person": "person:Brownlee__Nevil"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2002_iepg-0203__pubdb.json",
+    "pubdb_id": "presentation245",
+    "resources": [
+        {
+            "name": "gzipped postscript",
+            "url": "https://www.caida.org/publications/presentations/2002/iepg-0203/iepg-200203.ps.gz",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2002/iepg-0203/iepg-200203.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2001/DNSPerfMeas",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2002.03"
+}

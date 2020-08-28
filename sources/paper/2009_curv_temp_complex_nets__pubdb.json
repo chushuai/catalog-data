@@ -1,0 +1,65 @@
+{
+    "id": "2009_curv_temp_complex_nets",
+    "name": "On Curvature and Temperature of Complex Networks",
+    "datePublished": "2009.09",
+    "description": "We establish a connection between observed scale-free topologies and hidden hyperbolic geometries of complex networks. Hidden geometries are coarse metric abstractions of the approximately hierarchical community structure of complex networks, used to estimate node similarities. Space expands exponentially in hyperbolic geometry, and scale-free topologies emerge as a consequence of this exponential expansion. Fermi-Dirac statistics connects observed topology to hidden geometry: observed edges are fermions, hidden distances are their energies; the curvature of the hidden space affects the heterogeneity of the degree distribution, while clustering is a function of temperature. Understanding the connection between topology and geometry of complex networks contributes to studying the efficiency of their functions, and may find practical applications in many disciplines, ranging from Internet routing to brain, cell signaling, or protein folding research. ",
+    "annotation": "",
+    "tags": [
+        "routing",
+        "topology"
+    ],
+    "pubdb_id": "paper14",
+    "authors": [
+        {
+            "person": "person:Krioukov__Dmitri",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Papadopoulos__Fragkiskos",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Vahdat__Amin",
+            "organizations": [
+                "Department of Computer Science and Engineering,\nUniversity of California, San Diego"
+            ]
+        },
+        {
+            "person": "person:Bogu\u00f1\u00e1__Mari\u00e1n",
+            "organizations": [
+                "Departament de F\u00edsica Fonamental, Universitat de Barcelona"
+            ]
+        }
+    ],
+    "links": [],
+    "booktitle": "",
+    "institution": "",
+    "number": "035101",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2009_curv_temp_complex_nets__pubdb.json",
+    "publisher": "Physical Review E",
+    "resources": [
+        {
+            "name": "DOI",
+            "url": "http://dx.doi.org/10.1103/PhysRevE.80.035101",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2009/curv_temp_complex_nets/curv_temp_complex_nets.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "ARTICLE",
+        "journal": "Physical Review E",
+        "volume": "80"
+    },
+    "date": "2009.09"
+}

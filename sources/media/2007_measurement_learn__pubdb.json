@@ -1,0 +1,33 @@
+{
+    "id": "2007_measurement_learn",
+    "name": "Internet measurement: what have we learned?",
+    "description": "",
+    "tags": [
+        "measurement methodology",
+        "data",
+        "policy"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "University of Waikato Department of Computer Science Seminars",
+            "date": "2007.12",
+            "url": "",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2007_measurement_learn__pubdb.json",
+    "pubdb_id": "presentation165",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2007/measurement_learn/measurement_learn.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2007.12"
+}

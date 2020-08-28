@@ -1,0 +1,31 @@
+{
+    "id": "2003_isma0312_murray",
+    "name": "The CAIDA bandwidth estimation testbed",
+    "description": "",
+    "tags": [
+        "bandwidth estimation"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Internet Statistics and Metrics Analysis Workshop (ISMA)",
+            "date": "2003.12",
+            "url": "",
+            "person": "person:Murray__Margaret"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2003_isma0312_murray__pubdb.json",
+    "pubdb_id": "presentation135",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/workshops/isma/0312/slides/mmurray-BEstbwestLab.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2003.12"
+}

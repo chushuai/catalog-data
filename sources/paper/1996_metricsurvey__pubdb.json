@@ -1,0 +1,48 @@
+{
+    "id": "1996_metricsurvey",
+    "name": "A survey of Internet statistics / metrics activities",
+    "datePublished": "1996.06",
+    "description": "In this paper, we present a survey of the current activities in Internet performance and workload measurement. The environment is dynamic enough that we can only provide an indicator of the growing activity and interest surrounding this important topic; we apologize for anyone omitted. Hopefully, through the hyperlinks and other references, readers will be able to followup directly with the various researchers and organizations who have (or plan) initiatives relating to the collection, analysis and/or presentation of Internet statistics.\r\n\r\nWe also outline in this paper a recommendation for the establishment of a `provider consortium' to facilitate cooperation. The National Laboratory for Applied Networking Research (NLANR) is working to develop a framework for such a collaboration, and believes that it could serve as an appropriate forum for... facilitating the identification, development and deployment of measurement tools across the Internet; providing commercial providers with a neutral, confidential vehicle for data sharing and analysis; providing networking researchers and the general Internet community with additional realtime data on Internet traffic flow patterns; and enhancing communications among commercial Internet service providers, exchange/peering point providers and the broader Internet community. \r\n\r\n",
+    "annotation": "",
+    "tags": [
+        "measurement methodology",
+        "passive data analysis"
+    ],
+    "pubdb_id": "paper159",
+    "authors": [
+        {
+            "person": "person:Monk__Tracie",
+            "organizations": [
+                "DynaCorp"
+            ]
+        },
+        {
+            "person": "person:claffy__kc",
+            "organizations": [
+                "National Laboratory for Applied Network Research - NLANR, San Diego Supercomputer Center, University of California, San Diego"
+            ]
+        }
+    ],
+    "links": [],
+    "booktitle": "",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/1996_metricsurvey__pubdb.json",
+    "publisher": "National Laboratory for Applied Network Research (NLANR)",
+    "resources": [
+        {
+            "name": "HTML",
+            "url": "metricsurvey.html",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "TECHREPORT",
+        "institution": "National Laboratory for Applied Network Research (NLANR)"
+    },
+    "date": "1996.06"
+}

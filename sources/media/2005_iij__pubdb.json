@@ -1,0 +1,32 @@
+{
+    "id": "2005_iij",
+    "name": "Overview of CAIDA Data Collection Analysis and Visualization",
+    "description": "",
+    "tags": [
+        "data",
+        "visualization"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Internet Initiative Japan (IIJ)",
+            "date": "2005.06",
+            "url": "",
+            "person": "person:Huffaker__Bradley"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2005_iij__pubdb.json",
+    "pubdb_id": "presentation122",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2005/iij/iij2005.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2005.06"
+}

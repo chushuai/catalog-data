@@ -1,0 +1,46 @@
+{
+    "id": "2011_as_core_visualizing",
+    "name": "AS Core: Visualizing the Internet",
+    "description": "This slideset was presented by kc claffy at the UCSD Perspectives in Computer Science course as a guest speaker presentation in March 2011, and was also presented by Bradley Huffaker at the DANCES seminar in April 2011.",
+    "tags": [
+        "data",
+        "overview",
+        "topology",
+        "visualization"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Different Angles on Network Complexity, Engineering, and Science (DANCES)",
+            "date": "2011.04",
+            "url": "",
+            "person": "person:Huffaker__Bradley"
+        },
+        {
+            "organizations": [],
+            "venue": "UCSD CSE Perspectives in Computer Science",
+            "date": "2011.03",
+            "url": "",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [
+        {
+            "to": "paper:2001_caida",
+            "url": "https://www.caida.org/publications/papers/2001/caida/"
+        }
+    ],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2011_as_core_visualizing__pubdb.json",
+    "pubdb_id": "presentation84",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2011/as_core_visualizing/as_core_visualizing.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2011.04"
+}

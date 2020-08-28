@@ -1,0 +1,55 @@
+{
+    "id": "2010_framework_ethical_research",
+    "name": "A Framework for Understanding and Applying Ethical Principles in Network and Security Research ",
+    "datePublished": "2010.01",
+    "description": "Current information and communications technology poses a variety of ethical challenges for researchers. In this paper, we present an intellectual framework for understanding and applying ethical principles in networking and security research rooted in the guidance suggested by an ongoing Department of Homeland Security working group on ethics. By providing this prototype ethical impact assessment, we seek to encourage community feedback on the working group's nascent efforts and spur researchers to concretely evaluate the ethical impact of their work.\r\n",
+    "annotation": "",
+    "tags": [
+        "trends",
+        "overview",
+        "data sharing"
+    ],
+    "pubdb_id": "paper8",
+    "authors": [
+        {
+            "person": "person:Kenneally__Erin",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Bailey__Michael",
+            "organizations": [
+                "University of Michigan"
+            ]
+        },
+        {
+            "person": "person:Maughan__Douglas",
+            "organizations": [
+                "US Department of Homeland Security"
+            ]
+        }
+    ],
+    "links": [],
+    "institution": "",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2010_framework_ethical_research__pubdb.json",
+    "publisher": "Workshop on Ethics in Computer Security Research (WECSR)",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2010/framework_ethical_research/framework_ethical_research.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "INPROCEEDINGS",
+        "bookTitle": "Workshop on Ethics in Computer Security Research (WECSR)"
+    },
+    "date": "2010.01"
+}

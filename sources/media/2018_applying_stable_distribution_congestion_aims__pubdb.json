@@ -1,0 +1,37 @@
+{
+    "id": "2018_applying_stable_distribution_congestion_aims",
+    "name": "Applying Stable distribution on congestion latency signatures",
+    "description": "",
+    "tags": [
+        "congestion",
+        "measurement methodology",
+        "topology",
+        "routing"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego",
+                "University of Buenos Aires"
+            ],
+            "venue": "Workshop on Active Internet Measurements (AIMS)",
+            "date": "2018.03",
+            "url": "http://www.caida.org/workshops/aims/1803/",
+            "person": "person:Carisimo__Esteban"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2018_applying_stable_distribution_congestion_aims__pubdb.json",
+    "pubdb_id": "presentation511",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2018/applying_stable_distribution_congestion_aims/applying_stable_distribution_congestion_aims.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2018.03"
+}

@@ -1,0 +1,31 @@
+{
+    "id": "2005_topproblemsnet",
+    "name": "top problems of the Internet and what can be done to help",
+    "description": "Top engineering and operational problems, why they persistently resist solution, how different communities are inauspiciously reacting to the above, and implications for research, policy, and builders.  Presented as invited keynote at AUSCERT 2005.  An older version of this slideset was presented as a keynote address at the CENIC 2005 conference held March 7-9, 2005.",
+    "tags": [
+        "policy"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "AUSCERT",
+            "date": "2005.05",
+            "url": "",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2005_topproblemsnet__pubdb.json",
+    "pubdb_id": "presentation139",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2005/topproblemsnet/topproblemsnet.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2005.05"
+}

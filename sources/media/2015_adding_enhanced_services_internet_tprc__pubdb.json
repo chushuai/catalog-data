@@ -1,0 +1,36 @@
+{
+    "id": "2015_adding_enhanced_services_internet_tprc",
+    "name": "Adding Enhanced Services to the Internet: Lessons from History",
+    "description": "",
+    "tags": [
+        "policy"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Telecommunications Policy Research Conference (TPRC)",
+            "date": "2015.09",
+            "url": "http://www.tprcweb.com/",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [
+        {
+            "to": "paper:2015_adding_enhanced_services_internet",
+            "url": "https://www.caida.org/publications/papers/2015/adding_enhanced_services_internet/"
+        }
+    ],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2015_adding_enhanced_services_internet_tprc__pubdb.json",
+    "pubdb_id": "presentation418",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2015/adding_enhanced_services_internet_tprc/adding_enhanced_services_internet_tprc.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2015.09"
+}

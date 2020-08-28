@@ -1,0 +1,31 @@
+{
+    "id": "2006_dima_routing_curved_spaces_berkeley",
+    "name": "Flat Routing on Curved Spaces",
+    "description": "",
+    "tags": [
+        "routing"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "UC Berkeley",
+            "date": "2006.04",
+            "url": "",
+            "person": "person:Krioukov__Dmitri"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2006_dima_routing_curved_spaces_berkeley__pubdb.json",
+    "pubdb_id": "presentation154",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2006/dima_routing_curved_spaces_berkeley/dima_routing_curved_spaces_berkeley.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2006.04"
+}

@@ -1,0 +1,32 @@
+{
+    "id": "2009_netmap",
+    "name": "netmap: the mini-Ark project",
+    "description": "",
+    "tags": [
+        "software/tools",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "WIDE-CASFI",
+            "date": "2009.04",
+            "url": "",
+            "person": "person:Brownlee__Nevil"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2009_netmap__pubdb.json",
+    "pubdb_id": "presentation226",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2009/netmap/netmap.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2009.04"
+}

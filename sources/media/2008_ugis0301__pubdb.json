@@ -1,0 +1,43 @@
+{
+    "id": "2008_ugis0301",
+    "name": "Understanding Global Internet Health",
+    "description": "This was presented at various venues in Spain and Switzerland in June, 2008.  This was also presented at SFI/CAIDA Workshop on Networks and Navigation in August, 2008.  All slides are in PDF format, and are listed by the venue they were presented at.",
+    "tags": [
+        "security",
+        "overview"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "CAIDA",
+            "date": "2003.01",
+            "url": "",
+            "person": "person:Moore__David"
+        },
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "Santa Fe Institute (SFI)",
+            "date": "2008.08",
+            "url": "",
+            "person": "person:Moore__David"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2008_ugis0301__pubdb.json",
+    "pubdb_id": "presentation205",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2008/ugis0301/ugis0301.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2008.08"
+}

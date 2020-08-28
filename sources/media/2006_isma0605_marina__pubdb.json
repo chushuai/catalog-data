@@ -1,0 +1,31 @@
+{
+    "id": "2006_isma0605_marina",
+    "name": "The Joint Degree Distribution as a Definitive Metric of the Internet AS-level Topologies",
+    "description": "",
+    "tags": [
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "ISMA Workshop on the Internet Topology (WIT)",
+            "date": "2006.05",
+            "url": "",
+            "person": "person:Fomenkov__Marina"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2006_isma0605_marina__pubdb.json",
+    "pubdb_id": "presentation300",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2006/isma0605_marina/isma0605_marina.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2006.05"
+}

@@ -1,0 +1,35 @@
+{
+    "id": "2008_wide_dw_openresolvers",
+    "name": "October 2007 survey of open resolvers in the Internet",
+    "description": "",
+    "tags": [
+        "active data analysis",
+        "dns"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego",
+                "The Measurement Factory, Inc."
+            ],
+            "venue": "WIDE",
+            "date": "2008.01",
+            "url": "",
+            "person": "person:Wessels__Duane"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2008_wide_dw_openresolvers__pubdb.json",
+    "pubdb_id": "presentation74",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2008/wide_dw_openresolvers//workshops/wide/0801/slides/dw-openresolvers.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2008.01"
+}

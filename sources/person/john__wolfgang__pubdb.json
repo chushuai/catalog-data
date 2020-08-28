@@ -1,0 +1,7 @@
+{
+    "id": "person:john__wolfgang",
+    "__typename": "person",
+    "filename": "sources/person/john__wolfgang__pubdb.json",
+    "nameLast": "John",
+    "nameFirst": "Wolfgang"
+}

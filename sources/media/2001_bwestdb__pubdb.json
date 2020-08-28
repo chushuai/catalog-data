@@ -1,0 +1,31 @@
+{
+    "id": "2001_bwestdb",
+    "name": "WAN Bandwidth Estimation",
+    "description": "",
+    "tags": [
+        "bandwidth estimation"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "CAIDA",
+            "date": "2001.08",
+            "url": "",
+            "person": "person:Masini__Stefano"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2001_bwestdb__pubdb.json",
+    "pubdb_id": "presentation20",
+    "resources": [
+        {
+            "name": "HTML slides",
+            "url": "https://www.caida.org/publications/presentations/2001/bwestdb/index.html",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2001.08"
+}

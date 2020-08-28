@@ -1,0 +1,33 @@
+{
+    "id": "2014_dolphin_dhs",
+    "name": "Dolphin: Bulk DNS Resolution Tool",
+    "description": "",
+    "tags": [
+        "active data analysis",
+        "measurement methodology",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "DHS Site Visit (CAIDA)",
+            "date": "2014.06",
+            "url": "",
+            "person": "person:Hyun__Young"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2014_dolphin_dhs__pubdb.json",
+    "pubdb_id": "presentation390",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2014/dolphin_dhs/dolphin_dhs.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2014.06"
+}

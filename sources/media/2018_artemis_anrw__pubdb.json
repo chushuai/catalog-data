@@ -1,0 +1,42 @@
+{
+    "id": "2018_artemis_anrw",
+    "name": "ARTEMIS: Neutralizing BGP Hijacking within a Minute",
+    "description": "Colocated with IETF 102 in Montreal.",
+    "tags": [
+        "topology",
+        "security"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Applied Networking Research Workshop",
+            "date": "2018.07",
+            "url": "https://irtf.org/anrw/2018/",
+            "person": "person:Dainotti__Alberto"
+        }
+    ],
+    "links": [
+        {
+            "to": "paper:2018_artemis",
+            "url": "https://www.caida.org/publications/papers/2018/artemis/"
+        }
+    ],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2018_artemis_anrw__pubdb.json",
+    "pubdb_id": "presentation521",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2018/artemis_anrw/artemis_anrw.pdf",
+            "tags": []
+        },
+        {
+            "name": "Video (YouTube)",
+            "url": "https://youtu.be/B7w4jnimKcY",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2018.07"
+}

@@ -1,0 +1,37 @@
+{
+    "id": "2012_analysis_stealth_scan_imc",
+    "name": "Analysis of a \"/0\" Stealth Scan from a Botnet",
+    "description": "",
+    "tags": [
+        "measurement methodology",
+        "security"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "ACM Internet Measurement Conference (IMC)",
+            "date": "2012.11",
+            "url": "",
+            "person": "person:Dainotti__Alberto"
+        }
+    ],
+    "links": [
+        {
+            "to": "paper:2012_analysis_slash_zero",
+            "url": "https://www.caida.org/publications/papers/2012/analysis_slash_zero/"
+        }
+    ],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2012_analysis_stealth_scan_imc__pubdb.json",
+    "pubdb_id": "presentation334",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2012/analysis_stealth_scan_imc/analysis_stealth_scan_imc.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2012.11"
+}

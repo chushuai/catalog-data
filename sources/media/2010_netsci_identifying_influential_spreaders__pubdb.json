@@ -1,0 +1,47 @@
+{
+    "id": "2010_netsci_identifying_influential_spreaders",
+    "name": "Identification of Influential Spreaders in Complex Networks",
+    "description": "This slideset was presented at the NetSci 2010 conference in May 2010, and presented again at the Future Internet and Society: A Complex Systems Perspective conference in October 2010.",
+    "tags": [
+        "network geometry"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "Future Internet and Society: A Complex Systems Perspective",
+            "date": "2010.10",
+            "url": "",
+            "person": "person:Kitsak__Maksim"
+        },
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "International School and Conference on Network Science (NetSci)",
+            "date": "2010.05",
+            "url": "",
+            "person": "person:Kitsak__Maksim"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2010_netsci_identifying_influential_spreaders__pubdb.json",
+    "pubdb_id": "presentation123",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2010/netsci_identifying_influential_spreaders/netsci_identifying_influential_spreaders.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2010/influential_spreaders",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2010.10"
+}

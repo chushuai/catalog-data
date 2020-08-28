@@ -1,0 +1,38 @@
+{
+    "id": "2006_dima_as_relationships_lip6",
+    "name": "Something We Always Wanted to Know about ASes: Relationships and Taxonomy",
+    "description": "",
+    "tags": [
+        "routing",
+        "topology",
+        "data"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "LIP6",
+            "date": "2006.06",
+            "url": "",
+            "person": "person:Krioukov__Dmitri"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2006_dima_as_relationships_lip6__pubdb.json",
+    "pubdb_id": "presentation318",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2006/dima_as_relationships_lip6/dima_as_relationships_lip6.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2006/revealingas",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2006.06"
+}

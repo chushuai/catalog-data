@@ -1,0 +1,33 @@
+{
+    "id": "2008_brad_ipv6_networks",
+    "name": "IPv6 Collection 2008 a View of the IPv6 Networks",
+    "description": "",
+    "tags": [
+        "ipv6",
+        "topology",
+        "active data analysis"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "WIDE",
+            "date": "2008.01",
+            "url": "",
+            "person": "person:Huffaker__Bradley"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2008_brad_ipv6_networks__pubdb.json",
+    "pubdb_id": "presentation229",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2008/brad_ipv6_networks/brad_ipv6_networks.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2008.01"
+}

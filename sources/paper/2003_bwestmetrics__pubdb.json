@@ -1,0 +1,64 @@
+{
+    "id": "2003_bwestmetrics",
+    "name": "Bandwidth estimation: metrics, measurement techniques, and tools",
+    "datePublished": "2003.04",
+    "description": "In a packet network, the terms  bandwidth  or  throughput  often characterize the amount of data that the network can transfer per unit of time. Bandwidth estimation is of interest to users wishing to optimize end-to-end transport performance, overlay network routing, and peer-to-peer file distribution. Techniques for accurate bandwidth estimation are also important for traffic engineering and capacity planning support. Existing bandwidth estimation tools measure one or more of three related metrics: capacity, available bandwidth, and bulk transfer capacity (BTC). Currently available bandwidth estimation tools employ a variety of strategies to measure these metrics. In this survey we review the recent bandwidth estimation literature focusing on underlying techniques and methodologies as well as open source bandwidth measurement tools.\n",
+    "annotation": "",
+    "tags": [
+        "bandwidth estimation"
+    ],
+    "pubdb_id": "paper81",
+    "authors": [
+        {
+            "person": "person:Dovrolis__Constantinos",
+            "organizations": [
+                "Georgia Institute of Technology (Georgia Tech)"
+            ]
+        },
+        {
+            "person": "person:Prasad__Ravi",
+            "organizations": [
+                "Georgia Institute of Technology (Georgia Tech)"
+            ]
+        },
+        {
+            "person": "person:Murray__Margaret",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:claffy__kc",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        }
+    ],
+    "links": [],
+    "booktitle": "",
+    "institution": "",
+    "number": "6",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2003_bwestmetrics__pubdb.json",
+    "publisher": "IEEE Network",
+    "resources": [
+        {
+            "name": "gzipped postscript",
+            "url": "bwestmetrics.ps.gz",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2003/bwestmetrics/bwestmetrics.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "ARTICLE",
+        "journal": "IEEE Network",
+        "volume": "17",
+        "pages": "27-35"
+    },
+    "date": "2003.04"
+}

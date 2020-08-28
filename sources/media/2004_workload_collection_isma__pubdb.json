@@ -1,0 +1,32 @@
+{
+    "id": "2004_workload_collection_isma",
+    "name": "Workload Data Collection Efforts",
+    "description": "",
+    "tags": [
+        "data",
+        "measurement methodology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Internet Statistics and Metrics Analysis Workshop (ISMA)",
+            "date": "2004.02",
+            "url": "",
+            "person": "person:Shannon__Colleen"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2004_workload_collection_isma__pubdb.json",
+    "pubdb_id": "presentation201",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2004/workload_collection_isma/workload_collection_isma.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2004.02"
+}

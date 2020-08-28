@@ -1,0 +1,35 @@
+{
+    "id": "2007_dns_survey",
+    "name": "A Recent DNS Survey",
+    "description": "",
+    "tags": [
+        "dns",
+        "data"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego",
+                "The Measurement Factory, Inc."
+            ],
+            "venue": "OARC",
+            "date": "2007.11",
+            "url": "",
+            "person": "person:Wessels__Duane"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2007_dns_survey__pubdb.json",
+    "pubdb_id": "presentation42",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2007/dns_survey/dns_survey.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2007.11"
+}

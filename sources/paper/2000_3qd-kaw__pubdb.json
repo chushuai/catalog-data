@@ -1,0 +1,48 @@
+{
+    "id": "2000_3qd-kaw",
+    "name": "Kawaihiko and the third-quartile day [traffic management]",
+    "datePublished": "2000.08",
+    "description": "The Kawaihiko network, linking the New Zealand Universities to the Internet, pioneered traffic\nmeasurement as a tool for network management and cost recovery. Its history and its use of\nthe Realtime Traffic Flow Measurement (RTFM) architecture to measure its traffic are\ndescribed.\n\nThe Kawaihiko members wanted a 'measured bandwidth' metric which would be a good\nindicator of the bandwidth required to carry each site's traffic. Kawaihiko developed such a\nmetric - the Third-Quartile Day (3QD) - based on a daily usage profile or Third-Quartile Profile\n(3QP). 3QP and 3QD are described in detail, and illustrated with typical plots from several of\nthe Kawaihiko sites.\n\nThe Kawaihiko members found 3QD to be an effective bandwidth measure, and 3QP a useful\ntraffic management tool.\n",
+    "annotation": "",
+    "tags": [
+        "measurement methodology"
+    ],
+    "pubdb_id": "paper127",
+    "authors": [
+        {
+            "person": "person:Brownlee__Nevil",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego",
+                "IT Systems & Services - ITSS, The University of Auckland"
+            ]
+        },
+        {
+            "person": "person:Fulton__Russell",
+            "organizations": [
+                "IT Systems & Services - ITSS, The University of Auckland"
+            ]
+        }
+    ],
+    "links": [],
+    "booktitle": "",
+    "institution": "",
+    "number": "8",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2000_3qd-kaw__pubdb.json",
+    "publisher": "IEEE Communications",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2000/3qd-kaw/3qd-kaw.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "ARTICLE",
+        "journal": "IEEE Communications",
+        "volume": "38",
+        "pages": "162-8"
+    },
+    "date": "2000.08"
+}

@@ -1,0 +1,36 @@
+{
+    "id": "2003_lisa03",
+    "name": "Internet Governance",
+    "description": "",
+    "tags": [
+        "policy"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "USENIX Large Installation System Administration (LISA)",
+            "date": "2003.10",
+            "url": "",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2003_lisa03__pubdb.json",
+    "pubdb_id": "presentation6",
+    "resources": [
+        {
+            "name": "gzipped postscript",
+            "url": "https://www.caida.org/publications/presentations/2003/lisa03/internet_governance.2003.ps.gz",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2003/lisa03/internet_governance.2003.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2003.10"
+}

@@ -1,0 +1,39 @@
+{
+    "id": "2019_ioda-np_paridine_final",
+    "name": "IODA-NP: Internet Outage Detection and Analysis",
+    "description": "",
+    "tags": [
+        "internet outages",
+        "measurement methodology",
+        "routing",
+        "overview"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "DHS S&T PARIDINE Final Meeting",
+            "date": "2019.11",
+            "url": "",
+            "person": "person:Dainotti__Alberto"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2019_ioda-np_paridine_final__pubdb.json",
+    "pubdb_id": "presentation578",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2019/ioda-np_paridine_final/ioda-np_paridine_final.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Project",
+            "url": "https://www.caida.org/projects/ioda/",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2019.11"
+}

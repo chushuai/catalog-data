@@ -1,0 +1,44 @@
+{
+    "id": "2015_ioda_fcc",
+    "name": "IODA - Internet Outages: Detection & Analysis",
+    "description": "",
+    "tags": [
+        "internet outages",
+        "routing",
+        "measurement methodology"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "Federal Communications Commission (FCC)",
+            "date": "2015.03",
+            "url": "",
+            "person": "person:Dainotti__Alberto"
+        },
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "DHS National Cybersecurity and Communications Integration Center (NCICC)",
+            "date": "2015.04",
+            "url": "",
+            "person": "person:Dainotti__Alberto"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2015_ioda_fcc__pubdb.json",
+    "pubdb_id": "presentation452",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2015/ioda_fcc/ioda_fcc.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2015.04"
+}

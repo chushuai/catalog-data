@@ -1,0 +1,38 @@
+{
+    "id": "2017_tcp_congestion_signatures_imc",
+    "name": "TCP Congestion Signatures",
+    "description": "",
+    "tags": [
+        "congestion",
+        "measurement methodology",
+        "passive data analysis"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "ACM Internet Measurement Conference (IMC)",
+            "date": "2017.11",
+            "url": "https://conferences.sigcomm.org/imc/2017/",
+            "person": "person:Dhamdhere__Amogh"
+        }
+    ],
+    "links": [
+        {
+            "to": "paper:2017_tcp_congestion_signatures",
+            "url": "https://www.caida.org/publications/papers/2017/tcp_congestion_signatures/"
+        }
+    ],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2017_tcp_congestion_signatures_imc__pubdb.json",
+    "pubdb_id": "presentation486",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2017/tcp_congestion_signatures_imc/tcp_congestion_signatures_imc.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2017.11"
+}

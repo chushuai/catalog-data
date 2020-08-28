@@ -1,0 +1,54 @@
+{
+    "id": "1993_ffb",
+    "name": "A framework for flow-based accounting on the Internet",
+    "datePublished": "1993.09",
+    "description": "\r\nWe describe steps toward an accounting mechanism to attribute Internet\r\nresource consumption based on service quality. Our objective is not to\r\ndescribe a complete accounting and billing system. Rather we advocate\r\ntaking advantage of existing Internet instrumentation to implement\r\nincremental improvements in the short to medium term. Experience from\r\nthese improvements can enable us to make more eduacted progress towards\r\na comprehensive Internet accounting system.\r\n\r\n",
+    "annotation": "",
+    "tags": [
+        "measurement methodology",
+        "passive data analysis"
+    ],
+    "pubdb_id": "paper176",
+    "authors": [
+        {
+            "person": "person:Braun__Hans-Werner",
+            "organizations": [
+                "Applied Network Research, San Diego Supercomputer Center, University of California, San Diego"
+            ]
+        },
+        {
+            "person": "person:claffy__kc",
+            "organizations": [
+                "University of California, San Diego (UCSD)"
+            ]
+        },
+        {
+            "person": "person:Polyzos__George",
+            "organizations": [
+                "University of California, San Diego (UCSD)"
+            ]
+        }
+    ],
+    "links": [],
+    "institution": "",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/1993_ffb__pubdb.json",
+    "publisher": "IEEE Singapore International Conference on Networks (SICON)",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/1993/ffb/accting.sg.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "INPROCEEDINGS",
+        "bookTitle": "IEEE Singapore International Conference on Networks (SICON)"
+    },
+    "date": "1993.09"
+}

@@ -1,0 +1,36 @@
+{
+    "id": "2011_decisionmaking_identifying_influential_spreaders",
+    "name": "Identification of Influential Spreaders in Complex Networks",
+    "description": "",
+    "tags": [
+        "network geometry"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Decision Making: Bridging Psychophysics and Neurophysiology",
+            "date": "2011.03",
+            "url": "",
+            "person": "person:Kitsak__Maksim"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2011_decisionmaking_identifying_influential_spreaders__pubdb.json",
+    "pubdb_id": "presentation155",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2011/decisionmaking_identifying_influential_spreaders/decisionmaking_identifying_influential_spreaders.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2010/influential_spreaders",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2011.03"
+}

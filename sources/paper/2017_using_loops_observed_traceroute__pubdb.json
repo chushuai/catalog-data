@@ -1,0 +1,67 @@
+{
+    "id": "2017_using_loops_observed_traceroute",
+    "name": "Using Loops Observed in Traceroute to Infer the Ability to Spoof",
+    "datePublished": "2017.03",
+    "description": "Despite source IP address spoofing being a known vulnerability for at least 25 years, and despite many efforts to shed light on the problem, spoofing remains a popular attack method for redirection, amplification, and anonymity. To defeat these attacks requires operators to ensure their networks filter packets with spoofed source IP addresses, known as source address validation (SAV), best deployed at the edge of the network where traffic originates. In this paper, we present a new method using routing loops appearing in traceroute data to infer inadequate SAV at the transit provider edge, where a provider does not filter traffic that should not have come from the customer. Our method does not require a vantage point within the customer network. We present and validate an algorithm that identifies at Internet scale which loops imply a lack of ingress filtering by providers. We found 703 provider ASes that do not implement ingress filtering on at least one of their links for 1,780 customer ASes. Most of these observations are unique compared to the existing methods of the Spoofer and Open Resolver projects. By increasing the visibility of the networks that allow spoofing, we aim to strengthen the incentives for the adoption of SAV.",
+    "annotation": "",
+    "tags": [
+        "active data analysis",
+        "routing",
+        "security",
+        "topology"
+    ],
+    "pubdb_id": "paper626",
+    "authors": [
+        {
+            "person": "person:Lone__Qasim",
+            "organizations": [
+                "Delft University of Technology, the Netherlands"
+            ]
+        },
+        {
+            "person": "person:Luckie__Matthew",
+            "organizations": [
+                "University of Waikato"
+            ]
+        },
+        {
+            "person": "person:Korczy\u0144ski__Maciej",
+            "organizations": [
+                "Delft University of Technology, the Netherlands"
+            ]
+        },
+        {
+            "person": "person:van Eeten__Michel",
+            "organizations": [
+                "Delft University of Technology, the Netherlands"
+            ]
+        }
+    ],
+    "links": [],
+    "institution": "",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2017_using_loops_observed_traceroute__pubdb.json",
+    "publisher": "Passive and Active Measurement Conference (PAM)",
+    "resources": [
+        {
+            "name": "DOI",
+            "url": "http://dx.doi.org/10.1007/978-3-319-54328-4_17",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2017/using_loops_observed_traceroute/using_loops_observed_traceroute.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "INPROCEEDINGS",
+        "bookTitle": "Passive and Active Measurement Conference (PAM)"
+    },
+    "date": "2017.03"
+}

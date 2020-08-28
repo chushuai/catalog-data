@@ -1,0 +1,37 @@
+{
+    "id": "2000_esnet0004",
+    "name": "Network Measurement Tools",
+    "description": "",
+    "tags": [
+        "software/tools",
+        "measurement methodology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "CAIDA",
+            "date": "2000.04",
+            "url": "",
+            "person": "person:Monk__Tracie"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2000_esnet0004__pubdb.json",
+    "pubdb_id": "presentation13",
+    "resources": [
+        {
+            "name": "HTML slides",
+            "url": "https://www.caida.org/publications/presentations/2000/esnet0004/index.htm",
+            "tags": []
+        },
+        {
+            "name": "Microsoft PowerPoint",
+            "url": "https://www.caida.org/publications/presentations/2000/esnet0004/tracieesnet_0004.PPT",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2000.04"
+}

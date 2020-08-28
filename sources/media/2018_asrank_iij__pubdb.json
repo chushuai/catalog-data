@@ -1,0 +1,44 @@
+{
+    "id": "2018_asrank_iij",
+    "name": "AS Rank",
+    "description": "",
+    "tags": [
+        "visualization",
+        "topology",
+        "overview",
+        "software/tools"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Internet Initiative Japan (IIJ)",
+            "date": "2018.12",
+            "url": "",
+            "person": "person:Huffaker__Bradley"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2018_asrank_iij__pubdb.json",
+    "pubdb_id": "presentation531",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2018/asrank_iij/asrank_iij.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Project",
+            "url": "http://asrank.caida.org/",
+            "tags": []
+        },
+        {
+            "name": "Video (direct download)",
+            "url": "https://seminar-materials.iijlab.net/iijlab-seminar/iijlab-seminar-20181211.mp4",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2018.12"
+}

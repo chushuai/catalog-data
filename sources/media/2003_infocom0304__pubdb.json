@@ -1,0 +1,36 @@
+{
+    "id": "2003_infocom0304",
+    "name": "Internet Quarantine: Requirements for Containing Self-Propagating Code",
+    "description": "",
+    "tags": [
+        "security"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "IEEE Conference on Computer Communications (INFOCOM)",
+            "date": "2003.04",
+            "url": "",
+            "person": "person:Moore__David"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2003_infocom0304__pubdb.json",
+    "pubdb_id": "presentation40",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2003/infocom0304/infocom0304.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2003/quarantine",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2003.04"
+}

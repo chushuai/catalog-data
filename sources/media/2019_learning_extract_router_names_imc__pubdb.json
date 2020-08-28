@@ -1,0 +1,38 @@
+{
+    "id": "2019_learning_extract_router_names_imc",
+    "name": "Learning to Extract Router Names from Hostnames",
+    "description": "",
+    "tags": [
+        "measurement methodology",
+        "software/tools",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "ACM Internet Measurement Conference (IMC)",
+            "date": "2019.10",
+            "url": "http://conferences.sigcomm.org/imc/2019/",
+            "person": "person:Luckie__Matthew"
+        }
+    ],
+    "links": [
+        {
+            "to": "paper:2019_learning_regexes_extract_router",
+            "url": "https://www.caida.org/publications/papers/2019/learning_regexes_extract_router/"
+        }
+    ],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2019_learning_extract_router_names_imc__pubdb.json",
+    "pubdb_id": "presentation561",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2019/learning_extract_router_names_imc/learning_extract_router_names_imc.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2019.10"
+}

@@ -1,0 +1,47 @@
+{
+    "id": "2003_bwest0308",
+    "name": "bandwidth estimation: measurement methodologies and applications",
+    "description": "",
+    "tags": [
+        "bandwidth estimation",
+        "measurement methodology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "National Collaboratory Middleware and Network Research Project Review",
+            "date": "2003.08",
+            "url": "",
+            "person": "person:Dovrolis__Constantine"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2003_bwest0308__pubdb.json",
+    "pubdb_id": "presentation302",
+    "resources": [
+        {
+            "name": "BWest Project",
+            "url": "https://www.caida.org/projects/bwest/",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2003/bwest0308/doereview.pdf",
+            "tags": []
+        },
+        {
+            "name": "Postscript",
+            "url": "https://www.caida.org/publications/presentations/2003/bwest0308/doereview.ps",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2003/bwestmetrics",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2003.08"
+}

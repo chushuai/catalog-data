@@ -1,0 +1,36 @@
+{
+    "id": "2005_dns_statistics_collector",
+    "name": "DNS Statistics Collector",
+    "description": "",
+    "tags": [
+        "visualization",
+        "measurement methodology",
+        "software/tools"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego",
+                "The Measurement Factory, Inc."
+            ],
+            "venue": "OARC",
+            "date": "2005.07",
+            "url": "",
+            "person": "person:Wessels__Duane"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2005_dns_statistics_collector__pubdb.json",
+    "pubdb_id": "presentation85",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2005/dns_statistics_collector/dns_statistics_collector.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2005.07"
+}

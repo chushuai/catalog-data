@@ -1,0 +1,35 @@
+{
+    "id": "2012_dust_sipscan",
+    "name": "SipScan: the world scanning itself",
+    "description": "",
+    "tags": [
+        "network telescope",
+        "software/tools",
+        "passive data analysis",
+        "measurement methodology",
+        "security"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "International Workshop on Darkspace and UnSolicited Traffic Analysis (DUST)",
+            "date": "2012.05",
+            "url": "",
+            "person": "person:Dainotti__Alberto"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2012_dust_sipscan__pubdb.json",
+    "pubdb_id": "presentation60",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2012/dust_sipscan/dust_sipscan.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2012.05"
+}

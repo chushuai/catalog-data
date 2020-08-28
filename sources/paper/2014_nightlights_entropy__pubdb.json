@@ -1,0 +1,66 @@
+{
+    "id": "2014_nightlights_entropy",
+    "name": "Nightlights: Entropy-based Metrics for Classifying Darkspace Traffic Patterns",
+    "datePublished": "2014.03",
+    "description": "An IP darkspace is a globally routed IP address space with no active hosts. All traffic destined to darkspace addresses is unsolicited and often originates from network scanning or attacks. A sudden increases of different types of darkspace traffic can serve as indicator of new vulnerabilities, misconfigurations or large scale attacks. In our analysis we take advantage of the fact that darkspace traffic typically originates from processes that use randomly chosen addresses or ports (e.g. scanning) or target a specific address or port (e.g. DDoS, worm spreading). These behaviors induce a concentration or dispersion in feature distributions of the resulting traffic aggregate and can be distinguished using entropy as a compact representation. Its lightweight, unambiguous, and privacy-compatible character makes entropy a suitable metric that can facilitate early warning capabilities, operational information exchange among network operators, and comparison of analysis results among a network of distributed IP darkspaces.",
+    "annotation": "",
+    "tags": [
+        "security",
+        "network telescope"
+    ],
+    "pubdb_id": "paper539",
+    "authors": [
+        {
+            "person": "person:Zseby__Tanja",
+            "organizations": [
+                "Vienna University of Technology"
+            ]
+        },
+        {
+            "person": "person:Brownlee__Nevil",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego",
+                "University of Auckland, New Zealand"
+            ]
+        },
+        {
+            "person": "person:King__Alistair",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:claffy__kc",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        }
+    ],
+    "links": [],
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2014_nightlights_entropy__pubdb.json",
+    "publisher": "Passive and Active Network Measurement Workshop (PAM)",
+    "resources": [
+        {
+            "name": "DOI",
+            "url": "https://doi.org/10.1007/978-3-319-04918-2_30",
+            "tags": []
+        },
+        {
+            "name": "PDF (abstract only)",
+            "url": "nightlights_entropy.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "INPROCEEDINGS",
+        "bookTitle": "Passive and Active Network Measurement Workshop (PAM)",
+        "institution": "Cooperative Association for Internet Data Analysis (CAIDA)"
+    },
+    "date": "2014.03"
+}

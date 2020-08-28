@@ -1,0 +1,32 @@
+{
+    "id": "2005_oida2005-06",
+    "name": "[Ii]nternet [applications] drivers of growth: 2005-2015",
+    "description": "",
+    "tags": [
+        "policy",
+        "peer-to-peer"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Optoelectronics Industry Development Association (OIDA)",
+            "date": "2005.06",
+            "url": "",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2005_oida2005-06__pubdb.json",
+    "pubdb_id": "presentation315",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2005/oida2005-06/oida2005-06.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2005.06"
+}

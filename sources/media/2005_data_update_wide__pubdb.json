@@ -1,0 +1,31 @@
+{
+    "id": "2005_data_update_wide",
+    "name": "Caida Data Update",
+    "description": "",
+    "tags": [
+        "data"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "WIDE",
+            "date": "2005.03",
+            "url": "",
+            "person": "person:Shannon__Colleen"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2005_data_update_wide__pubdb.json",
+    "pubdb_id": "presentation105",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2005/data_update_wide/data_update_wide.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2005.03"
+}

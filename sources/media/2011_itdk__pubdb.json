@@ -1,0 +1,40 @@
+{
+    "id": "2011_itdk",
+    "name": "Internet Topology Data Kit",
+    "description": "",
+    "tags": [
+        "topology",
+        "software/tools",
+        "data"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "ISMA Workshop on Active Internet Measurements (AIMS)",
+            "date": "2011.02",
+            "url": "",
+            "person": "person:Hyun__Young"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2011_itdk__pubdb.json",
+    "pubdb_id": "presentation72",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2011/itdk/itdk.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2012/topocompare-tr",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2011.02"
+}

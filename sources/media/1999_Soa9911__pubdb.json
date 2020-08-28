@@ -1,0 +1,32 @@
+{
+    "id": "1999_Soa9911",
+    "name": "Internet measurement: state of DeUnion",
+    "description": "",
+    "tags": [
+        "overview",
+        "policy"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "ACM Internet Measurement Conference (IMC)",
+            "date": "1999.10",
+            "url": "",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/1999_Soa9911__pubdb.json",
+    "pubdb_id": "presentation301",
+    "resources": [
+        {
+            "name": "HTML slides",
+            "url": "https://www.caida.org/publications/presentations/1999/Soa9911/index.html",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "1999.10"
+}

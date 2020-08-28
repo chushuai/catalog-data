@@ -1,0 +1,33 @@
+{
+    "id": "2006_oecd2006-03",
+    "name": "the Internet as emerging critical infrastructure: what needs to be measured?",
+    "description": "",
+    "tags": [
+        "measurement methodology",
+        "policy",
+        "data"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "OECD Workshop",
+            "date": "2006.03",
+            "url": "",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2006_oecd2006-03__pubdb.json",
+    "pubdb_id": "presentation108",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2006/oecd2006-03/oecd2006-03.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2006.03"
+}

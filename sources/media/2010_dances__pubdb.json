@@ -1,0 +1,33 @@
+{
+    "id": "2010_dances",
+    "name": "Complex network geometry and navigation",
+    "description": "",
+    "tags": [
+        "routing",
+        "topology",
+        "network geometry"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Different Angles on Network Complexity, Engineering, and Science (DANCES)",
+            "date": "2010.12",
+            "url": "",
+            "person": "person:Krioukov__Dmitri"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2010_dances__pubdb.json",
+    "pubdb_id": "presentation248",
+    "resources": [
+        {
+            "name": "Powerpoint",
+            "url": "https://www.caida.org/publications/presentations/2010/dances/dances_complex_network_geometry.pptx",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2010.12"
+}

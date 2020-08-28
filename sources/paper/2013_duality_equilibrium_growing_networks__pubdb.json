@@ -1,0 +1,59 @@
+{
+    "id": "2013_duality_equilibrium_growing_networks",
+    "name": "Duality between equilibrium and growing networks",
+    "datePublished": "2013.08",
+    "description": "In statistical physics any given system can be either at an equilibrium or away from it. Networks are not an exception. Most network models can be classified as either equilibrium or growing. Here we show that under certain conditions there exists an equilibrium formulation for any growing network model, and vice versa. The equivalence between the equilibrium and nonequilibrium formulations is exact not only asymptotically, but even for any finite system size. The required conditions are satisfied in random geometric graphs in general and causal sets in particular, and to a large extent in some real networks.",
+    "annotation": "",
+    "tags": [
+        "network geometry",
+        "routing",
+        "topology"
+    ],
+    "pubdb_id": "paper533",
+    "authors": [
+        {
+            "person": "person:Krioukov__Dmitri",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Ostilli__Massimo",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        }
+    ],
+    "links": [],
+    "booktitle": "",
+    "institution": "",
+    "number": "2",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2013_duality_equilibrium_growing_networks__pubdb.json",
+    "publisher": "Physical Review E",
+    "resources": [
+        {
+            "name": "arXiv",
+            "url": "http://arxiv.org/abs/1302.3530",
+            "tags": []
+        },
+        {
+            "name": "DOI",
+            "url": "http://dx.doi.org/10.1103/PhysRevE.88.022808",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2013/duality_equilibrium_growing_networks/duality_equilibrium_growing_networks.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "ARTICLE",
+        "journal": "Physical Review E",
+        "volume": "88"
+    },
+    "date": "2013.08"
+}

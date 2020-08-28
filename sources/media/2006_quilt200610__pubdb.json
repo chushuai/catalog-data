@@ -1,0 +1,33 @@
+{
+    "id": "2006_quilt200610",
+    "name": "the Internet as emerging critical infrastructure: what needs to be measured?",
+    "description": "",
+    "tags": [
+        "measurement methodology",
+        "data",
+        "policy"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "The Quilt",
+            "date": "2006.10",
+            "url": "",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2006_quilt200610__pubdb.json",
+    "pubdb_id": "presentation277",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2006/quilt200610/quilt200610.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2006.10"
+}

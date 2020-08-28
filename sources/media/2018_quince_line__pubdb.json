@@ -1,0 +1,35 @@
+{
+    "id": "2018_quince_line",
+    "name": "QUINCE: a gamified crowdsourcing QoE assessment framework",
+    "description": "",
+    "tags": [
+        "routing",
+        "measurement methodology",
+        "topology",
+        "software/tools",
+        "QoE"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Broadband Performance and QoE sympodium (LINE)",
+            "date": "2018.06",
+            "url": "",
+            "person": "person:Huffaker__Bradley"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2018_quince_line__pubdb.json",
+    "pubdb_id": "presentation523",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2018/quince_line/quince_line.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2018.06"
+}

@@ -1,0 +1,34 @@
+{
+    "id": "2008_wide_josh-ditl_summary",
+    "name": "DITL 2007 Collection Summary",
+    "description": "",
+    "tags": [
+        "data",
+        "dns"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "WIDE",
+            "date": "2008.01",
+            "url": "",
+            "person": "person:Polterock__Joshua"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2008_wide_josh-ditl_summary__pubdb.json",
+    "pubdb_id": "presentation163",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2008/wide_josh-ditl_summary//workshops/wide/0801/slides/josh-ditl_summary.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2008.01"
+}

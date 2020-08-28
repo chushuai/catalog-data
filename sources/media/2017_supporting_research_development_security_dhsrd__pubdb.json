@@ -1,0 +1,35 @@
+{
+    "id": "2017_supporting_research_development_security_dhsrd",
+    "name": "Supporting Research and Development of Security Technologies Through Network and Security Data Collection",
+    "description": "",
+    "tags": [
+        "routing",
+        "data",
+        "measurement methodology",
+        "policy",
+        "overview"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "DHS R&D Showcase and Technical Workshop",
+            "date": "2017.07",
+            "url": "http://www.cvent.com/events/2017-cyber-security-r-d-showcase-and-technical-workshop/custom-35-9acde78a545049728c03bf3874f47532.aspx",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2017_supporting_research_development_security_dhsrd__pubdb.json",
+    "pubdb_id": "presentation482",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2017/supporting_research_development_security_dhsrd/supporting_research_development_security_dhsrd.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2017.07"
+}

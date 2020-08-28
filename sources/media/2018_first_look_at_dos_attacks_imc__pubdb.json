@@ -1,0 +1,45 @@
+{
+    "id": "2018_first_look_at_dos_attacks_imc",
+    "name": "A First Joint Look at DoS Attacks and BGP Blackholing in the Wild",
+    "description": "The video webcast for this presentation is archived on BlueJeans at Chapter 4, starting around 52 minutes.",
+    "tags": [
+        "internet outages",
+        "measurement methodology",
+        "network telescope",
+        "routing",
+        "security"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "ACM Internet Measurement Conference (IMC)",
+            "date": "2018.11",
+            "url": "https://conferences.sigcomm.org/imc/2018/",
+            "person": "person:Jonker__Mattijs"
+        }
+    ],
+    "links": [
+        {
+            "to": "paper:2018_dos_attacks_and_bgp",
+            "url": "https://www.caida.org/publications/papers/2018/dos_attacks_and_bgp/"
+        }
+    ],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2018_first_look_at_dos_attacks_imc__pubdb.json",
+    "pubdb_id": "presentation526",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2018/first_look_at_dos_attacks_imc/first_look_at_dos_attacks_imc.pdf",
+            "tags": []
+        },
+        {
+            "name": "Video (webcast)",
+            "url": "https://bluejeans.com/playback/s/SZ8oYWVLJfSh5IukQEVbFtmYAXN4eCE2a3x6QxjbtINlOq8PQA75RWpYiAgKRVXi",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2018.11"
+}

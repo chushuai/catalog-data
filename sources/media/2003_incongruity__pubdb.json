@@ -1,0 +1,37 @@
+{
+    "id": "2003_incongruity",
+    "name": "Traceroute and BGP AS Path Incongruities",
+    "description": "",
+    "tags": [
+        "routing",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Internetworking",
+            "date": "2003.06",
+            "url": "",
+            "person": "person:Broido__Andre"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2003_incongruity__pubdb.json",
+    "pubdb_id": "presentation150",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2003/incongruity/incongruity.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2003/ASP",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2003.06"
+}

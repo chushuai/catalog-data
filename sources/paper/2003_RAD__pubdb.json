@@ -1,0 +1,64 @@
+{
+    "id": "2003_RAD",
+    "name": "Radon Spectroscopy of Packet Delay",
+    "datePublished": "2003.08",
+    "description": "We demonstrate the feasibility of Internet spectroscopy techniques for analysis of rate limiting, packet interarrival delay and passive bitrate estimation of cell- or slot-based broadband connections. Working with highly diverse packet trace data, we find that delay's quantization in micro- and millisecond range is ubiquitous in today's Internet and that different providers have strong preferences for specific delay quanta in their infrastructures.\r\n",
+    "annotation": "",
+    "tags": [
+        "measurement methodology"
+    ],
+    "pubdb_id": "paper90",
+    "authors": [
+        {
+            "person": "person:Broido__Andre",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:King__Ryan",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Nemeth__Evi",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:claffy__kc",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        }
+    ],
+    "links": [],
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2003_RAD__pubdb.json",
+    "publisher": "International Teletraffic Congress (ITC)",
+    "resources": [
+        {
+            "name": "gzipped postscript",
+            "url": "rad.head.ps.gz",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2003/RAD/rad.head.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "INPROCEEDINGS",
+        "bookTitle": "International Teletraffic Congress (ITC)",
+        "institution": "Cooperative Association for Internet Data Analysis (CAIDA)"
+    },
+    "date": "2003.08"
+}

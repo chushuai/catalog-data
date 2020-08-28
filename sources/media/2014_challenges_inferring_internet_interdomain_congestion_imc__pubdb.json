@@ -1,0 +1,41 @@
+{
+    "id": "2014_challenges_inferring_internet_interdomain_congestion_imc",
+    "name": "Challenges in Inferring Internet Interdomain Congestion",
+    "description": "",
+    "tags": [
+        "active data analysis",
+        "data",
+        "policy",
+        "topology",
+        "measurement methodology",
+        "congestion"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "ACM Internet Measurement Conference (IMC)",
+            "date": "2014.11",
+            "url": "http://conferences2.sigcomm.org/imc/2014/",
+            "person": "person:Luckie__Matthew"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2014_challenges_inferring_internet_interdomain_congestion_imc__pubdb.json",
+    "pubdb_id": "presentation398",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2014/challenges_inferring_internet_interdomain_congestion_imc/challenges_inferring_internet_interdomain_congestion_imc.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2014/challenges_inferring_interdomain_congestion",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2014.11"
+}

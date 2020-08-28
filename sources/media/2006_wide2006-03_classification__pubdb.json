@@ -1,0 +1,26 @@
+{
+    "id": "2006_wide2006-03_classification",
+    "name": "Classifying the Internet Backbone Traffic",
+    "description": "",
+    "tags": [
+        "measurement methodology",
+        "passive data analysis"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "WIDE",
+            "date": "2006.03",
+            "url": "",
+            "person": "person:Kim__Hyun-chul"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2006_wide2006-03_classification__pubdb.json",
+    "pubdb_id": "presentation34",
+    "resources": [],
+    "type": "PRESENTATION",
+    "date": "2006.03"
+}

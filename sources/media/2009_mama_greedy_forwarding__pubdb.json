@@ -1,0 +1,37 @@
+{
+    "id": "2009_mama_greedy_forwarding",
+    "name": "Greedy Forwarding in Scale-Free Networks Embedded in Hyperbolic Metric Spaces",
+    "description": "",
+    "tags": [
+        "routing",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "ACM SIGMETRICS MAMA",
+            "date": "2009.06",
+            "url": "",
+            "person": "person:Papadopoulos__Fragkiskos"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2009_mama_greedy_forwarding__pubdb.json",
+    "pubdb_id": "presentation81",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2009/mama_greedy_forwarding/mama_greedy_forwarding.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2010/greedy_forwarding_dynamic",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2009.06"
+}

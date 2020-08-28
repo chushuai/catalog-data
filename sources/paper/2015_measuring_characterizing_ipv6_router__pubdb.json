@@ -1,0 +1,74 @@
+{
+    "id": "2015_measuring_characterizing_ipv6_router",
+    "name": "Measuring and Characterizing IPv6 Router Availability",
+    "datePublished": "2015.03",
+    "description": "We consider the problem of inferring IPv6 router uninterrupted system availability, or *uptime*, from a remote vantage point with-out privileged access. Uptime inference is important to broader efforts to measure and characterize the availability of critical infrastructure, provides insight into network operations, and has subtle security implications. Our approach utilizes active probes to periodically elicit IPv6 fragment identifiers from IPv6 router interfaces, and analyzes the resulting identifier time series for reboots. We demonstrate the approach\u201bs potential by characterizing 21,539 distinct IPv6 router interfaces over a five-month period. We find evidence of clustered reboot events, popular maintenance windows, and correlation with globally visible control plane data. Our results, validated by five ASes, provide initial insight into the current state of IPv6 router availability.",
+    "annotation": "",
+    "tags": [
+        "ipv6",
+        "active data analysis",
+        "routing",
+        "topology",
+        "internet outages",
+        "security"
+    ],
+    "pubdb_id": "paper578",
+    "authors": [
+        {
+            "person": "person:Beverly__Robert",
+            "organizations": [
+                "Naval Postgraduate School"
+            ]
+        },
+        {
+            "person": "person:Luckie__Matthew",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Mosley__Lorenza",
+            "organizations": [
+                "Naval Postgraduate School"
+            ]
+        },
+        {
+            "person": "person:claffy__kc",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        }
+    ],
+    "links": [
+        {
+            "to": "media:2015_measuring_characterizing_ipv6_router_pam",
+            "url": "https://www.caida.org/publications/presentations/2015/measuring_characterizing_ipv6_router_pam/"
+        }
+    ],
+    "institution": "",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2015_measuring_characterizing_ipv6_router__pubdb.json",
+    "publisher": "Passive and Active Network Measurement Workshop (PAM) ",
+    "resources": [
+        {
+            "name": "DOI",
+            "url": "https://doi.org/10.1007/978-3-319-15509-8_10",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2015/measuring_characterizing_ipv6_router/measuring_characterizing_ipv6_router.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "INPROCEEDINGS",
+        "bookTitle": "Passive and Active Network Measurement Workshop (PAM) ",
+        "pages": "123-135"
+    },
+    "date": "2015.03"
+}

@@ -1,0 +1,40 @@
+{
+    "id": "2008_brad_greece",
+    "name": "Traceroute Probe Method and Forward IP Path Inference",
+    "description": "",
+    "tags": [
+        "active data analysis",
+        "data",
+        "measurement methodology",
+        "software/tools",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "ACM Internet Measurement Conference (IMC)",
+            "date": "2008.10",
+            "url": "",
+            "person": "person:Huffaker__Bradley"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2008_brad_greece__pubdb.json",
+    "pubdb_id": "presentation307",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2008/brad_greece/brad_greece.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2008/traceroute_probe_method",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2008.10"
+}

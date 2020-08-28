@@ -1,0 +1,39 @@
+{
+    "id": "2017_challenges_inferring_internet_congestion_imc",
+    "name": "Challenges in Inferring Internet Congestion Using Throughput Measurements",
+    "description": "",
+    "tags": [
+        "congestion",
+        "measurement methodology",
+        "passive data analysis",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "ACM Internet Measurement Conference (IMC)",
+            "date": "2017.11",
+            "url": "https://conferences.sigcomm.org/imc/2017/",
+            "person": "person:Dhamdhere__Amogh"
+        }
+    ],
+    "links": [
+        {
+            "to": "paper:2017_challenges_inferring_internet_congestion",
+            "url": "https://www.caida.org/publications/papers/2017/challenges_inferring_internet_congestion/"
+        }
+    ],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2017_challenges_inferring_internet_congestion_imc__pubdb.json",
+    "pubdb_id": "presentation487",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2017/challenges_inferring_internet_congestion_imc/challenges_inferring_internet_congestion_imc.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2017.11"
+}

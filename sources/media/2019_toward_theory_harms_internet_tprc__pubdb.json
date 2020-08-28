@@ -1,0 +1,37 @@
+{
+    "id": "2019_toward_theory_harms_internet_tprc",
+    "name": "Toward a theory of harms in the Internet",
+    "description": "",
+    "tags": [
+        "overview",
+        "policy"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Telecommunications Policy Research Conference (TPRC)",
+            "date": "2019.09",
+            "url": "http://www.tprcweb.com/",
+            "person": "person:Clark__David"
+        }
+    ],
+    "links": [
+        {
+            "to": "paper:2019_toward_theory_harms_internet",
+            "url": "https://www.caida.org/publications/papers/2019/toward_theory_harms_internet/"
+        }
+    ],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2019_toward_theory_harms_internet_tprc__pubdb.json",
+    "pubdb_id": "presentation564",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2019/toward_theory_harms_internet_tprc/toward_theory_harms_internet_tprc.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2019.09"
+}

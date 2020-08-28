@@ -1,0 +1,52 @@
+{
+    "id": "2013_caida_research_overview",
+    "name": "CAIDA Research Overview",
+    "description": "",
+    "tags": [
+        "data",
+        "internet outages",
+        "ipv6",
+        "measurement methodology",
+        "network telescope",
+        "overview",
+        "policy",
+        "security",
+        "topology",
+        "trends",
+        "visualization"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "Network Mapping and Measurement Conference (NMMC)",
+            "date": "2013.05",
+            "url": "",
+            "person": "person:claffy__kc"
+        },
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "Cisco Nerd Lunch",
+            "date": "2013.04",
+            "url": "",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2013_caida_research_overview__pubdb.json",
+    "pubdb_id": "presentation358",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2013/caida_research_overview/caida_research_overview.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2013.05"
+}

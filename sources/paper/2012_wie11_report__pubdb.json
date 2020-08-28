@@ -1,0 +1,53 @@
+{
+    "id": "2012_wie11_report",
+    "name": "Workshop on Internet Economics (WIE2011) Report",
+    "datePublished": "2012.04",
+    "description": "The second Workshop on Internet Economics, hosted by CAIDA\r\nand Georgia Institute of Technology on December 1-2, 2011, brought together network technology and policy researchers with providers of commercial Internet facilities and services (network operators) to further explore the common objective of framing an agenda for the emerging but empirically stunted field of Internet infrastructure economics. This report describes the workshop discussions and presents relevant open research questions identified by its participants.",
+    "annotation": "Final Report of the 2nd Workshop on Internet Economics (WIE'11) in La Jolla, California, which was held in December 2011.",
+    "tags": [
+        "economics",
+        "policy",
+        "workshop report"
+    ],
+    "pubdb_id": "paper503",
+    "authors": [
+        {
+            "person": "person:claffy__kc",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        }
+    ],
+    "links": [],
+    "booktitle": "",
+    "institution": "",
+    "number": "2",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2012_wie11_report__pubdb.json",
+    "publisher": "ACM SIGCOMM Computer Communication Review (CCR)",
+    "resources": [
+        {
+            "name": "DOI",
+            "url": "http://dx.doi.org/10.1145/2185376.2185394",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2012/wie11_report/wie11_report.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Workshop",
+            "url": "https://www.caida.org/workshops/wie/1112/",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "ARTICLE",
+        "journal": "ACM SIGCOMM Computer Communication Review (CCR)",
+        "volume": "42",
+        "pages": "110-114"
+    },
+    "date": "2012.04"
+}

@@ -1,0 +1,38 @@
+{
+    "id": "2015_experience_using_mechanical_turk_c2bid",
+    "name": "Experience in using Mechanical Turk for Network Measurement",
+    "description": "",
+    "tags": [
+        "measurement methodology",
+        "security",
+        "ipv6"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "ACM SIGCOMM Workshop on Crowdsourcing and crowdsharing of Big (Internet) Data (C2B(I)D)",
+            "date": "2015.08",
+            "url": "http://conferences.sigcomm.org/sigcomm/2015/c2bid.php",
+            "person": "person:Bauer__Steven"
+        }
+    ],
+    "links": [
+        {
+            "to": "paper:2015_experience_using_mturk",
+            "url": "https://www.caida.org/publications/papers/2015/experience_using_mturk/"
+        }
+    ],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2015_experience_using_mechanical_turk_c2bid__pubdb.json",
+    "pubdb_id": "presentation465",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2015/experience_using_mechanical_turk_c2bid/experience_using_mechanical_turk_c2bid.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2015.08"
+}

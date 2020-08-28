@@ -1,0 +1,38 @@
+{
+    "id": "2014_internet_interdomain_congestion_nanog",
+    "name": "Internet Interdomain Congestion ",
+    "description": "",
+    "tags": [
+        "measurement methodology",
+        "routing",
+        "congestion"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "North American Network Operators' Group (NANOG)",
+            "date": "2014.02",
+            "url": "https://www.nanog.org/meetings/nanog60/home",
+            "person": "person:Luckie__Matthew"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2014_internet_interdomain_congestion_nanog__pubdb.json",
+    "pubdb_id": "presentation382",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2014/internet_interdomain_congestion_nanog/internet_interdomain_congestion_nanog.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2014/measurement_analysis_internet_interconnection",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2014.02"
+}

@@ -1,0 +1,42 @@
+{
+    "id": "2017_software_systems_surveying_spoofing_nznog",
+    "name": "Software Systems for Surveying Spoofing Susceptibility",
+    "description": "",
+    "tags": [
+        "security",
+        "active data analysis",
+        "routing",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego",
+                "University of Waikato"
+            ],
+            "venue": "New Zealand Network Operators' Group (NZNOG)",
+            "date": "2017.01",
+            "url": "http://www.nznog.org/nznog17/",
+            "person": "person:Luckie__Matthew"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2017_software_systems_surveying_spoofing_nznog__pubdb.json",
+    "pubdb_id": "presentation472",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2017/software_systems_surveying_spoofing_nznog/software_systems_surveying_spoofing_nznog.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Project",
+            "url": "https://www.caida.org/projects/spoofer/",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2017.01"
+}

@@ -1,0 +1,33 @@
+{
+    "id": "2019_maddvipr_dhsst",
+    "name": "MADDVIPR: Mapping DNS DDoS Vulnerabilities to Improve Protection and Prevention",
+    "description": "",
+    "tags": [
+        "dns",
+        "security",
+        "overview"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "DHS S&T Cybersecurity and Innovation Showcase",
+            "date": "2019.03",
+            "url": "",
+            "person": "person:Dainotti__Alberto"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2019_maddvipr_dhsst__pubdb.json",
+    "pubdb_id": "presentation536",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2019/maddvipr_dhsst/maddvipr_dhsst.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2019.03"
+}

@@ -1,0 +1,44 @@
+{
+    "id": "2017_detecting_peering_infrastructure_outages_ucla",
+    "name": "Detecting Peering Infrastructure Outages in the Wild",
+    "description": "",
+    "tags": [
+        "active data analysis",
+        "congestion",
+        "internet outages",
+        "measurement methodology",
+        "routing",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego",
+                "TU Berlin"
+            ],
+            "venue": "ACM SIGCOMM",
+            "date": "2017.12",
+            "url": "",
+            "person": "person:Giotsas__Vasileios"
+        }
+    ],
+    "links": [
+        {
+            "to": "paper:2017_detecting_peering_infrastructure_outages",
+            "url": "https://www.caida.org/publications/papers/2017/detecting_peering_infrastructure_outages/"
+        }
+    ],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2017_detecting_peering_infrastructure_outages_ucla__pubdb.json",
+    "pubdb_id": "presentation499",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2017/detecting_peering_infrastructure_outages_ucla/detecting_peering_infrastructure_outages_ucla.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2017.12"
+}

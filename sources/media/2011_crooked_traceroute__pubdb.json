@@ -1,0 +1,37 @@
+{
+    "id": "2011_crooked_traceroute",
+    "name": "Measured Impact of Crooked Traceroute",
+    "description": "",
+    "tags": [
+        "topology",
+        "routing"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "ISMA Workshop on Active Internet Measurements (AIMS)",
+            "date": "2011.02",
+            "url": "",
+            "person": "person:Dhamdhere__Amogh"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2011_crooked_traceroute__pubdb.json",
+    "pubdb_id": "presentation70",
+    "resources": [
+        {
+            "name": "PPTX",
+            "url": "https://www.caida.org/publications/presentations/2011/crooked_traceroute/crooked_traceroute.pptx",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2011/crooked_traceroute",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2011.02"
+}

@@ -1,0 +1,36 @@
+{
+    "id": "2010_reno_epidemics_social_nets",
+    "name": "Epidemics in Social Networks",
+    "description": "",
+    "tags": [
+        "network geometry"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "University of Nevada, Reno",
+            "date": "2010.12",
+            "url": "",
+            "person": "person:Kitsak__Maksim"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2010_reno_epidemics_social_nets__pubdb.json",
+    "pubdb_id": "presentation238",
+    "resources": [
+        {
+            "name": "PDF&#160;(no&#160;animations)",
+            "url": "https://www.caida.org/publications/presentations/2010/reno_epidemics_social_nets/reno_epidemics_social_nets.pdf",
+            "tags": []
+        },
+        {
+            "name": "Powerpoint",
+            "url": "https://www.caida.org/publications/presentations/2010/reno_epidemics_social_nets/reno_epidemics_social_nets.pptx",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2010.12"
+}

@@ -1,0 +1,46 @@
+{
+    "id": "2018_dibbs_ei_wie",
+    "name": "DIBBS EI: Platform for Applied Network Data Analysis (PANDA)",
+    "description": "",
+    "tags": [
+        "active data analysis",
+        "passive data analysis",
+        "overview",
+        "software/tools",
+        "security"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "Workshop on Internet Economics (WIE)",
+            "date": "2017.12",
+            "url": "http://www.caida.org/workshops/wie/1712/",
+            "person": "person:claffy__kc"
+        },
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "Workshop on Active Internet Measurements (AIMS)",
+            "date": "2018.03",
+            "url": "http://www.caida.org/workshops/aims/1803/",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2018_dibbs_ei_wie__pubdb.json",
+    "pubdb_id": "presentation512",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2018/dibbs_ei_wie/dibbs_ei_wie.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2018.03"
+}

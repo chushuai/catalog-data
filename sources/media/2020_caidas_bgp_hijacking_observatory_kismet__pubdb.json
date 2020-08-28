@@ -1,0 +1,33 @@
+{
+    "id": "2020_caidas_bgp_hijacking_observatory_kismet",
+    "name": "CAIDA's BGP (Hijacking) Observatory",
+    "description": "",
+    "tags": [
+        "security",
+        "routing",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Workshop on Active Internet Measurements: Knowledge of Internet Structure: Measurement, Epistemology, and Technology (AIMS-KISMET)",
+            "date": "2020.03",
+            "url": "https://www.caida.org/workshops/kismet/2002/",
+            "person": "person:Dainotti__Alberto"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2020_caidas_bgp_hijacking_observatory_kismet__pubdb.json",
+    "pubdb_id": "presentation571",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2020/caidas_bgp_hijacking_observatory_kismet/caidas_bgp_hijacking_observatory_kismet.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2020.03"
+}

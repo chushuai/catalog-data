@@ -1,0 +1,38 @@
+{
+    "id": "2013_duality_between_static_dynamic_nist",
+    "name": "Duality Between Static and Dynamic Networks",
+    "description": "",
+    "tags": [
+        "network geometry",
+        "routing",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "NIST-Bell Labs Workshop on Large-Scale Complex Networks",
+            "date": "2013.10",
+            "url": "",
+            "person": "person:Krioukov__Dmitri"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2013_duality_between_static_dynamic_nist__pubdb.json",
+    "pubdb_id": "presentation370",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2013/duality_between_static_dynamic_nist/duality_between_static_dynamic_nist.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2013/duality_equilibrium_growing_networks",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2013.10"
+}

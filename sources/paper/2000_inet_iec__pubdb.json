@@ -1,0 +1,60 @@
+{
+    "id": "2000_inet_iec",
+    "name": "The Internet Engineering Curriculum Repository",
+    "datePublished": "2000.07",
+    "description": "The Internet Engineering Curriculum Repository (IEC) project includes\r\nan archive of teaching and laboratory materials focused on networking\r\nthat are appropriate for a wide variety of classes. This dynamic\r\ncollection of materials makes it easier for faculty to keep their\r\ncourses up to date and complete. It also captures some one-time events,\r\nsuch as colloquium talks, plenary addresses, and conference\r\npresentations that can enrich a student's understanding of a topic. We\r\nalso discuss laboratory components of classes that can be built with\r\nindustry/academia cooperation to improve the educational experience.\r\n\r\n",
+    "annotation": "",
+    "tags": [
+        "education"
+    ],
+    "pubdb_id": "paper133",
+    "authors": [
+        {
+            "person": "person:Nemeth__Evi",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego",
+                "University of Colorado at Boulder"
+            ]
+        },
+        {
+            "person": "person:Ott__Theresa",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Thompson__Kevin",
+            "organizations": [
+                "MCI Worldcom"
+            ]
+        },
+        {
+            "person": "person:claffy__kc",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        }
+    ],
+    "links": [],
+    "institution": "",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2000_inet_iec__pubdb.json",
+    "publisher": "International Networking Conference (INET)",
+    "resources": [
+        {
+            "name": "HTML",
+            "url": "inet_iec.html",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "INPROCEEDINGS",
+        "bookTitle": "International Networking Conference (INET)"
+    },
+    "date": "2000.07"
+}

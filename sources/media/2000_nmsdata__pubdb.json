@@ -1,0 +1,35 @@
+{
+    "id": "2000_nmsdata",
+    "name": "measuring the 'real' Internet: acquisition of empirical data in support of Internet modeling and simulation",
+    "description": "",
+    "tags": [
+        "data",
+        "overview",
+        "visualization"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "CAIDA",
+            "date": "2000.07",
+            "url": "",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2000_nmsdata__pubdb.json",
+    "pubdb_id": "presentation184",
+    "resources": [
+        {
+            "name": "HTML slides",
+            "url": "https://www.caida.org/publications/presentations/2000/nmsdata/index.html",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2000.07"
+}

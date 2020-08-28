@@ -1,0 +1,35 @@
+{
+    "id": "2012_leveraging_science_technology",
+    "name": "Leveraging the Science and Technology of Internet Mapping for Homeland Security",
+    "description": "",
+    "tags": [
+        "active data analysis",
+        "measurement methodology",
+        "security",
+        "topology",
+        "visualization"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Cyber Security Division PI Meeting",
+            "date": "2012.10",
+            "url": "",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2012_leveraging_science_technology__pubdb.json",
+    "pubdb_id": "presentation326",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2012/leveraging_science_technology/leveraging_science_technology.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2012.10"
+}

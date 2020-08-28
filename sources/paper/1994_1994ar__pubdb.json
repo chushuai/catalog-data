@@ -1,0 +1,59 @@
+{
+    "id": "1994_1994ar",
+    "name": "Applied Network Research: 1994 annual status report",
+    "datePublished": "1994.04",
+    "description": "We present the 1994 annual report on research efforts of the San Diego\r\nSupercomputer Center's Applied Network Research group (ANR). Our\r\nprojects included collaboration with other researchers across the\r\ncountry. This year, we continued our research on network analysis,\r\nmodeling, engineering, as well as advanced network technologies\r\nincluding the CASA gigabit testbed. Our research topics include issues\r\nof network access, the transition of the Internet environment as the\r\nNSF dismantles the NSFNET this year; instrumentation for the accurate\r\ngathering of performance statistics, accounting, and quality of service\r\nin the Internet. In the coming year we hope to complement our studies\r\nof lower layer network issues with investigations into the critical\r\narchitectural limits we are reaching at the higher layers of the\r\nnational network infrastructure. We hope interested parties within the\r\nInternet research community will find this report helpful in\r\nunderstanding our research agenda. We also wish to use this report to\r\nstimulate further discussion and interaction among researchers pursuing\r\nsimilar projects and goals.\r\n\r\n",
+    "annotation": "",
+    "tags": [
+        "policy"
+    ],
+    "pubdb_id": "paper166",
+    "authors": [
+        {
+            "person": "person:Braun__Hans-Werner",
+            "organizations": [
+                "Applied Network Research, San Diego Supercomputer Center, University of California, San Diego"
+            ]
+        },
+        {
+            "person": "person:Chinoy__Bilal",
+            "organizations": [
+                "Applied Network Research, San Diego Supercomputer Center, University of California, San Diego"
+            ]
+        },
+        {
+            "person": "person:Claffy__Kimberly",
+            "organizations": [
+                "Applied Network Research, San Diego Supercomputer Center, University of California, San Diego",
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        }
+    ],
+    "links": [],
+    "booktitle": "",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/1994_1994ar__pubdb.json",
+    "publisher": "Applied Network Research, San Diego Supercomputer Center",
+    "resources": [
+        {
+            "name": "HTML",
+            "url": "annual94.html",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/1994/1994ar/anr-annual-1994.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "TECHREPORT",
+        "institution": "Applied Network Research, San Diego Supercomputer Center"
+    },
+    "date": "1994.04"
+}

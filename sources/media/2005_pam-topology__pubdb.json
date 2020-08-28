@@ -1,0 +1,41 @@
+{
+    "id": "2005_pam-topology",
+    "name": "Revisiting Internet AS-level Topology Discovery",
+    "description": "",
+    "tags": [
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Passive and Active Measurement Conference (PAM)",
+            "date": "2005.03",
+            "url": "",
+            "person": "person:Dimitropoulos__Xenofontas"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2005_pam-topology__pubdb.json",
+    "pubdb_id": "presentation218",
+    "resources": [
+        {
+            "name": "AVI demo",
+            "url": "https://www.caida.org/publications/presentations/2005/pam-topology/BGPlay.avi",
+            "tags": []
+        },
+        {
+            "name": "PDF slides",
+            "url": "https://www.caida.org/publications/presentations/2005/pam-topology/PAM2005-revisiting.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2005/pam-topology",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2005.03"
+}

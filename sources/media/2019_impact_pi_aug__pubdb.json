@@ -1,0 +1,35 @@
+{
+    "id": "2019_impact_pi_aug",
+    "name": "DHS IMPACT Project: CAIDA update",
+    "description": "",
+    "tags": [
+        "measurement methodology",
+        "active data analysis",
+        "overview",
+        "policy",
+        "routing"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": " DHS IMPACT PI Meeting",
+            "date": "2019.08",
+            "url": "",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2019_impact_pi_aug__pubdb.json",
+    "pubdb_id": "presentation558",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2019/impact_pi_aug/impact_pi_aug.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2019.08"
+}

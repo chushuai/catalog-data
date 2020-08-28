@@ -1,0 +1,37 @@
+{
+    "id": "2015_ipv4_ipv6_routing_stability_aims",
+    "name": "On IPv4 and IPv6 Routing Stability",
+    "description": "",
+    "tags": [
+        "routing",
+        "ipv6",
+        "internet id consumption",
+        "active data analysis"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego",
+                "Simula Research Laboratory"
+            ],
+            "venue": "Workshop on Active Internet Measurements (AIMS)",
+            "date": "2015.03",
+            "url": "http://www.caida.org/workshops/aims/1503/",
+            "person": "person:Livadariu__Ioana"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2015_ipv4_ipv6_routing_stability_aims__pubdb.json",
+    "pubdb_id": "presentation412",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2015/ipv4_ipv6_routing_stability_aims/ipv4_ipv6_routing_stability_aims.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2015.03"
+}

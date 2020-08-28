@@ -1,0 +1,41 @@
+{
+    "id": "1996_caida",
+    "name": "Cooperative Association for Internet Data Analysis",
+    "datePublished": "1996.10",
+    "description": "Internet usage is increasing as access to the Net grows critical for engineering, research, and all sorts of collaborative activities. It is difficult to imagine how the dynamically changing topological infrastructure of the Internet looks at any particular moment. As yet, we understand little about the impact that changes in traffic,\r\ntopology, protocols, and business practices have on this new virtual frontier.\r\n\r\n",
+    "annotation": "",
+    "tags": [
+        "overview"
+    ],
+    "pubdb_id": "paper152",
+    "authors": [
+        {
+            "person": "person:claffy__kc",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        }
+    ],
+    "links": [],
+    "booktitle": "",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/1996_caida__pubdb.json",
+    "publisher": "Cooperative Association for Internet Data Analysis (CAIDA)",
+    "resources": [
+        {
+            "name": "HTML",
+            "url": "caidaproposaltonsf.html",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "TECHREPORT",
+        "institution": "Cooperative Association for Internet Data Analysis (CAIDA)"
+    },
+    "date": "1996.10"
+}

@@ -1,0 +1,42 @@
+{
+    "id": "2017_software_systems_surveying_spoofing_iij",
+    "name": "Software Systems for Surveying Spoofing Susceptibility",
+    "description": "",
+    "tags": [
+        "security",
+        "active data analysis",
+        "routing",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego",
+                "University of Waikato"
+            ],
+            "venue": "Internet Initiative Japan (IIJ)",
+            "date": "2017.11",
+            "url": "http://www.iij-ii.co.jp/en/lab/seminars/index.html",
+            "person": "person:Luckie__Matthew"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2017_software_systems_surveying_spoofing_iij__pubdb.json",
+    "pubdb_id": "presentation496",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2017/software_systems_surveying_spoofing_iij/software_systems_surveying_spoofing_iij.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Project",
+            "url": "https://www.caida.org/projects/spoofer/",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2017.11"
+}

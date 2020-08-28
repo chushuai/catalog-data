@@ -1,0 +1,34 @@
+{
+    "id": "2010_gec_datcat",
+    "name": "DatCat: Overview, Lessons Learned",
+    "description": "",
+    "tags": [
+        "data",
+        "software/tools",
+        "trends",
+        "overview"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "NSF GENI Engineering Conference (GEC)",
+            "date": "2010.03",
+            "url": "",
+            "person": "person:Huffaker__Bradley"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2010_gec_datcat__pubdb.json",
+    "pubdb_id": "presentation211",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2010/gec_datcat/gec_datcat.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2010.03"
+}

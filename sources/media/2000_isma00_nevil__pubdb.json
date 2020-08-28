@@ -1,0 +1,32 @@
+{
+    "id": "2000_isma00_nevil",
+    "name": "NeTraMet Streams, DNS Response",
+    "description": "",
+    "tags": [
+        "dns",
+        "measurement methodology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Internet Statistics and Metrics Analysis Workshop (ISMA)",
+            "date": "2000.12",
+            "url": "",
+            "person": "person:Brownlee__Nevil"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2000_isma00_nevil__pubdb.json",
+    "pubdb_id": "presentation178",
+    "resources": [
+        {
+            "name": "HTML slides",
+            "url": "https://www.caida.org/workshops/isma/0012/talks/nevil/",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2000.12"
+}

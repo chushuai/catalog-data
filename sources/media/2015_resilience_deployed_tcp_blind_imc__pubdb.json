@@ -1,0 +1,33 @@
+{
+    "id": "2015_resilience_deployed_tcp_blind_imc",
+    "name": "Resilience of Deployed TCP to Blind Attacks",
+    "description": "",
+    "tags": [
+        "routing",
+        "security",
+        "measurement methodology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "ACM Internet Measurement Conference (IMC)",
+            "date": "2015.10",
+            "url": "http://conferences2.sigcomm.org/imc/2015/",
+            "person": "person:Luckie__Matthew"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2015_resilience_deployed_tcp_blind_imc__pubdb.json",
+    "pubdb_id": "presentation434",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2015/resilience_deployed_tcp_blind_imc/resilience_deployed_tcp_blind_imc.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2015.10"
+}

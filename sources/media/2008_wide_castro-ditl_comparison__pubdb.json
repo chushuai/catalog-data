@@ -1,0 +1,34 @@
+{
+    "id": "2008_wide_castro-ditl_comparison",
+    "name": "DNS: comparison of 2006 and 2007 snapshots",
+    "description": "",
+    "tags": [
+        "dns",
+        "passive data analysis"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "WIDE",
+            "date": "2008.01",
+            "url": "",
+            "person": "person:Castro__Sebastian"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2008_wide_castro-ditl_comparison__pubdb.json",
+    "pubdb_id": "presentation112",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/workshops/wide/0801/slides/castro-ditl_comparison.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2008.01"
+}

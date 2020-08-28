@@ -1,0 +1,39 @@
+{
+    "id": "2013_ipv6_alias_resolution_nps",
+    "name": "Large Scale IPv6 Alias Resolution",
+    "description": "",
+    "tags": [
+        "ipv6",
+        "measurement methodology",
+        "software/tools",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Naval Postgraduate School (NPS)",
+            "date": "2013.01",
+            "url": "",
+            "person": "person:Luckie__Matthew"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2013_ipv6_alias_resolution_nps__pubdb.json",
+    "pubdb_id": "presentation346",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2013/ipv6_alias_resolution_nps/ipv6_alias_resolution_nps.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2013/speedtrap",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2013.01"
+}

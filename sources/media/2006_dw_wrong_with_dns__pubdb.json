@@ -1,0 +1,34 @@
+{
+    "id": "2006_dw_wrong_with_dns",
+    "name": "Whats Wrong With The DNS",
+    "description": "",
+    "tags": [
+        "dns",
+        "data",
+        "overview",
+        "security"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "RIPE Meeting",
+            "date": "2006.10",
+            "url": "",
+            "person": "person:Wessels__Duane"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2006_dw_wrong_with_dns__pubdb.json",
+    "pubdb_id": "presentation137",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2006/dw_wrong_with_dns/dw_wrong_with_dns.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2006.10"
+}

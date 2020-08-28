@@ -1,0 +1,44 @@
+{
+    "id": "2010_economics_interconnections",
+    "name": "The Economics of Transit and Peering Interconnections in the Internet",
+    "description": "This slideset presented at the University of New South Wales and NICTA in November 2010",
+    "tags": [
+        "topology",
+        "routing",
+        "economics"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "University of New South Wales",
+            "date": "2010.11",
+            "url": "",
+            "person": "person:Dhamdhere__Amogh"
+        },
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "NICTA",
+            "date": "2010.11",
+            "url": "",
+            "person": "person:Dhamdhere__Amogh"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2010_economics_interconnections__pubdb.json",
+    "pubdb_id": "presentation240",
+    "resources": [
+        {
+            "name": "PPT",
+            "url": "https://www.caida.org/publications/presentations/2010/economics_interconnections/economics_interconnections.ppt",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2010.11"
+}

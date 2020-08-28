@@ -1,0 +1,33 @@
+{
+    "id": "2009_belmont_report_overview",
+    "name": "Belmont Report Overview",
+    "description": "",
+    "tags": [
+        "policy"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "DHS Directorate for Science and Technology Workshop",
+            "date": "2009.06",
+            "url": "",
+            "person": "person:Kenneally__Erin"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2009_belmont_report_overview__pubdb.json",
+    "pubdb_id": "presentation180",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2009/belmont_report_overview/belmont_report_overview.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2009.06"
+}

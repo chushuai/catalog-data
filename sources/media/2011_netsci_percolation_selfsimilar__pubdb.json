@@ -1,0 +1,36 @@
+{
+    "id": "2011_netsci_percolation_selfsimilar",
+    "name": "Percolation in self-similar networks",
+    "description": "",
+    "tags": [
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "International School and Conference on Network Science (NetSci)",
+            "date": "2011.06",
+            "url": "",
+            "person": "person:Krioukov__Dmitri"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2011_netsci_percolation_selfsimilar__pubdb.json",
+    "pubdb_id": "presentation176",
+    "resources": [
+        {
+            "name": "Powerpoint",
+            "url": "https://www.caida.org/publications/presentations/2011/netsci_percolation_selfsimilar/netsci_percolation_selfsimilar.pptx",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2011/percolation_self_similar_networks",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2011.06"
+}

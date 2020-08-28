@@ -1,0 +1,37 @@
+{
+    "id": "2012_dust_metrics_darkspace_analysis",
+    "name": "Comparable Metrics for IP Darkspace Analysis",
+    "description": "",
+    "tags": [
+        "network telescope",
+        "security",
+        "passive data analysis",
+        "measurement methodology"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego",
+                "Fraunhofer Institute for Open Communication Systems (FOKUS), Berlin"
+            ],
+            "venue": "International Workshop on Darkspace and UnSolicited Traffic Analysis (DUST)",
+            "date": "2012.05",
+            "url": "",
+            "person": "person:Zseby__Tanja"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2012_dust_metrics_darkspace_analysis__pubdb.json",
+    "pubdb_id": "presentation146",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2012/dust_metrics_darkspace_analysis/dust_metrics_darkspace_analysis.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2012.05"
+}

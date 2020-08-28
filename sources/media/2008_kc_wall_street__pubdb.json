@@ -1,0 +1,35 @@
+{
+    "id": "2008_kc_wall_street",
+    "name": "Internet Science: Why Wall Street and Main Street Should Care (a survey of CAIDA activities)",
+    "description": "",
+    "tags": [
+        "data",
+        "measurement methodology",
+        "policy",
+        "active data analysis",
+        "overview"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "DHS/SRI Infosec Technology Transition Council Meeting",
+            "date": "2008.10",
+            "url": "",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2008_kc_wall_street__pubdb.json",
+    "pubdb_id": "presentation126",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2008/kc_wall_street/kc_wall_street.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2008.10"
+}

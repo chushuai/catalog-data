@@ -1,0 +1,31 @@
+{
+    "id": "2005_rfc1918",
+    "name": "RFC1918 updates on servers near M and F roots",
+    "description": "",
+    "tags": [
+        "dns"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "OARC",
+            "date": "2005.07",
+            "url": "",
+            "person": "person:Broido__Andre"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2005_rfc1918__pubdb.json",
+    "pubdb_id": "presentation187",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2005/rfc1918/rfc1918.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2005.07"
+}

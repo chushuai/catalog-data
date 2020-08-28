@@ -1,0 +1,69 @@
+{
+    "id": "2003_nlanr",
+    "name": "Longitudinal study of Internet traffic from 1998-2003",
+    "datePublished": "2003.01",
+    "description": "There is growing interest in capturing and analyzing Internet traffic\r\ncharacteristics in pursuit of insights into its evolution. We present a\r\nstudy of one of the few sources of publically available long-term Internet\r\ntraffic workload data, namely the NLANR PMA archive of packet header\r\ntraces. Trace samples were collected at a number of academic, research,\r\nand commercial sites during years 1998-2003. We consider four metrics of\r\ntraffic: bytes, packets, flows, and number of source-destination pairs.\r\nWe also analyze the composition of traffic by protocol.\r\n\r\n",
+    "annotation": "",
+    "tags": [
+        "passive data analysis"
+    ],
+    "pubdb_id": "paper88",
+    "authors": [
+        {
+            "person": "person:Fomenkov__Marina",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Keys__Ken",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Moore__David",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:claffy__kc",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        }
+    ],
+    "links": [],
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2003_nlanr__pubdb.json",
+    "publisher": "Winter International Symposium on Information and Communication Technologies (WISICT)",
+    "resources": [
+        {
+            "name": "Appendix",
+            "url": "appendix/",
+            "tags": []
+        },
+        {
+            "name": "gzipped postscript",
+            "url": "nlanr_overview.ps.gz",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2003/nlanr/nlanr_overview.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "INPROCEEDINGS",
+        "bookTitle": "Winter International Symposium on Information and Communication Technologies (WISICT)",
+        "institution": "Cooperative Association for Internet Data Analysis (CAIDA)",
+        "pages": "1-6"
+    },
+    "date": "2003.01"
+}

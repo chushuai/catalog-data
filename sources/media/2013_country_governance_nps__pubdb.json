@@ -1,0 +1,31 @@
+{
+    "id": "2013_country_governance_nps",
+    "name": "Country Governance and IP Reputation",
+    "description": "",
+    "tags": [
+        "security"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Naval Postgraduate School (NPS)",
+            "date": "2013.06",
+            "url": "",
+            "person": "person:Huffaker__Bradley"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2013_country_governance_nps__pubdb.json",
+    "pubdb_id": "presentation362",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2013/country_governance_nps/country_governance_nps.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2013.06"
+}

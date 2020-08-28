@@ -1,0 +1,102 @@
+{
+    "id": "2014_named_data_networking_2013-2014",
+    "name": "Named Data Networking (NDN) Project 2013 - 2014 Report",
+    "datePublished": "2014.11",
+    "description": "This report summarizes the NDN project team's fourth year of research achievements supported by FIA supplemental funding. Chapter 1 reviews the NDN architectural model. Chapter 2 gives an overview of the NDN project objectives and the milestones achieved in our fourth year effort. Chapter 3 describes activities and findings in our five main research areas. Chapter 4 details one of our major achievement in 2014, the design of a new NDN packet format and the development of a new NDN Forwarding Daemon (NFD). areas. Chapters 5 and 6 review efforts in education and community outreach, respectively.",
+    "annotation": "",
+    "tags": [
+        "overview",
+        "topology"
+    ],
+    "pubdb_id": "paper575",
+    "authors": [
+        {
+            "person": "person:Jacobson__Van",
+            "organizations": [
+                "University of California, Los Angeles (UCLA)"
+            ]
+        },
+        {
+            "person": "person:Burke__Jeffrey",
+            "organizations": [
+                "University of California, Los Angeles (UCLA)"
+            ]
+        },
+        {
+            "person": "person:Zhang__Lixia",
+            "organizations": [
+                "University of California, Los Angeles (UCLA)"
+            ]
+        },
+        {
+            "person": "person:Zhang__Beichuan",
+            "organizations": [
+                "University of Arizona"
+            ]
+        },
+        {
+            "person": "person:Claffy__Kimberly",
+            "organizations": [
+                "University of California, San Diego (UCSD)"
+            ]
+        },
+        {
+            "person": "person:Krioukov__Dmitri",
+            "organizations": [
+                "University of California, San Diego (UCSD)"
+            ]
+        },
+        {
+            "person": "person:Papadopoulos__Christos",
+            "organizations": [
+                "Colorado State University"
+            ]
+        },
+        {
+            "person": "person:Abdelzaher__Tarek",
+            "organizations": [
+                "University of Illinois at Urbana-Champaign, Illinois (UIUC)"
+            ]
+        },
+        {
+            "person": "person:Wang__Lan",
+            "organizations": [
+                "University of Memphis"
+            ]
+        },
+        {
+            "person": "person:Yeh__Edmund",
+            "organizations": [
+                "Northeastern University"
+            ]
+        },
+        {
+            "person": "person:Crowley__Patrick",
+            "organizations": [
+                "University of Washington"
+            ]
+        }
+    ],
+    "links": [],
+    "booktitle": "",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2014_named_data_networking_2013-2014__pubdb.json",
+    "publisher": "Named Data Networking (NDN)",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2014/named_data_networking_2013-2014/named_data_networking_2013-2014.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "TECHREPORT",
+        "institution": "Named Data Networking (NDN)"
+    },
+    "date": "2014.11"
+}

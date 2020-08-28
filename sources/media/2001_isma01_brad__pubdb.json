@@ -1,0 +1,31 @@
+{
+    "id": "2001_isma01_brad",
+    "name": "Comparison of end-to-end distance measurement metrics",
+    "description": "",
+    "tags": [
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Internet Statistics and Metrics Analysis Workshop (ISMA)",
+            "date": "2001.12",
+            "url": "",
+            "person": "person:Huffaker__Bradley"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2001_isma01_brad__pubdb.json",
+    "pubdb_id": "presentation209",
+    "resources": [
+        {
+            "name": "HTML slides",
+            "url": "https://www.caida.org/publications/presentations/2001/isma01_brad//workshops/isma/0112/talks/brad/",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2001.12"
+}

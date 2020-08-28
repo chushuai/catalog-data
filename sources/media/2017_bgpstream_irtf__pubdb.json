@@ -1,0 +1,41 @@
+{
+    "id": "2017_bgpstream_irtf",
+    "name": "BGPStream: A Software Framework for Live and Historical BGP Data Analysis ",
+    "description": "Presented at the IRTF Open Meeting",
+    "tags": [
+        "measurement methodology",
+        "passive data analysis",
+        "routing",
+        "software/tools",
+        "topology",
+        "security"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Internet Engineering Task Force (IETF)",
+            "date": "2017.03",
+            "url": "https://datatracker.ietf.org/meeting/98/materials/agenda-98-irtfopen/",
+            "person": "person:King__Alistair"
+        }
+    ],
+    "links": [
+        {
+            "to": "paper:2016_bgpstream",
+            "url": "https://www.caida.org/publications/papers/2016/bgpstream/"
+        }
+    ],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2017_bgpstream_irtf__pubdb.json",
+    "pubdb_id": "presentation478",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2017/bgpstream_irtf/bgpstream_irtf.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2017.03"
+}

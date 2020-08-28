@@ -1,0 +1,72 @@
+{
+    "id": "2013_speedtrap",
+    "name": "Speedtrap: Internet-Scale IPv6 Alias Resolution",
+    "datePublished": "2013.10",
+    "description": "Impediments to resolving IPv6 router aliases have precluded understanding the emerging router-level IPv6 Internet topology. In this work, we design, implement, and validate the first  _Internet-scale alias resolution technique_ for IPv6. Our technique, _speedtrap_, leverages the ability to induce fragmented IPv6  responses from router interfaces in a particular temporal pattern that produces distinguishing per-router fingerprints. Our algorithm surmounts three fundamental challenges to large-scale IPv6 alias resolution using fragment identifier values: (1) unlike for IPv4, the identifier counters  on IPv6 routers have no natural velocity, (2) the values of these counters are similar across routers, and (3) the packet size required to collect inferences is 46 times larger than required in IPv4. We demonstrate the efficacy of the technique by producing router-level Internet IPv6 topologies using measurements from CAIDA's distributed infrastructure. Our preliminary work represents a step toward understanding the Internet's IPv6 router-level topology, an important objective with respect to IPv6 network resilience, security, policy, and  longitudinal evolution.",
+    "annotation": "",
+    "tags": [
+        "ipv6",
+        "measurement methodology",
+        "routing",
+        "topology"
+    ],
+    "pubdb_id": "paper538",
+    "authors": [
+        {
+            "person": "person:Luckie__Matthew",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Beverly__Robert",
+            "organizations": [
+                "Naval Postgraduate School"
+            ]
+        },
+        {
+            "person": "person:Brinkmeyer__William",
+            "organizations": [
+                "Naval Postgraduate School"
+            ]
+        },
+        {
+            "person": "person:claffy__kc",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        }
+    ],
+    "links": [
+        {
+            "to": "media:2013_speedtrap_imc",
+            "url": "https://www.caida.org/publications/presentations/2013/speedtrap_imc/"
+        }
+    ],
+    "institution": "",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2013_speedtrap__pubdb.json",
+    "publisher": "ACM Internet Measurement Conference (IMC)",
+    "resources": [
+        {
+            "name": "DOI",
+            "url": "http://dx.doi.org/10.1145/2504730.2504759",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2013/speedtrap/speedtrap.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "INPROCEEDINGS",
+        "bookTitle": "ACM Internet Measurement Conference (IMC)",
+        "pages": "119-126"
+    },
+    "date": "2013.10"
+}

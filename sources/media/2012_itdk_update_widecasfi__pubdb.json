@@ -1,0 +1,38 @@
+{
+    "id": "2012_itdk_update_widecasfi",
+    "name": "Internet Topology Data Kit Update",
+    "description": "",
+    "tags": [
+        "data",
+        "software/tools",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "CAIDA-WIDE-CASFI Joint Measurement Workshop",
+            "date": "2012.08",
+            "url": "",
+            "person": "person:Hyun__Young"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2012_itdk_update_widecasfi__pubdb.json",
+    "pubdb_id": "presentation393",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2012/itdk_update_widecasfi/itdk_update_widecasfi.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Paper",
+            "url": "https://www.caida.org/publications/papers/2012/topocompare-tr",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2012.08"
+}

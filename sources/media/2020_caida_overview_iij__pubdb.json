@@ -1,0 +1,35 @@
+{
+    "id": "2020_caida_overview_iij",
+    "name": "CAIDA Overview",
+    "description": "",
+    "tags": [
+        "active data analysis",
+        "measurement methodology",
+        "overview",
+        "policy",
+        "routing"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "Internet Initiative Japan (IIJ)",
+            "date": "2020.01",
+            "url": "",
+            "person": "person:Huffaker__Bradley"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2020_caida_overview_iij__pubdb.json",
+    "pubdb_id": "presentation566",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2020/caida_overview_iij/caida_overview_iij.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2020.01"
+}

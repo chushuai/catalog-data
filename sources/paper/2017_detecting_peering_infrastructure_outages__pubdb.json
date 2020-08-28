@@ -1,0 +1,90 @@
+{
+    "id": "2017_detecting_peering_infrastructure_outages",
+    "name": "Detecting Peering Infrastructure Outages in the Wild",
+    "datePublished": "2017.08",
+    "description": "Peering infrastructures, namely, colocation facilities and Internet exchange points, are located in every major city, have hundreds of network members, and support hundreds of thousands of interconnections around the globe. These infrastructures are well provisioned and managed, but outages have to be expected, e.g., due to power failures, human errors, attacks, and natural disasters. However, little is known about the frequency and impact of outages at these critical infrastructures with high peering concentration. \r\nIn this paper, we develop a novel and lightweight methodology for detecting peering infrastructure outages. Our methodology relies on the observation that BGP communities, announced with routing updates, are an excellent and yet unexplored source of information allowing us to pinpoint outage locations with high accuracy. We build and operate a system that can locate the epi- center of infrastructure outages at the level of a building and track the reaction of networks in near real-time. Our analysis unveils four times as many outages as compared to those publicly reported over the past five years. Moreover, we show that such outages have significant impact on remote networks and peering infrastructures. Our study provides a unique view of the Internet\u2019s behavior under stress that often goes unreported.",
+    "annotation": "",
+    "tags": [
+        "internet outages",
+        "measurement methodology",
+        "routing",
+        "topology",
+        "active data analysis",
+        "congestion"
+    ],
+    "pubdb_id": "paper631",
+    "authors": [
+        {
+            "person": "person:Giotsas__Vasileios",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego",
+                "TU Berlin"
+            ]
+        },
+        {
+            "person": "person:Dietzel__Christoph",
+            "organizations": [
+                "DE-CIX",
+                "TU Berlin"
+            ]
+        },
+        {
+            "person": "person:Smaragdakis__Georgios",
+            "organizations": [
+                "Massachusetts Institute of Technology's Computer Science & Artificial Intelligence Laboratory (MIT/CSAIL)",
+                "TU Berlin"
+            ]
+        },
+        {
+            "person": "person:Feldmann__Anja",
+            "organizations": [
+                "TU Berlin"
+            ]
+        },
+        {
+            "person": "person:Berger__Arthur",
+            "organizations": [
+                "Akamai",
+                "Massachusetts Institute of Technology's Computer Science & Artificial Intelligence Laboratory (MIT/CSAIL)"
+            ]
+        },
+        {
+            "person": "person:Aben__Emile",
+            "organizations": [
+                "RIPE NCC, Amsterdam, The Netherlands"
+            ]
+        }
+    ],
+    "links": [
+        {
+            "to": "media:2017_detecting_peering_infrastructure_outages_sigcomm",
+            "url": "https://www.caida.org/publications/presentations/2017/detecting_peering_infrastructure_outages_sigcomm/"
+        }
+    ],
+    "institution": "",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2017_detecting_peering_infrastructure_outages__pubdb.json",
+    "publisher": "ACM SIGCOMM",
+    "resources": [
+        {
+            "name": "DOI",
+            "url": "https://doi.org/10.1145/3098822.3098855",
+            "tags": []
+        },
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2017/detecting_peering_infrastructure_outages/detecting_peering_infrastructure_outages.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "INPROCEEDINGS",
+        "bookTitle": "ACM SIGCOMM"
+    },
+    "date": "2017.08"
+}

@@ -1,0 +1,100 @@
+{
+    "id": "2016_sibyl",
+    "name": "Sibyl: A Practical Internet Route Oracle",
+    "datePublished": "2016.03",
+    "description": "Network operators measure Internet routes to troubleshoot problems, and researchers measure routes to characterize the Internet. However, they still rely on decades-old tools like traceroute, BGP route collectors, and Looking Glasses, all of which permit only a single query about Internet routes\u2014what is the path from here to there? This limited interface complicates answering queries about routes such as \u201cfind routes traversing the Level3/AT&T peering in Atlanta,\u201d to understand the scope of a reported problem there.\r\n\r\nThis paper presents Sibyl, a system that takes rich queries that researchers and operators express as regular expressions, then issues and returns traceroutes that match even if it has never measured a matching path in the past. Sibyl achieves this goal in three steps. First, to maximize its coverage of Internet routing, Sibyl integrates together diverse sets of traceroute vantage points that provide complementary views, measuring from thousands of networks in total. Second, because users may not know which measurements will traverse paths of interest, and because vantage point resource constraints keep Sibyl from tracing to all destinations from all sources, Sibyl uses historical measurements to predict which new ones are likely to match a query. Finally, based on these predictions, Sibyl optimizes across concurrent queries to decide which measurements to issue given resource constraints. We show that Sibyl provides researchers and operators with the routing information they need--in fact, it matches 76% of the queries that it could match if an oracle told it which measurements to issue.",
+    "annotation": "",
+    "tags": [
+        "active data analysis",
+        "measurement methodology",
+        "routing",
+        "software/tools"
+    ],
+    "pubdb_id": "paper622",
+    "authors": [
+        {
+            "person": "person:Cunha__\u00cdtalo",
+            "organizations": [
+                "Universidade Federal de Minas Gerais",
+                "University of Southern California"
+            ]
+        },
+        {
+            "person": "person:Marchetta__Pietro",
+            "organizations": [
+                "University of Napoli Federico II,\nNapoli, Italy",
+                "University of Southern California"
+            ]
+        },
+        {
+            "person": "person:Calder__Matt",
+            "organizations": [
+                "University of Southern California"
+            ]
+        },
+        {
+            "person": "person:Chiu__Yi-Ching",
+            "organizations": [
+                "University of Southern California"
+            ]
+        },
+        {
+            "person": "person:Schlinker__Brandon",
+            "organizations": [
+                "University of Southern California"
+            ]
+        },
+        {
+            "person": "person:Machado__Bruno V.A.",
+            "organizations": [
+                "Universidade Federal de Minas Gerais"
+            ]
+        },
+        {
+            "person": "person:Pescap\u00e8__Antonio",
+            "organizations": [
+                "University of Napoli Federico II,\nNapoli, Italy"
+            ]
+        },
+        {
+            "person": "person:Giotsas__Vasileios",
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ]
+        },
+        {
+            "person": "person:Madhyastha__Harsha V.",
+            "organizations": [
+                "University of Michigan"
+            ]
+        },
+        {
+            "person": "person:Katz-Bassett__Ethan",
+            "organizations": [
+                "University of Southern California"
+            ]
+        }
+    ],
+    "links": [],
+    "institution": "",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/2016_sibyl__pubdb.json",
+    "publisher": "USENIX Symposium on Networked Systems Design and Implementation (NSDI)",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/2016/sibyl/sibyl.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "INPROCEEDINGS",
+        "bookTitle": "USENIX Symposium on Networked Systems Design and Implementation (NSDI)"
+    },
+    "date": "2016.03"
+}

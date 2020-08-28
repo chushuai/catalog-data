@@ -1,0 +1,37 @@
+{
+    "id": "2006_nanog_wessels_0602",
+    "name": "DNS Cache Poisoners Lazy, Stupid, or Evil?",
+    "description": "",
+    "tags": [
+        "dns",
+        "security"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "North American Network Operators' Group (NANOG)",
+            "date": "2006.02",
+            "url": "https://www.nanog.org/meetings/nanog36/home",
+            "person": "person:Wessels__Duane"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2006_nanog_wessels_0602__pubdb.json",
+    "pubdb_id": "presentation153",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2006/nanog_wessels_0602/nanog_wessels_0602.pdf",
+            "tags": []
+        },
+        {
+            "name": "RealMedia Stream",
+            "url": "http://www.nanog.org/mtg-0602/real/poisoners.ram",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2006.02"
+}

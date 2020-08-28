@@ -1,0 +1,32 @@
+{
+    "id": "2004_security_collection_wide",
+    "name": "Security Data Collection at CAIDA",
+    "description": "",
+    "tags": [
+        "data",
+        "security"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "WIDE",
+            "date": "2004.04",
+            "url": "",
+            "person": "person:Shannon__Colleen"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2004_security_collection_wide__pubdb.json",
+    "pubdb_id": "presentation15",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2004/security_collection_wide/security_collection_wide.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2004.04"
+}

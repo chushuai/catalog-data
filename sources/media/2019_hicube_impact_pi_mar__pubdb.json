@@ -1,0 +1,45 @@
+{
+    "id": "2019_hicube_impact_pi_mar",
+    "name": "HI-CUBE: Hub for Internet Incident Investigation",
+    "description": "",
+    "tags": [
+        "data sharing",
+        "security",
+        "data",
+        "active data analysis"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "DHS IMPACT PI Meeting",
+            "date": "2019.03",
+            "url": "",
+            "person": "person:Dainotti__Alberto"
+        },
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego"
+            ],
+            "venue": "International Workshop on Darkspace and UnSolicited Traffic Analysis (DUST)",
+            "date": "2019.09",
+            "url": "https://www.caida.org/workshops/dust/1909/",
+            "person": "person:Dainotti__Alberto"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2019_hicube_impact_pi_mar__pubdb.json",
+    "pubdb_id": "presentation534",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2019/hicube_impact_pi_mar/hicube_impact_pi_mar.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2019.09"
+}

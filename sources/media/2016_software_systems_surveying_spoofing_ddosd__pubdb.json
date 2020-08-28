@@ -1,0 +1,42 @@
+{
+    "id": "2016_software_systems_surveying_spoofing_ddosd",
+    "name": "Software Systems for Surveying Spoofing Susceptibility",
+    "description": "",
+    "tags": [
+        "security",
+        "active data analysis",
+        "routing",
+        "topology"
+    ],
+    "presenters": [
+        {
+            "organizations": [
+                "CAIDA, San Diego Supercomputer Center, University of California San Diego",
+                "University of Waikato"
+            ],
+            "venue": "DHS DDoSD PI Meeting",
+            "date": "2016.08",
+            "url": "",
+            "person": "person:Luckie__Matthew"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2016_software_systems_surveying_spoofing_ddosd__pubdb.json",
+    "pubdb_id": "presentation453",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2016/software_systems_surveying_spoofing_ddosd/software_systems_surveying_spoofing_ddosd.pdf",
+            "tags": []
+        },
+        {
+            "name": "Related Project",
+            "url": "https://www.caida.org/projects/spoofer/",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2016.08"
+}

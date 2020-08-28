@@ -1,0 +1,35 @@
+{
+    "id": "2017_impact_pi_feb",
+    "name": "DHS IMPACT Project: CAIDA update",
+    "description": "",
+    "tags": [
+        "data",
+        "measurement methodology",
+        "routing",
+        "policy",
+        "overview"
+    ],
+    "presenters": [
+        {
+            "organizations": [],
+            "venue": "DHS IMPACT PI Meeting",
+            "date": "2017.02",
+            "url": "",
+            "person": "person:claffy__kc"
+        }
+    ],
+    "links": [],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2017_impact_pi_feb__pubdb.json",
+    "pubdb_id": "presentation468",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/presentations/2017/impact_pi_feb/impact_pi_feb.pdf",
+            "tags": []
+        }
+    ],
+    "type": "PRESENTATION",
+    "date": "2017.02"
+}

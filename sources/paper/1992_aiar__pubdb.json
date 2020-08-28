@@ -1,0 +1,59 @@
+{
+    "id": "1992_aiar",
+    "name": "An analysis of international academic research network traffic between Japan and other nations",
+    "datePublished": "1992.01",
+    "description": "International IP network traffic is evaluated for applications\r\nutilizing the TCP transport protocol. This evaluation is based on an\r\nanalysis study performed in January 1992 across an infrastructural\r\nconnection between Japan and the PACCOM network. This traffic\r\nmeasurement allows and examination of the current stats of\r\ninternational information flow. Such analyses are a first, and\r\nessential, step toward a better understanding of the type, quantity,\r\nand breadth the of international traffic flow. They can provide not\r\nonly confirmation or refutation of intuitions and existing paradigms\r\nrelated to data exchanges, but also a fundamental framework upon which\r\nto base future network management, planning and design.\r\n\r\n",
+    "annotation": "",
+    "tags": [
+        "passive data analysis"
+    ],
+    "pubdb_id": "paper182",
+    "authors": [
+        {
+            "person": "person:Asaba__Toshiya",
+            "organizations": [
+                "ISR, Recruit Co, Ltd."
+            ]
+        },
+        {
+            "person": "person:claffy__kc",
+            "organizations": [
+                "Department of Computer Science and Engineering,\nUniversity of California, San Diego"
+            ]
+        },
+        {
+            "person": "person:Nakamura__Osamu",
+            "organizations": [
+                "Computer Center University of Tokyo"
+            ]
+        },
+        {
+            "person": "person:Murai__Jun",
+            "organizations": [
+                "Department of Environmental Information, Keio University"
+            ]
+        }
+    ],
+    "links": [],
+    "institution": "",
+    "journal": "",
+    "volume": "",
+    "number": "",
+    "pages": "",
+    "linkedObjects": "",
+    "__typename": "paper",
+    "filename": "sources/paper/1992_aiar__pubdb.json",
+    "publisher": "International Networking Conference (INET)",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/papers/1992/aiar/inet92.pdf",
+            "tags": []
+        }
+    ],
+    "bibtexFields": {
+        "type": "INPROCEEDINGS",
+        "bookTitle": "International Networking Conference (INET)"
+    },
+    "date": "1992.01"
+}
