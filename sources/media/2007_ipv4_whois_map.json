@@ -1,0 +1,31 @@
+{
+    "id": "2007_ipv4_whois_map",
+    "name": "IPv4 WHOIS Map (2007)",
+    "description": "A visualization of the characteristics of IPv4 \"whois\" data from the five Regional Internet Registries (RIRs).",
+    "tags": [
+        "IPv4",
+        "security"
+    ],
+    "presenters": [
+    ],
+    "links": [
+    ],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2007_ipv4_whois_map.json",
+    "pubdb_id": "",
+    "resources": [
+        {
+            "name": "Image",
+            "url": "https://www.caida.org/research/id-consumption/whois-map/images/whois-20071001.png",
+            "tags": []
+        },
+        {
+            "name": "Webpage",
+            "url": "https://www.caida.org/research/id-consumption/whois-map/",
+            "tags": []
+        },
+    ],
+    "type": "VISAULIZATION",
+    "date": "2007.10"
+}

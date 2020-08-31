@@ -1,0 +1,26 @@
+{
+    "id": "2015_bgp_hijacks_poster",
+    "name": "A Coordinated View of the Temporal Evolution of Large-scale Internet Events",
+    "description": "A one page poster describing the NSF funded research project, \"Detecting and Characterizing Internet Traffic Interception based on BGP Hijacking\".",
+    "tags": [
+        "BGP",
+        "security",
+    ],
+    "presenters": [
+    ],
+    "links": [
+    ],
+    "linkedObjects": "",
+    "__typename": "media",
+    "filename": "sources/media/2015_bgp_hijacks_poster.json",
+    "pubdb_id": "",
+    "resources": [
+        {
+            "name": "PDF",
+            "url": "https://www.caida.org/publications/posters/eps/hijacks-2015-jan-poster.pdf",
+            "tags": []
+        },
+    ],
+    "type": "POSTER",
+    "date": "2015.01"
+}
